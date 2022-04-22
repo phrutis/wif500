@@ -32,6 +32,7 @@ pie title Ranges 3364 charts
 | :yellow_circle:| 217        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 218        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 219        | bet more  |  in progress :hammer:  |  15.04.2022  |
+| :yellow_circle:| 277        | Fantom    |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 304        | Kuw       |  in progress :hammer:  |  21.04.2022  |
 | :yellow_circle:| 420-427    | bet more  |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 428        | Sam       |  in progress :hammer:  |  21.04.2022  |

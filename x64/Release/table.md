@@ -2,9 +2,9 @@
 
 ```mermaid
 pie title Ranges 3364 charts
-"Free: 2905" : 2905
+"Free: 2904" : 2904
 "Passed: 64" : 64
-"in progress: 454" : 454
+"in progress: 455" : 455
 ```  
 
 |       | Range(s)      | Hunter    | Status         | Date        |
@@ -16,7 +16,7 @@ pie title Ranges 3364 charts
 | :yellow_circle:| 10         | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :green_circle:| 11-22       | FREE      |  FREE  |  00.00.0000  |
 | :yellow_circle:| 23         | Minase    |  in progress :hammer:  |  18.04.2022  |
-| :green_circle:| 24-122      | FREE    |  FREE  |  00.00.0000  |
+| :yellow_circle:| 77         | Werevalis |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 123        | Gia Go    |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 124        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 125        | K-Fed     |  in progress :hammer:  |  22.04.2022  |

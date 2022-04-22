@@ -22,8 +22,8 @@ A large range of 12 characters is divided into 3364 small ranges</br>
 The program is configured correctly, it takes into account many technical aspects of searching for the initial part of the key.</br>
 There is a table of hunters on which ranges are indicated in the process and passed. This way you won't pass empty ranges. </br>
 This speeds up the overall search process.</br>
-The advantage of the challenge is that each hunter, in case of a find, will receive quite a bit of compensation for the range he has covered.</br>
-Donate 200 btc is a worthy reward for a find.</br>
+The advantage of the challenge is that if the key is found, each hunter will receive compensation for the range he has passed.
+Donate 200 btc is a worthy reward for a find key.</br>
 You decide. Good luck!</br>
 
 ## How to participate in the challenge:

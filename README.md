@@ -28,14 +28,15 @@ You decide. Good luck!</br>
 
 ## How to participate in the challenge:
 If you have a GPUs:</br>
-**RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090** and are ready to search for a key **24/7**</br>
+**RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090, A5000, A6000** and are ready to search for a key **24/7**</br>
 In the [**table**](https://github.com/phrutis/wif500/blob/main/x64/Release/table.md), select a **FREE** range between 0-3363
 
-Run ```wif500.exe -range ?``` (? free range 0-3363)
+Run ```wif500-20xx.exe -range 1234``` (free range 0 - 3363)
 
-RTX 3090 4 Gkey/s = ~4 days (one range)</br>
-RTX 3060 1.4 Gkey/s = ~9 days (one range)</br>
-RTX 2070 1,2 Gkey/s = ~12 days (one range)</br>
+RTX A6000 4 Gkey/s = 4 days (one range)</br>
+RTX 3090 4 Gkey/s = 4 days (one range)</br>
+RTX 3060 1.4 Gkey/s = 9 days (one range)</br>
+RTX 2070 1,4 Gkey/s = 9 days (one range)</br>
 The program has no checkpoints, and the continuation</br>
 
 Add a telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi) </br>
@@ -47,20 +48,23 @@ Do not take busy (in progress) ranges, see the [**table**](https://github.com/ph
 2. You are just interested, but you are not going to participate either.</br>
 3. Ask questions not related to the challenge.</br>
 
-When you have a range progress of more than 90% (100%) take a screenshot (photo) and post it in the group. </br>
+When you have a range progress 100% take a screenshot (photo) and post it in the group. </br>
 I will (check) and mark the range as passed, assign it to you.</br>
 
 If the key is found, it will be displayed in the window and will also be written to the text file FOUND.txt
+Write privately in telegram: @phrutis that you found the key.
 
 ### Compensations:
 
  1. When the key is found, the hunter that did find it will receive a full 200 BTC reward.</br>
- 2. To the rest of the hunters, for every range completed, a 0.01 BTC  (410 usd) reward (to cover the electricity costs and not mining all that period) will be paid after the key is found. Total reward equals to 33.64 (0.01 BTC/range x 3364 ranges).
+ 2. To the rest of the hunters, for every range completed, a 0.01 BTC  (410 usd) reward (to cover the electricity costs and not mining all that period) will be paid after the key is found.</br>
+Total reward equals to 33.64 (0.01 BTC/range x 3364 ranges).
 
 ### Rules:
 
  1. Do not counterfeit  the proof. Send genuine screenshot, search honestly - if you fake it and the key was in your range, everybody loses!
- 2. If the key is found in early stages, that amount of 33.64 BTC for all the 3364 will be split among the hunters that have completed range searches. Example: Hunters completed cumulatively 1000 ranges at the time the key was found. The 33.64 BTC will be divided to those 1000 completed ranges, resulting in 0.03364 BTC for each completed range scan.
+ 2. If the key is found in early stages, that amount of 33.64 BTC for all the 3364 will be split among the hunters that have completed range searches.</br> Example: Hunters completed cumulatively 1000 ranges at the time the key was found.</br> 
+The 33.64 BTC will be divided to those 1000 completed ranges, resulting in 0.03364 BTC (~1337 usd) for each completed range scan.
 
 
 ### Frequently asked Questions:
@@ -85,12 +89,12 @@ There are errors in the video that make the key impossible to find.</br>
 
 I have many GPUs. How to start?</br>
 Run each GPU separately with a new range Add your card id -d ?</br>
-For RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090</br>
-```wif500.exe -range 444 -d 0```</br>
-```wif500.exe -range 445 -d 1```</br>
-```wif500.exe -range 446 -d 2```</br>
-```wif500.exe -range 2057 -d 3```</br>
-```wif500.exe -range 8 -d 4```</br>
+For RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090, A5000, A6000</br>
+```wif500-30xx.exe -range 444 -d 0```</br>
+```wif500-30xx.exe -range 445 -d 1```</br>
+```wif500-30xx.exe -range 446 -d 2```</br>
+```wif500-30xx.exe -range 2057 -d 3```</br>
+```wif500-20xx.exe -range 888 -d 4```</br>
 If you have any difficulties with the launch, you can ask in the group
 
 

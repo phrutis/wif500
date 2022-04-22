@@ -29,6 +29,12 @@ You decide. Good luck!</br>
 ## How to participate in the challenge:
 If you have a GPUs:</br>
 **RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090, A5000, A6000** and are ready to search for a key **24/7**</br>
+
+If you do not have a 30xx card, you can [**rent**](https://vast.ai) it and participate in a collective search. </br>
+For some users, [renting](https://vast.ai) is cheaper than searching on their own PC. There is also less noise in the house.</br>
+When renting, you must take into account the risk that the key may not be found at all. You may incur losses.</br>
+Think of it not as earnings, but as a lottery.
+
 In the [**table**](https://github.com/phrutis/wif500/blob/main/x64/Release/table.md), select a **FREE** range between 0-3363
 
 Run ```wif500-20xx.exe -range 1234``` (free range 0 - 3363)

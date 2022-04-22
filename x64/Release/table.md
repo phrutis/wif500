@@ -2,9 +2,9 @@
 
 ```mermaid
 pie title Ranges 3364 charts
-"Free: 2904" : 2904
+"Free: 2903" : 2903
 "Passed: 64" : 64
-"in progress: 455" : 455
+"in progress: 456" : 456
 ```  
 
 |       | Range(s)      | Hunter    | Status         | Date        |
@@ -59,6 +59,7 @@ pie title Ranges 3364 charts
 | :no_entry:     | 1619-1672  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
 | :yellow_circle:| 1725       | bet more  |  in progress :hammer:  |  15.04.2022  |
 | :no_entry:     | 1870       | Sam       |  Passed :heavy_check_mark:  |  20.04.2022  |
+| :yellow_circle:| 1924       | cpto_node |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 1992       | RamMos    |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 2014       | RamMos    |  in progress :hammer:  |  15.04.2022  |
 | :no_entry:     | 2019       | Leonid    |  Passed :heavy_check_mark:  |  21.04.2022  |

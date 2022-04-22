@@ -5,7 +5,10 @@ pie title Ranges 3364 charts
 "Free: 2898" : 2898
 "Passed: 67" : 67
 "in progress: 456" : 456
-```  
+``` 
+:no_entry: - Range Passed</br>
+:yellow_circle: - Range in progress</br>
+:green_circle: - Range FREE (recommended)
 
 |       | Range(s)      | Hunter    | Status         | Date        |
 |------------|:------------|-----------|----------------|----------------|

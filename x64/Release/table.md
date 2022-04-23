@@ -2,9 +2,9 @@
 
 ```mermaid
 pie title Ranges 3364 charts
-"Free: 2896" : 2896
+"Free: 2894" : 2894
 "Passed: 68" : 68
-"in progress: 457" : 457
+"in progress: 459" : 459
 ``` 
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
@@ -30,7 +30,7 @@ pie title Ranges 3364 charts
 | :yellow_circle:| 125        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 126        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 127        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
-| :green_circle: | 128-214    | FREE      |  FREE                  |  00.00.0000  |
+| :yellow_circle:| 131        | Zhiquaran |  in progress :hammer:  |  23.04.2022  |
 | :yellow_circle:| 215        | bet more  |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 216        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 217        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
@@ -50,6 +50,7 @@ pie title Ranges 3364 charts
 | :yellow_circle:| 436        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 444        | Artem     |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 468        | Minase    |  in progress :hammer:  |  18.04.2022  |
+| :yellow_circle:| 490        | Zhiquaran |  in progress :hammer:  |  23.04.2022  |
 | :yellow_circle:| 500        | Fantom    |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 555        | OG 674    |  in progress :hammer:  |  13.04.2022  |
 | :yellow_circle:| 666        | bet more  |  in progress :hammer:  |  15.04.2022  |

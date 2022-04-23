@@ -3,8 +3,8 @@
 ```mermaid
 pie title Ranges 3364 charts
 "Free: 3219" : 3219
-"Passed: 70" : 70
-"in progress: 75" : 75
+"Passed: 71" : 71
+"in progress: 74" : 74
 ``` 
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
@@ -83,6 +83,6 @@ pie title Ranges 3364 charts
 | :no_entry:     | 3021       | Kripto    |  Passed :heavy_check_mark:  |  18.04.2022  |
 | :no_entry:     | 3023       | Kripto    |  Passed :heavy_check_mark:  |  22.04.2022  |
 | :yellow_circle:| 3025       | Kripto    |  in progress :hammer:  |  22.04.2022  |
-| :yellow_circle:| 3077       | hiiiii    |  Passed                |  23.04.2022  |
+| :no_entry:     | 3077       | hiiiii    |  Passed                |  23.04.2022  |
 
 

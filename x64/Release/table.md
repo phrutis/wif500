@@ -2,9 +2,9 @@
 
 ```mermaid
 pie title Ranges 3364 charts
-"Free: 2893" : 2893
+"Free: 2889" : 2889
 "Passed: 71" : 71
-"in progress: 457" : 457
+"in progress: 461" : 461
 ``` 
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
@@ -79,6 +79,10 @@ pie title Ranges 3364 charts
 | :no_entry:     | 2022       | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
 | :yellow_circle:| 2023       | Leonid    |  in progress :hammer:  |  21.04.2022  |
 | :yellow_circle:| 2024       | Leonid    |  in progress :hammer:  |  21.04.2022  |
+| :yellow_circle:| 2221       | DworfD    |  in progress :hammer:  |  23.04.2022  |
+| :yellow_circle:| 2222       | DworfD    |  in progress :hammer:  |  23.04.2022  |
+| :yellow_circle:| 2223       | DworfD    |  in progress :hammer:  |  23.04.2022  |
+| :yellow_circle:| 2224       | DworfD    |  in progress :hammer:  |  23.04.2022  |
 | :yellow_circle:| 2581       | snaiper   |  in progress :hammer:  |  15.04.2022  |
 | :no_entry:     | 2700       | Alexander |  Passed :heavy_check_mark:  |  18.04.2022  |
 | :yellow_circle:| 2725-2731  | alico     |  in progress :hammer:  |  16.04.2022  |

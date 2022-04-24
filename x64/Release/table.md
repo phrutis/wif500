@@ -2,9 +2,9 @@
 
 ```mermaid
 pie title Ranges 3364 charts
-"Free: 3212" : 3212
-"Passed: 72" : 72
-"in progress: 79" : 79
+"Free: 3209" : 3209
+"Passed: 77" : 77
+"in progress: 77" : 77
 ``` 
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
@@ -16,11 +16,11 @@ pie title Ranges 3364 charts
 | :yellow_circle:| 0          | phrutis   |  in progress :hammer:  |  19.04.2022  |
 | :yellow_circle:| 1          | Fantom    |  in progress :hammer:  |  16.04.2022  |
 | :yellow_circle:| 2          | Fantom    |  in progress :hammer:  |  16.04.2022  |
-| :yellow_circle:| 3          | 047       |  in progress :hammer:  |  20.04.2022  |
-| :yellow_circle:| 4          | 047       |  in progress :hammer:  |  20.04.2022  |
-| :yellow_circle:| 5          | 047       |  in progress :hammer:  |  20.04.2022  |
-| :yellow_circle:| 6          | 047       |  in progress :hammer:  |  20.04.2022  |
-| :yellow_circle:| 7          | 047       |  in progress :hammer:  |  20.04.2022  |
+| :no_entry:     | 3          | 047       |  Passed :heavy_check_mark:  |  24.04.2022  |
+| :no_entry:     | 4          | 047       |  Passed :heavy_check_mark:  |  24.04.2022  |
+| :no_entry:     | 5          | 047       |  Passed :heavy_check_mark:  |  24.04.2022  |
+| :no_entry:     | 6          | 047       |  Passed :heavy_check_mark:  |  24.04.2022  |
+| :no_entry:     | 7          | 047       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :no_entry:     | 8          | 047       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :no_entry:     | 9          | 047       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :yellow_circle:| 10         | K-Fed     |  in progress :hammer:  |  22.04.2022  |
@@ -46,9 +46,9 @@ pie title Ranges 3364 charts
 | :green_circle: | 30         | FREE      |  FREE  |  00.00.2022  |
 | :green_circle: | 31         | FREE      |  FREE  |  00.00.2022  |
 | :green_circle: | 32         | FREE      |  FREE  |  00.00.2022  |
-| :green_circle: | 33         | FREE      |  FREE  |  00.00.2022  |
-| :green_circle: | 44         | FREE      |  FREE  |  00.00.2022  |
-| :green_circle: | 55         | FREE      |  FREE  |  00.00.2022  |
+| :yellow_circle:| 33         | V         |  in progress :hammer:  |  24.04.2022  |
+| :yellow_circle:| 44         | V         |  in progress :hammer:  |  24.04.2022  |
+| :yellow_circle:| 55         | V         |  in progress :hammer:  |  24.04.2022  |
 | :yellow_circle:| 77         | Werevalis |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 124        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 125        | K-Fed     |  in progress :hammer:  |  22.04.2022  |

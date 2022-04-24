@@ -8,9 +8,10 @@ pie title Ranges 3364 charts
 ``` 
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
-:green_circle: - Range FREE (recommended)
+:green_circle: - Range FREE (recommended)</br>
+[Choose a free range and report it to the group](https://t.me/+WFEuFatijpowMjRi)
 
-|       | Range(s)      | Hunter    | Status         | Date        |
+|          | Range(s)      | Hunter    | Status         | Date        |
 |------------|:------------|-----------|----------------|----------------|
 | :yellow_circle:| 0          | phrutis   |  in progress :hammer:  |  19.04.2022  |
 | :yellow_circle:| 1          | Fantom    |  in progress :hammer:  |  16.04.2022  |

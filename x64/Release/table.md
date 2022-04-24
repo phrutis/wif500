@@ -2,7 +2,7 @@
 
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
-:green_circle: - Range FREE</br>
+:green_circle: - Range FREE (all who are not busy)</br>
 :large_blue_circle: - **Range FREE Recommended!**</br> 
 (priority candidate. Ranges: 1844-1901, 2714-2771, 3004-3061)
 

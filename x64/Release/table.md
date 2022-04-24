@@ -47,6 +47,16 @@ pie title Ranges 3364 charts
 | :green_circle: | 31         | FREE      |  FREE  |  00.00.2022  |
 | :green_circle: | 32         | FREE      |  FREE  |  00.00.2022  |
 | :yellow_circle:| 33         | V         |  in progress :hammer:  |  24.04.2022  |
+| :green_circle: | 34         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 35         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 36         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 37         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 38         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 39         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 40         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 41         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 42         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 43         | FREE      |  FREE  |  00.00.2022  |
 | :yellow_circle:| 44         | V         |  in progress :hammer:  |  24.04.2022  |
 | :yellow_circle:| 55         | V         |  in progress :hammer:  |  24.04.2022  |
 | :yellow_circle:| 77         | Werevalis |  in progress :hammer:  |  22.04.2022  |

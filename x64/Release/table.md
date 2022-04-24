@@ -15,14 +15,27 @@ pie title Ranges 3364 charts
 | :yellow_circle:| 0          | phrutis   |  in progress :hammer:  |  19.04.2022  |
 | :yellow_circle:| 1          | Fantom    |  in progress :hammer:  |  16.04.2022  |
 | :yellow_circle:| 2          | Fantom    |  in progress :hammer:  |  16.04.2022  |
-| :yellow_circle:| 3-9        | 047       |  in progress :hammer:  |  20.04.2022  |
+| :yellow_circle:| 3-7        | 047       |  in progress :hammer:  |  20.04.2022  |
+| :no_entry:     | 8          | 047       |  Passed :heavy_check_mark:  |  24.04.2022  |
+| :no_entry:     | 9          | 047       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :yellow_circle:| 10         | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 11         | Kuw       |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 12         | Kuw       |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 13         | Kuw       |  in progress :hammer:  |  22.04.2022  |
+| :green_circle: | 14         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 15         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 16         | FREE      |  FREE  |  00.00.2022  |
 | :yellow_circle:| 17         | Zhiquaran |  in progress :hammer:  |  23.04.2022  |
+| :green_circle: | 18         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 19         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 20         | FREE      |  FREE  |  00.00.2022  |
 | :no_entry:     | 21         | Zhiquaran |  Passed :heavy_check_mark:  |  23.04.2022  |
+| :green_circle: | 22         | FREE      |  FREE  |  00.00.2022  |
 | :yellow_circle:| 23         | Minase    |  in progress :hammer:  |  18.04.2022  |
+| :green_circle: | 24         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 25         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 26         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 27         | FREE      |  FREE  |  00.00.2022  |
 | :yellow_circle:| 28         | Fantom    |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 77         | Werevalis |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 124        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
@@ -81,8 +94,12 @@ pie title Ranges 3364 charts
 | :yellow_circle:| 2977       | hiiiii    |  in progress :hammer:  |  23.04.2022  |
 | :yellow_circle:| 3000       | Fantom    |  in progress :hammer:  |  22.04.2022  |
 | :no_entry:     | 3021       | Kripto    |  Passed :heavy_check_mark:  |  18.04.2022  |
+| :green_circle: | 3022       | FREE      |  FREE  |  00.00.2022  |
 | :no_entry:     | 3023       | Kripto    |  Passed :heavy_check_mark:  |  22.04.2022  |
+| :green_circle: | 3024       | FREE      |  FREE  |  00.00.2022  |
 | :yellow_circle:| 3025       | Kripto    |  in progress :hammer:  |  22.04.2022  |
+| :green_circle: | 3026-3076  | FREE      |  FREE  |  00.00.2022  |
 | :no_entry:     | 3077       | hiiiii    |  Passed                |  23.04.2022  |
-
-
+| :green_circle: | 3078-3149  | FREE      |  FREE  |  00.00.2022  |
+| :yellow_circle:| 3150       | Samzy     |  in progress :hammer:  |  24.04.2022  |
+| :green_circle: | 3151-3363  | FREE      |  FREE  |  00.00.2022  |

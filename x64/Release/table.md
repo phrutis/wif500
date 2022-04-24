@@ -2,9 +2,9 @@
 
 ```mermaid
 pie title Ranges 3364 charts
-"Free: 3219" : 3219
+"Free: 3212" : 3212
 "Passed: 72" : 72
-"in progress: 72" : 72
+"in progress: 79" : 79
 ``` 
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
@@ -27,21 +27,28 @@ pie title Ranges 3364 charts
 | :yellow_circle:| 11         | Kuw       |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 12         | Kuw       |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 13         | Kuw       |  in progress :hammer:  |  22.04.2022  |
-| :green_circle: | 14         | FREE      |  FREE  |  00.00.2022  |
-| :green_circle: | 15         | FREE      |  FREE  |  00.00.2022  |
-| :green_circle: | 16         | FREE      |  FREE  |  00.00.2022  |
+| :yellow_circle:| 14         | 047       |  in progress :hammer:  |  24.04.2022  |
+| :yellow_circle:| 15         | 047       |  in progress :hammer:  |  24.04.2022  |
+| :yellow_circle:| 16         | 047       |  in progress :hammer:  |  24.04.2022  |
 | :yellow_circle:| 17         | Zhiquaran |  in progress :hammer:  |  23.04.2022  |
-| :green_circle: | 18         | FREE      |  FREE  |  00.00.2022  |
-| :green_circle: | 19         | FREE      |  FREE  |  00.00.2022  |
-| :green_circle: | 20         | FREE      |  FREE  |  00.00.2022  |
+| :yellow_circle:| 18         | 047       |  in progress :hammer:  |  24.04.2022  |
+| :yellow_circle:| 19         | 047       |  in progress :hammer:  |  24.04.2022  |
+| :yellow_circle:| 20         | 047       |  in progress :hammer:  |  24.04.2022  |
 | :no_entry:     | 21         | Zhiquaran |  Passed :heavy_check_mark:  |  23.04.2022  |
-| :green_circle: | 22         | FREE      |  FREE  |  00.00.2022  |
+| :yellow_circle:| 22         | 047       |  in progress :hammer:  |  24.04.2022  |
 | :yellow_circle:| 23         | Minase    |  in progress :hammer:  |  18.04.2022  |
 | :green_circle: | 24         | FREE      |  FREE  |  00.00.2022  |
 | :green_circle: | 25         | FREE      |  FREE  |  00.00.2022  |
 | :green_circle: | 26         | FREE      |  FREE  |  00.00.2022  |
 | :green_circle: | 27         | FREE      |  FREE  |  00.00.2022  |
 | :yellow_circle:| 28         | Fantom    |  in progress :hammer:  |  22.04.2022  |
+| :green_circle: | 29         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 30         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 31         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 32         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 33         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 44         | FREE      |  FREE  |  00.00.2022  |
+| :green_circle: | 55         | FREE      |  FREE  |  00.00.2022  |
 | :yellow_circle:| 77         | Werevalis |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 124        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 125        | K-Fed     |  in progress :hammer:  |  22.04.2022  |

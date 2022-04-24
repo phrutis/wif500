@@ -3,7 +3,8 @@
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
 :green_circle: - Range FREE</br>
-:large_blue_circle: - **Range FREE Recommended!** (priority candidate before 5... 1844-1901, 2714-2771, 3004-3061)
+:large_blue_circle: - **Range FREE Recommended!**</br> 
+(priority candidate. Ranges: 1844-1901, 2714-2771, 3004-3061)
 
 [Choose a free range and report it to the group](https://t.me/+WFEuFatijpowMjRi)
 

@@ -2,9 +2,9 @@
 
 ```mermaid
 pie title Ranges 3364 charts
-"Free: 3219" : 3219
-"Passed: 71" : 71
-"in progress: 74" : 74
+"Free: 3218" : 3218
+"Passed: 72" : 72
+"in progress: 73" : 73
 ``` 
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>

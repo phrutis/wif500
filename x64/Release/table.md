@@ -3,8 +3,8 @@
 ```mermaid
 pie title Ranges 3364 charts
 "Free: 3209" : 3209
-"Passed: 77" : 77
-"in progress: 77" : 77
+"Passed: 79" : 79
+"in progress: 75" : 75
 ``` 
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
@@ -14,8 +14,8 @@ pie title Ranges 3364 charts
 |          | Range(s)      | Hunter    | Status         | Date        |
 |------------|:------------|-----------|----------------|----------------|
 | :yellow_circle:| 0          | phrutis   |  in progress :hammer:  |  19.04.2022  |
-| :yellow_circle:| 1          | Fantom    |  in progress :hammer:  |  16.04.2022  |
-| :yellow_circle:| 2          | Fantom    |  in progress :hammer:  |  16.04.2022  |
+| :no_entry:     | 1          | Fantom    |  Passed :heavy_check_mark: |  24.04.2022  |
+| :no_entry:     | 2          | Fantom    |  Passed :heavy_check_mark: |  24.04.2022  |
 | :no_entry:     | 3          | 047       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :no_entry:     | 4          | 047       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :no_entry:     | 5          | 047       |  Passed :heavy_check_mark:  |  24.04.2022  |

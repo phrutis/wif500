@@ -1,10 +1,26 @@
 ## Numbers of ranges 0-3363
 
+```mermaid
+pie title Ranges 3364
+  " " : 0
+  "  " : 0
+  "   " : 0
+  "    " : 0
+  "- Passed 75" : 75
+  "     " : 0
+  "- In process 77" : 77
+  "- FREE 2943" : 2943
+  "      " : 1
+  "- FREE Recommended 269" : 269
+  
+```
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
 :green_circle: - Range FREE (all who are not busy)</br>
 :large_blue_circle: - **Range FREE Recommended!**</br> 
-(priority candidate. Ranges: 1844-1901, 2714-2771, 3004-3061)
+Priority symbols candidate ```G```, ```x```, ```c```, ```n```, ```h``` 
+Ranges: </br>
+800-857, 1844-1901, 2424-2481, 2714-2771, 3004-3061
 
 [Choose a free range and report it to the group](https://t.me/+WFEuFatijpowMjRi)
 
@@ -63,6 +79,64 @@
 | :yellow_circle:| 729        | HeiLi     |  in progress :hammer:  |  20.04.2022  |
 | :no_entry:     | 777        | JRodary   |  Passed :heavy_check_mark:  |  20.04.2022  |
 | :yellow_circle:| 778        | JRodary   |  in progress :hammer:  |  20.04.2022  |
+| :large_blue_circle: | 800  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 801  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 802  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 803  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 804  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 805  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 806  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 807  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 808  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 809  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 810  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 811  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 812  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 813  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 814  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 815  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 816  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 817  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 818  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 819  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 820  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 821  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 822  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 823  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 824  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 825  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 826  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 827  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 828  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 829  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 830  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 831  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 832  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 833  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 834  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 835  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 836  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 837  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 838  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 839  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 840  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 841  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 842  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 843  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 844  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 845  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 846  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 847  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 848  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 849  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 850  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 851  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 852  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 853  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 854  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 855  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 856  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 857  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:| 1103       | Teddy     |  in progress :hammer:  |  18.04.2022  |
 | :no_entry:     | 1111       | Kuw       |  Passed                |  22.04.2022  |
 | :no_entry:     | 1401       | Kuw       |  Passed :heavy_check_mark:  |  21.04.2022  |
@@ -191,6 +265,64 @@
 | :yellow_circle:| 2227       | DworfD    |  in progress :hammer:  |  25.04.2022  |
 | :yellow_circle:| 2228       | DworfD    |  in progress :hammer:  |  25.04.2022  |
 | :yellow_circle:| 2229       | DworfD    |  in progress :hammer:  |  25.04.2022  |
+| :large_blue_circle: | 2424  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2425  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2426  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2427  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2428  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2429  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2430  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2431  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2432  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2433  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2434  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2435  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2436  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2437  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2438  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2439  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2440  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2441  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2442  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2443  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2444  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2445  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2446  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2447  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2448  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2449  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2450  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2451  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2452  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2453  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2454  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2455  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2456  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2457  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2458  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2459  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2460  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2461  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2462  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2463  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2464  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2465  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2466  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2467  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2468  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2469  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2470  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2471  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2472  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2473  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2474  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2475  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2476  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2477  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2478  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2479  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2480  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2481  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:     | 2700       | Alexander |  Passed :heavy_check_mark:  |  18.04.2022  |
 | :yellow_circle:| 2701       | Alexander |  in progress :hammer:  |  15.04.2022  |
 | :no_entry:     | 2702       | Alexander |  Passed :heavy_check_mark:  |  23.04.2022  |

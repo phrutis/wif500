@@ -113,7 +113,7 @@
 | :no_entry:     | 1670  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
 | :no_entry:     | 1671  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
 | :no_entry:     | 1672  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
-| :large_blue_circle: | 1844  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:| 1844  | com bio   |  in progress :hammer: |  25.05.2022  |
 | :large_blue_circle: | 1845  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1846  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1847  | Priority     |  FREE  |  00.00.2022  |
@@ -157,7 +157,7 @@
 | :large_blue_circle: | 1885  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1886  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1887  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1888  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:| 1888  | com bio   |  in progress :hammer: |  25.05.2022  |
 | :large_blue_circle: | 1889  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1890  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1891  | Priority     |  FREE  |  00.00.2022  |

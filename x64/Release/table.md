@@ -18,9 +18,8 @@ pie title Ranges 3364
 :yellow_circle: - Range in progress</br>
 :green_circle: - Range FREE (all who are not busy)</br>
 :large_blue_circle: - **Range FREE Recommended!**</br> 
-Priority symbols candidate ```G```, ```x```, ```c```, ```n```, ```h``` 
-Ranges: </br>
-800-857, 1844-1901, 2424-2481, 2714-2771, 3004-3061
+Priority symbols candidate ranges: </br>
+```800-857```, ```1844-1901```, ```2424-2481```, ```2714-2771```, ```3004-3061```
 
 [Choose a free range and report it to the group](https://t.me/+WFEuFatijpowMjRi)
 

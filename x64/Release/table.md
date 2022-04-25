@@ -136,7 +136,7 @@
 | :large_blue_circle: | 1863  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1864  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1865  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1866  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 1866  | Kuw     | in progress :hammer: |  25.04.2022  |
 | :large_blue_circle: | 1867  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1868  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1869  | Priority     |  FREE  |  00.00.2022  |
@@ -147,7 +147,7 @@
 | :large_blue_circle: | 1874  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1875  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1876  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1877  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 1877  | Kuw    | in progress :hammer: |  25.04.2022  |
 | :large_blue_circle: | 1878  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1879  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1880  | Priority     |  FREE  |  00.00.2022  |

@@ -129,7 +129,7 @@
 | :large_blue_circle: | 1857  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1858  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1859  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1860  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 1860  | Sam          |  in progress :hammer:  |  25.04.2022  |
 | :large_blue_circle: | 1861  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1862  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1863  | Priority     |  FREE  |  00.00.2022  |

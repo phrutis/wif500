@@ -37,7 +37,7 @@
 | :yellow_circle:| 33         | V         |  in progress :hammer:  |  24.04.2022  |
 | :yellow_circle:| 44         | V         |  in progress :hammer:  |  24.04.2022  |
 | :yellow_circle:| 55         | V         |  in progress :hammer:  |  24.04.2022  |
-| :yellow_circle:| 77         | Werevalis |  in progress :hammer:  |  22.04.2022  |
+| :no_entry:     | 77         | Werevalis |  Passed :heavy_check_mark:  |  25.04.2022  |
 | :yellow_circle:| 124        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 125        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 126        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
@@ -181,10 +181,16 @@
 | :no_entry:     | 2022       | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
 | :no_entry:     | 2023       | Leonid    |  Passed :heavy_check_mark:  |  25.04.2022  |
 | :no_entry:     | 2024       | Leonid    |  Passed :heavy_check_mark:  |  25.04.2022  |
+| :yellow_circle:| 2220       | DworfD    |  in progress :hammer:  |  25.04.2022  |
 | :yellow_circle:| 2221       | DworfD    |  in progress :hammer:  |  23.04.2022  |
 | :yellow_circle:| 2222       | DworfD    |  in progress :hammer:  |  23.04.2022  |
 | :yellow_circle:| 2223       | DworfD    |  in progress :hammer:  |  23.04.2022  |
 | :yellow_circle:| 2224       | DworfD    |  in progress :hammer:  |  23.04.2022  |
+| :yellow_circle:| 2225       | DworfD    |  in progress :hammer:  |  25.04.2022  |
+| :yellow_circle:| 2226       | DworfD    |  in progress :hammer:  |  25.04.2022  |
+| :yellow_circle:| 2227       | DworfD    |  in progress :hammer:  |  25.04.2022  |
+| :yellow_circle:| 2228       | DworfD    |  in progress :hammer:  |  25.04.2022  |
+| :yellow_circle:| 2229       | DworfD    |  in progress :hammer:  |  25.04.2022  |
 | :no_entry:     | 2700       | Alexander |  Passed :heavy_check_mark:  |  18.04.2022  |
 | :yellow_circle:| 2701       | Alexander |  in progress :hammer:  |  15.04.2022  |
 | :no_entry:     | 2702       | Alexander |  Passed :heavy_check_mark:  |  23.04.2022  |

@@ -180,8 +180,8 @@
 | :no_entry:     | 2020       | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
 | :no_entry:     | 2021       | Leonid    |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 2022       | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
-| :yellow_circle:| 2023       | Leonid    |  in progress :hammer:  |  21.04.2022  |
-| :yellow_circle:| 2024       | Leonid    |  in progress :hammer:  |  21.04.2022  |
+| :no_entry:     | 2023       | Leonid    |  Passed :heavy_check_mark:  |  25.04.2022  |
+| :no_entry:     | 2024       | Leonid    |  Passed :heavy_check_mark:  |  25.04.2022  |
 | :yellow_circle:| 2221       | DworfD    |  in progress :hammer:  |  23.04.2022  |
 | :yellow_circle:| 2222       | DworfD    |  in progress :hammer:  |  23.04.2022  |
 | :yellow_circle:| 2223       | DworfD    |  in progress :hammer:  |  23.04.2022  |
@@ -226,8 +226,8 @@
 | :large_blue_circle: | 2747  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2748  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2749  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2750  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2751  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle: | 2750  | Leonid       |  in progress :hammer:  |  25.04.2022  |
+| :yellow_circle: | 2751  | Leonid       |  in progress :hammer:  |  25.04.2022  |
 | :large_blue_circle: | 2752  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2753  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2754  | Priority     |  FREE  |  00.00.2022  |

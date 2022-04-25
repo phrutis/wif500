@@ -167,8 +167,8 @@
 | :large_blue_circle: | 1895  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1896  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1897  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1898  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1899  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:| 1898  | com bio   |  in progress :hammer: |  25.05.2022  |
+| :yellow_circle:| 1899  | com bio   |  in progress :hammer: |  25.05.2022  |
 | :large_blue_circle: | 1900  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1901  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:     | 1870       | Sam       |  Passed :heavy_check_mark:  |  20.04.2022  |

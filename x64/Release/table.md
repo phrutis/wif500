@@ -11,8 +11,7 @@ pie title Ranges 3364
   "- In process 77" : 77
   "- FREE 2943" : 2943
   "      " : 1
-  "- FREE Recommended 269" : 269
-  
+  "- FREE 269 (Recommended)" : 269
 ```
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>

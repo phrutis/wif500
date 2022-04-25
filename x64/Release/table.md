@@ -123,7 +123,7 @@
 | :large_blue_circle: | 1851  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1852  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1853  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1854  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 1854  | Oleg_R         |  in progress :hammer: |  25.04.2022  |
 | :large_blue_circle: | 1855  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1856  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1857  | Priority     |  FREE  |  00.00.2022  |

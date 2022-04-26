@@ -6,12 +6,12 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 75" : 75
+  "- Passed 76" : 76
   "     " : 0
-  "- In process 77" : 77
+  "- In process 78" : 78
   "- FREE 2943" : 2943
   "      " : 1
-  "- FREE 269 (Recommended)" : 269
+  "- FREE 267 (Recommended)" : 267
 ```
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
@@ -244,7 +244,7 @@ Priority symbols candidate ranges: </br>
 | :large_blue_circle: | 1900  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1901  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:     | 1870       | Sam       |  Passed :heavy_check_mark:  |  20.04.2022  |
-| :yellow_circle:| 1924       | cpto_node |  in progress :hammer:  |  22.04.2022  |
+| :no_entry:     | 1924       | cpto_node |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :yellow_circle:| 1992       | RamMos    |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 2014       | RamMos    |  in progress :hammer:  |  15.04.2022  |
 | :no_entry:     | 2019       | Leonid    |  Passed :heavy_check_mark:  |  21.04.2022  |
@@ -322,9 +322,10 @@ Priority symbols candidate ranges: </br>
 | :large_blue_circle: | 2480  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2481  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:     | 2700       | Alexander |  Passed :heavy_check_mark:  |  18.04.2022  |
-| :yellow_circle:| 2701       | Alexander |  in progress :hammer:  |  15.04.2022  |
+| :no_entry:     | 2701       | Alexander |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :no_entry:     | 2702       | Alexander |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :yellow_circle:| 2703       | Alexander |  in progress :hammer:  |  15.04.2022  |
+| :yellow_circle:| 2704       | Alexander |  in progress :hammer:  |  26.04.2022  |
 | :large_blue_circle: | 2714  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2715  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2716  | Priority     |  FREE  |  00.00.2022  |
@@ -424,7 +425,7 @@ Priority symbols candidate ranges: </br>
 | :large_blue_circle: | 3040  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3041  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3042  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3043  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3043  | cpto_node    |  in progress :hammer:  |  26.04.2022  |
 | :large_blue_circle: | 3044  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3045  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3046  | Priority     |  FREE  |  00.00.2022  |

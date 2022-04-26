@@ -6,9 +6,9 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 78" : 78
+  "- Passed 81" : 81
   "     " : 0
-  "- In process 135" : 135
+  "- In process 132" : 132
   "- FREE 2943" : 2943
   "      " : 1
   "- FREE 208 (Recommended)" : 208
@@ -60,7 +60,7 @@ Priority symbols candidate ranges: </br>
 | :yellow_circle:| 216        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 217        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 218        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
-| :yellow_circle:| 277        | Fantom    |  in progress :hammer:  |  22.04.2022  |
+| :no_entry:     | 277        | Fantom    |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :yellow_circle:| 304        | Kuw       |  in progress :hammer:  |  21.04.2022  |
 | :no_entry:     | 428        | Sam       |  Passed                |  26.04.2022  |
 | :yellow_circle:| 429        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
@@ -73,7 +73,7 @@ Priority symbols candidate ranges: </br>
 | :yellow_circle:| 436        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 468        | Minase    |  in progress :hammer:  |  18.04.2022  |
 | :no_entry:     | 493        | Zhiquaran |  Passed :heavy_check_mark: |  23.04.2022  |
-| :yellow_circle:| 500        | Fantom    |  in progress :hammer:  |  22.04.2022  |
+| :no_entry:     | 500        | Fantom    |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :yellow_circle:| 729        | HeiLi     |  in progress :hammer:  |  20.04.2022  |
 | :no_entry:     | 777        | JRodary   |  Passed :heavy_check_mark:  |  20.04.2022  |
 | :yellow_circle:| 778        | JRodary   |  in progress :hammer:  |  20.04.2022  |
@@ -385,7 +385,7 @@ Priority symbols candidate ranges: </br>
 | :large_blue_circle: | 2770  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2771  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:| 2977       | hiiiii    |  in progress :hammer:  |  23.04.2022  |
-| :yellow_circle:| 3000       | Fantom    |  in progress :hammer:  |  22.04.2022  |
+| :no_entry:     | 3000       | Fantom    |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :large_blue_circle: | 3004  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3005  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3006  | Priority     |  FREE  |  00.00.2022  |

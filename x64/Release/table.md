@@ -6,9 +6,9 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 77" : 77
+  "- Passed 78" : 78
   "     " : 0
-  "- In process 136" : 136
+  "- In process 135" : 135
   "- FREE 2943" : 2943
   "      " : 1
   "- FREE 208 (Recommended)" : 208
@@ -62,7 +62,7 @@ Priority symbols candidate ranges: </br>
 | :yellow_circle:| 218        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 277        | Fantom    |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 304        | Kuw       |  in progress :hammer:  |  21.04.2022  |
-| :yellow_circle:| 428        | Sam       |  in progress :hammer:  |  21.04.2022  |
+| :no_entry:     | 428        | Sam       |  Passed                |  26.04.2022  |
 | :yellow_circle:| 429        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 430        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 431        | K-Fed     |  in progress :hammer:  |  22.04.2022  |

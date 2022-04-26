@@ -8,10 +8,10 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 77" : 77
   "     " : 0
-  "- In process 78" : 78
+  "- In process 136" : 136
   "- FREE 2943" : 2943
   "      " : 1
-  "- FREE 266 (Recommended)" : 266
+  "- FREE 208 (Recommended)" : 208
 ```
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
@@ -262,65 +262,65 @@ Priority symbols candidate ranges: </br>
 | :yellow_circle:| 2226       | DworfD    |  in progress :hammer:  |  25.04.2022  |
 | :yellow_circle:| 2227       | DworfD    |  in progress :hammer:  |  25.04.2022  |
 | :yellow_circle:| 2228       | DworfD    |  in progress :hammer:  |  25.04.2022  |
-| :yellow_circle:| 2229       | DworfD    |  in progress :hammer:  |  25.04.2022  |
-| :large_blue_circle: | 2424  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2425  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2426  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2427  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2428  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2429  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2430  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2431  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2432  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2433  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2434  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2435  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2436  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2437  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2438  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2439  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2440  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2441  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2442  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2443  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2444  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2445  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2446  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2447  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2448  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2449  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2450  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2451  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2452  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2453  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2454  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2455  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2456  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2457  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2458  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2459  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2460  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2461  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2462  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2463  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2464  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2465  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2466  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2467  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2468  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2469  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2470  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2471  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2472  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2473  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2474  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2475  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2476  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2477  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2478  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2479  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2480  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2481  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle: | 2229      | DworfD    |  in progress :hammer:  |  25.04.2022  |
+| :yellow_circle: | 2424      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2425      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2426      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2427      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2428      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2429      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2430      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2431      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2432      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2433      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2434      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2435      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2436      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2437      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2438      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2439      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2440      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2441      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2442      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2443      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2444      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2445      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2446      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2447      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2448      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2449      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2450      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2451      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2452      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2453      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2454      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2455      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2456      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2457      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2458      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2459      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2460      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2461      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2462      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2463      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2464      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2465      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2466      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2467      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2468      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2469      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2470      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2471      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2472      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2473      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2474      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2475      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2476      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2477      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2478      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2479      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2480      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2481      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :no_entry:     | 2700       | Alexander |  Passed :heavy_check_mark:  |  18.04.2022  |
 | :no_entry:     | 2701       | Alexander |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :no_entry:     | 2702       | Alexander |  Passed :heavy_check_mark:  |  23.04.2022  |

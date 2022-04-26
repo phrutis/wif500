@@ -6,12 +6,12 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 76" : 76
+  "- Passed 77" : 77
   "     " : 0
   "- In process 78" : 78
   "- FREE 2943" : 2943
   "      " : 1
-  "- FREE 267 (Recommended)" : 267
+  "- FREE 266 (Recommended)" : 266
 ```
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
@@ -403,13 +403,13 @@ Priority symbols candidate ranges: </br>
 | :large_blue_circle: | 3018  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3019  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3020  | Priority     |  FREE  |  00.00.2022  |
-| :no_entry:     | 3021       | Kripto    |  Passed :heavy_check_mark:  |  18.04.2022  |
+| :no_entry:          | 3021  | Kripto       |  Passed :heavy_check_mark:  |  18.04.2022  |
 | :large_blue_circle: | 3022  | Priority     |  FREE  |  00.00.2022  |
-| :no_entry:     | 3023       | Kripto    |  Passed :heavy_check_mark:  |  22.04.2022  |
+| :no_entry:          | 3023  | Kripto       |  Passed :heavy_check_mark:  |  22.04.2022  |
 | :large_blue_circle: | 3024  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle:| 3025       | Kripto    |  in progress :hammer:  |  22.04.2022  |
+| :no_entry:          | 3025  | Kripto       |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :large_blue_circle: | 3026  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3027  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3027  | Kripto       |  in progress :hammer: |  26.04.2022  |
 | :large_blue_circle: | 3028  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3029  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3030  | Priority     |  FREE  |  00.00.2022  |

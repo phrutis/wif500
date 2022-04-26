@@ -35,13 +35,13 @@ For some users, [renting](https://vast.ai) is cheaper than searching on their ow
 When renting, you must take into account the risk that the key may not be found at all. You may incur losses.</br>
 Think of it not as earnings, but as a lottery.
 
-In the [**table**](https://github.com/phrutis/wif500/blob/main/x64/Release/table.md), select a **FREE** range between 0-3363
+In the [**TABLE**](https://github.com/phrutis/wif500/blob/main/x64/Release/table.md), select a **FREE** range between 0-3363
 
 Run ```wif500-20xx.exe -range 1234``` (free range 0 - 3363)
 
 RTX A6000 4 Gkey/s = 4 days (one range)</br>
 RTX 3090 4 Gkey/s = 4 days (one range)</br>
-RTX 3060 1.4 Gkey/s = 9 days (one range)</br>
+RTX 3070 2.2 Gkey/s = 6 days (one range)</br>
 RTX 2070 1,4 Gkey/s = 9 days (one range)</br>
 The program has no checkpoints, and the continuation</br>
 

@@ -6,10 +6,10 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 81" : 81
+  "- Passed 82" : 82
   "     " : 0
   "- In progress 135" : 135
-  "- FREE 2943" : 2943
+  "- FREE 2942" : 2942
   "      " : 0
   "- FREE 205 (Recommended)" : 205
 ```
@@ -139,6 +139,7 @@ Priority symbols candidate ranges: </br>
 | :no_entry:     | 1111       | Kuw       |  Passed                |  22.04.2022  |
 | :no_entry:     | 1401       | Kuw       |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 1502       | Kuw       |  Passed                |  22.04.2022  |
+| :no_entry:     | 1600       | Haymac    |  Passed :heavy_check_mark: |  26.04.2022  |
 | :no_entry:     | 1627  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
 | :no_entry:     | 1628  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
 | :no_entry:     | 1629  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |

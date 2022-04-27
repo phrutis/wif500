@@ -6,12 +6,12 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 86" : 86
+  "- Passed 87" : 87
   "     " : 0
   "- In progress 132" : 132
   "- FREE 2948" : 2948
   "      " : 0
-  "- FREE 205 (Recommended)" : 205
+  "- FREE 204 (Recommended)" : 204
 ```
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
@@ -76,8 +76,8 @@ Priority symbols candidate ranges: </br>
 | :no_entry:     | 500        | Fantom    |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :yellow_circle:| 729        | HeiLi     |  in progress :hammer:  |  20.04.2022  |
 | :no_entry:     | 777        | JRodary   |  Passed :heavy_check_mark:  |  20.04.2022  |
-| :yellow_circle:| 778        | JRodary   |  in progress :hammer:  |  20.04.2022  |
-| :large_blue_circle: | 800  | Priority     |  FREE  |  00.00.2022  |
+| :no_entry:     | 778        | JRodary   |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :yellow_circle:| 800  | JRodary    |  in progress :hammer:  |  27.04.2022  |
 | :large_blue_circle: | 801  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 802  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 803  | Priority     |  FREE  |  00.00.2022  |

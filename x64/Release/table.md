@@ -8,8 +8,8 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 88" : 88
   "     " : 0
-  "- In progress 133" : 133
-  "- FREE 2946" : 2946
+  "- In progress 134" : 134
+  "- FREE 2945" : 2945
   "      " : 0
   "- FREE 204 (Recommended)" : 204
 ```

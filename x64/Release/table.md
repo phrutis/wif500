@@ -38,8 +38,8 @@ Priority symbols candidate ranges: </br>
 | :yellow_circle:| 11         | Kuw       |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 12         | Kuw       |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 13         | Kuw       |  in progress :hammer:  |  22.04.2022  |
-| :yellow_circle:| 14         | 047       |  in progress :hammer:  |  24.04.2022  |
-| :yellow_circle:| 15         | 047       |  in progress :hammer:  |  24.04.2022  |
+| :no_entry:     | 14         | 047       |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 15         | 047       |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :yellow_circle:| 16         | 047       |  in progress :hammer:  |  24.04.2022  |
 | :yellow_circle:| 17         | Zhiquaran |  in progress :hammer:  |  23.04.2022  |
 | :yellow_circle:| 18         | 047       |  in progress :hammer:  |  24.04.2022  |

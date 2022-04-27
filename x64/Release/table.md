@@ -8,8 +8,8 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 83" : 83
   "     " : 0
-  "- In progress 135" : 135
-  "- FREE 2941" : 2941
+  "- In progress 133" : 133
+  "- FREE 2950" : 2950
   "      " : 0
   "- FREE 205 (Recommended)" : 205
 ```
@@ -213,7 +213,7 @@ Priority symbols candidate ranges: </br>
 | :large_blue_circle: | 1867  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1868  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1869  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1870  | Priority     |  FREE  |  00.00.2022  |
+| :no_entry:          | 1870  | Sam     |  Passed :heavy_check_mark:  |  20.00.2022  |
 | :large_blue_circle: | 1871  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1872  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1873  | Priority     |  FREE  |  00.00.2022  |
@@ -247,8 +247,6 @@ Priority symbols candidate ranges: </br>
 | :large_blue_circle: | 1901  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:     | 1870       | Sam       |  Passed :heavy_check_mark:  |  20.04.2022  |
 | :no_entry:     | 1924       | cpto_node |  Passed :heavy_check_mark:  |  26.04.2022  |
-| :yellow_circle:| 1992       | RamMos    |  in progress :hammer:  |  15.04.2022  |
-| :yellow_circle:| 2014       | RamMos    |  in progress :hammer:  |  15.04.2022  |
 | :no_entry:     | 2019       | Leonid    |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 2020       | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
 | :no_entry:     | 2021       | Leonid    |  Passed :heavy_check_mark:  |  21.04.2022  |
@@ -339,13 +337,6 @@ Priority symbols candidate ranges: </br>
 | :large_blue_circle: | 2722  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2723  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2724  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle:| 2725       | alico     |  in progress :hammer:  |  16.04.2022  |
-| :yellow_circle:| 2726       | alico     |  in progress :hammer:  |  16.04.2022  |
-| :yellow_circle:| 2727       | alico     |  in progress :hammer:  |  16.04.2022  |
-| :yellow_circle:| 2728       | alico     |  in progress :hammer:  |  16.04.2022  |
-| :yellow_circle:| 2729       | alico     |  in progress :hammer:  |  16.04.2022  |
-| :yellow_circle:| 2730       | alico     |  in progress :hammer:  |  16.04.2022  |
-| :yellow_circle:| 2731       | alico     |  in progress :hammer:  |  16.04.2022  |
 | :large_blue_circle: | 2732  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2733  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2734  | Priority     |  FREE  |  00.00.2022  |

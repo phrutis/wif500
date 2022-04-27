@@ -8,8 +8,8 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 87" : 87
   "     " : 0
-  "- In progress 132" : 132
-  "- FREE 2948" : 2948
+  "- In progress 133" : 133
+  "- FREE 2947" : 2947
   "      " : 0
   "- FREE 204 (Recommended)" : 204
 ```
@@ -139,6 +139,7 @@ Priority symbols candidate ranges: </br>
 | :no_entry:     | 1111       | Kuw       |  Passed                |  22.04.2022  |
 | :no_entry:     | 1401       | Kuw       |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 1502       | Kuw       |  Passed                |  22.04.2022  |
+| :yellow_circle:| 1504       | Elone     |  in progress :hammer:  |  27.04.2022  |
 | :no_entry:     | 1600       | Haymac    |  Passed :heavy_check_mark: |  26.04.2022  |
 | :yellow_circle:| 1601       | Haymac    |  in progress :hammer:  |  26.04.2022  |
 | :no_entry:     | 1627  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |

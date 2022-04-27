@@ -328,6 +328,7 @@ Priority symbols candidate ranges: </br>
 | :no_entry:     | 2703       | Alexander |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :yellow_circle:| 2704       | Alexander |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle:| 2705       | Alexander |  in progress :hammer:  |  27.04.2022  |
+| :yellow_circle:| 2706       | Alexander |  in progress :hammer:  |  27.04.2022  |
 | :large_blue_circle: | 2714  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2715  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2716  | Priority     |  FREE  |  00.00.2022  |

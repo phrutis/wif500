@@ -8,8 +8,8 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 83" : 83
   "     " : 0
-  "- In progress 133" : 133
-  "- FREE 2950" : 2950
+  "- In progress 132" : 132
+  "- FREE 2951" : 2951
   "      " : 0
   "- FREE 205 (Recommended)" : 205
 ```
@@ -24,7 +24,7 @@ Priority symbols candidate ranges: </br>
 
 |          | Range(s)      | Hunter    | Status         | Date        |
 |------------|:------------|-----------|----------------|----------------|
-| :yellow_circle:| 0          | phrutis   |  in progress :hammer:  |  19.04.2022  |
+| :green_circle: | 0          | FREE   |  FREE  |  00.00.2022  |
 | :no_entry:     | 1          | Fantom    |  Passed :heavy_check_mark: |  24.04.2022  |
 | :no_entry:     | 2          | Fantom    |  Passed :heavy_check_mark: |  24.04.2022  |
 | :no_entry:     | 3          | 047       |  Passed :heavy_check_mark:  |  24.04.2022  |

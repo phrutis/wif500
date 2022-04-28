@@ -376,10 +376,10 @@ Priority symbols candidate ranges: </br>
 | :yellow_circle: | 3008  | cpto_node    |  in progress :hammer: |  28.04.2022  |
 | :yellow_circle: | 3009  | cpto_node    |  in progress :hammer: |  28.04.2022  |
 | :yellow_circle: | 3010  | cpto_node    |  in progress :hammer: |  28.04.2022  |
-| :large_blue_circle: | 3011  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3012  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3013  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3014  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle: | 3011  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle: | 3012  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle: | 3013  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle: | 3014  | cpto_node    |  in progress :hammer: |  28.04.2022  |
 | :large_blue_circle: | 3015  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3016  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3017  | Priority     |  FREE  |  00.00.2022  |

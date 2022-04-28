@@ -34,7 +34,7 @@ Priority symbols candidate ranges: </br>
 | :no_entry:     | 20         | 047       |  Passed :heavy_check_mark:  |  28.04.2022  |
 | :no_entry:     | 21         | Zhiquaran |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:     | 22         | 047       |  Passed :heavy_check_mark:  |  28.04.2022  |
-| :yellow_circle:| 23         | Minase    |  in progress :hammer:  |  18.04.2022  |
+| :yellow_circle:| 23         | Minase    |  in progress :hammer:  |  28.04.2022  |
 | :yellow_circle:| 33         | V         |  in progress :hammer:  |  24.04.2022  |
 | :yellow_circle:| 44         | V         |  in progress :hammer:  |  24.04.2022  |
 | :yellow_circle:| 55         | V         |  in progress :hammer:  |  24.04.2022  |
@@ -58,7 +58,7 @@ Priority symbols candidate ranges: </br>
 | :yellow_circle:| 434        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 435        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :yellow_circle:| 436        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
-| :yellow_circle:| 468        | Minase    |  in progress :hammer:  |  18.04.2022  |
+| :yellow_circle:| 468        | Minase    |  in progress :hammer:  |  28.04.2022  |
 | :no_entry:     | 493        | Zhiquaran |  Passed :heavy_check_mark: |  23.04.2022  |
 | :no_entry:     | 500        | Fantom    |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :yellow_circle:| 729        | HeiLi     |  in progress :hammer:  |  20.04.2022  |

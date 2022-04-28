@@ -431,6 +431,7 @@ Priority symbols candidate ranges: </br>
 | :large_blue_circle: | 3061  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:     | 3077       | hiiiii    |  Passed                |  23.04.2022  |
 | :yellow_circle:| 3150       | Samzy     |  in progress :hammer:  |  24.04.2022  |
+| :yellow_circle:| 3241       | Oleg_R    |  in progress :hammer:  |  28.04.2022  |
 | :yellow_circle:| 3262       | Noname    |  in progress :hammer:  |  27.04.2022  |
 | :yellow_circle:| 3268       | Noname    |  in progress :hammer:  |  27.04.2022  |
 | :yellow_circle:| 3271       | Noname    |  in progress :hammer:  |  27.04.2022  |

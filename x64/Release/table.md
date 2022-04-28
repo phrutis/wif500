@@ -252,6 +252,7 @@ Priority symbols candidate ranges: </br>
 | :yellow_circle:| 2228       | DworfD    |  in progress :hammer:  |  25.04.2022  |
 | :yellow_circle: | 2229      | DworfD    |  in progress :hammer:  |  25.04.2022  |
 | :yellow_circle: | 2229      | DworfD    |  in progress :hammer:  |  25.04.2022  |
+| :yellow_circle: | 2358      | Oleg_R    |  in progress :hammer:  |  28.04.2022  |
 | :yellow_circle: | 2424      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2425      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2426      | DworfD    |  in progress :hammer:  |  26.04.2022  |

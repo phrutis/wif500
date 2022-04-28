@@ -27,13 +27,13 @@ Priority symbols candidate ranges: </br>
 | :yellow_circle:| 13         | Kuw       |  in progress :hammer:  |  22.04.2022  |
 | :no_entry:     | 14         | 047       |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 15         | 047       |  Passed :heavy_check_mark:  |  27.04.2022  |
-| :yellow_circle:| 16         | 047       |  in progress :hammer:  |  24.04.2022  |
+| :no_entry:     | 16         | 047       |  Passed :heavy_check_mark:  |  28.04.2022  |
 | :yellow_circle:| 17         | Zhiquaran |  in progress :hammer:  |  23.04.2022  |
-| :yellow_circle:| 18         | 047       |  in progress :hammer:  |  24.04.2022  |
+| :no_entry:     | 18         | 047       |  Passed :heavy_check_mark:  |  28.04.2022  |
 | :yellow_circle:| 19         | 047       |  in progress :hammer:  |  24.04.2022  |
-| :yellow_circle:| 20         | 047       |  in progress :hammer:  |  24.04.2022  |
+| :no_entry:     | 20         | 047       |  Passed :heavy_check_mark:  |  28.04.2022  |
 | :no_entry:     | 21         | Zhiquaran |  Passed :heavy_check_mark:  |  23.04.2022  |
-| :yellow_circle:| 22         | 047       |  in progress :hammer:  |  24.04.2022  |
+| :no_entry:     | 22         | 047       |  Passed :heavy_check_mark:  |  28.04.2022  |
 | :yellow_circle:| 23         | Minase    |  in progress :hammer:  |  18.04.2022  |
 | :yellow_circle:| 33         | V         |  in progress :hammer:  |  24.04.2022  |
 | :yellow_circle:| 44         | V         |  in progress :hammer:  |  24.04.2022  |
@@ -425,7 +425,7 @@ Priority symbols candidate ranges: </br>
 | :large_blue_circle: | 3057  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3058  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3059  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3060  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle: | 3060  | aiyulu  | in progress :hammer: |  28.04.2022  |
 | :large_blue_circle: | 3061  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:     | 3077       | hiiiii    |  Passed                |  23.04.2022  |
 | :yellow_circle:| 3150       | Samzy     |  in progress :hammer:  |  24.04.2022  |

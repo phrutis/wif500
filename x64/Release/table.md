@@ -367,15 +367,15 @@ Priority symbols candidate ranges: </br>
 | :large_blue_circle: | 2769  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2770  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2771  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle:| 2977       | hiiiii    |  in progress :hammer:  |  23.04.2022  |
-| :no_entry:     | 3000       | Fantom    |  Passed :heavy_check_mark:  |  26.04.2022  |
+| :yellow_circle: | 2977       | hiiiii    |  in progress :hammer:  |  23.04.2022  |
+| :no_entry:      | 3000       | Fantom    |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :large_blue_circle: | 3004  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3005  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3006  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3007  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3008  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3009  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3010  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle: | 3005  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle: | 3006  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle: | 3007  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle: | 3008  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle: | 3009  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle: | 3010  | cpto_node    |  in progress :hammer: |  28.04.2022  |
 | :large_blue_circle: | 3011  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3012  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3013  | Priority     |  FREE  |  00.00.2022  |

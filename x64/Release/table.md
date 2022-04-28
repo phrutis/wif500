@@ -1,18 +1,5 @@
 ## Numbers of ranges 0-3363
 
-```mermaid
-pie title Ranges 3364
-  " " : 0
-  "  " : 0
-  "   " : 0
-  "    " : 0
-  "- Passed 90" : 90
-  "     " : 0
-  "- In progress 132" : 132
-  "- FREE 2945" : 2945
-  "      " : 0
-  "- FREE 204 (Recommended)" : 204
-```
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
 :green_circle: - Range FREE (all who are not busy)</br>
@@ -22,7 +9,7 @@ Priority symbols candidate ranges: </br>
 
 [Choose a free range and report it to the group](https://t.me/+WFEuFatijpowMjRi)
 
-|          | Range(s)      | Hunter    | Status         | Date        |
+|            | Range(s)    | Hunter    | Status         | Date           |
 |------------|:------------|-----------|----------------|----------------|
 | :green_circle: | 0          | FREE   |  FREE  |  00.00.2022  |
 | :no_entry:     | 1          | Fantom    |  Passed :heavy_check_mark: |  24.04.2022  |

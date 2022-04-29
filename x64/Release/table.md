@@ -124,6 +124,7 @@ Priority symbols candidate ranges: </br>
 | :large_blue_circle: | 857  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:| 1103       | Teddy     |  in progress :hammer:  |  18.04.2022  |
 | :no_entry:     | 1111       | Kuw       |  Passed                |  22.04.2022  |
+| :yellow_circle:| 1234       | Dextronomous|  in progress :hammer:  |  29.04.2022  |
 | :no_entry:     | 1401       | Kuw       |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 1502       | Kuw       |  Passed                |  22.04.2022  |
 | :yellow_circle:| 1504       | Elone     |  in progress :hammer:  |  27.04.2022  |

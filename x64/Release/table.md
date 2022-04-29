@@ -191,7 +191,7 @@ Priority symbols candidate ranges: </br>
 | :large_blue_circle: | 1857  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1858  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1859  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle:     | 1860  | Sam          |  in progress :hammer: |  25.04.2022  |
+| :no_entry:          | 1860  | Sam          |  Passed :heavy_check_mark: |  29.04.2022  |
 | :large_blue_circle: | 1861  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 1862  | Sam          |  in progress :hammer: |  25.04.2022  |
 | :large_blue_circle: | 1863  | Priority     |  FREE  |  00.00.2022  |
@@ -226,8 +226,8 @@ Priority symbols candidate ranges: </br>
 | :large_blue_circle: | 1892  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1893  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 1894  | com bio      |  in progress :hammer:  |  29.04.2022  |
-| :large_blue_circle: | 1895  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1896  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 1895  | com bio      |  in progress :hammer:  |  29.04.2022  |
+| :yellow_circle:     | 1896  | com bio      |  in progress :hammer:  |  29.04.2022  |
 | :yellow_circle:     | 1897  | com bio      |  in progress :hammer:  |  29.04.2022  |
 | :no_entry:          | 1898  | com bio      |  Passed |  29.05.2022  |
 | :no_entry:          | 1899  | com bio      |  Passed |  29.05.2022  |
@@ -382,8 +382,8 @@ Priority symbols candidate ranges: </br>
 | :yellow_circle: | 3012  | cpto_node    |  in progress :hammer: |  28.04.2022  |
 | :yellow_circle: | 3013  | cpto_node    |  in progress :hammer: |  28.04.2022  |
 | :yellow_circle: | 3014  | cpto_node    |  in progress :hammer: |  28.04.2022  |
-| :large_blue_circle: | 3015  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3016  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle: | 3015  | cpto_node    |  in progress :hammer: |  29.04.2022  |
+| :yellow_circle: | 3016  | cpto_node    |  in progress :hammer: |  29.04.2022  |
 | :large_blue_circle: | 3017  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3018  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3019  | Priority     |  FREE  |  00.00.2022  |

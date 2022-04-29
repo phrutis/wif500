@@ -43,7 +43,7 @@ RTX A6000 4 Gkey/s = 4 days (one range)</br>
 RTX 3090 4 Gkey/s = 4 days (one range)</br>
 RTX 3070 2.2 Gkey/s = 6 days (one range)</br>
 RTX 2070 1,4 Gkey/s = 9 days (one range)</br>
-The program has no checkpoints, and the continuation</br>
+There is a continuation of the search from the last checkpoint</br>
 
 Add a telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi) </br>
 Write: @phrutis the numbers of the range in which you took for the search.</br>

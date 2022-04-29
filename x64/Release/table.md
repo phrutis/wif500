@@ -193,7 +193,7 @@ Priority symbols candidate ranges: </br>
 | :large_blue_circle: | 1859  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 1860  | Sam          |  Passed :heavy_check_mark: |  29.04.2022  |
 | :large_blue_circle: | 1861  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle:     | 1862  | Sam          |  in progress :hammer: |  25.04.2022  |
+| :no_entry:          | 1862  | Sam          |  Passed :heavy_check_mark: |  29.04.2022  |
 | :large_blue_circle: | 1863  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1864  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1865  | Priority     |  FREE  |  00.00.2022  |

@@ -249,10 +249,9 @@ Priority symbols candidate ranges: </br>
 | :no_entry:      | 2224       | DworfD    |  Passed :heavy_check_mark: |  27.04.2022  |
 | :yellow_circle: | 2225       | DworfD    |  in progress :hammer:  |  25.04.2022  |
 | :yellow_circle: | 2226       | DworfD    |  in progress :hammer:  |  25.04.2022  |
-| :yellow_circle: | 2227       | DworfD    |  in progress :hammer:  |  25.04.2022  |
-| :yellow_circle: | 2228       | DworfD    |  in progress :hammer:  |  25.04.2022  |
+| :no_entry:      | 2227       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
+| :no_entry:      | 2228       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:      | 2229       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
-| :yellow_circle: | 2229      | DworfD    |  in progress :hammer:  |  25.04.2022  |
 | :yellow_circle: | 2358      | Oleg_R    |  in progress :hammer:  |  28.04.2022  |
 | :yellow_circle: | 2424      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2425      | DworfD    |  in progress :hammer:  |  26.04.2022  |
@@ -350,8 +349,8 @@ Priority symbols candidate ranges: </br>
 | :large_blue_circle: | 2749  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 2750  | Leonid       |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:          | 2751  | Leonid       |  Passed :heavy_check_mark:  |  29.04.2022  |
-| :large_blue_circle: | 2752  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2753  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle: | 2952       | Leonid    |  in progress :hammer:  |  29.04.2022  |
+| :yellow_circle: | 2953       | Leonid    |  in progress :hammer:  |  29.04.2022  |
 | :large_blue_circle: | 2754  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2755  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2756  | Priority     |  FREE  |  00.00.2022  |

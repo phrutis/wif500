@@ -403,7 +403,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:          | 3027  | Kripto       |  Passed :heavy_check_mark: |  29.04.2022  |
 | :large_blue_circle: | 3028  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 3029  | Kripto       |  in progress :hammer:  |  29.04.2022  |
-| :large_blue_circle: | 3030  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3030  | Fantom       |  in progress :hammer:  |  30.04.2022  |
 | :large_blue_circle: | 3031  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3032  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 3033  | Fantom       |  in progress :hammer:  |  30.04.2022  |
@@ -430,7 +430,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 3054  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3055  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3056  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3057  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3057  | Fantom       |  in progress :hammer:  |  30.04.2022  |
 | :large_blue_circle: | 3058  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3059  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 3060  | aiyulu       |  in progress :hammer:  |  28.04.2022  |

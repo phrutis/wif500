@@ -122,7 +122,7 @@ Priority symbols candidate ranges: </br>
 | :large_blue_circle: | 855  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 856  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 857  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle:| 1103       | Teddy     |  in progress :hammer:  |  18.04.2022  |
+| :no_entry:     | 1103       | Teddy     |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:     | 1111       | Kuw       |  Passed                |  22.04.2022  |
 | :yellow_circle:| 1234       | Dextronomous|  in progress :hammer:  |  29.04.2022  |
 | :no_entry:     | 1401       | Kuw       |  Passed :heavy_check_mark:  |  21.04.2022  |
@@ -247,8 +247,8 @@ Priority symbols candidate ranges: </br>
 | :no_entry:      | 2222       | DworfD    |  Passed :heavy_check_mark: |  27.04.2022  |
 | :no_entry:      | 2223       | DworfD    |  Passed :heavy_check_mark: |  27.04.2022  |
 | :no_entry:      | 2224       | DworfD    |  Passed :heavy_check_mark: |  27.04.2022  |
-| :yellow_circle: | 2225       | DworfD    |  in progress :hammer:  |  25.04.2022  |
-| :yellow_circle: | 2226       | DworfD    |  in progress :hammer:  |  25.04.2022  |
+| :yellow_circle: | 2225       | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
+| :yellow_circle: | 2226       | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2227       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:      | 2228       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:      | 2229       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
@@ -259,10 +259,10 @@ Priority symbols candidate ranges: </br>
 | :yellow_circle: | 2425      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2426      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2427      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2428      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2429      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2430      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2431      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry: | 2428      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
+| :no_entry: | 2429      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
+| :no_entry: | 2430      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
+| :no_entry: | 2431      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :yellow_circle: | 2432      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2433      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2434      | DworfD    |  in progress :hammer:  |  26.04.2022  |
@@ -281,8 +281,8 @@ Priority symbols candidate ranges: </br>
 | :yellow_circle: | 2447      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2448      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2449      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2450      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2451      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry: | 2450      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
+| :no_entry: | 2451      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :yellow_circle: | 2452      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2453      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2454      | DworfD    |  in progress :hammer:  |  26.04.2022  |
@@ -412,7 +412,7 @@ Priority symbols candidate ranges: </br>
 | :yellow_circle:     | 3040  | cpto_node    |  in progress :hammer:  |  26.04.2022  |
 | :large_blue_circle: | 3041  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3042  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle:     | 3043  | cpto_node    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry:          | 3043  | cpto_node    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :large_blue_circle: | 3044  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3045  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3046  | Priority     |  FREE  |  00.00.2022  |

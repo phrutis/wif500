@@ -428,7 +428,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 3052  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 3053  | Fantom       |  in progress :hammer:  |  30.04.2022  |
 | :large_blue_circle: | 3054  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3055  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3055  | Fantom       |  in progress :hammer:  |  01.05.2022  |
 | :large_blue_circle: | 3056  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 3057  | Fantom       |  in progress :hammer:  |  30.04.2022  |
 | :large_blue_circle: | 3058  | Priority     |  FREE  |  00.00.2022  |

@@ -409,7 +409,7 @@ Priority symbols candidate ranges: </br>
 | :yellow_circle:     | 3037  | cpto_node    |  in progress :hammer:  |  26.04.2022  |
 | :large_blue_circle: | 3038  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3039  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle:     | 3040  | cpto_node    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry:          | 3040  | cpto_node    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :large_blue_circle: | 3041  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3042  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 3043  | cpto_node    |  Passed :heavy_check_mark:  |  30.04.2022  |
@@ -418,7 +418,7 @@ Priority symbols candidate ranges: </br>
 | :yellow_circle:     | 3046  | cpto_node    |  in progress :hammer:  |  30.04.2022  |
 | :large_blue_circle: | 3047  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3048  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3049  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3049  | cpto_node    |  in progress :hammer:  |  30.04.2022  |
 | :large_blue_circle: | 3050  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3051  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3052  | Priority     |  FREE  |  00.00.2022  |

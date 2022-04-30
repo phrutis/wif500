@@ -415,7 +415,7 @@ Priority symbols candidate ranges: </br>
 | :no_entry:          | 3043  | cpto_node    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :large_blue_circle: | 3044  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3045  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3046  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3046  | cpto_node    |  in progress :hammer:  |  30.04.2022  |
 | :large_blue_circle: | 3047  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3048  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3049  | Priority     |  FREE  |  00.00.2022  |

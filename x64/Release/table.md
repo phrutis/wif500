@@ -130,7 +130,8 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 1502       | Kuw       |  Passed                |  22.04.2022  |
 | :yellow_circle:| 1504       | Elone     |  in progress :hammer:  |  27.04.2022  |
 | :no_entry:     | 1600       | Haymac    |  Passed :heavy_check_mark: |  26.04.2022  |
-| :yellow_circle:| 1601       | Haymac    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry:     | 1601       | Haymac    |  Passed :heavy_check_mark: |  30.04.2022  |
+| :yellow_circle:| 1602       | Haymac    |  in progress :hammer:  |  30.04.2022  |
 | :no_entry:     | 1627  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
 | :no_entry:     | 1628  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
 | :no_entry:     | 1629  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
@@ -274,22 +275,22 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:      | 2439      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2440      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2441      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
-| :yellow_circle: | 2442      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2443      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2444      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry:      | 2442      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
+| :no_entry:      | 2443      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
+| :no_entry:      | 2444      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2445      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
-| :yellow_circle: | 2446      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2447      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2448      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry:      | 2446      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
+| :no_entry:      | 2447      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
+| :no_entry:      | 2448      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :yellow_circle: | 2449      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :no_entry: | 2450      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry: | 2451      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
-| :yellow_circle: | 2452      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry:      | 2452      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2453      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2454      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
-| :yellow_circle: | 2455      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2456      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2457      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry:      | 2455      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
+| :no_entry:      | 2456      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
+| :no_entry:      | 2457      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :yellow_circle: | 2458      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2459      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2460      | DworfD    |  in progress :hammer:  |  26.04.2022  |

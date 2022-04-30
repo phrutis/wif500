@@ -1,17 +1,18 @@
 ## Numbers of ranges 0-3363
 
 :no_entry: - Range Passed</br>
+:name_badge: - Pirate (Looking for it separately)</br>
 :yellow_circle: - Range in progress</br>
-:green_circle: - Range FREE (all who are not busy)</br>
 :large_blue_circle: - **Range FREE Recommended!**</br> 
-Priority symbols candidate ranges: </br>
-```800-857```, ```1844-1901```, ```2424-2481```, ```2714-2771```, ```3004-3061```
+Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges: </br>
+```800-857```, ```1844-1901```, ```2424-2481```, ```2714-2771```, ```3004-3061```</br>
+:green_circle: - Range FREE (all who are not busy 0-3363)
 
 [Choose a free range and report it to the group](https://t.me/+WFEuFatijpowMjRi)
 
 |            | Range(s)    | Hunter    | Status         | Date           |
 |------------|:------------|-----------|----------------|----------------|
-| :green_circle: | 0          | FREE   |  FREE  |  00.00.2022  |
+| :yellow_circle:| 0          | phrutis   |  in progress :hammer:  |  30.04.2022  |
 | :no_entry:     | 1          | Fantom    |  Passed :heavy_check_mark: |  24.04.2022  |
 | :no_entry:     | 2          | Fantom    |  Passed :heavy_check_mark: |  24.04.2022  |
 | :no_entry:     | 3          | 047       |  Passed :heavy_check_mark:  |  24.04.2022  |

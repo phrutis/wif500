@@ -283,8 +283,8 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:      | 2447      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2448      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :yellow_circle: | 2449      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :no_entry: | 2450      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
-| :no_entry: | 2451      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
+| :no_entry:      | 2450      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
+| :no_entry:      | 2451      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2452      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2453      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2454      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
@@ -353,8 +353,8 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 2749  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 2750  | Leonid       |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:          | 2751  | Leonid       |  Passed :heavy_check_mark:  |  29.04.2022  |
-| :yellow_circle: | 2952       | Leonid    |  in progress :hammer:  |  29.04.2022  |
-| :yellow_circle: | 2953       | Leonid    |  in progress :hammer:  |  29.04.2022  |
+| :yellow_circle:     | 2952  | Leonid       |  in progress :hammer:  |  29.04.2022  |
+| :yellow_circle:     | 2953  | Leonid       |  in progress :hammer:  |  29.04.2022  |
 | :large_blue_circle: | 2754  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2755  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2756  | Priority     |  FREE  |  00.00.2022  |
@@ -373,29 +373,29 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 2769  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2770  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2771  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle: | 2977       | hiiiii    |  in progress :hammer:  |  23.04.2022  |
-| :no_entry:      | 3000       | Fantom    |  Passed :heavy_check_mark:  |  26.04.2022  |
+| :yellow_circle:     | 2977  | hiiiii       |  in progress :hammer:  |  23.04.2022  |
+| :no_entry:          | 3000  | Fantom       |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :large_blue_circle: | 3004  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle: | 3005  | cpto_node    |  in progress :hammer: |  28.04.2022  |
-| :yellow_circle: | 3006  | cpto_node    |  in progress :hammer: |  28.04.2022  |
-| :yellow_circle: | 3007  | cpto_node    |  in progress :hammer: |  28.04.2022  |
-| :yellow_circle: | 3008  | cpto_node    |  in progress :hammer: |  28.04.2022  |
-| :yellow_circle: | 3009  | cpto_node    |  in progress :hammer: |  28.04.2022  |
-| :yellow_circle: | 3010  | cpto_node    |  in progress :hammer: |  28.04.2022  |
-| :yellow_circle: | 3011  | cpto_node    |  in progress :hammer: |  28.04.2022  |
-| :yellow_circle: | 3012  | cpto_node    |  in progress :hammer: |  28.04.2022  |
-| :yellow_circle: | 3013  | cpto_node    |  in progress :hammer: |  28.04.2022  |
-| :yellow_circle: | 3014  | cpto_node    |  in progress :hammer: |  28.04.2022  |
-| :yellow_circle: | 3015  | cpto_node    |  in progress :hammer: |  29.04.2022  |
-| :yellow_circle: | 3016  | cpto_node    |  in progress :hammer: |  29.04.2022  |
+| :yellow_circle:     | 3005  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle:     | 3006  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle:     | 3007  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle:     | 3008  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle:     | 3009  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle:     | 3010  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle:     | 3011  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle:     | 3012  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle:     | 3013  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle:     | 3014  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :yellow_circle:     | 3015  | cpto_node    |  in progress :hammer: |  29.04.2022  |
+| :yellow_circle:     | 3016  | cpto_node    |  in progress :hammer: |  29.04.2022  |
 | :large_blue_circle: | 3017  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3018  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3019  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3020  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 3021  | Kripto       |  Passed :heavy_check_mark:  |  18.04.2022  |
-| :large_blue_circle: | 3022  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3022  | Fantom       |  in progress :hammer:  |  30.04.2022  |
 | :no_entry:          | 3023  | Kripto       |  Passed :heavy_check_mark:  |  22.04.2022  |
-| :large_blue_circle: | 3024  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3024  | Fantom       |  in progress :hammer:  |  30.04.2022  |
 | :no_entry:          | 3025  | Kripto       |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :large_blue_circle: | 3026  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 3027  | Kripto       |  Passed :heavy_check_mark: |  29.04.2022  |
@@ -407,7 +407,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 3033  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 3034  | cpto_node    |  in progress :hammer:  |  26.04.2022  |
 | :large_blue_circle: | 3035  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3036  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3036  | Fantom       |  in progress :hammer:  |  30.04.2022  |
 | :yellow_circle:     | 3037  | cpto_node    |  in progress :hammer:  |  26.04.2022  |
 | :large_blue_circle: | 3038  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3039  | Priority     |  FREE  |  00.00.2022  |
@@ -431,17 +431,17 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 3057  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3058  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3059  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle: | 3060  | aiyulu  | in progress :hammer: |  28.04.2022  |
-| :large_blue_circle: | 3061  | Priority     |  FREE  |  00.00.2022  |
-| :no_entry:      | 3077       | hiiiii    |  Passed                |  23.04.2022  |
-| :yellow_circle: | 3150       | Samzy     |  in progress :hammer:  |  24.04.2022  |
-| :yellow_circle: | 3228       | Oleg_R    |  in progress :hammer:  |  29.04.2022  |
-| :yellow_circle: | 3241       | Oleg_R    |  in progress :hammer:  |  28.04.2022  |
-| :yellow_circle: | 3262       | Noname    |  in progress :hammer:  |  27.04.2022  |
-| :yellow_circle: | 3268       | Noname    |  in progress :hammer:  |  27.04.2022  |
-| :yellow_circle: | 3271       | Noname    |  in progress :hammer:  |  27.04.2022  |
-| :yellow_circle: | 3277       | Noname    |  in progress :hammer:  |  27.04.2022  |
-| :yellow_circle: | 3278       | Noname    |  in progress :hammer:  |  27.04.2022  |
-| :yellow_circle: | 3279       | Noname    |  in progress :hammer:  |  27.04.2022  |
-| :yellow_circle: | 3293       | Noname    |  in progress :hammer:  |  27.04.2022  |
-| :green_circle:  | 3294-3363  | FREE      |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3060  | aiyulu       |  in progress :hammer:  |  28.04.2022  |
+| :yellow_circle:     | 3061  | Fantom       |  in progress :hammer:  |  30.04.2022  |
+| :no_entry:          | 3077  | hiiiii       |  Passed                |  23.04.2022  |
+| :yellow_circle:     | 3150  | Samzy        |  in progress :hammer:  |  24.04.2022  |
+| :yellow_circle:     | 3228  | Oleg_R       |  in progress :hammer:  |  29.04.2022  |
+| :yellow_circle:     | 3241  | Oleg_R       |  in progress :hammer:  |  28.04.2022  |
+| :yellow_circle:     | 3262  | Noname       |  in progress :hammer:  |  27.04.2022  |
+| :yellow_circle:     | 3268  | Noname       |  in progress :hammer:  |  27.04.2022  |
+| :yellow_circle:     | 3271  | Noname       |  in progress :hammer:  |  27.04.2022  |
+| :yellow_circle:     | 3277  | Noname       |  in progress :hammer:  |  27.04.2022  |
+| :yellow_circle:     | 3278  | Noname       |  in progress :hammer:  |  27.04.2022  |
+| :yellow_circle:     | 3279  | Noname       |  in progress :hammer:  |  27.04.2022  |
+| :yellow_circle:     | 3293  | Noname       |  in progress :hammer:  |  27.04.2022  |
+| :green_circle:      | 3294-3363  | FREE    |  FREE  |  00.00.2022  |

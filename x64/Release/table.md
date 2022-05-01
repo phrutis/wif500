@@ -410,7 +410,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:     | 3034  | cpto_node    |  in progress :hammer:  |  26.04.2022  |
 | :large_blue_circle: | 3035  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 3036  | Fantom       |  in progress :hammer:  |  30.04.2022  |
-| :yellow_circle:     | 3037  | cpto_node    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry:          | 3037  | cpto_node    |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :large_blue_circle: | 3038  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3039  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 3040  | cpto_node    |  Passed :heavy_check_mark:  |  30.04.2022  |

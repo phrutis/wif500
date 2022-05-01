@@ -260,9 +260,9 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle: | 2371      | Oleg_R    |  in progress :hammer:  |  29.04.2022  |
 | :yellow_circle: | 2416      | Oleg_R    |  in progress :hammer:  |  29.04.2022  |
 | :no_entry:      | 2424      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
-| :yellow_circle: | 2425      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2426      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2427      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry:      | 2425      | DworfD    |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:      | 2426      | DworfD    |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:      | 2427      | DworfD    |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:      | 2428      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2429      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2430      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |

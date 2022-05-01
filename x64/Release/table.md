@@ -1,6 +1,17 @@
-
-
 ## Numbers of ranges 0-3363
+```mermaid
+pie title Ranges 3364
+  " " : 0
+  "  " : 0
+  "   " : 0
+  "    " : 0
+  "- Passed 201" : 201
+  "     " : 0
+  "- In progress 117" : 117
+  "- FREE 2934" : 2934
+  "      " : 0
+  "- FREE 112 (Recommended)" : 112
+```
 
 :no_entry: - Range Passed</br>
 :name_badge: - Pirate (Looking for it separately)</br>

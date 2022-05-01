@@ -42,25 +42,25 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:| 44         | V         |  in progress :hammer:  |  24.04.2022  |
 | :yellow_circle:| 55         | V         |  in progress :hammer:  |  24.04.2022  |
 | :no_entry:     | 77         | Werevalis |  Passed :heavy_check_mark:  |  25.04.2022  |
-| :yellow_circle:| 124        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
-| :yellow_circle:| 125        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
-| :yellow_circle:| 126        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
-| :yellow_circle:| 127        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
+| :no_entry:     | 124        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:     | 125        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:     | 126        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:     | 127        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:     | 131        | Zhiquaran |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:     | 216        | K-Fed     |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:     | 217        | K-Fed     |  Passed :heavy_check_mark:  |  29.04.2022  |
-| :yellow_circle:| 218        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
+| :no_entry:     | 218        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:     | 277        | Fantom    |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :yellow_circle:| 304        | Kuw       |  in progress :hammer:  |  21.04.2022  |
 | :no_entry:     | 428        | Sam       |  Passed                |  26.04.2022  |
 | :yellow_circle:| 429        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
-| :yellow_circle:| 430        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
-| :yellow_circle:| 431        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
-| :yellow_circle:| 432        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
-| :yellow_circle:| 433        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
-| :yellow_circle:| 434        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
-| :yellow_circle:| 435        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
-| :yellow_circle:| 436        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
+| :no_entry:     | 430        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:     | 431        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:     | 432        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:     | 433        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:     | 434        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:     | 435        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:     | 436        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :yellow_circle:| 468        | Minase    |  in progress :hammer:  |  28.04.2022  |
 | :no_entry:     | 493        | Zhiquaran |  Passed :heavy_check_mark: |  23.04.2022  |
 | :no_entry:     | 500        | Fantom    |  Passed :heavy_check_mark:  |  26.04.2022  |
@@ -111,20 +111,20 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 841  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 842  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 843  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 844  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 845  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 846  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 847  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 848  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 849  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle: | 844  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :yellow_circle: | 845  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :yellow_circle: | 846  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :yellow_circle: | 847  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :yellow_circle: | 848  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :yellow_circle: | 849  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :yellow_circle: | 850  | K-Fed     |  in progress :hammer:  |  29.04.2022  |
 | :yellow_circle: | 851  | K-Fed     |  in progress :hammer:  |  29.04.2022  |
-| :large_blue_circle: | 852  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 853  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 854  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 855  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 856  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 857  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle: | 852  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :yellow_circle: | 853  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :yellow_circle: | 854  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :yellow_circle: | 855  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :yellow_circle: | 856  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :yellow_circle: | 857  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :no_entry:     | 1103       | Teddy     |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:     | 1111       | Kuw       |  Passed                |  22.04.2022  |
 | :yellow_circle:| 1234       | Dextronomous|  in progress :hammer:  |  29.04.2022  |

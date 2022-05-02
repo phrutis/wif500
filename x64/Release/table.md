@@ -437,8 +437,8 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 2749  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 2750  | Leonid       |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:          | 2751  | Leonid       |  Passed :heavy_check_mark:  |  29.04.2022  |
-| :yellow_circle:     | 2952  | Leonid       |  in progress :hammer:  |  29.04.2022  |
-| :yellow_circle:     | 2953  | Leonid       |  in progress :hammer:  |  29.04.2022  |
+| :yellow_circle:     | 2752  | Leonid       |  in progress :hammer:  |  29.04.2022  |
+| :yellow_circle:     | 2753  | Leonid       |  in progress :hammer:  |  29.04.2022  |
 | :large_blue_circle: | 2754  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2755  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2756  | Priority     |  FREE  |  00.00.2022  |

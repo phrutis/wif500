@@ -7,10 +7,10 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 282" : 282
   "     " : 0
-  "- In progress 110" : 110
+  "- In progress 116" : 116
   "- FREE 2860" : 2860
   "      " : 0
-  "- FREE 112 (Recommended)" : 112
+  "- FREE 106 (Recommended)" : 106
 ```
 
 :no_entry: - Range Passed</br>
@@ -137,13 +137,13 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 797        | Almera    |  Passed :heavy_check_mark:  |  28.04.2022  |
 | :no_entry:     | 798        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 799        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
-| :yellow_circle:| 800  | JRodary    |  in progress :hammer:  |  27.04.2022  |
-| :large_blue_circle: | 801  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 802  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 803  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 804  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 805  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 806  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:| 800        | JRodary   |  in progress :hammer:  |  27.04.2022  |
+| :yellow_circle:| 801        | 047       |  in progress :hammer:  |  02.05.2022  |
+| :yellow_circle:| 802        | 047       |  in progress :hammer:  |  02.05.2022  |
+| :yellow_circle:| 803        | 047       |  in progress :hammer:  |  02.05.2022  |
+| :yellow_circle:| 804        | 047       |  in progress :hammer:  |  02.05.2022  |
+| :yellow_circle:| 805        | 047       |  in progress :hammer:  |  02.05.2022  |
+| :yellow_circle:| 806        | 047       |  in progress :hammer:  |  02.05.2022  |
 | :large_blue_circle: | 807  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 808  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 809  | Priority     |  FREE  |  00.00.2022  |

@@ -119,7 +119,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 838  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 839  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 840  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 841  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 841  | Oleg_R       |  in progress :hammer:  |  02.05.2022  |
 | :large_blue_circle: | 842  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 843  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle: | 844  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
@@ -201,7 +201,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :name_badge:        | 1851  | Pirate       |  in progress :hammer:  |  30.04.2022  |
 | :name_badge:        | 1852  | Pirate       |  in progress :hammer:  |  30.04.2022  |
 | :name_badge:        | 1853  | Pirate       |  in progress :hammer:  |  30.04.2022  |
-| :yellow_circle:     | 1854  | Oleg_R       |  in progress :hammer: |  25.04.2022  |
+| :no_entry:          | 1854  | Oleg_R       |  Passed :heavy_check_mark: |  02.05.2022  |
 | :name_badge:        | 1855  | Pirate       |  in progress :hammer:  |  30.04.2022  |
 | :name_badge:        | 1856  | Pirate       |  in progress :hammer:  |  30.04.2022  |
 | :name_badge:        | 1857  | Pirate       |  in progress :hammer:  |  30.04.2022  |
@@ -333,8 +333,8 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 2702       | Alexander |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:     | 2703       | Alexander |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :yellow_circle:| 2704       | Alexander |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle:| 2705       | Alexander |  in progress :hammer:  |  27.04.2022  |
-| :yellow_circle:| 2706       | Alexander |  in progress :hammer:  |  27.04.2022  |
+| :no_entry:          | 2705       | Alexander |  Passed :heavy_check_mark:  |  02.05.2022  |
+| :yellow_circle:     | 2706       | Alexander |  in progress :hammer:  |  27.04.2022  |
 | :large_blue_circle: | 2714  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2715  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2716  | Priority     |  FREE  |  00.00.2022  |

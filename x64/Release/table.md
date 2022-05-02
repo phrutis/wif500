@@ -5,9 +5,9 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 288" : 288
+  "- Passed 291" : 291
   "     " : 0
-  "- In progress 112" : 112
+  "- In progress 109" : 109
   "- FREE 2860" : 2860
   "      " : 0
   "- FREE 106 (Recommended)" : 106
@@ -49,10 +49,10 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 21         | Zhiquaran |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:     | 22         | 047       |  Passed :heavy_check_mark:  |  28.04.2022  |
 | :yellow_circle:| 23         | Minase    |  in progress :hammer:  |  28.04.2022  |
-| :yellow_circle:| 33         | V         |  in progress :hammer:  |  24.04.2022  |
-| :no_entry:     | 43          | Almera    |  Passed :heavy_check_mark: |  23.04.2022  |
-| :yellow_circle:| 44         | V         |  in progress :hammer:  |  24.04.2022  |
-| :yellow_circle:| 55         | V         |  in progress :hammer:  |  24.04.2022  |
+| :no_entry:     | 33         | V         |  Passed :heavy_check_mark: |  02.05.2022  |
+| :no_entry:     | 43         | Almera    |  Passed :heavy_check_mark: |  23.04.2022  |
+| :no_entry:     | 44         | V         |  Passed :heavy_check_mark: |  02.05.2022  |
+| :no_entry:     |55          | V         |  Passed :heavy_check_mark: |  02.05.2022  |
 | :no_entry:     | 77         | Werevalis |  Passed :heavy_check_mark:  |  25.04.2022  |
 | :no_entry:     | 83         | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 86         | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |

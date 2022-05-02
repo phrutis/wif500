@@ -14,7 +14,7 @@ pie title Ranges 3364
 ```
 
 :no_entry: - Range Passed</br>
-:name_badge: - Pirate (Looking for it separately)</br>
+:name_badge: - Pirate</br>
 :yellow_circle: - Range in progress</br>
 :large_blue_circle: - **Range FREE Recommended!**</br> 
 Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges: </br>

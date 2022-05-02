@@ -5,10 +5,10 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 201" : 201
+  "- Passed 275" : 275
   "     " : 0
   "- In progress 117" : 117
-  "- FREE 2934" : 2934
+  "- FREE 2860" : 2860
   "      " : 0
   "- FREE 112 (Recommended)" : 112
 ```
@@ -50,9 +50,32 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 22         | 047       |  Passed :heavy_check_mark:  |  28.04.2022  |
 | :yellow_circle:| 23         | Minase    |  in progress :hammer:  |  28.04.2022  |
 | :yellow_circle:| 33         | V         |  in progress :hammer:  |  24.04.2022  |
+| :no_entry:     | 43          | Almera    |  Passed :heavy_check_mark: |  23.04.2022  |
 | :yellow_circle:| 44         | V         |  in progress :hammer:  |  24.04.2022  |
 | :yellow_circle:| 55         | V         |  in progress :hammer:  |  24.04.2022  |
 | :no_entry:     | 77         | Werevalis |  Passed :heavy_check_mark:  |  25.04.2022  |
+| :no_entry:     | 83         | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 86         | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 87         | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 88         | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 89         | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 90         | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 91         | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 92         | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 93         | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 94         | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 95         | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
+| :no_entry:     | 96         | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
+| :no_entry:     | 97         | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
+| :no_entry:     | 98         | Almera    |  Passed :heavy_check_mark:  |  16.04.2022  |
+| :no_entry:     | 99         | Almera    |  Passed :heavy_check_mark:  |  16.04.2022  |
+| :no_entry:     | 100        | Almera    |  Passed :heavy_check_mark:  |  16.04.2022  |
+| :no_entry:     | 194        | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 195        | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 196        | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 197        | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 198        | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 199        | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 124        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:     | 125        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:     | 126        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
@@ -62,7 +85,19 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 217        | K-Fed     |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:     | 218        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:     | 277        | Fantom    |  Passed :heavy_check_mark:  |  26.04.2022  |
+| :no_entry:     | 294        | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 295        | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 296        | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 297        | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 298        | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:     | 299        | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :yellow_circle:| 304        | Kuw       |  in progress :hammer:  |  21.04.2022  |
+| :no_entry:     | 394        | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
+| :no_entry:     | 395        | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
+| :no_entry:     | 396        | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
+| :no_entry:     | 397        | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
+| :no_entry:     | 398        | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
+| :no_entry:     | 399        | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:     | 428        | Sam       |  Passed                |  26.04.2022  |
 | :yellow_circle:| 429        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
 | :no_entry:     | 430        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
@@ -72,12 +107,36 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 434        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:     | 435        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:     | 436        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:     | 453        | Almera    |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :yellow_circle:| 468        | Minase    |  in progress :hammer:  |  28.04.2022  |
 | :no_entry:     | 493        | Zhiquaran |  Passed :heavy_check_mark: |  23.04.2022  |
+| :no_entry:     | 494        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 495        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 496        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 497        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 498        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 499        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 500        | Fantom    |  Passed :heavy_check_mark:  |  26.04.2022  |
+| :no_entry:     | 594        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 595        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 596        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 597        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 598        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 599        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 694        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 695        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 696        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 697        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 698        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 699        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :yellow_circle:| 729        | HeiLi     |  in progress :hammer:  |  20.04.2022  |
+| :no_entry:     | 744        | Almera    |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :no_entry:     | 777        | JRodary   |  Passed :heavy_check_mark:  |  20.04.2022  |
 | :no_entry:     | 778        | JRodary   |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 796        | Almera    |  Passed :heavy_check_mark:  |  30.04.2022  |
+| :no_entry:     | 797        | Almera    |  Passed :heavy_check_mark:  |  28.04.2022  |
+| :no_entry:     | 798        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 799        | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :yellow_circle:| 800  | JRodary    |  in progress :hammer:  |  27.04.2022  |
 | :large_blue_circle: | 801  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 802  | Priority     |  FREE  |  00.00.2022  |
@@ -136,9 +195,18 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle: | 855  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :yellow_circle: | 856  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :yellow_circle: | 857  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :no_entry:     | 869        | Almera    |  Passed :heavy_check_mark:  |  26.04.2022  |
+| :no_entry:     | 897        | Almera    |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:     | 898        | Almera    |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:     | 899        | Almera    |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:     | 1103       | Teddy     |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:     | 1111       | Kuw       |  Passed                |  22.04.2022  |
+| :no_entry:     | 1211       | Almera    |  Passed :heavy_check_mark:  |  25.04.2022  |
 | :yellow_circle:| 1234       | Dextronomous|  in progress :hammer:  |  29.04.2022  |
+| :no_entry:     | 1267       | Almera    |  Passed :heavy_check_mark:  |  26.04.2022  |
+| :no_entry:     | 1344       | Almera    |  Passed :heavy_check_mark:  |  25.04.2022  |
+| :no_entry:     | 1365       | Almera    |  Passed :heavy_check_mark:  |  22.04.2022  |
+| :no_entry:     | 1381       | Almera    |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :no_entry:     | 1401       | Kuw       |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 1502       | Kuw       |  Passed                |  22.04.2022  |
 | :yellow_circle:| 1504       | Elone     |  in progress :hammer:  |  27.04.2022  |
@@ -191,6 +259,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 1670  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
 | :no_entry:     | 1671  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
 | :no_entry:     | 1672  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
+| :no_entry:     | 1782  | Almera    |  Passed :heavy_check_mark:  |  22.04.2022  |
 | :no_entry:     | 1844  | com bio   |  Passed |  29.05.2022  |
 | :name_badge:        | 1845  | Pirate       |  in progress :hammer:  |  30.04.2022  |
 | :name_badge:        | 1846  | Pirate       |  in progress :hammer:  |  30.04.2022  |
@@ -257,6 +326,8 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:      | 2022       | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
 | :no_entry:      | 2023       | Leonid    |  Passed :heavy_check_mark:  |  25.04.2022  |
 | :no_entry:      | 2024       | Leonid    |  Passed :heavy_check_mark:  |  25.04.2022  |
+| :no_entry:      | 2134       | Almera    |  Passed :heavy_check_mark:  |  22.04.2022  |
+| :no_entry:      | 2145        | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:      | 2220       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:      | 2221       | DworfD    |  Passed :heavy_check_mark: |  27.04.2022  |
 | :no_entry:      | 2222       | DworfD    |  Passed :heavy_check_mark: |  27.04.2022  |
@@ -381,7 +452,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 2764  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2765  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2766  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2767  | Priority     |  FREE  |  00.00.2022  |
+| :no_entry:          | 2767  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :large_blue_circle: | 2768  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2769  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2770  | Priority     |  FREE  |  00.00.2022  |
@@ -423,7 +494,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:     | 3036  | Fantom       |  in progress :hammer:  |  30.04.2022  |
 | :no_entry:          | 3037  | cpto_node    |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :large_blue_circle: | 3038  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3039  | Priority     |  FREE  |  00.00.2022  |
+| :no_entry:          | 3039  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :no_entry:          | 3040  | cpto_node    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :large_blue_circle: | 3041  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3042  | Priority     |  FREE  |  00.00.2022  |
@@ -448,6 +519,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:     | 3061  | Fantom       |  in progress :hammer:  |  30.04.2022  |
 | :no_entry:          | 3077  | hiiiii       |  Passed                |  23.04.2022  |
 | :yellow_circle:     | 3150  | Samzy        |  in progress :hammer:  |  24.04.2022  |
+| :no_entry:          | 3167  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :yellow_circle:     | 3228  | Oleg_R       |  in progress :hammer:  |  29.04.2022  |
 | :yellow_circle:     | 3241  | Oleg_R       |  in progress :hammer:  |  28.04.2022  |
 | :yellow_circle:     | 3262  | Noname       |  in progress :hammer:  |  27.04.2022  |

@@ -522,11 +522,11 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:          | 3167  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :yellow_circle:     | 3228  | Oleg_R       |  in progress :hammer:  |  29.04.2022  |
 | :yellow_circle:     | 3241  | Oleg_R       |  in progress :hammer:  |  28.04.2022  |
-| :no_entry:          | 3262  | Noname       |  in progress :hammer:  |  02.05.2022  |
-| :no_entry:          | 3268  | Noname       |  in progress :hammer:  |  02.05.2022  |
-| :no_entry:          | 3271  | Noname       |  in progress :hammer:  |  02.05.2022  |
-| :no_entry:          | 3277  | Noname       |  in progress :hammer:  |  02.05.2022  |
-| :no_entry:          | 3278  | Noname       |  in progress :hammer:  |  02.05.2022  |
-| :no_entry:          | 3279  | Noname       |  in progress :hammer:  |  02.05.2022  |
-| :no_entry:          | 3293  | Noname       |  in progress :hammer:  |  02.05.2022  |
+| :no_entry:          | 3262  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
+| :no_entry:          | 3268  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
+| :no_entry:          | 3271  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
+| :no_entry:          | 3277  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
+| :no_entry:          | 3278  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
+| :no_entry:          | 3279  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
+| :no_entry:          | 3293  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :green_circle:      | 3294-3363  | FREE    |  FREE  |  00.00.2022  |

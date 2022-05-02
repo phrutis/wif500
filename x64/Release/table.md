@@ -5,9 +5,9 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 287" : 287
+  "- Passed 288" : 288
   "     " : 0
-  "- In progress 111" : 111
+  "- In progress 112" : 112
   "- FREE 2860" : 2860
   "      " : 0
   "- FREE 106 (Recommended)" : 106
@@ -201,6 +201,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 899        | Almera    |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:     | 1103       | Teddy     |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:     | 1111       | Kuw       |  Passed                |  22.04.2022  |
+| :yellow_circle:| 1121       | KillBill_2|  in progress :hammer:  |  02.05.2022  |
 | :no_entry:     | 1211       | Almera    |  Passed :heavy_check_mark:  |  25.04.2022  |
 | :yellow_circle:| 1234       | Dextronomous|  in progress :hammer:  |  29.04.2022  |
 | :no_entry:     | 1267       | Almera    |  Passed :heavy_check_mark:  |  26.04.2022  |
@@ -466,13 +467,13 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:     | 3008  | cpto_node    |  in progress :hammer: |  28.04.2022  |
 | :yellow_circle:     | 3009  | cpto_node    |  in progress :hammer: |  28.04.2022  |
 | :yellow_circle:     | 3010  | cpto_node    |  in progress :hammer: |  28.04.2022  |
-| :yellow_circle:     | 3011  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :no_entry:          | 3011  | cpto_node    |  Passed :heavy_check_mark: |  02.05.2022  |
 | :yellow_circle:     | 3012  | cpto_node    |  in progress :hammer: |  28.04.2022  |
 | :yellow_circle:     | 3013  | cpto_node    |  in progress :hammer: |  28.04.2022  |
 | :yellow_circle:     | 3014  | cpto_node    |  in progress :hammer: |  28.04.2022  |
 | :yellow_circle:     | 3015  | cpto_node    |  in progress :hammer: |  29.04.2022  |
 | :yellow_circle:     | 3016  | cpto_node    |  in progress :hammer: |  29.04.2022  |
-| :large_blue_circle: | 3017  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3017  | cpto_node    |  in progress :hammer: |  02.05.2022  |
 | :large_blue_circle: | 3018  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3019  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3020  | Priority     |  FREE  |  00.00.2022  |

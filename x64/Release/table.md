@@ -5,9 +5,9 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 283" : 283
+  "- Passed 287" : 287
   "     " : 0
-  "- In progress 115" : 115
+  "- In progress 111" : 111
   "- FREE 2860" : 2860
   "      " : 0
   "- FREE 106 (Recommended)" : 106
@@ -352,9 +352,9 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:      | 2432      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2433      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :yellow_circle: | 2434      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2435      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry:      | 2435      | DworfD    |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :yellow_circle: | 2436      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2437      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry:      | 2437      | DworfD    |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :no_entry:      | 2438      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2439      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2440      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
@@ -375,8 +375,8 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:      | 2455      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2456      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2457      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
-| :yellow_circle: | 2458      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2459      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry:      | 2458      | DworfD    |  Passed :heavy_check_mark:  |  02.05.2022  |
+| :no_entry:      | 2459      | DworfD    |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :yellow_circle: | 2460      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2461      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2462      | DworfD    |  in progress :hammer:  |  26.04.2022  |

@@ -5,12 +5,12 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 291" : 291
+  "- Passed 298" : 298
   "     " : 0
   "- In progress 109" : 109
-  "- FREE 2860" : 2860
+  "- FREE 2854" : 2854
   "      " : 0
-  "- FREE 106 (Recommended)" : 106
+  "- FREE 105 (Recommended)" : 105
 ```
 
 :no_entry: - Range Passed</br>
@@ -99,7 +99,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 398        | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:     | 399        | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:     | 428        | Sam       |  Passed                |  26.04.2022  |
-| :yellow_circle:| 429        | K-Fed     |  in progress :hammer:  |  22.04.2022  |
+| :no_entry:     | 429        | K-Fed     |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:     | 430        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:     | 431        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:     | 432        | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
@@ -180,7 +180,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 840  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 841  | Oleg_R       |  in progress :hammer:  |  02.05.2022  |
 | :large_blue_circle: | 842  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 843  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 843  | K-Fed        |  in progress :hammer:  |  03.05.2022  |
 | :yellow_circle: | 844  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :yellow_circle: | 845  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :yellow_circle: | 846  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
@@ -311,15 +311,14 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :name_badge:        | 1891  | Pirate       |  in progress :hammer:  |  30.04.2022  |
 | :name_badge:        | 1892  | Pirate       |  in progress :hammer:  |  30.04.2022  |
 | :name_badge:        | 1893  | Pirate       |  in progress :hammer:  |  30.04.2022  |
-| :yellow_circle:     | 1894  | com bio      |  in progress :hammer:  |  29.04.2022  |
-| :yellow_circle:     | 1895  | com bio      |  in progress :hammer:  |  29.04.2022  |
-| :yellow_circle:     | 1896  | com bio      |  in progress :hammer:  |  29.04.2022  |
-| :yellow_circle:     | 1897  | com bio      |  in progress :hammer:  |  29.04.2022  |
+| :yellow_circle:     | 1894  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
+| :yellow_circle:     | 1895  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
+| :yellow_circle:     | 1896  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
+| :yellow_circle:     | 1897  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:          | 1898  | com bio      |  Passed |  29.05.2022  |
 | :no_entry:          | 1899  | com bio      |  Passed |  29.05.2022  |
-| :yellow_circle:     | 1900  | com bio      |  in progress :hammer:  |  29.04.2022  |
-| :yellow_circle:     | 1901  | com bio      |  in progress :hammer:  |  29.04.2022  |
-| :no_entry:      | 1870       | Sam       |  Passed :heavy_check_mark:  |  20.04.2022  |
+| :yellow_circle:     | 1900  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
+| :yellow_circle:     | 1901  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:      | 1924       | cpto_node |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :no_entry:      | 2019       | Leonid    |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:      | 2020       | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
@@ -444,14 +443,14 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 2755  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2756  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2757  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2758  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2759  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2760  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2761  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2762  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2763  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2764  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2765  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 2758  | com bio      |  in progress :hammer:  |  03.05.2022  |
+| :yellow_circle:     | 2759  | com bio      |  in progress :hammer:  |  03.05.2022  |
+| :yellow_circle:     | 2760  | com bio      |  in progress :hammer:  |  03.05.2022  |
+| :yellow_circle:     | 2761  | com bio      |  in progress :hammer:  |  03.05.2022  |
+| :yellow_circle:     | 2762  | com bio      |  in progress :hammer:  |  03.05.2022  |
+| :yellow_circle:     | 2763  | V            |  in progress :hammer:  |  03.05.2022  |
+| :yellow_circle:     | 2764  | com bio      |  in progress :hammer:  |  03.05.2022  |
+| :yellow_circle:     | 2765  | com bio      |  in progress :hammer:  |  03.05.2022  |
 | :large_blue_circle: | 2766  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 2767  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :large_blue_circle: | 2768  | Priority     |  FREE  |  00.00.2022  |

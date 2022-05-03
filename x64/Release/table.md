@@ -5,12 +5,12 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 312" : 312
+  "- Passed 313" : 313
   "     " : 0
   "- In progress 119" : 119
   "- FREE 2846" : 2846
   "      " : 0
-  "- FREE 104 (Recommended)" : 104
+  "- FREE 103 (Recommended)" : 103
 ```
 
 :no_entry: - Range Passed</br>
@@ -151,7 +151,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 811  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 812  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 813  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 814  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 814  | Oleg_R       |  in progress :hammer:  |  03.05.2022  |
 | :large_blue_circle: | 815  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 816  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 817  | Priority     |  FREE  |  00.00.2022  |
@@ -328,7 +328,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:      | 2023       | Leonid    |  Passed :heavy_check_mark:  |  25.04.2022  |
 | :no_entry:      | 2024       | Leonid    |  Passed :heavy_check_mark:  |  25.04.2022  |
 | :no_entry:      | 2134       | Almera    |  Passed :heavy_check_mark:  |  22.04.2022  |
-| :no_entry:      | 2145        | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
+| :no_entry:      | 2145       | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:      | 2220       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:      | 2221       | DworfD    |  Passed :heavy_check_mark: |  27.04.2022  |
 | :no_entry:      | 2222       | DworfD    |  Passed :heavy_check_mark: |  27.04.2022  |
@@ -340,7 +340,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:      | 2228       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:      | 2229       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:      | 2358      | Oleg_R    |  Passed :heavy_check_mark:  |  03.05.2022  |
-| :yellow_circle: | 2371      | Oleg_R    |  in progress :hammer:  |  29.04.2022  |
+| :no_entry:      | 2371      | Oleg_R    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:      | 2416      | Oleg_R    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:      | 2424      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2425      | DworfD    |  Passed :heavy_check_mark:  |  01.05.2022  |

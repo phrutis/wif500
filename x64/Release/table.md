@@ -7,8 +7,8 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 314" : 314
   "     " : 0
-  "- In progress 122" : 122
-  "- FREE 2846" : 2846
+  "- In progress 123" : 123
+  "- FREE 2845" : 2845
   "      " : 0
   "- FREE 85 (Recommended)" : 85
 ```
@@ -557,4 +557,5 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:     | 3298  | L-N          |  in progress :hammer:       |  03.05.2022  |
 | :yellow_circle:     | 3299  | L-N          |  in progress :hammer:       |  03.05.2022  |
 | :yellow_circle:     | 3300  | L-N          |  in progress :hammer:       |  03.05.2022  |
-| :green_circle:      | 3301-3363  | FREE    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3301  | Илья         |  in progress :hammer:  |  03.05.2022  |
+| :green_circle:      | 3302-3363  | FREE    |  FREE  |  00.00.2022  |

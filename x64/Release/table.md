@@ -7,7 +7,7 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 301" : 301
   "     " : 0
-  "- In progress 120" : 120
+  "- In progress 121" : 121
   "- FREE 2846" : 2846
   "      " : 0
   "- FREE 105 (Recommended)" : 105
@@ -454,7 +454,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:     | 2763  | V            |  in progress :hammer:  |  03.05.2022  |
 | :yellow_circle:     | 2764  | com bio      |  in progress :hammer:  |  03.05.2022  |
 | :yellow_circle:     | 2765  | com bio      |  in progress :hammer:  |  03.05.2022  |
-| :large_blue_circle: | 2766  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 2766  | com bio      |  in progress :hammer:  |  03.05.2022  |
 | :no_entry:          | 2767  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :large_blue_circle: | 2768  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2769  | Priority     |  FREE  |  00.00.2022  |

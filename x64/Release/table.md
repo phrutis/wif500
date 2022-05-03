@@ -7,7 +7,7 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 298" : 298
   "     " : 0
-  "- In progress 109" : 109
+  "- In progress 111" : 111
   "- FREE 2854" : 2854
   "      " : 0
   "- FREE 105 (Recommended)" : 105
@@ -158,7 +158,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 818  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 819  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 820  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 821  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 821  | V            |  in progress :hammer:  |  03.05.2022  |
 | :large_blue_circle: | 822  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 823  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 824  | Priority     |  FREE  |  00.00.2022  |
@@ -420,7 +420,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 2732  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2733  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2734  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2735  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 2755  | V            |  in progress :hammer:  |  03.05.2022  |
 | :large_blue_circle: | 2736  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2737  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2738  | Priority     |  FREE  |  00.00.2022  |

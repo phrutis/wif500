@@ -5,9 +5,9 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 302" : 302
+  "- Passed 304" : 304
   "     " : 0
-  "- In progress 121" : 121
+  "- In progress 119" : 119
   "- FREE 2846" : 2846
   "      " : 0
   "- FREE 104 (Recommended)" : 104
@@ -440,8 +440,8 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 2749  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 2750  | Leonid       |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:          | 2751  | Leonid       |  Passed :heavy_check_mark:  |  29.04.2022  |
-| :yellow_circle:     | 2752  | Leonid       |  in progress :hammer:  |  29.04.2022  |
-| :yellow_circle:     | 2753  | Leonid       |  in progress :hammer:  |  29.04.2022  |
+| :no_entry:          | 2752  | Leonid       |  Passed :heavy_check_mark:  |  03.05.2022  |
+| :no_entry:          | 2753  | Leonid       |  Passed  |  03.05.2022  |
 | :large_blue_circle: | 2754  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2755  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2756  | Priority     |  FREE  |  00.00.2022  |

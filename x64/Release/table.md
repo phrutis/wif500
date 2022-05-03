@@ -5,10 +5,10 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 298" : 298
+  "- Passed 301" : 301
   "     " : 0
-  "- In progress 111" : 111
-  "- FREE 2854" : 2854
+  "- In progress 120" : 120
+  "- FREE 2846" : 2846
   "      " : 0
   "- FREE 105 (Recommended)" : 105
 ```
@@ -179,7 +179,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 839  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 840  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 841  | Oleg_R       |  in progress :hammer:  |  02.05.2022  |
-| :large_blue_circle: | 842  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 842  | Oleg_R       |  in progress :hammer:  |  02.05.2022  |
 | :yellow_circle:     | 843  | K-Fed        |  in progress :hammer:  |  03.05.2022  |
 | :yellow_circle: | 844  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :yellow_circle: | 845  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
@@ -204,6 +204,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:| 1121       | KillBill_2|  in progress :hammer:  |  02.05.2022  |
 | :no_entry:     | 1211       | Almera    |  Passed :heavy_check_mark:  |  25.04.2022  |
 | :yellow_circle:| 1234       | Dextronomous|  in progress :hammer:  |  29.04.2022  |
+| :yellow_circle:| 1250       | Oleg_R    |  in progress :hammer:  |  02.05.2022  |
 | :no_entry:     | 1267       | Almera    |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :no_entry:     | 1344       | Almera    |  Passed :heavy_check_mark:  |  25.04.2022  |
 | :no_entry:     | 1365       | Almera    |  Passed :heavy_check_mark:  |  22.04.2022  |
@@ -338,9 +339,9 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:      | 2227       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:      | 2228       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:      | 2229       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
-| :yellow_circle: | 2358      | Oleg_R    |  in progress :hammer:  |  28.04.2022  |
+| :no_entry:      | 2358      | Oleg_R    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :yellow_circle: | 2371      | Oleg_R    |  in progress :hammer:  |  29.04.2022  |
-| :yellow_circle: | 2416      | Oleg_R    |  in progress :hammer:  |  29.04.2022  |
+| :no_entry:      | 2416      | Oleg_R    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:      | 2424      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2425      | DworfD    |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:      | 2426      | DworfD    |  Passed :heavy_check_mark:  |  01.05.2022  |
@@ -399,6 +400,8 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle: | 2479      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2480      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2481      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :yellow_circle: | 2648      | Oleg_R    |  in progress :hammer:  |  02.05.2022  |
+| :yellow_circle: | 2661      | Oleg_R    |  in progress :hammer:  |  02.05.2022  |
 | :no_entry:     | 2700       | Alexander |  Passed :heavy_check_mark:  |  18.04.2022  |
 | :no_entry:     | 2701       | Alexander |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :no_entry:     | 2702       | Alexander |  Passed :heavy_check_mark:  |  23.04.2022  |
@@ -520,7 +523,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:          | 3077  | hiiiii       |  Passed                |  23.04.2022  |
 | :yellow_circle:     | 3150  | Samzy        |  in progress :hammer:  |  24.04.2022  |
 | :no_entry:          | 3167  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |
-| :yellow_circle:     | 3228  | Oleg_R       |  in progress :hammer:  |  29.04.2022  |
+| :no_entry:          | 3228  | Oleg_R       |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:          | 3241  | Oleg_R       |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :no_entry:          | 3262  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :no_entry:          | 3268  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
@@ -529,4 +532,11 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:          | 3278  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :no_entry:          | 3279  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :no_entry:          | 3293  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
-| :green_circle:      | 3294-3363  | FREE    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3294  | L-N          |  in progress :hammer:       |  03.05.2022  |
+| :yellow_circle:     | 3295  | L-N          |  in progress :hammer:       |  03.05.2022  |
+| :yellow_circle:     | 3296  | L-N          |  in progress :hammer:       |  03.05.2022  |
+| :yellow_circle:     | 3297  | L-N          |  in progress :hammer:       |  03.05.2022  |
+| :yellow_circle:     | 3298  | L-N          |  in progress :hammer:       |  03.05.2022  |
+| :yellow_circle:     | 3299  | L-N          |  in progress :hammer:       |  03.05.2022  |
+| :yellow_circle:     | 3300  | L-N          |  in progress :hammer:       |  03.05.2022  |
+| :green_circle:      | 3300-3363  | FREE    |  FREE  |  00.00.2022  |

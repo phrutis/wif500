@@ -5,7 +5,7 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 304" : 304
+  "- Passed 312" : 312
   "     " : 0
   "- In progress 119" : 119
   "- FREE 2846" : 2846
@@ -352,9 +352,9 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:      | 2431      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2432      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2433      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
-| :yellow_circle: | 2434      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry:      | 2434      | DworfD    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:      | 2435      | DworfD    |  Passed :heavy_check_mark:  |  02.05.2022  |
-| :yellow_circle: | 2436      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry:      | 2436      | DworfD    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:      | 2437      | DworfD    |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :no_entry:      | 2438      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2439      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
@@ -378,8 +378,8 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:      | 2457      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:      | 2458      | DworfD    |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :no_entry:      | 2459      | DworfD    |  Passed :heavy_check_mark:  |  02.05.2022  |
-| :yellow_circle: | 2460      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2461      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry:      | 2460      | DworfD    |  Passed :heavy_check_mark:  |  03.05.2022  |
+| :no_entry:      | 2461      | DworfD    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :yellow_circle: | 2462      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2463      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2464      | DworfD    |  in progress :hammer:  |  26.04.2022  |
@@ -392,10 +392,10 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle: | 2471      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2472      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2473      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2474      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2475      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2476      | DworfD    |  in progress :hammer:  |  26.04.2022  |
-| :yellow_circle: | 2477      | DworfD    |  in progress :hammer:  |  26.04.2022  |
+| :no_entry:      | 2474      | DworfD    |  Passed :heavy_check_mark:  |  03.05.2022  |
+| :no_entry:      | 2475      | DworfD    |  Passed :heavy_check_mark:  |  03.05.2022  |
+| :no_entry:      | 2476      | DworfD    |  Passed :heavy_check_mark:  |  03.05.2022  |
+| :no_entry:      | 2477      | DworfD    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :yellow_circle: | 2478      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2479      | DworfD    |  in progress :hammer:  |  26.04.2022  |
 | :yellow_circle: | 2480      | DworfD    |  in progress :hammer:  |  26.04.2022  |

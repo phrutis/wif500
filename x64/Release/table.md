@@ -5,12 +5,12 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 319" : 319
+  "- Passed 320" : 320
   "     " : 0
   "- In progress 118" : 118
   "- FREE 2846" : 2846
   "      " : 0
-  "- FREE 84 (Recommended)" : 84
+  "- FREE 83 (Recommended)" : 83
 ```
 
 :no_entry: - Range Passed</br>
@@ -162,43 +162,43 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:| 804       | 047       |  in progress :hammer:  |  02.05.2022  |
 | :yellow_circle:| 805       | 047       |  in progress :hammer:  |  02.05.2022  |
 | :yellow_circle:| 806       | 047       |  in progress :hammer:  |  02.05.2022  |
-| :large_blue_circle: | 807  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 808  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 809  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 810  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 811  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle: | 812      | Sam          |  in progress :hammer: |  03.05.2022  |
-| :yellow_circle: | 813      | Sam          |  in progress :hammer: |  03.05.2022  |
-| :yellow_circle:     | 814  | Oleg_R       |  in progress :hammer: |  03.05.2022  |
-| :large_blue_circle: | 815  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 816  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 817  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 818  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 819  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 820  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle:     | 821  | V            |  in progress :hammer:  |  03.05.2022  |
-| :large_blue_circle: | 822  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 823  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 824  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 825  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 826  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 827  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 828  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 829  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 830  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 831  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 832  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 833  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 834  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 835  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 836  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 837  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 838  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 839  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 840  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle:     | 841  | Oleg_R       |  in progress :hammer:  |  02.05.2022  |
-| :yellow_circle:     | 842  | Oleg_R       |  in progress :hammer:  |  02.05.2022  |
-| :yellow_circle:     | 843  | K-Fed        |  in progress :hammer:  |  03.05.2022  |
+| :large_blue_circle: | 807  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 808  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 809  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 810  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 811  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle: | 812      | Sam         |  in progress :hammer: |  03.05.2022  |
+| :yellow_circle: | 813      | Sam         |  in progress :hammer: |  03.05.2022  |
+| :yellow_circle:     | 814  | Oleg_R      |  in progress :hammer: |  03.05.2022  |
+| :large_blue_circle: | 815  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 816  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 817  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 818  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 819  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 820  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 821  | V           |  in progress :hammer:  |  03.05.2022  |
+| :large_blue_circle: | 822  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 823  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 824  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 825  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 826  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 827  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 828  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 829  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 830  | cpto_node   |  in progress :hammer: |  03.05.2022  |
+| :large_blue_circle: | 831  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 832  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 833  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 834  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 835  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 836  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 837  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 838  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 839  | Priority    |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 840  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 841  | Oleg_R      |  in progress :hammer:  |  02.05.2022  |
+| :yellow_circle:     | 842  | Oleg_R      |  in progress :hammer:  |  02.05.2022  |
+| :yellow_circle:     | 843  | K-Fed       |  in progress :hammer:  |  03.05.2022  |
 | :yellow_circle: | 844  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :yellow_circle: | 845  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :yellow_circle: | 846  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
@@ -522,7 +522,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:          | 3043  | cpto_node    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :large_blue_circle: | 3044  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3045  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle:     | 3046  | cpto_node    |  in progress :hammer:  |  30.04.2022  |
+| :no_entry:          | 3046  | cpto_node    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :large_blue_circle: | 3047  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3048  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 3049  | cpto_node    |  in progress :hammer:  |  30.04.2022  |

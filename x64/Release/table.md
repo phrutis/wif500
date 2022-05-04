@@ -7,10 +7,10 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 323" : 323
   "     " : 0
-  "- In progress 209" : 209
+  "- In progress 213" : 213
   "- FREE 2753" : 2753
   "      " : 0
-  "- FREE 82 (Recommended)" : 82
+  "- FREE 78 (Recommended)" : 78
 ```
 
 :no_entry: - Range Passed</br>
@@ -255,10 +255,10 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:| 804       | 047       |  in progress :hammer:  |  02.05.2022  |
 | :yellow_circle:| 805       | 047       |  in progress :hammer:  |  02.05.2022  |
 | :yellow_circle:| 806       | 047       |  in progress :hammer:  |  02.05.2022  |
-| :large_blue_circle: | 807  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 808  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 809  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 810  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle: | 807  | Jo Z    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle: | 808  | Jo Z    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle: | 809  | Jo Z    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle: | 810  | Jo Z    |  in progress :hammer:  |  04.05.2022  |
 | :large_blue_circle: | 811  | Priority    |  FREE  |  00.00.2022  |
 | :yellow_circle: | 812      | Sam         |  in progress :hammer: |  03.05.2022  |
 | :yellow_circle: | 813      | Sam         |  in progress :hammer: |  03.05.2022  |

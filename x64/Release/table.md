@@ -5,12 +5,12 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 352" : 352
+  "- Passed 302" : 302
   "     " : 0
-  "- In progress 195" : 195
-  "- FREE 2752" : 2752
+  "- In progress 185" : 185
+  "- FREE 2759" : 2759
   "      " : 0
-  "- FREE 77 (Recommended)" : 77
+  "- FREE 118 (Recommended)" : 118
 ```
 
 :no_entry: - Range Passed</br>

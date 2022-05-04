@@ -7,10 +7,10 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 306" : 306
   "     " : 0
-  "- In progress 181" : 181
+  "- In progress 192" : 192
   "- FREE 2759" : 2759
   "      " : 0
-  "- FREE 118 (Recommended)" : 118
+  "- FREE 107 (Recommended)" : 107
 ```
 
 :no_entry: - Range Passed</br>
@@ -382,30 +382,30 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 1851  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1852  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1853  | Priority    |  FREE  |  00.00.2022  |
-| :no_entry:          | 1854  | Oleg_R       |  Passed :heavy_check_mark: |  02.05.2022  |
+| :no_entry:          | 1854  | Oleg_R      |  Passed :heavy_check_mark: |  02.05.2022  |
 | :large_blue_circle: | 1855  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1856  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1857  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1858  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1859  | Priority    |  FREE  |  00.00.2022  |
-| :no_entry:          | 1860  | Sam          |  Passed :heavy_check_mark: |  29.04.2022  |
-| :large_blue_circle: | 1861  | Priority    |  FREE  |  00.00.2022  |
-| :no_entry:          | 1862  | Sam          |  Passed :heavy_check_mark: |  29.04.2022  |
-| :large_blue_circle: | 1863  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1864  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1865  | Priority    |  FREE  |  00.00.2022  |
-| :yellow_circle:     | 1866  | Kuw          |  in progress :hammer:  |  25.04.2022  |
-| :large_blue_circle: | 1867  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1868  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 1857  | cpto_node   |  in progress :hammer: |  04.05.2022  |
+| :yellow_circle:     | 1858  | cpto_node   |  in progress :hammer: |  04.05.2022  |
+| :yellow_circle:     | 1859  | cpto_node   |  in progress :hammer: |  04.05.2022  |
+| :no_entry:          | 1860  | Sam         |  Passed :heavy_check_mark: |  29.04.2022  |
+| :yellow_circle:     | 1861  | cpto_node   |  in progress :hammer: |  04.05.2022  |
+| :no_entry:          | 1862  | Sam         |  Passed :heavy_check_mark: |  29.04.2022  |
+| :yellow_circle:     | 1863  | cpto_node   |  in progress :hammer: |  04.05.2022  |
+| :yellow_circle:     | 1864  | cpto_node   |  in progress :hammer: |  04.05.2022  |
+| :yellow_circle:     | 1865  | cpto_node   |  in progress :hammer: |  04.05.2022  |
+| :yellow_circle:     | 1866  | Kuw         |  in progress :hammer:  |  25.04.2022  |
+| :yellow_circle:     | 1867  | cpto_node   |  in progress :hammer: |  04.05.2022  |
+| :yellow_circle:     | 1868  | cpto_node   |  in progress :hammer: |  04.05.2022  |
 | :large_blue_circle: | 1869  | Priority    |  FREE  |  00.00.2022  |
-| :no_entry:          | 1870  | Sam          |  Passed :heavy_check_mark:  |  20.00.2022  |
+| :no_entry:          | 1870  | Sam         |  Passed :heavy_check_mark:  |  20.00.2022  |
 | :large_blue_circle: | 1871  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1872  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1873  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1874  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1875  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1876  | Priority    |  FREE  |  00.00.2022  |
-| :yellow_circle:     | 1877  | Kuw    | in progress :hammer: |  25.04.2022  |
+| :yellow_circle:     | 1877  | Kuw         | in progress :hammer: |  25.04.2022  |
 | :large_blue_circle: | 1878  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1879  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1880  | Priority    |  FREE  |  00.00.2022  |

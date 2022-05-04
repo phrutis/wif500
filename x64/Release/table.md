@@ -223,7 +223,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 494     | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 495     | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 496     | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
-| :no_entry:     | 497     | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 497     | Almera    |  Passed |  27.04.2022  |
 | :no_entry:     | 498     | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 499     | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 500     | Fantom    |  Passed :heavy_check_mark:  |  26.04.2022  |

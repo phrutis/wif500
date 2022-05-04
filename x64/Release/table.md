@@ -7,8 +7,8 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 323" : 323
   "     " : 0
-  "- In progress 116" : 116
-  "- FREE 2846" : 2846
+  "- In progress 209" : 209
+  "- FREE 2753" : 2753
   "      " : 0
   "- FREE 82 (Recommended)" : 82
 ```
@@ -88,6 +88,99 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 98      | Almera    |  Passed :heavy_check_mark:  |  16.04.2022  |
 | :no_entry:     | 99      | Almera    |  Passed :heavy_check_mark:  |  16.04.2022  |
 | :no_entry:     | 100     | Almera    |  Passed :heavy_check_mark:  |  16.04.2022  |
+| :yellow_circle:| 101     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 102     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 103     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 104     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 105     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 106     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 107     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 108     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 109     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 110     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 111     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 112     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 113     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 114     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 115     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 116     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 117     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 118     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 119     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 120     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 121     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 122     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 123     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 124     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 125     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 126     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 127     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 128     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 129     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 130     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 131     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 132     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 133     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 134     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 135     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 136     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 137     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 138     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 139     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 140     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 141     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 142     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 143     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 144     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 145     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 146     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 147     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 148     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 149     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 150     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 151     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 152     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 153     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 154     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 155     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 156     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 157     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 158     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 159     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 160     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 161     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 162     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 163     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 164     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 165     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 166     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 167     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 168     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 169     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 170     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 171     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 172     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 173     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 174     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 175     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 176     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 177     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 178     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 179     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 180     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 181     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 182     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 183     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 184     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 185     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 186     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 187     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 188     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 189     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 190     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 191     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 192     | Almera    |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 193     | Almera    |  in progress :hammer:  |  04.05.2022  |
 | :no_entry:     | 194     | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 195     | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 196     | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |

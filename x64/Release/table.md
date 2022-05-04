@@ -5,9 +5,9 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 304" : 304
+  "- Passed 306" : 306
   "     " : 0
-  "- In progress 183" : 183
+  "- In progress 181" : 181
   "- FREE 2759" : 2759
   "      " : 0
   "- FREE 118 (Recommended)" : 118
@@ -578,11 +578,11 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:          | 3006  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3007  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3008  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |
-| :yellow_circle:     | 3009  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :no_entry:          | 3009  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3010  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3011  | cpto_node    |  Passed :heavy_check_mark: |  02.05.2022  |
 | :no_entry:          | 3012  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |
-| :yellow_circle:     | 3013  | cpto_node    |  in progress :hammer: |  28.04.2022  |
+| :no_entry:          | 3013  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3014  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3015  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3016  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |

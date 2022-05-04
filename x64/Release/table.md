@@ -7,10 +7,10 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 335" : 335
   "     " : 0
-  "- In progress 201" : 201
-  "- FREE 2753" : 2753
+  "- In progress 203" : 203
+  "- FREE 2752" : 2752
   "      " : 0
-  "- FREE 78 (Recommended)" : 78
+  "- FREE 77 (Recommended)" : 77
 ```
 
 :no_entry: - Range Passed</br>
@@ -255,11 +255,11 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:| 804       | 047       |  in progress :hammer:  |  02.05.2022  |
 | :yellow_circle:| 805       | 047       |  in progress :hammer:  |  02.05.2022  |
 | :yellow_circle:| 806       | 047       |  in progress :hammer:  |  02.05.2022  |
-| :yellow_circle: | 807  | Jo Z    |  in progress :hammer:  |  04.05.2022  |
-| :yellow_circle: | 808  | Jo Z    |  in progress :hammer:  |  04.05.2022  |
-| :yellow_circle: | 809  | Jo Z    |  in progress :hammer:  |  04.05.2022  |
-| :yellow_circle: | 810  | Jo Z    |  in progress :hammer:  |  04.05.2022  |
-| :large_blue_circle: | 811  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle: | 807      | Jo Z      |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle: | 808      | Jo Z      |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle: | 809      | Jo Z      |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle: | 810      | Jo Z      |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle: | 811      | Oleg_R      |  in progress :hammer: |  05.05.2022  |
 | :yellow_circle: | 812      | Sam         |  in progress :hammer: |  03.05.2022  |
 | :yellow_circle: | 813      | Sam         |  in progress :hammer: |  03.05.2022  |
 | :yellow_circle:     | 814  | Oleg_R      |  in progress :hammer: |  03.05.2022  |
@@ -450,6 +450,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:      | 2227       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:      | 2228       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:      | 2229       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
+| :yellow_circle: | 2345      | Oleg_R     |  in progress :hammer:      |  04.05.2022  |
 | :no_entry:      | 2358      | Oleg_R    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:      | 2371      | Oleg_R    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:      | 2416      | Oleg_R    |  Passed :heavy_check_mark:  |  03.05.2022  |

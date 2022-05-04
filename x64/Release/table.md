@@ -5,9 +5,9 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 325" : 325
+  "- Passed 332" : 332
   "     " : 0
-  "- In progress 211" : 211
+  "- In progress 204" : 204
   "- FREE 2753" : 2753
   "      " : 0
   "- FREE 78 (Recommended)" : 78
@@ -573,7 +573,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 2771  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 2977  | hiiiii       |  in progress :hammer:  |  23.04.2022  |
 | :no_entry:          | 3000  | Fantom       |  Passed :heavy_check_mark:  |  26.04.2022  |
-| :yellow_circle:     | 3004  | Fantom       |  in progress :hammer: |  30.04.2022  |
+| :no_entry:          | 3004  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :yellow_circle:     | 3005  | cpto_node    |  in progress :hammer: |  28.04.2022  |
 | :yellow_circle:     | 3006  | cpto_node    |  in progress :hammer: |  28.04.2022  |
 | :yellow_circle:     | 3007  | cpto_node    |  in progress :hammer: |  28.04.2022  |
@@ -591,7 +591,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 3019  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3020  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 3021  | Kripto       |  Passed :heavy_check_mark:  |  18.04.2022  |
-| :yellow_circle:     | 3022  | Fantom       |  in progress :hammer:  |  30.04.2022  |
+| :no_entry:          | 3022  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3023  | Kripto       |  Passed :heavy_check_mark:  |  22.04.2022  |
 | :yellow_circle:     | 3024  | Fantom       |  in progress :hammer:  |  30.04.2022  |
 | :no_entry:          | 3025  | Kripto       |  Passed :heavy_check_mark:  |  26.04.2022  |
@@ -599,13 +599,13 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:          | 3027  | Kripto       |  Passed :heavy_check_mark: |  29.04.2022  |
 | :large_blue_circle: | 3028  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 3029  | Kripto       |  Passed :heavy_check_mark:  |  03.05.2022  |
-| :yellow_circle:     | 3030  | Fantom       |  in progress :hammer:  |  30.04.2022  |
+| :no_entry:          | 3030  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :yellow_circle:     | 3031  | Kripto       |  in progress :hammer:  |  03.05.2022  |
 | :large_blue_circle: | 3032  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 3033  | Fantom       |  in progress :hammer:  |  30.04.2022  |
 | :no_entry:          | 3034  | cpto_node    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :large_blue_circle: | 3035  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle:     | 3036  | Fantom       |  in progress :hammer:  |  30.04.2022  |
+| :no_entry:          | 3036  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3037  | cpto_node    |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :large_blue_circle: | 3038  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 3039  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |
@@ -624,13 +624,13 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 3052  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 3053  | Fantom       |  in progress :hammer:  |  30.04.2022  |
 | :large_blue_circle: | 3054  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle:     | 3055  | Fantom       |  in progress :hammer:  |  01.05.2022  |
+| :no_entry:          | 3055  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :large_blue_circle: | 3056  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle:     | 3057  | Fantom       |  in progress :hammer:  |  30.04.2022  |
+| :no_entry:          | 3057  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :large_blue_circle: | 3058  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3059  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 3060  | aiyulu       |  in progress :hammer:  |  28.04.2022  |
-| :yellow_circle:     | 3061  | Fantom       |  in progress :hammer:  |  30.04.2022  |
+| :no_entry:          | 3061  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3077  | hiiiii       |  Passed                |  23.04.2022  |
 | :yellow_circle:     | 3150  | Samzy        |  in progress :hammer:  |  24.04.2022  |
 | :no_entry:          | 3167  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |

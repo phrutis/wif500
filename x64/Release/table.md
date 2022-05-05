@@ -5,9 +5,9 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 306" : 306
+  "- Passed 312" : 312
   "     " : 0
-  "- In progress 199" : 199
+  "- In progress 193" : 193
   "- FREE 2759" : 2759
   "      " : 0
   "- FREE 100 (Recommended)" : 100
@@ -422,14 +422,14 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 1891  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1892  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1893  | Priority    |  FREE  |  00.00.2022  |
-| :yellow_circle:     | 1894  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
-| :yellow_circle:     | 1895  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
-| :yellow_circle:     | 1896  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
-| :yellow_circle:     | 1897  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
+| :no_entry:          | 1894  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
+| :no_entry:          | 1895  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
+| :no_entry:          | 1896  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
+| :no_entry:          | 1897  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:          | 1898  | com bio      |  Passed |  29.05.2022  |
 | :no_entry:          | 1899  | com bio      |  Passed |  29.05.2022  |
-| :yellow_circle:     | 1900  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
-| :yellow_circle:     | 1901  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
+| :no_entry:          | 1900  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
+| :no_entry:          | 1901  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:      | 1924       | cpto_node |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :no_entry:      | 2019       | Leonid    |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:      | 2020       | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |

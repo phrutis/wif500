@@ -5,9 +5,9 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 314" : 314
+  "- Passed 315" : 315
   "     " : 0
-  "- In progress 197" : 197
+  "- In progress 196" : 196
   "- FREE 2759" : 2759
   "      " : 0
   "- FREE 94 (Recommended)" : 94
@@ -41,7 +41,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 14      | 047       |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 15      | 047       |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 16      | 047       |  Passed :heavy_check_mark:  |  28.04.2022  |
-| :yellow_circle:| 17      | Zhiquaran |  in progress :hammer:  |  23.04.2022  |
+| :no_entry:     | 17      | Zhiquaran |  Passed :heavy_check_mark:  |  06.05.2022  |
 | :no_entry:     | 18      | 047       |  Passed :heavy_check_mark:  |  28.04.2022  |
 | :yellow_circle:| 19      | 047       |  in progress :hammer:  |  24.04.2022  |
 | :no_entry:     | 20      | 047       |  Passed :heavy_check_mark:  |  28.04.2022  |

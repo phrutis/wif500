@@ -101,7 +101,7 @@ I have a weak card, help me, tell me the key.</br>
 I don't know how to run. Look right,</br> 
 I'm running. I don't have gpu.</br> 
 hahaha I went through everything, it's empty.</br> 
-It's fake. I don't understand anything, but you still help me.<hr>
+It's fake. I don't understand anything, but you still help me.</br>
 
 I have a telegram full of similar messages. </br>
 It's hard to answer the same questions to everyone.</br>
@@ -112,7 +112,8 @@ Questions not related to the challenge do not write to me.<hr>
 phrutis why are you deleting hunters and being so demanding on screenshots?</br>
 I believe that the group does not need observers (not active hunters)</br>
 Why are they there to us?</br>
-If a person is added, then he has read the rules. He should tell me the range number he has chosen and is looking for.</br> 
+If a person is added, then he has read the rules. </br>
+He should tell me the range number he has chosen and is looking for.</br> 
 If he only plans to do it, he will be added when he is ready.</br>
 Yes, I need screenshots to know for sure that a certain range is 100% passed.</br>
 After all, if someone cheats and the key is in his range, everyone will lose.<hr>
@@ -121,7 +122,8 @@ Why did you free my range? I'm still looking.</br>
 Each range has a start date. </br>
 If 10-12 days have passed, I check with a specific hunter about the process. </br>
 If silence, the range is released. </br>
-If this is the hunter's only range, it is removed. He can return to the group later and confirm 100% completion.<hr>
+If this is the hunter's only range, it is removed.</br> 
+He can return to the group later and confirm 100% completion.<hr>
 
 
 I am a miner, I have a pool of 300 gpu, my brother has 170, there is access to people with 1000 gpu.</br> 
@@ -131,7 +133,8 @@ winner, mediator, developer, to pay compensation to hunters. </br>
 If you find the key there is no guarantee to the participants. </br>
 We'd better take it easy on our own.</br>
 Do not consider the challenge as earnings. This is a lottery. </br>
-So that you don't risk too much. You can take part to use a small part of your gpu resources.</br>
+So that you don't risk too much. </br>
+You can take part to use a small part of your gpu resources.</br>
 For example, 100, 200 cards, leave the rest in mining.<hr>
 
 Bro I don't have gpu what should i do?</br>
@@ -142,7 +145,8 @@ Here is the correct "F"</br>
 Take your correct letter and look for yourself.<hr>
 
 How can I rent gpu cards? I do not know how to do that.</br>
-Ask for help in the group, they will help you, prompt. Unfortunately there are no instructions yet.<hr>
+Ask for help in the group, they will help you, prompt. </br>
+Unfortunately there are no instructions yet.<hr>
 
 
 I will search at the end when there are few ranges left. So my chances will be higher :-)</br>

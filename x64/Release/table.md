@@ -621,9 +621,9 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 3047  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3048  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 3049  | cpto_node    |  Passed :heavy_check_mark:  | 04.04.2022  |
-| :yellow_circle:     | 3050  | frodo99      |  in progress :hammer:  |  06.05.2022  |
-| :yellow_circle:     | 3051  | frodo99      |  in progress :hammer:  |  06.05.2022  |
-| :yellow_circle:     | 3052  | frodo99      |  in progress :hammer:  |  06.05.2022  |
+| :yellow_circle:     | 3050  | Alexsandr    |  in progress :hammer:  |  06.05.2022  |
+| :yellow_circle:     | 3051  | Alexsandr    |  in progress :hammer:  |  06.05.2022  |
+| :yellow_circle:     | 3052  | Alexsandr    |  in progress :hammer:  |  06.05.2022  |
 | :no_entry:          | 3053  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :large_blue_circle: | 3054  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 3055  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |

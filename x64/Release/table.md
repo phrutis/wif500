@@ -62,11 +62,11 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :green_circle: | 35      | FREE    |  FREE  |  00.00.2022  |
 | :green_circle: | 36      | FREE    |  FREE  |  00.00.2022  |
 | :green_circle: | 37      | FREE    |  FREE  |  00.00.2022  |
-| :green_circle: | 38      | FREE    |  FREE  |  00.00.2022  |
-| :green_circle: | 39      | FREE    |  FREE  |  00.00.2022  |
-| :green_circle: | 40      | FREE    |  FREE  |  00.00.2022  |
-| :green_circle: | 41      | FREE    |  FREE  |  00.00.2022  |
-| :green_circle: | 42      | FREE    |  FREE  |  00.00.2022  |
+| :yellow_circle:| 38      | Mars42  |  in progress :hammer: |  06.05.2022  |
+| :yellow_circle:| 39      | Mars42  |  in progress :hammer: |  06.05.2022  |
+| :yellow_circle:| 40      | Mars42  |  in progress :hammer: |  06.05.2022  |
+| :yellow_circle:| 41      | Mars42  |  in progress :hammer: |  06.05.2022  |
+| :yellow_circle:| 42      | Mars42  |  in progress :hammer: |  06.05.2022  |
 | :no_entry:     | 43      | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:     | 44      | V         |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :no_entry:     | 55      | V         |  Passed :heavy_check_mark:  |  02.05.2022  |
@@ -201,6 +201,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 297     | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 298     | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 299     | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :yellow_circle:| 300     | Mars42    |  in progress :hammer: |  06.05.2022  |
 | :yellow_circle:| 304     | Kuw       |  in progress :hammer:  |  21.04.2022  |
 | :no_entry:     | 394     | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:     | 395     | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
@@ -378,8 +379,8 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 1847  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1848  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1849  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1850  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1851  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3850  | Mars42      |  in progress :hammer: |  06.05.2022  |
+| :yellow_circle:     | 1851  | Mars42      |  in progress :hammer: |  06.05.2022  |
 | :large_blue_circle: | 1852  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1853  | Priority    |  FREE  |  00.00.2022  |
 | :no_entry:          | 1854  | Oleg_R      |  Passed :heavy_check_mark: |  02.05.2022  |

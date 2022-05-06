@@ -5,12 +5,12 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 313" : 313
+  "- Passed 314" : 314
   "     " : 0
   "- In progress 197" : 197
   "- FREE 2759" : 2759
   "      " : 0
-  "- FREE 95 (Recommended)" : 95
+  "- FREE 94 (Recommended)" : 94
 ```
 
 :no_entry: - Range Passed</br>
@@ -253,7 +253,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:| 803       | 047       |  in progress :hammer:  |  02.05.2022  |
 | :yellow_circle:| 804       | 047       |  in progress :hammer:  |  02.05.2022  |
 | :yellow_circle:| 805       | 047       |  in progress :hammer:  |  02.05.2022  |
-| :yellow_circle:| 806       | 047       |  in progress :hammer:  |  02.05.2022  |
+| :yellow_circle:| 806       | 047       |  Passed :heavy_check_mark:  |  06.05.2022  |
 | :yellow_circle: | 807      | Jo Z      |  in progress :hammer:  |  04.05.2022  |
 | :yellow_circle: | 808      | Jo Z      |  in progress :hammer:  |  04.05.2022  |
 | :yellow_circle: | 809      | Jo Z      |  in progress :hammer:  |  04.05.2022  |
@@ -261,8 +261,8 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle: | 811      | Oleg_R      |  in progress :hammer: |  05.05.2022  |
 | :yellow_circle: | 812      | Sam         |  in progress :hammer: |  03.05.2022  |
 | :yellow_circle: | 813      | Sam         |  in progress :hammer: |  03.05.2022  |
-| :yellow_circle:     | 814  | Oleg_R      |  in progress :hammer: |  03.05.2022  |
-| :large_blue_circle: | 815  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle: | 814      | Oleg_R      |  in progress :hammer: |  03.05.2022  |
+| :yellow_circle: | 815      | 047         |  in progress :hammer: |  06.05.2022  |
 | :large_blue_circle: | 816  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 817  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 818  | Priority    |  FREE  |  00.00.2022  |

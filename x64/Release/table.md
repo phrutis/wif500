@@ -5,12 +5,12 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 317" : 317
+  "- Passed 322" : 322
   "     " : 0
-  "- In progress 207" : 207
+  "- In progress 206" : 206
   "- FREE 2758" : 2758
   "      " : 0
-  "- FREE 89 (Recommended)" : 89
+  "- FREE 85 (Recommended)" : 85
 ```
 
 :no_entry: - Range Passed</br>
@@ -43,7 +43,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 16      | 047       |  Passed :heavy_check_mark:  |  28.04.2022  |
 | :no_entry:     | 17      | Zhiquaran |  Passed :heavy_check_mark:  |  06.05.2022  |
 | :no_entry:     | 18      | 047       |  Passed :heavy_check_mark:  |  28.04.2022  |
-| :yellow_circle:| 19      | 047       |  in progress :hammer:  |  24.04.2022  |
+| :no_entry:     | 19      | 047       |  Passed :heavy_check_mark:  |  06.05.2022  |
 | :no_entry:     | 20      | 047       |  Passed :heavy_check_mark:  |  28.04.2022  |
 | :no_entry:     | 21      | Zhiquaran |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:     | 22      | 047       |  Passed :heavy_check_mark:  |  28.04.2022  |
@@ -249,10 +249,10 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 798       | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 799       | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 800       | JRodary   |  Passed :heavy_check_mark:  |  06.05.2022  |
-| :yellow_circle:| 801       | 047       |  in progress :hammer:  |  02.05.2022  |
-| :yellow_circle:| 802       | 047       |  in progress :hammer:  |  02.05.2022  |
-| :yellow_circle:| 803       | 047       |  in progress :hammer:  |  02.05.2022  |
-| :yellow_circle:| 804       | 047       |  in progress :hammer:  |  02.05.2022  |
+| :no_entry:     | 801       | 047       |  Passed :heavy_check_mark:  |  06.05.2022  |
+| :no_entry:     | 802       | 047       |  Passed :heavy_check_mark:  |  06.05.2022  |
+| :no_entry:     | 803       | 047       |  Passed :heavy_check_mark:  |  06.05.2022  |
+| :no_entry:     | 804       | 047       |  Passed :heavy_check_mark:  |  06.05.2022  |
 | :yellow_circle:| 805       | 047       |  in progress :hammer:  |  02.05.2022  |
 | :yellow_circle:| 806       | 047       |  Passed :heavy_check_mark:  |  06.05.2022  |
 | :yellow_circle: | 807      | Jo Z      |  in progress :hammer:  |  04.05.2022  |
@@ -264,10 +264,10 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle: | 813      | Sam         |  in progress :hammer: |  03.05.2022  |
 | :yellow_circle: | 814      | Oleg_R      |  in progress :hammer: |  03.05.2022  |
 | :yellow_circle: | 815      | 047         |  in progress :hammer: |  06.05.2022  |
-| :large_blue_circle: | 816  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 817  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 818  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 819  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle: | 816      | 047         |  in progress :hammer: |  06.05.2022  |
+| :yellow_circle: | 817      | 047         |  in progress :hammer: |  06.05.2022  |
+| :yellow_circle: | 818      | 047         |  in progress :hammer: |  06.05.2022  |
+| :yellow_circle: | 819      | 047         |  in progress :hammer: |  06.05.2022  |
 | :yellow_circle:     | 820  | cpto_node   |  in progress :hammer: |  05.05.2022  |
 | :yellow_circle:     | 821  | V           |  in progress :hammer: |  03.05.2022  |
 | :large_blue_circle: | 822  | Priority    |  FREE  |  00.00.2022  |

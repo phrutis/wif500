@@ -157,5 +157,10 @@ What are the best ranges to look for? Where are the chances?</br>
 In blue, (while they are still there) because they are candidates.</br>
 And so everywhere the chance is the same.<hr>
 
-
+Why are some passed ranges without green check marks?</br>
+The hunter passed more than 90%, but for some reason did not have time (could not) take a screenshot of 100%. </br>
+There were cases when they launched from bat files, after 100% the console window closed automatically.</br>
+This range is assigned to him for compensation.</br>
+When there are very few ranges left, it will become free again.</br>
+If another hunter passes it, then he will become its owner.<hr>
 

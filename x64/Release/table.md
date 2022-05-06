@@ -5,12 +5,12 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 312" : 312
+  "- Passed 313" : 313
   "     " : 0
   "- In progress 197" : 197
   "- FREE 2759" : 2759
   "      " : 0
-  "- FREE 96 (Recommended)" : 96
+  "- FREE 95 (Recommended)" : 95
 ```
 
 :no_entry: - Range Passed</br>
@@ -247,7 +247,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 797       | Almera    |  Passed :heavy_check_mark:  |  28.04.2022  |
 | :no_entry:     | 798       | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 799       | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
-| :yellow_circle:| 800       | JRodary   |  in progress :hammer:  |  27.04.2022  |
+| :no_entry:     | 800       | JRodary   |  Passed :heavy_check_mark:  |  06.05.2022  |
 | :yellow_circle:| 801       | 047       |  in progress :hammer:  |  02.05.2022  |
 | :yellow_circle:| 802       | 047       |  in progress :hammer:  |  02.05.2022  |
 | :yellow_circle:| 803       | 047       |  in progress :hammer:  |  02.05.2022  |
@@ -397,7 +397,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:     | 1866  | Kuw         |  in progress :hammer:  |  25.04.2022  |
 | :yellow_circle:     | 1867  | cpto_node   |  in progress :hammer: |  04.05.2022  |
 | :yellow_circle:     | 1868  | cpto_node   |  in progress :hammer: |  04.05.2022  |
-| :large_blue_circle: | 1869  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 1869  | JRodary     |  in progress :hammer:  |  06.05.2022  |
 | :no_entry:          | 1870  | Sam         |  Passed :heavy_check_mark:  |  20.00.2022  |
 | :large_blue_circle: | 1871  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1872  | Priority    |  FREE  |  00.00.2022  |

@@ -146,7 +146,8 @@ Ask for help in the group, they will help you, prompt. Unfortunately there are n
 
 
 I will search at the end when there are few ranges left. So my chances will be higher :-)</br>
-This is not logical, the key can be found earlier, or in the middle of the path. Your odds calculations will be broken.<hr>
+This is not logical, the key can be found earlier, or in the middle of the path.</br> 
+Your odds calculations will be broken.<hr>
 
 What are the best ranges to look for? Where are the chances?</br>
 In blue, (while they are still there) because they are candidates.</br>

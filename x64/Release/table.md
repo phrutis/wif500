@@ -5,9 +5,9 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 323" : 323
+  "- Passed 324" : 324
   "     " : 0
-  "- In progress 205" : 205
+  "- In progress 204" : 204
   "- FREE 2758" : 2758
   "      " : 0
   "- FREE 85 (Recommended)" : 85
@@ -315,7 +315,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 1121    | KillBill_2|  Passed                |  06.05.2022  |
 | :no_entry:     | 1211    | Almera    |  Passed :heavy_check_mark:  |  25.04.2022  |
 | :yellow_circle:| 1234    | Dextronomous|  in progress :hammer:  |  29.04.2022  |
-| :yellow_circle:| 1250    | Oleg_R    |  in progress :hammer:  |  02.05.2022  |
+| :no_entry:     | 1250    | Oleg_R    |  Passed :heavy_check_mark:  |  06.05.2022  |
 | :no_entry:     | 1267    | Almera    |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :no_entry:     | 1344    | Almera    |  Passed :heavy_check_mark:  |  25.04.2022  |
 | :no_entry:     | 1365    | Almera    |  Passed :heavy_check_mark:  |  22.04.2022  |

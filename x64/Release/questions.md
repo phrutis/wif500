@@ -118,16 +118,13 @@ Why did you free my range? I'm still looking.
 Each range has a start date. If 10-12 days have passed, I check with a specific hunter about the process. If silence, the range is released. If this is the hunter's only range, it is removed. He can return to the group later and confirm 100% completion.
 
 
-I am a miner, I have a pool of 300 gpu, my brother has 170, there is access to people with 1000 gpu. Close the challenge, I'll find the key quickly, give me the source code, we'll share the coins, etc.
+I am a miner, I have a pool of 300 gpu, my brother has 170, there is access to people with 1000 gpu. Close the challenge, give us the source, I'll find the key quickly, we'll divide the coins, etc.
 
-No, I need a key. I need to share with
-winner, mediator, developer, with compensation hunters. If you find the key there is no guarantee to the participants. We'd better take it easy on our own.
+No, I need an encrypted key. I need to share with
+winner, mediator, developer, to pay compensation to hunters. If you find the key there is no guarantee to the participants. We'd better take it easy on our own.
 
-Do not consider the challenge as earnings. This is a lottery. So as not to risk too much. You can take part to use a small part of your gpu resources.
+Do not consider the challenge as earnings. This is a lottery. So that you don't risk too much. You can take part to use a small part of your gpu resources.
 For example, 100, 200 cards, leave the rest in mining.
-
-
-
 
 
 

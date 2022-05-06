@@ -164,3 +164,6 @@ This range is assigned to him for compensation.</br>
 When there are very few ranges left, it will become free again.</br>
 If another hunter passes it, then he will become its owner.<hr>
 
+I'm worried that someone is faking a sequel from the end.</br>
+Do not worry, there is a very powerful protection.</br>
+Fake hex is impossible<hr>

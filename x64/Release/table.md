@@ -7,10 +7,10 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 316" : 316
   "     " : 0
-  "- In progress 196" : 196
+  "- In progress 208" : 208
   "- FREE 2758" : 2758
   "      " : 0
-  "- FREE 94 (Recommended)" : 94
+  "- FREE 89 (Recommended)" : 89
 ```
 
 :no_entry: - Range Passed</br>
@@ -620,9 +620,9 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 3047  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 3048  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 3049  | cpto_node    |  Passed :heavy_check_mark:  | 04.04.2022  |
-| :large_blue_circle: | 3050  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3051  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3052  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3050  | frodo99      |  in progress :hammer:  |  06.05.2022  |
+| :yellow_circle:     | 3051  | frodo99      |  in progress :hammer:  |  06.05.2022  |
+| :yellow_circle:     | 3052  | frodo99      |  in progress :hammer:  |  06.05.2022  |
 | :no_entry:          | 3053  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :large_blue_circle: | 3054  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 3055  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |

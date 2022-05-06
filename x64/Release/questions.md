@@ -126,7 +126,23 @@ winner, mediator, developer, to pay compensation to hunters. If you find the key
 Do not consider the challenge as earnings. This is a lottery. So that you don't risk too much. You can take part to use a small part of your gpu resources.
 For example, 100, 200 cards, leave the rest in mining.
 
+Bro I don't have gpu what should i do?
+Download Fialka M-125 search on the CPU.
 
+You have the wrong letter.
+Here is the correct "F"
+Take your correct letter and look for yourself.
+
+How can I rent gpu cards? I do not know how to do that.
+Ask for help in the group, they will help you, prompt. Unfortunately there are no instructions yet.
+
+
+I will search at the end when there are few ranges left. So my chances will be higher :-)
+This is not logical, the key can be found earlier, or in the middle of the path. Your odds calculations will be broken.
+
+What are the best ranges to look for? Where are the chances?
+In blue, (while they are still there) because they are candidates.
+And so everywhere the chance is the same.
 
 
 

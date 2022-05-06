@@ -5,9 +5,9 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 316" : 316
+  "- Passed 317" : 317
   "     " : 0
-  "- In progress 208" : 208
+  "- In progress 207" : 207
   "- FREE 2758" : 2758
   "      " : 0
   "- FREE 89 (Recommended)" : 89
@@ -48,7 +48,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 21      | Zhiquaran |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:     | 22      | 047       |  Passed :heavy_check_mark:  |  28.04.2022  |
 | :yellow_circle:| 23      | Minase    |  in progress :hammer:  |  28.04.2022  |
-| :green_circle: | 24      | FREE    |  FREE  |  00.00.2022  |
+| :yellow_circle:| 24      | Andrii    |  in progress :hammer:  |  06.05.2022  |
 | :green_circle: | 25      | FREE    |  FREE  |  00.00.2022  |
 | :green_circle: | 26      | FREE    |  FREE  |  00.00.2022  |
 | :green_circle: | 27      | FREE    |  FREE  |  00.00.2022  |
@@ -286,7 +286,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 835  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 836  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 837  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 838  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 838  | Sam         |  in progress :hammer: |  05.05.2022  |
 | :large_blue_circle: | 839  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 840  | Priority    |  FREE  |  00.00.2022  |
 | :no_entry:          | 841  | Oleg_R      |  Passed :heavy_check_mark: |  06.05.2022  |

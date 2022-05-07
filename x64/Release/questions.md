@@ -92,7 +92,7 @@ Worked on the key:</br>
 1 Apothecary (pharmacist) prescriptions from the doctor sometimes look much worse :-)</br>
 10 literate people for whom American is their native language.</br>
 Our team processed the photos, making their own expertise and experiments.</br>
-On the basis of paw examinations, kandillata were added before ?5.... These are the blue ranges in the table.</br>
+On the basis of paw examinations, candidates were added before ?5.... These are the blue ranges in the table.</br>
 The key we are retrieving looks like this:</br>
 ```5bCRZhiS5sEGMpmcRZdpAhmWLRfMmutGmPHtjVob```<hr>
 

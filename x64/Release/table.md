@@ -5,9 +5,9 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 339" : 339
+  "- Passed 338" : 338
   "     " : 0
-  "- In progress 213" : 213
+  "- In progress 212" : 212
   "- FREE 2755" : 2755
   "      " : 0
   "- FREE 64 (Recommended)" : 64
@@ -583,7 +583,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:     | 2769  | Crypto GPU   |  in progress :hammer: |  07.05.2022  |
 | :yellow_circle:     | 2770  | V            |  in progress :hammer: |  05.05.2022  |
 | :large_blue_circle: | 2771  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle:     | 2977  | hiiiii       |  in progress :hammer:  |  23.04.2022  |
+| :green_circle:      | 2977  | FREE         |  FREE  |  00.00.2022  |
 | :no_entry:          | 3000  | Fantom       |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :no_entry:          | 3004  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3005  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |
@@ -643,7 +643,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 3059  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 3060  | aiyulu       |  in progress :hammer:  |  28.04.2022  |
 | :no_entry:          | 3061  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
-| :no_entry:          | 3077  | hiiiii       |  Passed                |  23.04.2022  |
+| :green_circle:      | 3077  | FREE         |  FREE                  |  00.00.2022  |
 | :yellow_circle:     | 3150  | Samzy        |  in progress :hammer:  |  24.04.2022  |
 | :no_entry:          | 3167  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :no_entry:          | 3228  | Oleg_R       |  Passed :heavy_check_mark:  |  03.05.2022  |

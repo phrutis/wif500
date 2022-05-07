@@ -5,12 +5,12 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 325" : 325
+  "- Passed 332" : 332
   "     " : 0
   "- In progress 209" : 209
   "- FREE 2755" : 2755
   "      " : 0
-  "- FREE 82 (Recommended)" : 82
+  "- FREE 75 (Recommended)" : 75
 ```
 
 :no_entry: - Range Passed</br>
@@ -532,13 +532,20 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 2718  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2719  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 2720  | cpto_node    |  in progress :hammer: |  03.05.2022  |
-| :large_blue_circle: | 2721  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2722  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2723  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2724  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2732  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2733  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2734  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 2721  | com bio      |  in progress :hammer: |  07.05.2022  |
+| :yellow_circle:     | 2722  | com bio      |  in progress :hammer: |  07.05.2022  |
+| :yellow_circle:     | 2723  | com bio      |  in progress :hammer: |  07.05.2022  |
+| :yellow_circle:     | 2724  | com bio      |  in progress :hammer: |  07.05.2022  |
+| :large_blue_circle: | 2725  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2726  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2727  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2728  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2729  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2730  | Priority     |  FREE  |  00.00.2022  |
+| :large_blue_circle: | 2731  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 2732  | com bio      |  in progress :hammer: |  07.05.2022  |
+| :yellow_circle:     | 2733  | com bio      |  in progress :hammer: |  07.05.2022  |
+| :yellow_circle:     | 2734  | com bio      |  in progress :hammer: |  07.05.2022  |
 | :yellow_circle:     | 2735  | V            |  in progress :hammer:  |  03.05.2022  |
 | :large_blue_circle: | 2736  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2737  | Priority     |  FREE  |  00.00.2022  |
@@ -562,15 +569,15 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:     | 2755  | Leonid       |  in progress :hammer:  |  03.05.2022  |
 | :yellow_circle:     | 2756  | V            |  in progress :hammer: |  05.05.2022  |
 | :large_blue_circle: | 2757  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle:     | 2758  | com bio      |  in progress :hammer:  |  03.05.2022  |
-| :yellow_circle:     | 2759  | com bio      |  in progress :hammer:  |  03.05.2022  |
-| :yellow_circle:     | 2760  | com bio      |  in progress :hammer:  |  03.05.2022  |
-| :yellow_circle:     | 2761  | com bio      |  in progress :hammer:  |  03.05.2022  |
-| :yellow_circle:     | 2762  | com bio      |  in progress :hammer:  |  03.05.2022  |
+| :no_entry:          | 2758  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
+| :no_entry:          | 2759  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
+| :no_entry:          | 2760  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
+| :no_entry:          | 2761  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
+| :no_entry:          | 2762  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
 | :yellow_circle:     | 2763  | V            |  in progress :hammer:  |  03.05.2022  |
-| :yellow_circle:     | 2764  | com bio      |  in progress :hammer:  |  03.05.2022  |
+| :no_entry:          | 2764  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
 | :yellow_circle:     | 2765  | com bio      |  in progress :hammer:  |  03.05.2022  |
-| :yellow_circle:     | 2766  | com bio      |  in progress :hammer:  |  03.05.2022  |
+| :no_entry:          | 2766  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
 | :no_entry:          | 2767  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :large_blue_circle: | 2768  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 2769  | Crypto GPU   |  in progress :hammer: |  07.05.2022  |

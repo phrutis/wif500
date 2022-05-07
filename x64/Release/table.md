@@ -5,12 +5,12 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 332" : 332
+  "- Passed 334" : 334
   "     " : 0
   "- In progress 209" : 209
   "- FREE 2755" : 2755
   "      " : 0
-  "- FREE 75 (Recommended)" : 75
+  "- FREE 73 (Recommended)" : 73
 ```
 
 :no_entry: - Range Passed</br>
@@ -551,8 +551,8 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 2737  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2738  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2739  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2740  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2741  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 2740  | Leonid       |  in progress :hammer: |  07.05.2022  |
+| :yellow_circle:     | 2741  | Leonid       |  in progress :hammer: |  07.05.2022  |
 | :large_blue_circle: | 2742  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2743  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2744  | Priority     |  FREE  |  00.00.2022  |
@@ -565,8 +565,8 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:          | 2751  | Leonid       |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:          | 2752  | Leonid       |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:          | 2753  | Leonid       |  Passed  |  03.05.2022  |
-| :yellow_circle:     | 2754  | Leonid       |  in progress :hammer:  |  03.05.2022  |
-| :yellow_circle:     | 2755  | Leonid       |  in progress :hammer:  |  03.05.2022  |
+| :no_entry:          | 2754  | Leonid       |  Passed :heavy_check_mark:  |  07.05.2022  |
+| :no_entry:          | 2755  | Leonid       |  Passed :heavy_check_mark:  |  07.05.2022  |
 | :yellow_circle:     | 2756  | V            |  in progress :hammer: |  05.05.2022  |
 | :large_blue_circle: | 2757  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 2758  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |

@@ -5,12 +5,12 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 336" : 336
+  "- Passed 339" : 339
   "     " : 0
   "- In progress 211" : 211
   "- FREE 2755" : 2755
   "      " : 0
-  "- FREE 69 (Recommended)" : 69
+  "- FREE 66 (Recommended)" : 66
 ```
 
 :no_entry: - Range Passed</br>
@@ -268,13 +268,13 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle: | 817      | 047         |  in progress :hammer: |  06.05.2022  |
 | :yellow_circle: | 818      | 047         |  in progress :hammer: |  06.05.2022  |
 | :yellow_circle: | 819      | 047         |  in progress :hammer: |  06.05.2022  |
-| :yellow_circle:     | 820  | cpto_node   |  in progress :hammer: |  05.05.2022  |
+| :no_entry:          | 820  | cpto_node   |  Passed :heavy_check_mark: |  07.05.2022  |
 | :yellow_circle:     | 821  | V           |  in progress :hammer: |  03.05.2022  |
-| :large_blue_circle: | 822  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 823  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 822  | cpto_node   |  in progress :hammer: |  07.05.2022  |
+| :yellow_circle:     | 823  | cpto_node   |  in progress :hammer: |  07.05.2022  |
 | :yellow_circle:     | 824  | V           |  in progress :hammer: |  05.05.2022  |
-| :yellow_circle:     | 825  | cpto_node   |  in progress :hammer: |  04.05.2022  |
-| :large_blue_circle: | 826  | Priority    |  FREE  |  00.00.2022  |
+| :no_entry:          | 825  | cpto_node   |  Passed :heavy_check_mark: |  07.05.2022  |
+| :yellow_circle:     | 826  | cpto_node   |  in progress :hammer: |  07.05.2022  |
 | :large_blue_circle: | 827  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 828  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 829  | Priority    |  FREE  |  00.00.2022  |
@@ -598,7 +598,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:          | 3014  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3015  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3016  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |
-| :yellow_circle:     | 3017  | cpto_node    |  in progress :hammer: |  02.05.2022  |
+| :no_entry:          | 3017  | cpto_node    |  Passed :heavy_check_mark: |  07.05.2022  |
 | :yellow_circle:     | 3018  | Chris        |  in progress :hammer: |  05.05.2022  |
 | :yellow_circle:     | 3019  | Chris        |  in progress :hammer: |  05.05.2022  |
 | :yellow_circle:     | 3020  | Chris        |  in progress :hammer: |  05.05.2022  |

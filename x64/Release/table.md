@@ -5,12 +5,12 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 324" : 324
+  "- Passed 325" : 325
   "     " : 0
-  "- In progress 206" : 206
+  "- In progress 207" : 207
   "- FREE 2757" : 2757
   "      " : 0
-  "- FREE 84 (Recommended)" : 84
+  "- FREE 82 (Recommended)" : 82
 ```
 
 :no_entry: - Range Passed</br>
@@ -290,7 +290,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 839  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 840  | Priority    |  FREE  |  00.00.2022  |
 | :no_entry:          | 841  | Oleg_R      |  Passed :heavy_check_mark: |  06.05.2022  |
-| :yellow_circle:     | 842  | Oleg_R      |  in progress :hammer:  |  02.05.2022  |
+| :no_entry:          | 842  | Oleg_R      |  Passed :heavy_check_mark: |  07.05.2022  |
 | :yellow_circle:     | 843  | K-Fed       |  in progress :hammer:  |  03.05.2022  |
 | :yellow_circle: | 844  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :yellow_circle: | 845  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
@@ -410,7 +410,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:     | 1877  | Kuw         | in progress :hammer: |  25.04.2022  |
 | :large_blue_circle: | 1878  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1879  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1880  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 1880  | KillBill_2  |  in progress :hammer:  |  07.05.2022  |
 | :large_blue_circle: | 1881  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1882  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1883  | Priority    |  FREE  |  00.00.2022  |

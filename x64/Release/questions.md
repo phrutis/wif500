@@ -92,7 +92,8 @@ Worked on the key:</br>
 1 Apothecary (pharmacist) prescriptions from the doctor sometimes look much worse :-)</br>
 10 literate people for whom American is their native language.</br>
 Our team processed the photos, making their own expertise and experiments.</br>
-On the basis of paw examinations, candidates were added before ?5.... These are the blue ranges in the table.</br>
+On the basis of paw examinations, candidates were added before ?5....</br> 
+These are the blue ranges in the table.</br>
 The key we are retrieving looks like this:</br>
 ```5bCRZhiS5sEGMpmcRZdpAhmWLRfMmutGmPHtjVob```<hr>
 
@@ -102,10 +103,9 @@ I don't know how to run. Look right,</br>
 I'm running. I don't have gpu.</br> 
 hahaha I went through everything, it's empty.</br> 
 It's fake. I don't understand anything, but you still help me.</br>
-
 I have a telegram full of similar messages. </br>
 It's hard to answer the same questions to everyone.</br>
-Write such questions in the questions to the program. </br>
+Write such questions in the [questions to the program](https://github.com/phrutis/wif500/issues/5). </br>
 Prompt each other, who figured it out, help, discuss it there. </br>
 Questions not related to the challenge do not write to me.<hr>
 
@@ -138,7 +138,7 @@ You can take part to use a small part of your gpu resources.</br>
 For example, 100, 200 cards, leave the rest in mining.<hr>
 
 Bro I don't have gpu what should i do?</br>
-Download Fialka M-125 search on the CPU.<hr>
+Download [Fialka M-125](https://github.com/phrutis/Fialka#random-search-part-wif--checksum-check) search on the CPU (mode 15 random good speed).<hr>
 
 You have the wrong letter.</br>
 Here is the correct "F"</br>

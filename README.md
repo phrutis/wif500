@@ -5,7 +5,7 @@
 The known part of the key is 40 characters from 52</br>
 The address [1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU](https://www.blockchain.com/btc/address/1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU) 500 btc</br>
 
-You can search yourself in [WifSolverCuda](https://github.com/phrutis/WifSolverCuda)</br>
+You can search yourself in [WifSolverCuda](https://github.com/phrutis/WifSolverCuda) or CPU [Fialka](https://github.com/phrutis/Fialka). </br>
 If you are lucky, you can donate coins: 1HUAWqBHkTNuSLMyCUBXBA3DoPstpMyoyv</br>
 ### But before that, read the following:</br>
 
@@ -37,8 +37,9 @@ You may incur losses. Think of it not as earnings, but as a lottery.
 
 In the [**TABLE**](https://github.com/phrutis/wif500/blob/main/x64/Release/table.md), select a **FREE** range between 0-3363
 
-Run ```wif500-20xx.exe -range 1234``` (free range 0 - 3363)
+Run ```wif500-30xx.exe -range 1234``` (free range 0 - 3363)
 
+![20220507_131403](https://user-images.githubusercontent.com/82582647/167250008-affcc735-3b0e-4087-abc9-677f4eabc85f.jpg)
 RTX A6000 4 Gkey/s = 3 days (one range)</br>
 RTX 3090 4 Gkey/s = 3.5 days (one range)</br>
 RTX 3070 2.2 Gkey/s = 6 days (one range)</br>
@@ -46,7 +47,7 @@ RTX 2070 1,4 Gkey/s = 9 days (one range)</br>
 There is a continuation of the search from the last checkpoint</br>
 
 Add a telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi) </br>
-Write: @phrutis the numbers of the range in which you took for the search.</br>
+Write: ```@phrutis``` the numbers of the range in which you took for the search.</br>
 I will accept your participation and add you to the table</br>
 Do not take busy (in progress) ranges, see the [**TABLE**](https://github.com/phrutis/wif500/blob/main/x64/Release/table.md).</br>
 **Don't join if**</br>
@@ -55,10 +56,12 @@ Do not take busy (in progress) ranges, see the [**TABLE**](https://github.com/ph
 3. Ask questions not related to the challenge.</br>
 
 When you have a range progress 100% take a screenshot (photo) and post it in the group. </br>
+Example:</br>
+![IMG_20220507_133431_224](https://user-images.githubusercontent.com/82582647/167250667-35b05f75-7aab-4a13-9f0e-0371c213f5d0.jpg)
 I will (check) and mark the range as passed, assign it to you.</br>
 
 If the key is found, it will be displayed in the window and will also be written to the text file FOUND.txt</br>
-Write privately in telegram: @phrutis that you found the key.
+Write privately in telegram ```@phrutis``` that you found the key.
 
 ### Compensations:
 

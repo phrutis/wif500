@@ -7,10 +7,10 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 339" : 339
   "     " : 0
-  "- In progress 211" : 211
+  "- In progress 213" : 213
   "- FREE 2755" : 2755
   "      " : 0
-  "- FREE 66 (Recommended)" : 66
+  "- FREE 64 (Recommended)" : 64
 ```
 
 :no_entry: - Range Passed</br>
@@ -287,8 +287,8 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 836  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 837  | Priority    |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 838  | Sam         |  in progress :hammer: |  05.05.2022  |
-| :large_blue_circle: | 839  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 840  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 839  | 047         |  in progress :hammer: |  07.05.2022  |
+| :yellow_circle:     | 840  | 047         |  in progress :hammer: |  07.05.2022  |
 | :no_entry:          | 841  | Oleg_R      |  Passed :heavy_check_mark: |  06.05.2022  |
 | :no_entry:          | 842  | Oleg_R      |  Passed :heavy_check_mark: |  07.05.2022  |
 | :yellow_circle:     | 843  | K-Fed       |  in progress :hammer:  |  03.05.2022  |

@@ -202,7 +202,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 298     | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 299     | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :yellow_circle:| 300     | Mars42    |  in progress :hammer: |  06.05.2022  |
-| :yellow_circle:| 304     | Kuw       |  in progress :hammer:  |  21.04.2022  |
+| :yellow_circle:| 304     | Kuw       |  in progress :hammer: |  08.05.2022  |
 | :no_entry:     | 394     | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:     | 395     | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:     | 396     | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |

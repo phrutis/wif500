@@ -93,9 +93,7 @@ Worked on the key:</br>
 10 literate people for whom American is their native language.</br>
 Our team processed the photos, making their own expertise and experiments.</br>
 On the basis of paw examinations, candidates were added before ?5....</br> 
-These are the blue ranges in the table.</br>
-The key we are retrieving looks like this:</br>
-```5bCRZhiS5sEGMpmcRZdpAhmWLRfMmutGmPHtjVob```<hr>
+These are the blue ranges in the table.<hr>
 
 Bro help?</br>
 I have a weak card, help me, tell me the key.</br> 

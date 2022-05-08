@@ -39,8 +39,6 @@ In the [**TABLE**](https://github.com/phrutis/wif500/blob/main/x64/Release/table
 
 Run ```wif500-30xx.exe -range 1234``` (free range 0 - 3363)
 
-![20220507_131403](https://user-images.githubusercontent.com/82582647/167250008-affcc735-3b0e-4087-abc9-677f4eabc85f.jpg)
-
 RTX A6000 4 Gkey/s = 3 days (one range)</br>
 RTX 3090 4 Gkey/s = 4 days (one range)</br>
 RTX 3070 2.2 Gkey/s = 6 days (one range)</br>
@@ -57,13 +55,10 @@ Do not take busy (in progress) ranges, see the [**TABLE**](https://github.com/ph
 3. Ask questions not related to the challenge.</br>
 
 When you have a range progress 100% take a screenshot (photo) and post it in the group. </br>
-Example:</br>
-![IMG_20220507_133431_224](https://user-images.githubusercontent.com/82582647/167250667-35b05f75-7aab-4a13-9f0e-0371c213f5d0.jpg)
-
 I will (check) and mark the range as passed, assign it to you.</br>
 
 If the key is found, it will be displayed in the window and will also be written to the text file FOUND.txt</br>
-Write privately in telegram ```@phrutis``` that you found the key.
+Write privately in telegram ```phrutis``` that you found the key.
 
 ### Compensations:
 

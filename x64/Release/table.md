@@ -7,7 +7,7 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 342" : 342
   "     " : 0
-  "- In progress 209" : 209
+  "- In progress 211" : 211
   "- FREE 2755" : 2755
   "      " : 0
   "- FREE 64 (Recommended)" : 64
@@ -35,9 +35,9 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 8       | 047       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :no_entry:     | 9       | 047       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :yellow_circle:| 10      | K-Fed     |  in progress :hammer:  |  22.04.2022  |
-| :yellow_circle:| 11      | Kuw       |  in progress :hammer:  |  22.04.2022  |
-| :yellow_circle:| 12      | Kuw       |  in progress :hammer:  |  22.04.2022  |
-| :yellow_circle:| 13      | Kuw       |  in progress :hammer:  |  22.04.2022  |
+| :yellow_circle:| 11      | Kuw       |  in progress :hammer:  |  08.04.2022  |
+| :yellow_circle:| 12      | Kuw       |  in progress :hammer:  |  08.04.2022  |
+| :yellow_circle:| 13      | Kuw       |  in progress :hammer:  |  08.04.2022  |
 | :no_entry:     | 14      | 047       |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 15      | 047       |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 16      | 047       |  Passed :heavy_check_mark:  |  28.04.2022  |
@@ -280,8 +280,8 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :large_blue_circle: | 829  | Priority    |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 830  | cpto_node   |  in progress :hammer: |  03.05.2022  |
 | :yellow_circle:     | 831  | K-Fed       |  in progress :hammer: |  05.05.2022  |
-| :large_blue_circle: | 832  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 833  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 832  | Kuw         |  in progress :hammer: |  08.04.2022  |
+| :yellow_circle:     | 833  | Kuw         |  in progress :hammer: |  08.04.2022  |
 | :large_blue_circle: | 834  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 835  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 836  | Priority    |  FREE  |  00.00.2022  |

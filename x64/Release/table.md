@@ -12,7 +12,7 @@ pie title Ranges 3364
   "      " : 0
   "- FREE 52 (Recommended)" : 52
 ```
-
+:white_check_mark: - 100% verified</br>
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
 :large_blue_circle: - **Range FREE Recommended!**</br> 

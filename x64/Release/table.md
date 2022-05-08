@@ -7,10 +7,10 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 345" : 345
   "     " : 0
-  "- In progress 211" : 211
+  "- In progress 219" : 219
   "- FREE 2754" : 2754
   "      " : 0
-  "- FREE 62 (Recommended)" : 62
+  "- FREE 54 (Recommended)" : 54
 ```
 
 :no_entry: - Range Passed</br>
@@ -546,21 +546,21 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:     | 2732  | com bio      |  in progress :hammer: |  07.05.2022  |
 | :yellow_circle:     | 2733  | com bio      |  in progress :hammer: |  07.05.2022  |
 | :yellow_circle:     | 2734  | com bio      |  in progress :hammer: |  07.05.2022  |
-| :yellow_circle:     | 2735  | V            |  in progress :hammer:  |  03.05.2022  |
+| :yellow_circle:     | 2735  | V            |  in progress :hammer:  |  03.05.2022 |
 | :large_blue_circle: | 2736  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2737  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2738  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2739  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 2740  | Leonid       |  in progress :hammer: |  07.05.2022  |
 | :yellow_circle:     | 2741  | Leonid       |  in progress :hammer: |  07.05.2022  |
-| :large_blue_circle: | 2742  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2743  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2744  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2745  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2746  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2747  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2748  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2749  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 2742  | DworfD       |  in progress :hammer: |  08.05.2022  |
+| :yellow_circle:     | 2743  | DworfD       |  in progress :hammer: |  08.05.2022  |
+| :yellow_circle:     | 2744  | DworfD       |  in progress :hammer: |  08.05.2022  |
+| :yellow_circle:     | 2745  | DworfD       |  in progress :hammer: |  08.05.2022  |
+| :yellow_circle:     | 2746  | DworfD       |  in progress :hammer: |  08.05.2022  |
+| :yellow_circle:     | 2747  | DworfD       |  in progress :hammer: |  08.05.2022  |
+| :yellow_circle:     | 2748  | DworfD       |  in progress :hammer: |  08.05.2022  |
+| :yellow_circle:     | 2749  | DworfD       |  in progress :hammer: |  08.05.2022  |
 | :no_entry:          | 2750  | Leonid       |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:          | 2751  | Leonid       |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:          | 2752  | Leonid       |  Passed :heavy_check_mark:  |  03.05.2022  |

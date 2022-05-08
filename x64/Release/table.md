@@ -5,7 +5,7 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 338" : 338
+  "- Passed 340" : 340
   "     " : 0
   "- In progress 212" : 212
   "- FREE 2755" : 2755
@@ -253,7 +253,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 802       | 047       |  Passed :heavy_check_mark:  |  06.05.2022  |
 | :no_entry:     | 803       | 047       |  Passed :heavy_check_mark:  |  06.05.2022  |
 | :no_entry:     | 804       | 047       |  Passed :heavy_check_mark:  |  06.05.2022  |
-| :yellow_circle:| 805       | 047       |  in progress :hammer:  |  02.05.2022  |
+| :no_entry:     | 805       | 047       |  Passed :heavy_check_mark:  |  08.05.2022  |
 | :yellow_circle:| 806       | 047       |  Passed :heavy_check_mark:  |  06.05.2022  |
 | :yellow_circle: | 807      | Jo Z      |  in progress :hammer:  |  04.05.2022  |
 | :yellow_circle: | 808      | Jo Z      |  in progress :hammer:  |  04.05.2022  |
@@ -656,7 +656,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:          | 3279  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :no_entry:          | 3293  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :yellow_circle:     | 3294  | L-N          |  in progress :hammer:       |  03.05.2022  |
-| :yellow_circle:     | 3295  | L-N          |  in progress :hammer:       |  03.05.2022  |
+| :no_entry:          | 3295  | L-N          |  Passed :heavy_check_mark:  |  08.05.2022  |
 | :yellow_circle:     | 3296  | L-N          |  in progress :hammer:       |  03.05.2022  |
 | :yellow_circle:     | 3297  | L-N          |  in progress :hammer:       |  03.05.2022  |
 | :yellow_circle:     | 3298  | L-N          |  in progress :hammer:       |  03.05.2022  |

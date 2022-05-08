@@ -5,9 +5,9 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 342" : 342
+  "- Passed 344" : 344
   "     " : 0
-  "- In progress 212" : 212
+  "- In progress 210" : 210
   "- FREE 2754" : 2754
   "      " : 0
   "- FREE 64 (Recommended)" : 64
@@ -292,10 +292,10 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:          | 841  | Oleg_R      |  Passed :heavy_check_mark: |  06.05.2022  |
 | :no_entry:          | 842  | Oleg_R      |  Passed :heavy_check_mark: |  07.05.2022  |
 | :yellow_circle:     | 843  | K-Fed       |  in progress :hammer:  |  03.05.2022  |
-| :yellow_circle: | 844  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :no_entry:      | 844  | K-Fed     |  Passed :heavy_check_mark:  |  08.05.2022  |
 | :yellow_circle: | 845  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :yellow_circle: | 846  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
-| :yellow_circle: | 847  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :no_entry:      | 847  | K-Fed     |  Passed :heavy_check_mark:  |  08.05.2022  |
 | :yellow_circle: | 848  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :yellow_circle: | 849  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :yellow_circle: | 850  | K-Fed     |  in progress :hammer:  |  29.04.2022  |

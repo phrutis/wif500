@@ -5,9 +5,9 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 340" : 340
+  "- Passed 342" : 342
   "     " : 0
-  "- In progress 212" : 212
+  "- In progress 210" : 210
   "- FREE 2755" : 2755
   "      " : 0
   "- FREE 64 (Recommended)" : 64
@@ -259,7 +259,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle: | 808      | Jo Z      |  in progress :hammer:  |  04.05.2022  |
 | :yellow_circle: | 809      | Jo Z      |  in progress :hammer:  |  04.05.2022  |
 | :yellow_circle: | 810      | Jo Z      |  in progress :hammer:  |  04.05.2022  |
-| :yellow_circle: | 811      | Oleg_R      |  in progress :hammer: |  05.05.2022  |
+| :no_entry:      | 811      | Oleg_R      |  Passed :heavy_check_mark: |  08.05.2022  |
 | :yellow_circle: | 812      | Sam         |  in progress :hammer: |  03.05.2022  |
 | :yellow_circle: | 813      | Sam         |  in progress :hammer: |  03.05.2022  |
 | :yellow_circle: | 814      | Oleg_R      |  in progress :hammer: |  03.05.2022  |
@@ -432,27 +432,27 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:          | 1899  | com bio      |  Passed |  29.05.2022  |
 | :no_entry:          | 1900  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:          | 1901  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
-| :no_entry:          | 1924       | cpto_node |  Passed :heavy_check_mark:  |  26.04.2022  |
-| :no_entry:          | 2019       | Leonid    |  Passed :heavy_check_mark:  |  21.04.2022  |
-| :no_entry:          | 2020       | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
-| :no_entry:          | 2021       | Leonid    |  Passed :heavy_check_mark:  |  21.04.2022  |
-| :no_entry:          | 2022       | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
-| :no_entry:          | 2023       | Leonid    |  Passed :heavy_check_mark:  |  25.04.2022  |
-| :no_entry:          | 2024       | Leonid    |  Passed :heavy_check_mark:  |  25.04.2022  |
-| :no_entry:          | 2134       | Almera    |  Passed :heavy_check_mark:  |  22.04.2022  |
-| :no_entry:          | 2145       | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
-| :no_entry:          | 2220       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
-| :no_entry:          | 2221       | DworfD    |  Passed :heavy_check_mark: |  27.04.2022  |
-| :no_entry:          | 2222       | DworfD    |  Passed :heavy_check_mark: |  27.04.2022  |
-| :no_entry:          | 2223       | DworfD    |  Passed :heavy_check_mark: |  27.04.2022  |
-| :no_entry:          | 2224       | DworfD    |  Passed :heavy_check_mark: |  27.04.2022  |
-| :no_entry:          | 2225       | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
-| :no_entry:          | 2226       | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
-| :no_entry:          | 2227       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
-| :no_entry:          | 2228       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
-| :no_entry:          | 2229       | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
-| :yellow_circle:     | 2334      | Oleg_R     |  in progress :hammer:  |  06.05.2022  |
-| :yellow_circle:     | 2345      | Oleg_R     |  in progress :hammer:      |  04.05.2022  |
+| :no_entry:          | 1924  | cpto_node    |  Passed :heavy_check_mark:  |  26.04.2022  |
+| :no_entry:          | 2019  | Leonid        |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:          | 2020      | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
+| :no_entry:          | 2021      | Leonid    |  Passed :heavy_check_mark:  |  21.04.2022  |
+| :no_entry:          | 2022      | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
+| :no_entry:          | 2023      | Leonid    |  Passed :heavy_check_mark:  |  25.04.2022  |
+| :no_entry:          | 2024      | Leonid    |  Passed :heavy_check_mark:  |  25.04.2022  |
+| :no_entry:          | 2134      | Almera    |  Passed :heavy_check_mark:  |  22.04.2022  |
+| :no_entry:          | 2145      | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
+| :no_entry:          | 2220      | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
+| :no_entry:          | 2221      | DworfD    |  Passed :heavy_check_mark: |  27.04.2022  |
+| :no_entry:          | 2222      | DworfD    |  Passed :heavy_check_mark: |  27.04.2022  |
+| :no_entry:          | 2223      | DworfD    |  Passed :heavy_check_mark: |  27.04.2022  |
+| :no_entry:          | 2224      | DworfD    |  Passed :heavy_check_mark: |  27.04.2022  |
+| :no_entry:          | 2225      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
+| :no_entry:          | 2226      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
+| :no_entry:          | 2227      | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
+| :no_entry:          | 2228      | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
+| :no_entry:          | 2229      | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
+| :yellow_circle:     | 2334      | Oleg_R    |  in progress :hammer:  |  06.05.2022  |
+| :no_entry:          | 2345      | Oleg_R    |  Passed :heavy_check_mark: |  08.05.2022  |
 | :no_entry:          | 2358      | Oleg_R    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:          | 2371      | Oleg_R    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:          | 2416      | Oleg_R    |  Passed :heavy_check_mark:  |  03.05.2022  |

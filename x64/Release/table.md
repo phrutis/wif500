@@ -7,8 +7,8 @@ pie title Ranges 3364
   "    " : 0
   "- Passed 342" : 342
   "     " : 0
-  "- In progress 211" : 211
-  "- FREE 2755" : 2755
+  "- In progress 212" : 212
+  "- FREE 2754" : 2754
   "      " : 0
   "- FREE 64 (Recommended)" : 64
 ```
@@ -583,6 +583,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:     | 2769  | Crypto GPU   |  in progress :hammer: |  07.05.2022  |
 | :yellow_circle:     | 2770  | V            |  in progress :hammer: |  05.05.2022  |
 | :large_blue_circle: | 2771  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 2885  | Crypto GPU   |  in progress :hammer: |  08.05.2022  |
 | :green_circle:      | 2977  | FREE         |  FREE  |  00.00.2022  |
 | :no_entry:          | 3000  | Fantom       |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :no_entry:          | 3004  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |

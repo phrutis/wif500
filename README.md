@@ -9,13 +9,13 @@ You can search yourself in [WifSolverCuda](https://github.com/phrutis/WifSolverC
 If you are lucky, you can donate coins: 1HUAWqBHkTNuSLMyCUBXBA3DoPstpMyoyv</br>
 ### But before that, read the following:</br>
 
-The problem is people's greed.</br>
 Everyone wants to search individually to take possession of all the coins, this is logical.</br>
 The range of missing symbols is very very large and everyone is spinning the same thing.</br>
 Some lone hunters make the mistake of rotating ranges that don't exist, further increasing the empty search time.</br>
 Sometimes they make other mistakes that make finding the key impossible.</br>
 After a week of searching, they begin to realize that the range is too large.</br>
 It is difficult and physically impossible to go through it, they will be disappointed, angry, and stop searching.</br>
+Don't waste your time, join the challenge
 
 ### Challenge is a collective search for a key
 A large range of 12 characters is divided into 3364 small ranges</br>
@@ -42,7 +42,7 @@ Run ```wif500-30xx.exe -range 1234``` (free range 0 - 3363)
 ![20220507_131403](https://user-images.githubusercontent.com/82582647/167250008-affcc735-3b0e-4087-abc9-677f4eabc85f.jpg)
 
 RTX A6000 4 Gkey/s = 3 days (one range)</br>
-RTX 3090 4 Gkey/s = 3.5 days (one range)</br>
+RTX 3090 4 Gkey/s = 4 days (one range)</br>
 RTX 3070 2.2 Gkey/s = 6 days (one range)</br>
 RTX 2070 1,4 Gkey/s = 9 days (one range)</br>
 There is a continuation of the search from the last checkpoint</br>
@@ -67,15 +67,17 @@ Write privately in telegram ```@phrutis``` that you found the key.
 
 ### Compensations:
 
- 1. When the key is found, the hunter that did find it will receive a full 200 BTC reward.</br>
- 2. To the rest of the hunters, for every range completed, a 0.01 BTC  (410 usd) reward (to cover the electricity costs and not mining all that period) will be paid after the key is found.</br>
+1. When the key is found, the hunter that did find it will receive a full 200 BTC reward.</br>
+2. To the rest of the hunters, for every range completed, a min. 0.01 BTC  (410 usd) reward (to cover the electricity costs and not mining all that period) will be paid after the key is found.</br>
 Total reward equals to 33.64 (0.01 BTC/range x 3364 ranges).
-
-### Rules:
-
- 1. Do not counterfeit  the proof. Send genuine screenshot, search honestly - if you fake it and the key was in your range, everybody loses!
- 2. If the key is found in early stages, that amount of 33.64 BTC for all the 3364 will be split among the hunters that have completed range searches.</br> Example: Hunters completed cumulatively 1000 ranges at the time the key was found.</br> 
+3. If the key is found in early stages, that amount of 33.64 BTC for all the 3364 will be split among the hunters that have completed range searches.</br> 
+Example: Hunters completed cumulatively 1000 ranges at the time the key was found.</br> 
 The 33.64 BTC will be divided to those 1000 completed ranges, resulting in 0.03364 BTC (~1337 usd) for each completed range scan.
 
+### Rules:
+Do not counterfeit the proof.</br> 
+Send genuine screenshot, search honestly </br>
+If you fake it and the key was in your range, everybody loses!
+ 
 ### [Frequently asked Questions](https://github.com/phrutis/wif500/blob/main/x64/Release/questions.md)
 

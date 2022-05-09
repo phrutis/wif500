@@ -391,7 +391,7 @@ pie title Total ranges 3364
 | :yellow_circle:     | 1867  | cpto_node   |  in progress :hammer: |  04.05.2022  |
 | :yellow_circle:     | 1868  | cpto_node   |  in progress :hammer: |  04.05.2022  |
 | :yellow_circle:     | 1869  | JRodary     |  in progress :hammer:  |  06.05.2022  |
-| :no_entry:          | 1870  | Sam         |  Passed :heavy_check_mark:  |  20.00.2022  |
+| :no_entry:          | 1870  | Sam         |  Passed :heavy_check_mark:  |  20.05.2022  |
 | :large_blue_circle: | 1871  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1872  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1873  | Priority    |  FREE  |  00.00.2022  |

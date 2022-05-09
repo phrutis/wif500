@@ -602,7 +602,7 @@ pie title Total ranges 3364
 | :no_entry:          | 3021  | Kripto       |  Passed :heavy_check_mark:  |  18.04.2022  |
 | :no_entry:          | 3022  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3023  | Kripto       |  Passed :heavy_check_mark:  |  22.04.2022  |
-| :no_entry:          | 3024  | cpto_node    |  Passed :heavy_check_mark:  |  04.05.2022  |
+| :no_entry:          | 3024  | Fantom       |  Passed :heavy_check_mark:  |  04.05.2022  |
 | :no_entry:          | 3025  | Kripto       |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :no_entry:          | 3026  | Chris        |  Passed :heavy_check_mark: |  09.05.2022  |
 | :no_entry:          | 3027  | Kripto       |  Passed :heavy_check_mark: |  29.04.2022  |
@@ -611,7 +611,7 @@ pie title Total ranges 3364
 | :no_entry:          | 3030  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3031  | Kripto       |  Passed :heavy_check_mark: |  07.05.2022  |
 | :yellow_circle:     | 3032  | Kripto       |  in progress :hammer:  |  07.05.2022  |
-| :no_entry:          | 3033  | cpto_node    |  Passed :heavy_check_mark:  |  04.05.2022  |
+| :no_entry:          | 3033  | Fantom       |  Passed :heavy_check_mark:  |  04.05.2022  |
 | :no_entry:          | 3034  | cpto_node    |  Passed :heavy_check_mark:  |  04.05.2022  |
 | :yellow_circle:     | 3035  | cpto_node    |  in progress :hammer:  |  09.05.2022  |
 | :no_entry:          | 3036  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |

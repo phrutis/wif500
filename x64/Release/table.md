@@ -5,12 +5,12 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 348" : 348
+  "- Passed 350" : 350
   "     " : 0
   "- In progress 225" : 225
   "- FREE 2748" : 2748
   "      " : 0
-  "- FREE 52 (Recommended)" : 52
+  "- FREE 50 (Recommended)" : 50
 ```
 :white_check_mark: - 100% verified</br>
 :no_entry: - Range Passed</br>
@@ -283,8 +283,8 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:     | 832  | Kuw       |  in progress :hammer: |  08.04.2022  |
 | :yellow_circle:     | 833  | Kuw       |  in progress :hammer: |  08.04.2022  |
 | :yellow_circle:     | 834  | K-Fed     |  in progress :hammer: |  08.05.2022  |
-| :large_blue_circle: | 835  | Priority  |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 836  | Priority  |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 835  | K-Fed     |  in progress :hammer: |  09.05.2022  |
+| :yellow_circle:     | 836  | K-Fed     |  in progress :hammer: |  09.05.2022  |
 | :large_blue_circle: | 837  | Priority  |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 838  | Sam       |  in progress :hammer: |  05.05.2022  |
 | :yellow_circle:     | 839  | 047       |  in progress :hammer: |  07.05.2022  |
@@ -292,12 +292,12 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:          | 841  | Oleg_R    |  Passed :heavy_check_mark: |  06.05.2022  |
 | :no_entry:          | 842  | Oleg_R    |  Passed :heavy_check_mark: |  07.05.2022  |
 | :yellow_circle:     | 843  | K-Fed     |  in progress :hammer:  |  03.05.2022  |
-| :no_entry:      | 844  | K-Fed     |  Passed :heavy_check_mark:  |  08.05.2022  |
-| :yellow_circle: | 845  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
-| :no_entry:      | 846  | K-Fed     |  Passed :heavy_check_mark:  |  08.05.2022  |
-| :no_entry:      | 847  | K-Fed     |  Passed :heavy_check_mark:  |  08.05.2022  |
-| :no_entry:      | 848  | K-Fed     |  Passed :heavy_check_mark:  |  08.05.2022  |
-| :yellow_circle: | 849  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :no_entry:      | 844  | K-Fed     |  Passed :heavy_check_mark: |  08.05.2022  |
+| :no_entry:      | 845  | K-Fed     |  Passed :heavy_check_mark: |  09.05.2022  |
+| :no_entry:      | 846  | K-Fed     |  Passed :heavy_check_mark: |  08.05.2022  |
+| :no_entry:      | 847  | K-Fed     |  Passed :heavy_check_mark: |  08.05.2022  |
+| :no_entry:      | 848  | K-Fed     |  Passed :heavy_check_mark: |  08.05.2022  |
+| :no_entry:      | 849  | K-Fed     |  Passed :heavy_check_mark: |  09.05.2022  |
 | :yellow_circle: | 850  | K-Fed     |  in progress :hammer:  |  29.04.2022  |
 | :yellow_circle: | 851  | K-Fed     |  in progress :hammer:  |  29.04.2022  |
 | :yellow_circle: | 852  | K-Fed     |  in progress :hammer:  |  01.05.2022  |

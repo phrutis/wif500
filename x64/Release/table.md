@@ -5,7 +5,7 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 352" : 352
+  "- Passed 354" : 354
   "     " : 0
   "- In progress 229" : 229
   "- FREE 2748" : 2748
@@ -605,7 +605,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:          | 3015  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3016  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3017  | cpto_node    |  Passed :heavy_check_mark: |  07.05.2022  |
-| :yellow_circle:     | 3018  | Chris        |  in progress :hammer: |  05.05.2022  |
+| :no_entry:          | 3018  | Chris        |  Passed :heavy_check_mark: |  09.05.2022  |
 | :yellow_circle:     | 3019  | Chris        |  in progress :hammer: |  05.05.2022  |
 | :yellow_circle:     | 3020  | Chris        |  in progress :hammer: |  05.05.2022  |
 | :no_entry:          | 3021  | Kripto       |  Passed :heavy_check_mark:  |  18.04.2022  |
@@ -661,7 +661,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:          | 3278  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :no_entry:          | 3279  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :no_entry:          | 3293  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
-| :yellow_circle:     | 3294  | L-N          |  in progress :hammer:       |  03.05.2022  |
+| :no_entry:          | 3294  | L-N          |  Passed :heavy_check_mark:  |  09.05.2022  |
 | :no_entry:          | 3295  | L-N          |  Passed :heavy_check_mark:  |  08.05.2022  |
 | :yellow_circle:     | 3296  | L-N          |  in progress :hammer:       |  03.05.2022  |
 | :yellow_circle:     | 3297  | L-N          |  in progress :hammer:       |  03.05.2022  |

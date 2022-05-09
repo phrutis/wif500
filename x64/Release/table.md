@@ -1,17 +1,14 @@
 ## Numbers of ranges 0-3363
 ```mermaid
-pie title Ranges 3364
+pie title Total ranges 3364
   "- Passed 358" : 358
   "- In progress 235" : 235
-  "- FREE 2747" : 2747
+  "- FREE 2730" : 2730
   "- FREE 41 (Recommended)" : 41
 ```
-:white_check_mark: - 100% verified</br>
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
 :large_blue_circle: - **Range FREE Recommended!**</br> 
-Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges: </br>
-```800-857```, ```1844-1901```, ```2424-2481```, ```2714-2771```, ```3004-3061```</br>
 :green_circle: - Range FREE (all who are not busy 0-3363)
 
 [Choose a free range and report it to the group](https://t.me/+WFEuFatijpowMjRi)

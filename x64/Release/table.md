@@ -5,12 +5,12 @@ pie title Ranges 3364
   "  " : 0
   "   " : 0
   "    " : 0
-  "- Passed 350" : 350
+  "- Passed 352" : 352
   "     " : 0
   "- In progress 229" : 229
   "- FREE 2748" : 2748
   "      " : 0
-  "- FREE 50 (Recommended)" : 50
+  "- FREE 49 (Recommended)" : 49
 ```
 :white_check_mark: - 100% verified</br>
 :no_entry: - Range Passed</br>
@@ -261,7 +261,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle: | 810  | Jo Z      |  in progress :hammer:  |  04.05.2022  |
 | :no_entry:      | 811  | Oleg_R    |  Passed :heavy_check_mark: |  08.05.2022  |
 | :yellow_circle: | 812  | Sam       |  in progress :hammer: |  03.05.2022  |
-| :yellow_circle: | 813  | Sam       |  in progress :hammer: |  03.05.2022  |
+| :no_entry:      | 813  | Sam       |  Passed :heavy_check_mark: |  09.05.2022  |
 | :no_entry:      | 814  | Oleg_R    |  Passed :heavy_check_mark: |  09.05.2022  |
 | :yellow_circle: | 815  | 047       |  in progress :hammer: |  06.05.2022  |
 | :yellow_circle: | 816  | 047       |  in progress :hammer: |  06.05.2022  |
@@ -376,7 +376,7 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :no_entry:     | 1782  | Almera    |  Passed :heavy_check_mark:  |  22.04.2022  |
 | :no_entry:     | 1844  | com bio   |  Passed |  29.05.2022  |
 | :yellow_circle:| 1845  | Chris     |  in progress :hammer: |  09.05.2022  |
-| :large_blue_circle: | 1846  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:| 1846  | Илья      |  in progress :hammer: |  09.05.2022  |
 | :large_blue_circle: | 1847  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1848  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1849  | Priority    |  FREE  |  00.00.2022  |
@@ -668,5 +668,5 @@ Priority symbols ```G```, ```x```, ```c```, ```h```, ```n``` in candidate ranges
 | :yellow_circle:     | 3298  | L-N          |  in progress :hammer:       |  03.05.2022  |
 | :yellow_circle:     | 3299  | L-N          |  in progress :hammer:       |  03.05.2022  |
 | :yellow_circle:     | 3300  | L-N          |  in progress :hammer:       |  03.05.2022  |
-| :yellow_circle:     | 3301  | Илья         |  in progress :hammer:  |  03.05.2022  |
+| :no_entry:          | 3301  | Илья         |  Passed :heavy_check_mark:  |  09.05.2022  |
 | :green_circle:      | 3302-3363  | FREE    |  FREE  |  00.00.2022  |

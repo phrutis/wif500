@@ -1,15 +1,9 @@
 ## Numbers of ranges 0-3363
 ```mermaid
 pie title Ranges 3364
-  " " : 0
-  "  " : 0
-  "   " : 0
-  "    " : 0
   "- Passed 358" : 358
-  "     " : 0
   "- In progress 235" : 235
   "- FREE 2747" : 2747
-  "      " : 0
   "- FREE 41 (Recommended)" : 41
 ```
 :white_check_mark: - 100% verified</br>

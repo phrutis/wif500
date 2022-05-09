@@ -1,10 +1,10 @@
 ## Numbers of ranges 0-3363
 ```mermaid
 pie title Total ranges 3364
-  "- Passed 359" : 359
-  "- In progress 234" : 234
+  "- Passed 360" : 360
+  "- In progress 236" : 236
   "- FREE 2730" : 2730
-  "- FREE 41 (Recommended)" : 41
+  "- FREE 39 (Recommended)" : 39
 ```
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
@@ -392,7 +392,7 @@ pie title Total ranges 3364
 | :yellow_circle:     | 1868  | cpto_node   |  in progress :hammer: |  04.05.2022  |
 | :yellow_circle:     | 1869  | JRodary     |  in progress :hammer:  |  06.05.2022  |
 | :no_entry:          | 1870  | Sam         |  Passed :heavy_check_mark:  |  20.05.2022  |
-| :large_blue_circle: | 1871  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 1871  | cpto_node   |  in progress :hammer:  |  10.05.2022  |
 | :large_blue_circle: | 1872  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1873  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1874  | Priority    |  FREE  |  00.00.2022  |
@@ -527,7 +527,7 @@ pie title Total ranges 3364
 | :yellow_circle:     | 2717  | Chris        |  in progress :hammer: |  07.05.2022  |
 | :yellow_circle:     | 2718  | Chris        |  in progress :hammer: |  07.05.2022  |
 | :yellow_circle:     | 2719  | Chris        |  in progress :hammer: |  07.05.2022  |
-| :yellow_circle:     | 2720  | cpto_node    |  in progress :hammer: |  03.05.2022  |
+| :no_entry:          | 2720  | cpto_node    |  Passed :heavy_check_mark: | 10.05.2022  |
 | :yellow_circle:     | 2721  | com bio      |  in progress :hammer: |  07.05.2022  |
 | :yellow_circle:     | 2722  | com bio      |  in progress :hammer: |  07.05.2022  |
 | :yellow_circle:     | 2723  | com bio      |  in progress :hammer: |  07.05.2022  |
@@ -542,9 +542,9 @@ pie title Total ranges 3364
 | :yellow_circle:     | 2732  | com bio      |  in progress :hammer: |  07.05.2022  |
 | :yellow_circle:     | 2733  | com bio      |  in progress :hammer: |  07.05.2022  |
 | :yellow_circle:     | 2734  | com bio      |  in progress :hammer: |  07.05.2022  |
-| :yellow_circle:     | 2735  | V            |  in progress :hammer:  |  03.05.2022 |
+| :yellow_circle:     | 2735  | V            |  in progress :hammer: |  03.05.2022  |
 | :large_blue_circle: | 2736  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2737  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 2737  | Demon        |  in progress :hammer: | 10.05.2022   |
 | :large_blue_circle: | 2738  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2739  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 2740  | Leonid       |  in progress :hammer: |  07.05.2022  |

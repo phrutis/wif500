@@ -1,8 +1,8 @@
 ## Numbers of ranges 0-3363
 ```mermaid
 pie title Total ranges 3364
-  "- Passed 358" : 358
-  "- In progress 235" : 235
+  "- Passed 359" : 359
+  "- In progress 234" : 234
   "- FREE 2730" : 2730
   "- FREE 41 (Recommended)" : 41
 ```
@@ -211,7 +211,7 @@ pie title Total ranges 3364
 | :no_entry:     | 436     | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:     | 453     | Almera    |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :yellow_circle:| 468     | Minase    |  in progress :hammer:  |  28.04.2022  |
-| :no_entry:     | 493     | Zhiquaran |  Passed :heavy_check_mark: |  23.04.2022  |
+| :no_entry:     | 493     | Zhiquaran |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:     | 494     | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 495     | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 496     | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
@@ -442,8 +442,8 @@ pie title Total ranges 3364
 | :no_entry:          | 2227      | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:          | 2228      | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:          | 2229      | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
-| :yellow_circle:     | 2334      | Oleg_R    |  in progress :hammer:  |  06.05.2022  |
-| :no_entry:          | 2345      | Oleg_R    |  Passed :heavy_check_mark: |  08.05.2022  |
+| :no_entry:          | 2334      | Oleg_R    |  Passed :heavy_check_mark:  |  09.05.2022  |
+| :no_entry:          | 2345      | Oleg_R    |  Passed :heavy_check_mark:  |  08.05.2022  |
 | :no_entry:          | 2358      | Oleg_R    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:          | 2371      | Oleg_R    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:          | 2416      | Oleg_R    |  Passed :heavy_check_mark:  |  03.05.2022  |

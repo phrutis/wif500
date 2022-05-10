@@ -401,7 +401,7 @@
 | :yellow_circle:     | 1852  | Chris       |  in progress :hammer: |  09.05.2022  |
 | :yellow_circle:     | 1853  | Chris       |  in progress :hammer: |  09.05.2022  |
 | :no_entry:          | 1854  | Oleg_R      |  Passed :heavy_check_mark: |  02.05.2022  |
-| :yellow_circle:     | 1855  | cpto_node   |  in progress :hammer: |  04.05.2022  |
+| :no_entry:          | 1855  | cpto_node   |  Passed :heavy_check_mark: |  10.05.2022  |
 | :yellow_circle:     | 1856  | cpto_node   |  in progress :hammer: |  04.05.2022  |
 | :yellow_circle:     | 1857  | cpto_node   |  in progress :hammer: |  04.05.2022  |
 | :yellow_circle:     | 1858  | cpto_node   |  in progress :hammer: |  04.05.2022  |
@@ -560,7 +560,7 @@
 | :large_blue_circle: | 2725  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2726  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2727  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2728  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 2728  | cpto_node    |  in progress :hammer:  |  10.05.2022  |
 | :large_blue_circle: | 2729  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2730  | Priority     |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 2731  | Priority     |  FREE  |  00.00.2022  |

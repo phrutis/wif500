@@ -1,11 +1,5 @@
 ## Numbers of ranges 0-3363
-```mermaid
-pie title Total ranges 3364
-  "- Passed 361" : 361
-  "- In progress 236" : 236
-  "- FREE 2730" : 2730
-  "- FREE 38 (Recommended)" : 38
-```
+
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
 :large_blue_circle: - **Range FREE Recommended!**</br> 

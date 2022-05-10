@@ -33,40 +33,32 @@ Where did the diary photo come from?</br>
 The man worked at the exchange office.</br> 
 Through it, the miner withdrew coins. </br>
 Somehow, the miner turned to the exchange office with a request to help him restore the key in the photo from the burnt diary.</br>
-In 2017, there was no GPU program. GPU cards at that time were weaker than the GTX 1060. </br>
-It took more than 1000 years to search on the CPU. </br>
-This is a very difficult task. The photo went from hand to hand.</br>
+In 2017, there were no WIF GPU recovery programs. </br>
+There were weak gpu cards at that time.</br>
+It was possible to search only on the processor, but this takes thousands of years.</br>
+The photo went from hand to hand.</br>
 Years have passed.</br>
 I was approached by a person (intermediary) who offered to find the key for 50% of the amount.</br> 
 After counting the combinations, it turned out that I needed to rent 3364 RTX 3090 cards for 4 days.</br>
-It's $50-70,000. This is a big amount of risk.</br>
+It's $100-150,000. This is a big amount of risk.</br>
 The intermediary was asked to make a challenge and if the key is found, he will receive 10%. He agreed.</br>
 A program was developed and the challenge was launched.<hr>
 
 Who is the owner of the diary?</br>
-This is a common stupid question. Let's say Indian. What does it change? For understanding.</br> 
-Bitcoin is an anonymous system. The owner is the one who has the key.<hr>
+This is a common question. </br>
+For understanding. Bitcoin is an anonymous system. </br>
+The owner is the one who has the key.<hr>
 
 Is this theft?</br>
 No.</br>
 The author of the diary took the photo himself.</br> 
 Thus, he made a public key out of a private key and gave it to third parties.<hr>
 
-Where is the guarantee that you will give 200 btc donat to the hunter after he gives you the encrypted key?</br>
-If you have doubts you can search by yourself. Where is the guarantee that if you find it, you will give half?</br>
-If not greedy 500 coins is a lot - enough for everyone.</br>
-I need active hunters for other challenges, so there is no point in cheating.<hr>
-
 What happens if the key is not found?</br>
 Nothing. Write on the photo SOLVED. Let's start another challenge and we'll look for it.<hr>
 
 How to know that the key is found by someone?</br>
 Verify transactions on the blockchain.<hr>
-
-What happens if someone who is not a hunter finds a key like a pirate (miner)?</br>
-I doubt that anyone will share with us.</br>
-The challenge will be stopped.</br>
-While the coins are in place, we are looking for.<hr>
 
 Why did you post a photo of the diary?</br>
 Initially, a few additional letters were crossed out in the challenge.</br>
@@ -95,7 +87,7 @@ Our team processed the photos, making their own expertise and experiments.</br>
 On the basis of paw examinations, candidates were added before ?5....</br> 
 These are the blue ranges in the table.<hr>
 
-Bro help?</br>
+Bro help</br>
 I have a weak card, help me, tell me the key.</br> 
 I don't know how to run. Look right,</br> 
 I'm running. I don't have gpu.</br> 
@@ -113,8 +105,7 @@ Why are they there to us?</br>
 If a person is added, then he has read the rules. </br>
 He should tell me the range number he has chosen and is looking for.</br> 
 If he only plans to do it, he will be added when he is ready.</br>
-Yes, I need screenshots to know for sure that a certain range is 100% passed.</br>
-After all, if someone cheats and the key is in his range, everyone will lose.<hr>
+I need screenshots to know for sure that a certain range is 100% passed.</hr>
 
 Why did you free my range? I'm still looking.</br>
 Each range has a start date. </br>
@@ -123,29 +114,18 @@ If silence, the range is released. </br>
 If this is the hunter's only range, it is removed.</br> 
 He can return to the group later and confirm 100% completion.<hr>
 
-
-I am a miner, I have a pool of 300 gpu, my brother has 170, there is access to people with 1000 gpu.</br> 
-Close the challenge, give us the source, I'll find the key quickly, we'll divide the coins, etc.</br>
-No, I need an encrypted key. I need to share with</br>
-winner, mediator, developer, to pay compensation to hunters. </br>
-If you find the key there is no guarantee to the participants. </br>
-We'd better take it easy on our own.</br>
-Do not consider the challenge as earnings. This is a lottery. </br>
-So that you don't risk too much. </br>
-You can take part to use a small part of your gpu resources.</br>
-For example, 100, 200 cards, leave the rest in mining.<hr>
+I'm a miner, I have a pool of 300 gpu, my brother has 170, I have access to people with 1000 gpu.</br>
+Don't treat the challenge as a paycheck. This is a lottery. </br>
+So that you don't take too many risks. </br>
+You can participate with only a small part of your gpu cards</br>
+For example 50, 100 cards, leave the rest in mining.<hr>
 
 Bro I don't have gpu what should i do?</br>
 Download [Fialka M-125](https://github.com/phrutis/Fialka#random-search-part-wif--checksum-check) search on the CPU (mode 15 random good speed).<hr>
 
-You have the wrong letter.</br>
-Here is the correct "F"</br>
-Take your correct letter and look for yourself.<hr>
-
 How can I rent gpu cards? I do not know how to do that.</br>
 Ask for help in the group, they will help you, prompt. </br>
 Unfortunately there are no instructions yet.<hr>
-
 
 I will search at the end when there are few ranges left. So my chances will be higher :-)</br>
 This is not logical, the key can be found earlier, or in the middle of the path.</br> 
@@ -165,3 +145,22 @@ If another hunter passes it, then he will become its owner.<hr>
 I'm worried that someone is faking a sequel from the end.</br>
 Do not worry, there is a very powerful protection.</br>
 Fake hex is impossible<hr>
+
+I will look for the key myself, why should I participate in the challenge?
+
+1. You will not run ranges already completed. </br>
+This increases the chance of finding, and reduces the overall search time.
+
+2. In the challenge there are technical solutions for which the search for a co-worker will be faster than searching for it yourself. </br>
+Also some technical points were taken into account for the task of the key from wif500.
+
+3. If the key is found by another hunter.</br>
+All hunters will be well compensated.</br>
+33.64 btc are divided by the traded ranges at the time the key was found.</br>
+This will not only cover your expenses, but also bring you a good profit.</br>
+
+If you make a mistake on your own, your efforts will be in vain.</br>
+If the hunter finds the key, your expenses will not be covered.</br>
+Participate in the challenge, do not waste your time and resources on an empty independent search.</br>
+Good luck to everyone in your search!
+

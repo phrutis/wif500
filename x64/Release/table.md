@@ -652,7 +652,7 @@
 | :large_blue_circle: | 3045  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 3046  | cpto_node    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :large_blue_circle: | 3047  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3048  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3048  | Chris        |  in progress :hammer:      |  10.05.2022  |
 | :no_entry:          | 3049  | cpto_node    |  Passed :heavy_check_mark:  | 04.04.2022  |
 | :yellow_circle:     | 3050  | Alexsandr    |  in progress :hammer:  |  06.05.2022  |
 | :yellow_circle:     | 3051  | Alexsandr    |  in progress :hammer:  |  06.05.2022  |

@@ -63,16 +63,11 @@ Write privately in telegram ```phrutis``` that you found the key.
 ### Compensations:
 
 1. When the key is found, the hunter that did find it will receive a full 200 BTC reward.</br>
-2. To the rest of the hunters, for every range completed, a min. 0.01 BTC  (410 usd) reward (to cover the electricity costs and not mining all that period) will be paid after the key is found.</br>
-Total reward equals to 33.64 (0.01 BTC/range x 3364 ranges).
-3. If the key is found in early stages, that amount of 33.64 BTC for all the 3364 will be split among the hunters that have completed range searches.</br> 
-Example: Hunters completed cumulatively 1000 ranges at the time the key was found.</br> 
-The 33.64 BTC will be divided to those 1000 completed ranges, resulting in 0.03364 BTC (~1337 usd) for each completed range scan.
+2. All other hunters in the table will receive good compensation.</br>
+Extra 33.64 btc will be divided by the number of ranges passed.</br>
+The example will go through 1000 ranges and the key will be found.</br>
+33.64 btc divided by 1000.</br>
+For each range passed, the hunter will receive 0.0364 btc ($1329)</br>
 
-### Rules:
-Do not counterfeit the proof.</br> 
-Send genuine screenshot, search honestly </br>
-If you fake it and the key was in your range, everybody loses!
- 
 ### [Frequently asked Questions](https://github.com/phrutis/wif500/blob/main/x64/Release/questions.md)
 

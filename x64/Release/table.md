@@ -425,7 +425,7 @@
 | :yellow_circle:     | 1876  | 047         |  in progress :hammer:  |  10.05.2022  |
 | :yellow_circle:     | 1877  | Kuw         |  in progress :hammer:  |  25.04.2022  |
 | :yellow_circle:     | 1878  | cpto_node   |  in progress :hammer:  |  10.05.2022  |
-| :large_blue_circle: | 1879  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 1879  | cpto_node   |  in progress :hammer:  |  10.05.2022  |
 | :yellow_circle:     | 1880  | KillBill_2  |  in progress :hammer:  |  07.05.2022  |
 | :large_blue_circle: | 1881  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1882  | Priority    |  FREE  |  00.00.2022  |

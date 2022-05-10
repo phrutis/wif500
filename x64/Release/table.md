@@ -562,8 +562,8 @@
 | :yellow_circle:     | 2726  | cpto_node    |  in progress :hammer: |  10.05.2022  |
 | :yellow_circle:     | 2727  | cpto_node    |  in progress :hammer: |  10.05.2022  |
 | :yellow_circle:     | 2728  | cpto_node    |  in progress :hammer: |  10.05.2022  |
-| :large_blue_circle: | 2729  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 2730  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 2729  | cpto_node    |  in progress :hammer: |  10.05.2022  |
+| :yellow_circle:     | 2730  | cpto_node    |  in progress :hammer: |  10.05.2022  |
 | :yellow_circle:     | 2731  | Noname       |  in progress :hammer: |  10.05.2022  |
 | :yellow_circle:     | 2732  | com bio      |  in progress :hammer: |  07.05.2022  |
 | :yellow_circle:     | 2733  | com bio      |  in progress :hammer: |  07.05.2022  |

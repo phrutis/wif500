@@ -321,7 +321,7 @@
 | :yellow_circle: | 854  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :yellow_circle: | 855  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :yellow_circle: | 856  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
-| :yellow_circle: | 857  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :no_entry:     | 857     | K-Fed     |  Passed :white_check_mark:  |  10.05.2022  |
 | :no_entry:     | 869     | Almera    |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :no_entry:     | 897     | Almera    |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:     | 898     | Almera    |  Passed :heavy_check_mark:  |  01.05.2022  |

@@ -60,11 +60,6 @@ Nothing. Write on the photo SOLVED. Let's start another challenge and we'll look
 How to know that the key is found by someone?</br>
 Verify transactions on the blockchain.<hr>
 
-Why did you post a photo of the diary?</br>
-Initially, a few additional letters were crossed out in the challenge.</br>
-But, on bittalk they posted all the symbols of the key from the diary. Therefore, there is no point in hiding them.<hr>
-
-
 Are you looking for a compressed key, maybe it's uncompressed?</br>
 The key is 99.9% compressed.</br>
 Experienced programmers worked on the key.</br>
@@ -104,8 +99,7 @@ I believe that the group does not need observers (not active hunters)</br>
 Why are they there to us?</br>
 If a person is added, then he has read the rules. </br>
 He should tell me the range number he has chosen and is looking for.</br> 
-If he only plans to do it, he will be added when he is ready.</br>
-I need screenshots to know for sure that a certain range is 100% passed.</hr>
+I need screenshots to know for sure that a certain range is 100% passed.<hr>
 
 Why did you free my range? I'm still looking.</br>
 Each range has a start date. </br>
@@ -119,9 +113,6 @@ Don't treat the challenge as a paycheck. This is a lottery. </br>
 So that you don't take too many risks. </br>
 You can participate with only a small part of your gpu cards</br>
 For example 50, 100 cards, leave the rest in mining.<hr>
-
-Bro I don't have gpu what should i do?</br>
-Download [Fialka M-125](https://github.com/phrutis/Fialka#random-search-part-wif--checksum-check) search on the CPU (mode 15 random good speed).<hr>
 
 How can I rent gpu cards? I do not know how to do that.</br>
 Ask for help in the group, they will help you, prompt. </br>
@@ -145,22 +136,4 @@ If another hunter passes it, then he will become its owner.<hr>
 I'm worried that someone is faking a sequel from the end.</br>
 Do not worry, there is a very powerful protection.</br>
 Fake hex is impossible<hr>
-
-I will look for the key myself, why should I participate in the challenge?
-
-1. You will not run ranges already completed. </br>
-This increases the chance of finding, and reduces the overall search time.
-
-2. In the challenge there are technical solutions for which the search for a co-worker will be faster than searching for it yourself. </br>
-Also some technical points were taken into account for the task of the key from wif500.
-
-3. If the key is found by another hunter.</br>
-All hunters will be well compensated.</br>
-33.64 btc are divided by the traded ranges at the time the key was found.</br>
-This will not only cover your expenses, but also bring you a good profit.</br>
-
-If you make a mistake on your own, your efforts will be in vain.</br>
-If the hunter finds the key, your expenses will not be covered.</br>
-Participate in the challenge, do not waste your time and resources on an empty independent search.</br>
-Good luck to everyone in your search!
 

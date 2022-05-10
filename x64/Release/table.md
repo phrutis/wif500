@@ -279,11 +279,11 @@
 | :no_entry:      | 812  | Sam       |  Passed :heavy_check_mark: |  10.05.2022  |
 | :no_entry:      | 813  | Sam       |  Passed :heavy_check_mark: |  09.05.2022  |
 | :no_entry:      | 814  | Oleg_R    |  Passed :heavy_check_mark: |  09.05.2022  |
-| :yellow_circle: | 815  | 047       |  in progress :hammer: |  06.05.2022  |
-| :yellow_circle: | 816  | 047       |  in progress :hammer: |  06.05.2022  |
-| :yellow_circle: | 817  | 047       |  in progress :hammer: |  06.05.2022  |
-| :yellow_circle: | 818  | 047       |  in progress :hammer: |  06.05.2022  |
-| :yellow_circle: | 819  | 047       |  in progress :hammer: |  06.05.2022  |
+| :no_entry:      | 815  | 047       |  Passed :heavy_check_mark: |  10.05.2022  |
+| :no_entry:      | 816  | 047       |  Passed :heavy_check_mark: |  10.05.2022  |
+| :no_entry:      | 817  | 047       |  Passed :heavy_check_mark: |  10.05.2022  |
+| :no_entry:      | 818  | 047       |  Passed :heavy_check_mark: |  10.05.2022  |
+| :no_entry:      | 819  | 047       |  Passed :heavy_check_mark: |  10.05.2022  |
 | :no_entry:      | 820  | cpto_node |  Passed :heavy_check_mark: |  07.05.2022  |
 | :yellow_circle: | 821  | V         |  in progress :hammer: |  03.05.2022  |
 | :yellow_circle: | 822  | cpto_node |  in progress :hammer: |  07.05.2022  |

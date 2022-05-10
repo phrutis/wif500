@@ -533,7 +533,7 @@
 | :no_entry:          | 2648      | Oleg_R    |  Passed :heavy_check_mark:  |  04.05.2022  |
 | :no_entry:          | 2661      | Oleg_R    |  Passed :heavy_check_mark:  |  04.05.2022  |
 | :yellow_circle:     | 2662      | Oleg_R    |  in progress :hammer:  |  07.05.2022  |
-| :yellow_circle:     | 2675      | Oleg_R    |  in progress :hammer:  |  07.05.2022  |
+| :no_entry:          | 2675      | Oleg_R    |  Passed :heavy_check_mark:  |  10.05.2022  |
 | :yellow_circle:     | 2687      | Oleg_R    |  in progress :hammer:  |  09.05.2022  |
 | :yellow_circle:     | 2693      | Oleg_R    |  in progress :hammer:  |  09.05.2022  |
 | :yellow_circle:     | 2698      | Oleg_R    |  in progress :hammer:  |  09.05.2022  |
@@ -546,6 +546,7 @@
 | :no_entry:          | 2705      | Alexander |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :no_entry:          | 2706      | Alexander |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :yellow_circle:     | 2707      | Oleg_R    |  in progress :hammer:  |  09.05.2022  |
+| :yellow_circle:     | 2710      | Oleg_R    |  in progress :hammer:  |  10.05.2022  |
 | :yellow_circle:     | 2714      | lan       |  in progress :hammer:  |  05.05.2022  |
 | :yellow_circle:     | 2715      | lan       |  in progress :hammer:  |  05.05.2022  |
 | :yellow_circle:     | 2716  | Chris        |  in progress :hammer: |  07.05.2022  |
@@ -631,7 +632,7 @@
 | :no_entry:          | 3025  | Kripto       |  Passed :heavy_check_mark: |  26.04.2022  |
 | :no_entry:          | 3026  | Chris        |  Passed :heavy_check_mark: |  09.05.2022  |
 | :no_entry:          | 3027  | Kripto       |  Passed :heavy_check_mark: |  29.04.2022  |
-| :large_blue_circle: | 3028  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3028  | Chris        |  in progress :hammer:      |  10.05.2022  |
 | :no_entry:          | 3029  | Kripto       |  Passed :heavy_check_mark: |  03.05.2022  |
 | :no_entry:          | 3030  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3031  | Kripto       |  Passed :heavy_check_mark: |  07.05.2022  |
@@ -641,13 +642,13 @@
 | :yellow_circle:     | 3035  | cpto_node    |  in progress :hammer:  |  09.05.2022  |
 | :no_entry:          | 3036  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3037  | cpto_node    |  Passed :heavy_check_mark: |  01.05.2022  |
-| :large_blue_circle: | 3038  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3038  | Chris        |  in progress :hammer:      |  10.05.2022  |
 | :no_entry:          | 3039  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :no_entry:          | 3040  | cpto_node    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :yellow_circle:     | 3041  | Kripto       |  Passed :heavy_check_mark:  |  10.05.2022  |
-| :large_blue_circle: | 3042  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3042  | Chris        |  in progress :hammer:      |  10.05.2022  |
 | :no_entry:          | 3043  | cpto_node    |  Passed :heavy_check_mark:  |  30.04.2022  |
-| :large_blue_circle: | 3044  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3044  | Chris        |  in progress :hammer:      |  10.05.2022  |
 | :large_blue_circle: | 3045  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 3046  | cpto_node    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :large_blue_circle: | 3047  | Priority     |  FREE  |  00.00.2022  |

@@ -15,10 +15,10 @@ The advantage of the challenge is that if the key is found, each hunter will rec
 Good luck!</br>
 ```mermaid
 pie title Total ranges 3364
-  "- Passed 361" : 361
-  "- In progress 236" : 236
+  "- Passed 362" : 362
+  "- In progress 240" : 240
   "- FREE 2730" : 2730
-  "- FREE 38 (Recommended)" : 38
+  "- FREE 33 (Recommended)" : 33
 ```
 ## How to participate in the challenge:
 If you have a GPUs:</br>

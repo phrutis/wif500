@@ -601,7 +601,7 @@
 | :no_entry:          | 2766  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
 | :no_entry:          | 2767  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :yellow_circle:     | 2768  | Chris        |  in progress :hammer: |  09.05.2022  |
-| :yellow_circle:     | 2769  | Crypto GPU   |  in progress :hammer: |  07.05.2022  |
+| :no_entry:          | 2769  | Crypto GPU   |  Passed :heavy_check_mark: |  10.05.2022  |
 | :yellow_circle:     | 2770  | V            |  in progress :hammer: |  05.05.2022  |
 | :yellow_circle:     | 2771  | Chris        |  in progress :hammer: |  09.05.2022  |
 | :yellow_circle:     | 2885  | Crypto GPU   |  in progress :hammer: |  08.05.2022  |
@@ -624,27 +624,27 @@
 | :no_entry:          | 3018  | Chris        |  Passed :heavy_check_mark: |  09.05.2022  |
 | :no_entry:          | 3019  | Chris        |  Passed :heavy_check_mark: |  09.05.2022  |
 | :no_entry:          | 3020  | Chris        |  Passed :heavy_check_mark: |  09.05.2022  |
-| :no_entry:          | 3021  | Kripto       |  Passed :heavy_check_mark:  |  18.04.2022  |
-| :no_entry:          | 3022  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
-| :no_entry:          | 3023  | Kripto       |  Passed :heavy_check_mark:  |  22.04.2022  |
-| :no_entry:          | 3024  | Fantom       |  Passed :heavy_check_mark:  |  04.05.2022  |
-| :no_entry:          | 3025  | Kripto       |  Passed :heavy_check_mark:  |  26.04.2022  |
+| :no_entry:          | 3021  | Kripto       |  Passed :heavy_check_mark: |  18.04.2022  |
+| :no_entry:          | 3022  | Fantom       |  Passed :heavy_check_mark: |  10.05.2022  |
+| :no_entry:          | 3023  | Kripto       |  Passed :heavy_check_mark: |  22.04.2022  |
+| :no_entry:          | 3024  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
+| :no_entry:          | 3025  | Kripto       |  Passed :heavy_check_mark: |  26.04.2022  |
 | :no_entry:          | 3026  | Chris        |  Passed :heavy_check_mark: |  09.05.2022  |
 | :no_entry:          | 3027  | Kripto       |  Passed :heavy_check_mark: |  29.04.2022  |
 | :large_blue_circle: | 3028  | Priority     |  FREE  |  00.00.2022  |
-| :no_entry:          | 3029  | Kripto       |  Passed :heavy_check_mark:  |  03.05.2022  |
+| :no_entry:          | 3029  | Kripto       |  Passed :heavy_check_mark: |  03.05.2022  |
 | :no_entry:          | 3030  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3031  | Kripto       |  Passed :heavy_check_mark: |  07.05.2022  |
-| :yellow_circle:     | 3032  | Kripto       |  in progress :hammer:  |  07.05.2022  |
-| :no_entry:          | 3033  | Fantom       |  Passed :heavy_check_mark:  |  04.05.2022  |
-| :no_entry:          | 3034  | cpto_node    |  Passed :heavy_check_mark:  |  04.05.2022  |
+| :no_entry:          | 3032  | Kripto       |  Passed :heavy_check_mark: |  10.05.2022  |
+| :no_entry:          | 3033  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
+| :no_entry:          | 3034  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |
 | :yellow_circle:     | 3035  | cpto_node    |  in progress :hammer:  |  09.05.2022  |
 | :no_entry:          | 3036  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
-| :no_entry:          | 3037  | cpto_node    |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:          | 3037  | cpto_node    |  Passed :heavy_check_mark: |  01.05.2022  |
 | :large_blue_circle: | 3038  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 3039  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :no_entry:          | 3040  | cpto_node    |  Passed :heavy_check_mark:  |  30.04.2022  |
-| :large_blue_circle: | 3041  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3041  | Kripto       |  Passed :heavy_check_mark:  |  10.05.2022  |
 | :large_blue_circle: | 3042  | Priority     |  FREE  |  00.00.2022  |
 | :no_entry:          | 3043  | cpto_node    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :large_blue_circle: | 3044  | Priority     |  FREE  |  00.00.2022  |

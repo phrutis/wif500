@@ -1,10 +1,10 @@
 ## Numbers of ranges 0-3363
 ```mermaid
 pie title Total ranges 3364
-  "- Passed 360" : 360
+  "- Passed 361" : 361
   "- In progress 236" : 236
   "- FREE 2730" : 2730
-  "- FREE 39 (Recommended)" : 39
+  "- FREE 38 (Recommended)" : 38
 ```
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
@@ -545,7 +545,7 @@ pie title Total ranges 3364
 | :yellow_circle:     | 2735  | V            |  in progress :hammer: |  03.05.2022  |
 | :large_blue_circle: | 2736  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 2737  | Demon        |  in progress :hammer: | 10.05.2022   |
-| :large_blue_circle: | 2738  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 2738  | com bio      |  in progress :hammer: |  10.05.2022  |
 | :large_blue_circle: | 2739  | Priority     |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 2740  | Leonid       |  in progress :hammer: |  07.05.2022  |
 | :yellow_circle:     | 2741  | Leonid       |  in progress :hammer: |  07.05.2022  |
@@ -572,7 +572,7 @@ pie title Total ranges 3364
 | :no_entry:          | 2762  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
 | :yellow_circle:     | 2763  | V            |  in progress :hammer:  |  03.05.2022  |
 | :no_entry:          | 2764  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
-| :yellow_circle:     | 2765  | com bio      |  in progress :hammer:  |  03.05.2022  |
+| :no_entry:          | 2765  | com bio      |  Passed :heavy_check_mark:  |  10.05.2022  |
 | :no_entry:          | 2766  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
 | :no_entry:          | 2767  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :yellow_circle:     | 2768  | Chris        |  in progress :hammer: |  09.05.2022  |

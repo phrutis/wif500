@@ -276,7 +276,7 @@
 | :yellow_circle: | 809  | Jo Z      |  in progress :hammer:  |  04.05.2022  |
 | :yellow_circle: | 810  | Jo Z      |  in progress :hammer:  |  04.05.2022  |
 | :no_entry:      | 811  | Oleg_R    |  Passed :heavy_check_mark: |  08.05.2022  |
-| :yellow_circle: | 812  | Sam       |  in progress :hammer: |  03.05.2022  |
+| :no_entry:      | 812  | Sam       |  Passed :heavy_check_mark: |  10.05.2022  |
 | :no_entry:      | 813  | Sam       |  Passed :heavy_check_mark: |  09.05.2022  |
 | :no_entry:      | 814  | Oleg_R    |  Passed :heavy_check_mark: |  09.05.2022  |
 | :yellow_circle: | 815  | 047       |  in progress :hammer: |  06.05.2022  |
@@ -418,12 +418,12 @@
 | :yellow_circle:     | 1869  | JRodary     |  in progress :hammer:  |  06.05.2022  |
 | :no_entry:          | 1870  | Sam         |  Passed :heavy_check_mark:  |  20.05.2022  |
 | :yellow_circle:     | 1871  | cpto_node   |  in progress :hammer:  |  10.05.2022  |
-| :large_blue_circle: | 1872  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1873  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1874  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1875  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1876  | Priority    |  FREE  |  00.00.2022  |
-| :yellow_circle:     | 1877  | Kuw         | in progress :hammer: |  25.04.2022  |
+| :yellow_circle:     | 1872  | 047         |  in progress :hammer:  |  10.05.2022  |
+| :yellow_circle:     | 1873  | 047         |  in progress :hammer:  |  10.05.2022  |
+| :yellow_circle:     | 1874  | 047         |  in progress :hammer:  |  10.05.2022  |
+| :yellow_circle:     | 1875  | 047         |  in progress :hammer:  |  10.05.2022  |
+| :yellow_circle:     | 1876  | 047         |  in progress :hammer:  |  10.05.2022  |
+| :yellow_circle:     | 1877  | Kuw         |  in progress :hammer:  |  25.04.2022  |
 | :large_blue_circle: | 1878  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1879  | Priority    |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 1880  | KillBill_2  |  in progress :hammer:  |  07.05.2022  |

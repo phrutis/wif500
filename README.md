@@ -1,37 +1,31 @@
 # Challenge WIF 500
-![wif500](https://user-images.githubusercontent.com/82582647/163708843-3ba05950-7c30-4d44-bec0-c7bc26616188.jpg)</br>
-**Find the key, get 200 BTC donations!**</br>
+![wif500](https://user-images.githubusercontent.com/82582647/167639045-fb03ef75-49a1-48d2-942e-48092740456d.png)</br>
+**Find the key, get 200 BTC**</br>
 
 The known part of the key is 40 characters from 52</br>
-The address [1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU](https://www.blockchain.com/btc/address/1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU) 500 btc</br>
-
-You can search yourself in [WifSolverCuda](https://github.com/phrutis/WifSolverCuda) or CPU [Fialka](https://github.com/phrutis/Fialka). </br>
-If you are lucky, you can donate coins: 1HUAWqBHkTNuSLMyCUBXBA3DoPstpMyoyv</br>
-### But before that, read the following:</br>
-
-Everyone wants to search individually to take possession of all the coins, this is logical.</br>
-The range of missing symbols is very very large and everyone is spinning the same thing.</br>
-Some lone hunters make the mistake of rotating ranges that don't exist, further increasing the empty search time.</br>
-Sometimes they make other mistakes that make finding the key impossible.</br>
-After a week of searching, they begin to realize that the range is too large.</br>
-It is difficult and physically impossible to go through it, they will be disappointed, angry, and stop searching.</br>
-Don't waste your time, join the challenge
+The address [1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU](https://www.blockchain.com/btc/address/1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU)</br>
 
 ### Challenge is a collective search for a key
-A large range of 12 characters is divided into 3364 small ranges</br>
+A large range of 12 characters is divided into 3364 small ranges.</br>
 The program is configured correctly, it takes into account many technical aspects of searching for the initial part of the key.</br>
-There is a table of hunters on which ranges are indicated in the process and passed. This way you won't pass empty ranges. </br>
-This speeds up the overall search process.</br>
-The advantage of the challenge is that if the key is found, each hunter will receive compensation for the range he has passed.
-Donate 200 btc is a worthy reward for a find key.</br>
-You decide. Good luck!</br>
-
+There is a [**table of hunters**](https://github.com/phrutis/wif500/blob/main/x64/Release/table.md) on which ranges are indicated in the process and passed.</br>
+This way you won't serch empty ranges. This speeds up the overall search process.</br>
+The advantage of the challenge is that if the key is found, each hunter will receive compensation for the ranges he has passed.</br>
+200 btc is a worthy reward for a find key.</br>
+Good luck!</br>
+```mermaid
+pie title Total ranges 3364
+  "- Passed 361" : 361
+  "- In progress 236" : 236
+  "- FREE 2730" : 2730
+  "- FREE 38 (Recommended)" : 38
+```
 ## How to participate in the challenge:
 If you have a GPUs:</br>
 **RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090, A5000, A6000** and are ready to search for a key **24/7**</br>
 
 If you do not have a 30xx card, you can [**rent**](https://vast.ai) it and participate in a collective search. </br>
-For some users, [renting](https://vast.ai) is cheaper than searching on their own PC. There is also less noise in the house.</br>
+For some users, [**renting**](https://vast.ai) is cheaper than searching on their own PC. There is also less noise in the house.</br>
 When renting, you must take into account the risk that the key may not be found at all.</br> 
 You may incur losses. Think of it not as earnings, but as a lottery.
 
@@ -49,10 +43,10 @@ Add a telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi) </br>
 Write: ```@phrutis``` the numbers of the range in which you took for the search.</br>
 I will accept your participation and add you to the table</br>
 Do not take busy (in progress) ranges, see the [**TABLE**](https://github.com/phrutis/wif500/blob/main/x64/Release/table.md).</br>
-**Don't join if**</br>
-1. Your gpu is below RTX 2070</br>
-2. You are just interested, but you are not going to participate either.</br>
-3. Ask questions not related to the challenge.</br>
+**Don't join if**
+- Your gpu is below RTX 2070</br>
+- You are just interested, but you are not going to participate either.</br>
+- Ask questions not related to the challenge.</br>
 
 When you have a range progress 100% take a screenshot (photo) and post it in the group. </br>
 I will (check) and mark the range as passed, assign it to you.</br>

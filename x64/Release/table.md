@@ -60,7 +60,38 @@ pie title Total ranges 3364
 | :yellow_circle:| 42      | Mars42  |  in progress :hammer: |  06.05.2022  |
 | :no_entry:     | 43      | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:     | 44      | V         |  Passed :heavy_check_mark:  |  02.05.2022  |
+| :green_circle: | 45      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 46      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 47      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 48      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 49      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 50      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 51      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 52      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 53      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 54      | FREE    |  FREE  |  00.00.2022 |
 | :no_entry:     | 55      | V         |  Passed :heavy_check_mark:  |  02.05.2022  |
+| :green_circle: | 56      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 57      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 58      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 59      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 60      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 61      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 62      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 63      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 64      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 65      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 66      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 67      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 68      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 69      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 70      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 71      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 72      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 73      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 74      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 75      | FREE    |  FREE  |  00.00.2022 |
+| :green_circle: | 76      | FREE    |  FREE  |  00.00.2022 |
 | :no_entry:     | 77      | Werevalis |  Passed :heavy_check_mark:  |  25.04.2022  |
 | :no_entry:     | 83      | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 86      | Almera    |  Passed :heavy_check_mark:  |  21.04.2022  |

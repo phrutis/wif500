@@ -845,7 +845,7 @@
 | :no_entry:     | 840  | 047       |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:     | 841  | Oleg_R    |  Passed :heavy_check_mark: |  06.05.2022  |
 | :no_entry:     | 842  | Oleg_R    |  Passed :heavy_check_mark: |  07.05.2022  |
-| :yellow_circle:| 843  | K-Fed     |  in progress :hammer:  |  03.05.2022  |
+| :no_entry:     | 843  | K-Fed     |  Passed :white_check_mark: |  11.05.2022  |
 | :no_entry:     | 844  | K-Fed     |  Passed :heavy_check_mark: |  08.05.2022  |
 | :no_entry:     | 845  | K-Fed     |  Passed :heavy_check_mark: |  09.05.2022  |
 | :no_entry:     | 846  | K-Fed     |  Passed :heavy_check_mark: |  08.05.2022  |

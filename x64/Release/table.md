@@ -31,7 +31,7 @@
 | :no_entry:     | 20      | 047       |  Passed :heavy_check_mark: |  28.04.2022  |
 | :no_entry:     | 21      | Zhiquaran |  Passed :heavy_check_mark: |  23.04.2022  |
 | :no_entry:     | 22      | 047       |  Passed :heavy_check_mark: |  28.04.2022  |
-| :yellow_circle:| 23      | Minase    |  in progress :hammer: |  28.04.2022  |
+| :green_circle: | 23      | FREE      |  FREE  |  00.00.2022  |
 | :yellow_circle:| 24      | Andrii    |  in progress :hammer: |  06.05.2022  |
 | :green_circle: | 25      | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 26      | FREE    |  FREE  |  00.00.2022 |
@@ -234,7 +234,7 @@
 | :no_entry:     | 435     | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:     | 436     | K-Fed     |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:     | 453     | Almera    |  Passed :heavy_check_mark:  |  26.04.2022  |
-| :yellow_circle:| 468     | Minase    |  in progress :hammer:  |  28.04.2022  |
+| :green_circle: | 468     | FREE      |  FREE  |  00.00.2022  |
 | :no_entry:     | 493     | Zhiquaran |  Passed :heavy_check_mark:  |  23.04.2022  |
 | :no_entry:     | 494     | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 495     | Almera    |  Passed :heavy_check_mark:  |  27.04.2022  |
@@ -338,7 +338,7 @@
 | :no_entry:     | 1381    | Almera    |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :no_entry:     | 1401    | Kuw       |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 1502    | Kuw       |  Passed                |  22.04.2022  |
-| :yellow_circle:| 1504    | Elone     |  in progress :hammer:  |  27.04.2022  |
+| :green_circle: | 1504    | FREE      |  FREE  |  00.00.2022  |
 | :no_entry:     | 1600    | Haymac    |  Passed :heavy_check_mark: |  26.04.2022  |
 | :no_entry:     | 1601    | Haymac    |  Passed :heavy_check_mark: |  30.04.2022  |
 | :yellow_circle:| 1602    | Haymac    |  in progress :hammer:  |  30.04.2022  |

@@ -532,7 +532,7 @@
 | :no_entry:          | 2481      | DworfD    |  Passed :heavy_check_mark:  |  04.05.2022  |
 | :no_entry:          | 2648      | Oleg_R    |  Passed :heavy_check_mark:  |  04.05.2022  |
 | :no_entry:          | 2661      | Oleg_R    |  Passed :heavy_check_mark:  |  04.05.2022  |
-| :yellow_circle:     | 2662      | Oleg_R    |  in progress :hammer:  |  07.05.2022  |
+| :no_entry:          | 2662      | Oleg_R    |  Passed :white_check_mark:  |  11.05.2022  |
 | :no_entry:          | 2675      | Oleg_R    |  Passed :heavy_check_mark:  |  10.05.2022  |
 | :yellow_circle:     | 2687      | Oleg_R    |  in progress :hammer:  |  09.05.2022  |
 | :yellow_circle:     | 2693      | Oleg_R    |  in progress :hammer:  |  09.05.2022  |

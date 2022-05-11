@@ -855,7 +855,7 @@
 | :no_entry:     | 850  | K-Fed     |  Passed :white_check_mark: |  11.05.2022  |
 | :no_entry:     | 851  | K-Fed     |  Passed :white_check_mark: |  11.05.2022  |
 | :no_entry:     | 852  | K-Fed     |  Passed :heavy_check_mark: |  11.05.2022  |
-| :yellow_circle:| 853  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :no_entry:     | 853  | K-Fed     |  Passed :heavy_check_mark: |  11.05.2022  |
 | :yellow_circle:| 854  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :no_entry:     | 855  | K-Fed     |  Passed :heavy_check_mark: |  11.05.2022  |
 | :yellow_circle:| 856  | K-Fed     |  in progress :hammer:  |  01.05.2022  |

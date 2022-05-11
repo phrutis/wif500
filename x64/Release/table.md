@@ -1071,7 +1071,7 @@
 | :no_entry:          | 2760  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
 | :no_entry:          | 2761  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
 | :no_entry:          | 2762  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
-| :yellow_circle:     | 2763  | V            |  in progress :hammer:  |  03.05.2022  |
+| :no_entry:          | 2763  | V            |  Passed :heavy_check_mark:  |  11.05.2022  |
 | :no_entry:          | 2764  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
 | :no_entry:          | 2765  | com bio      |  Passed :heavy_check_mark:  |  10.05.2022  |
 | :no_entry:          | 2766  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
@@ -1081,7 +1081,7 @@
 | :yellow_circle:     | 2770  | V            |  in progress :hammer: |  05.05.2022  |
 | :yellow_circle:     | 2771  | Chris        |  in progress :hammer: |  09.05.2022  |
 | :yellow_circle:     | 2885  | Crypto GPU   |  in progress :hammer: |  08.05.2022  |
-| :green_circle:      | 2977  | FREE         |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 2977  | K-Fed        |  in progress :hammer: |  11.05.2022  |
 | :no_entry:          | 3000  | Fantom       |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :no_entry:          | 3004  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3005  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |

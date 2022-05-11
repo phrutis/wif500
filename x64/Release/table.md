@@ -273,8 +273,8 @@
 | :yellow_circle:| 806     | 047       |  Passed :heavy_check_mark:  |  06.05.2022  |
 | :yellow_circle: | 807  | Jo Z      |  in progress :hammer:  |  04.05.2022  |
 | :yellow_circle: | 808  | Jo Z      |  in progress :hammer:  |  04.05.2022  |
-| :yellow_circle: | 809  | Jo Z      |  in progress :hammer:  |  04.05.2022  |
-| :yellow_circle: | 810  | Jo Z      |  in progress :hammer:  |  04.05.2022  |
+| :no_entry:      | 809  | Jo Z      |  Passed :heavy_check_mark: |  11.05.2022  |
+| :no_entry:      | 810  | Jo Z      |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:      | 811  | Oleg_R    |  Passed :heavy_check_mark: |  08.05.2022  |
 | :no_entry:      | 812  | Sam       |  Passed :heavy_check_mark: |  10.05.2022  |
 | :no_entry:      | 813  | Sam       |  Passed :heavy_check_mark: |  09.05.2022  |
@@ -302,7 +302,7 @@
 | :yellow_circle: | 835  | K-Fed     |  in progress :hammer: |  09.05.2022  |
 | :yellow_circle: | 836  | K-Fed     |  in progress :hammer: |  09.05.2022  |
 | :yellow_circle: | 837  | Chris     |  in progress :hammer: |  09.05.2022  |
-| :yellow_circle: | 838  | Sam       |  in progress :hammer: |  05.05.2022  |
+| :no_entry:      | 838  | Sam       |  Passed :heavy_check_mark: |  11.05.2022  |
 | :yellow_circle: | 839  | 047       |  in progress :hammer: |  07.05.2022  |
 | :yellow_circle: | 840  | 047       |  in progress :hammer: |  07.05.2022  |
 | :no_entry:      | 841  | Oleg_R    |  Passed :heavy_check_mark: |  06.05.2022  |
@@ -427,10 +427,10 @@
 | :yellow_circle:     | 1878  | cpto_node   |  in progress :hammer:  |  10.05.2022  |
 | :yellow_circle:     | 1879  | cpto_node   |  in progress :hammer:  |  10.05.2022  |
 | :yellow_circle:     | 1880  | KillBill_2  |  in progress :hammer:  |  07.05.2022  |
-| :large_blue_circle: | 1881  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1882  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1883  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1884  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 1881  | Chris       |  in progress :hammer: |  11.05.2022  |
+| :yellow_circle:     | 1882  | Chris       |  in progress :hammer: |  11.05.2022  |
+| :yellow_circle:     | 1883  | Chris       |  in progress :hammer: |  11.05.2022  |
+| :yellow_circle:     | 1884  | Chris       |  in progress :hammer: |  11.05.2022  |
 | :large_blue_circle: | 1885  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1886  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1887  | Priority    |  FREE  |  00.00.2022  |

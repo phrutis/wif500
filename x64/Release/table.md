@@ -314,12 +314,12 @@
 | :no_entry:      | 847  | K-Fed     |  Passed :heavy_check_mark: |  08.05.2022  |
 | :no_entry:      | 848  | K-Fed     |  Passed :heavy_check_mark: |  08.05.2022  |
 | :no_entry:      | 849  | K-Fed     |  Passed :heavy_check_mark: |  09.05.2022  |
-| :yellow_circle: | 850  | K-Fed     |  in progress :hammer:  |  29.04.2022  |
+| :no_entry:      | 850  | K-Fed     |  Passed :white_check_mark: |  11.05.2022  |
 | :yellow_circle: | 851  | K-Fed     |  in progress :hammer:  |  29.04.2022  |
-| :yellow_circle: | 852  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :no_entry:      | 852  | K-Fed     |  Passed :heavy_check_mark: |  11.05.2022  |
 | :yellow_circle: | 853  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :yellow_circle: | 854  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
-| :yellow_circle: | 855  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
+| :no_entry:      | 855  | K-Fed     |  Passed :heavy_check_mark: |  11.05.2022  |
 | :yellow_circle: | 856  | K-Fed     |  in progress :hammer:  |  01.05.2022  |
 | :no_entry:     | 857     | K-Fed     |  Passed :white_check_mark:  |  10.05.2022  |
 | :no_entry:     | 869     | Almera    |  Passed :heavy_check_mark:  |  26.04.2022  |
@@ -424,16 +424,16 @@
 | :yellow_circle:     | 1875  | 047         |  in progress :hammer:  |  10.05.2022  |
 | :yellow_circle:     | 1876  | 047         |  in progress :hammer:  |  10.05.2022  |
 | :yellow_circle:     | 1877  | Kuw         |  in progress :hammer:  |  25.04.2022  |
-| :yellow_circle:     | 1878  | cpto_node   |  in progress :hammer:  |  10.05.2022  |
-| :yellow_circle:     | 1879  | cpto_node   |  in progress :hammer:  |  10.05.2022  |
+| :yellow_circle:     | 1878  | K-Fed       |  in progress :hammer:  |  10.05.2022  |
+| :yellow_circle:     | 1879  | K-Fed       |  in progress :hammer:  |  10.05.2022  |
 | :yellow_circle:     | 1880  | KillBill_2  |  in progress :hammer:  |  07.05.2022  |
 | :yellow_circle:     | 1881  | Chris       |  in progress :hammer: |  11.05.2022  |
 | :yellow_circle:     | 1882  | Chris       |  in progress :hammer: |  11.05.2022  |
 | :yellow_circle:     | 1883  | Chris       |  in progress :hammer: |  11.05.2022  |
 | :yellow_circle:     | 1884  | Chris       |  in progress :hammer: |  11.05.2022  |
 | :large_blue_circle: | 1885  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1886  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1887  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 1886  | K-Fed       |  in progress :hammer:  |  11.05.2022  |
+| :yellow_circle:     | 1887  | K-Fed       |  in progress :hammer:  |  11.05.2022  |
 | :no_entry:          | 1888  | com bio      |  Passed |  29.05.2022  |
 | :large_blue_circle: | 1889  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1890  | Priority    |  FREE  |  00.00.2022  |
@@ -549,10 +549,10 @@
 | :yellow_circle:     | 2710      | Oleg_R    |  in progress :hammer:  |  10.05.2022  |
 | :yellow_circle:     | 2714      | lan       |  in progress :hammer:  |  05.05.2022  |
 | :yellow_circle:     | 2715      | lan       |  in progress :hammer:  |  05.05.2022  |
-| :yellow_circle:     | 2716  | Chris        |  in progress :hammer: |  07.05.2022  |
-| :yellow_circle:     | 2717  | Chris        |  in progress :hammer: |  07.05.2022  |
-| :yellow_circle:     | 2718  | Chris        |  in progress :hammer: |  07.05.2022  |
-| :yellow_circle:     | 2719  | Chris        |  in progress :hammer: |  07.05.2022  |
+| :no_entry:          | 2716  | Chris        |  Passed :heavy_check_mark: |  11.05.2022  |
+| :no_entry:          | 2717  | Chris        |  Passed :heavy_check_mark: |  11.05.2022  |
+| :no_entry:          | 2718  | Chris        |  Passed :heavy_check_mark: |  11.05.2022  |
+| :no_entry:          | 2719  | Chris        |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:          | 2720  | cpto_node    |  Passed :heavy_check_mark: | 10.05.2022  |
 | :yellow_circle:     | 2721  | com bio      |  in progress :hammer: |  07.05.2022  |
 | :yellow_circle:     | 2722  | com bio      |  in progress :hammer: |  07.05.2022  |
@@ -573,8 +573,8 @@
 | :yellow_circle:     | 2737  | Demon        |  in progress :hammer: | 10.05.2022   |
 | :yellow_circle:     | 2738  | com bio      |  in progress :hammer: |  10.05.2022  |
 | :yellow_circle:     | 2739  | Noname       |  in progress :hammer: |  10.05.2022  |
-| :yellow_circle:     | 2740  | Leonid       |  in progress :hammer: |  07.05.2022  |
-| :yellow_circle:     | 2741  | Leonid       |  in progress :hammer: |  07.05.2022  |
+| :no_entry:          | 2740  | Leonid       |  Passed :heavy_check_mark: |  11.05.2022  |
+| :no_entry:          | 2741  | Leonid       |  Passed :heavy_check_mark: |  11.05.2022  |
 | :yellow_circle:     | 2742  | DworfD       |  in progress :hammer: |  08.05.2022  |
 | :yellow_circle:     | 2743  | DworfD       |  in progress :hammer: |  08.05.2022  |
 | :yellow_circle:     | 2744  | DworfD       |  in progress :hammer: |  08.05.2022  |

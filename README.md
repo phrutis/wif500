@@ -16,9 +16,9 @@ Good luck!</br>
 ```mermaid
 pie title Total ranges 3364
   "- Passed 409" : 409
-  "- In progress 224" : 224
+  "- In progress 225" : 225
   "- FREE 2444" : 2444
-  "- FREE (Priority Ranges) 287" : 287
+  "- FREE (Priority Ranges) 286" : 286
 ```
 ## How to participate in the challenge:
 If you have a GPUs:</br>

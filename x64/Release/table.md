@@ -328,7 +328,7 @@
 | :no_entry:     | 899     | Almera    |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:     | 1103    | Teddy     |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:     | 1111    | Kuw       |  Passed                |  22.04.2022  |
-| :yellow_circle:| 1120    | KillBill_2|  in progress :hammer:  |  07.05.2022  |
+| :no_entry:     | 1120    | KillBill_2|  Passed :heavy_check_mark:  |  11.05.2022  |
 | :no_entry:     | 1121    | KillBill_2|  Passed                |  06.05.2022  |
 | :no_entry:     | 1211    | Almera    |  Passed :heavy_check_mark:  |  25.04.2022  |
 | :yellow_circle:| 1234    | Dextronomous|  in progress :hammer:  |  29.04.2022  |
@@ -434,9 +434,9 @@
 | :large_blue_circle: | 1885  | Priority    |  FREE  |  00.00.2022  |
 | :yellow_circle:     | 1886  | K-Fed       |  in progress :hammer:  |  11.05.2022  |
 | :yellow_circle:     | 1887  | K-Fed       |  in progress :hammer:  |  11.05.2022  |
-| :no_entry:          | 1888  | com bio      |  Passed |  29.05.2022  |
-| :large_blue_circle: | 1889  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1890  | Priority    |  FREE  |  00.00.2022  |
+| :no_entry:          | 1888  | com bio     |  Passed |  29.05.2022  |
+| :yellow_circle:     | 1889  | Leonid      |  in progress :hammer:  |  11.05.2022  |
+| :yellow_circle:     | 1890  | Leonid      |  in progress :hammer:  |  11.05.2022  |
 | :large_blue_circle: | 1891  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1892  | Priority    |  FREE  |  00.00.2022  |
 | :large_blue_circle: | 1893  | Priority    |  FREE  |  00.00.2022  |

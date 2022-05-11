@@ -616,7 +616,7 @@
 | :green_circle: | 612     | FREE      |  FREE  |  00.00.2022 |
 | :green_circle: | 613     | FREE      |  FREE  |  00.00.2022 |
 | :green_circle: | 614     | FREE      |  FREE  |  00.00.2022 |
-| :green_circle: | 615     | FREE      |  FREE  |  00.00.2022 |
+| :yellow_circle:| 615     | V         |  in progress :hammer:  |  11.05.2022 |
 | :green_circle: | 616     | FREE      |  FREE  |  00.00.2022 |
 | :green_circle: | 617     | FREE      |  FREE  |  00.00.2022 |
 | :green_circle: | 618     | FREE      |  FREE  |  00.00.2022 |
@@ -732,7 +732,52 @@
 | :green_circle: | 728     | FREE      |  FREE  |  00.00.2022 |
 | :green_circle: | 729     | FREE      |  FREE  |  00.00.2022 |
 | :green_circle: | 730     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 731     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 732     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 733     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 734     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 735     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 736     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 737     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 738     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 739     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 740     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 741     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 742     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 743     | FREE      |  FREE  |  00.00.2022 |
 | :no_entry:     | 744     | Almera    |  Passed :heavy_check_mark:  |  26.04.2022  |
+| :green_circle: | 745     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 746     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 747     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 748     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 749     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 750     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 751     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 752     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 753     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 754     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 755     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 756     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 757     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 758     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 759     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 760     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 761     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 762     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 763     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 764     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 765     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 766     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 767     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 768     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 769     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 770     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 771     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 772     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 773     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 774     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 775     | FREE      |  FREE  |  00.00.2022 |
+| :green_circle: | 776     | FREE      |  FREE  |  00.00.2022 |
 | :no_entry:     | 777     | JRodary   |  Passed :heavy_check_mark:  |  20.04.2022  |
 | :no_entry:     | 778     | JRodary   |  Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 796     | Almera    |  Passed :heavy_check_mark:  |  30.04.2022  |

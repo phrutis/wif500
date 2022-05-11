@@ -645,7 +645,7 @@
 | :yellow_circle:     | 3038  | Chris        |  in progress :hammer:      |  10.05.2022  |
 | :no_entry:          | 3039  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :no_entry:          | 3040  | cpto_node    |  Passed :heavy_check_mark:  |  30.04.2022  |
-| :yellow_circle:     | 3041  | Kripto       |  Passed :heavy_check_mark:  |  10.05.2022  |
+| :yellow_circle:     | 3041  | Kripto       |  in progress :hammer:   |  10.05.2022  |
 | :yellow_circle:     | 3042  | Chris        |  in progress :hammer:      |  10.05.2022  |
 | :no_entry:          | 3043  | cpto_node    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :yellow_circle:     | 3044  | Chris        |  in progress :hammer:      |  10.05.2022  |

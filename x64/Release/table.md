@@ -2,7 +2,6 @@
 
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
-:large_blue_circle: - **Range FREE Recommended!**</br> 
 :green_circle: - Range FREE (all who are not busy 0-3363)
 
 [Choose a free range and report it to the group](https://t.me/+WFEuFatijpowMjRi)
@@ -649,25 +648,25 @@
 | :yellow_circle:     | 3042  | Chris        |  in progress :hammer:      |  10.05.2022  |
 | :no_entry:          | 3043  | cpto_node    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :yellow_circle:     | 3044  | Chris        |  in progress :hammer:      |  10.05.2022  |
-| :large_blue_circle: | 3045  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3045  | com bio      |  in progress :hammer:  |  11.05.2022  |
 | :no_entry:          | 3046  | cpto_node    |  Passed :heavy_check_mark:  |  03.05.2022  |
-| :large_blue_circle: | 3047  | Priority     |  FREE  |  00.00.2022  |
-| :yellow_circle:     | 3048  | Chris        |  in progress :hammer:      |  10.05.2022  |
+| :yellow_circle:     | 3047  | com bio      |  in progress :hammer:  |  11.05.2022  |
+| :yellow_circle:     | 3048  | Chris        |  in progress :hammer:  |  10.05.2022  |
 | :no_entry:          | 3049  | cpto_node    |  Passed :heavy_check_mark:  | 04.04.2022  |
 | :yellow_circle:     | 3050  | Alexsandr    |  in progress :hammer:  |  06.05.2022  |
 | :yellow_circle:     | 3051  | Alexsandr    |  in progress :hammer:  |  06.05.2022  |
 | :yellow_circle:     | 3052  | Alexsandr    |  in progress :hammer:  |  06.05.2022  |
 | :no_entry:          | 3053  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
-| :large_blue_circle: | 3054  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3054  | com bio      |  in progress :hammer:  |  11.05.2022  |
 | :no_entry:          | 3055  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
-| :large_blue_circle: | 3056  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3056  | com bio      |  in progress :hammer:  |  11.05.2022  |
 | :no_entry:          | 3057  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
-| :large_blue_circle: | 3058  | Priority     |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 3059  | Priority     |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 3058  | com bio      |  in progress :hammer:  |  11.05.2022  |
+| :yellow_circle:     | 3059  | com bio      |  in progress :hammer:  |  11.05.2022  |
 | :no_entry:          | 3060  | aiyulu       |  Passed :heavy_check_mark: |  08.05.2022  |
 | :no_entry:          | 3061  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :yellow_circle:     | 3077  | Demon        |  in progress :hammer:  |  09.05.2022  |
-| :green_circle:      | 3150  | FREE         |  FREE                  |  00.00.2022  |
+| :yellow_circle:     | 3150  | com bio      |  in progress :hammer:  |  11.05.2022  |
 | :no_entry:          | 3167  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :no_entry:          | 3228  | Oleg_R       |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:          | 3241  | Oleg_R       |  Passed :heavy_check_mark:  |  02.05.2022  |

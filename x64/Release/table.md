@@ -285,7 +285,7 @@
 | :no_entry:      | 819  | 047       |  Passed :heavy_check_mark: |  10.05.2022  |
 | :no_entry:      | 820  | cpto_node |  Passed :heavy_check_mark: |  07.05.2022  |
 | :yellow_circle: | 821  | V         |  in progress :hammer: |  03.05.2022  |
-| :yellow_circle: | 822  | cpto_node |  in progress :hammer: |  07.05.2022  |
+| :no_entry:      | 822  | cpto_node |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:      | 823  | cpto_node |  Passed :heavy_check_mark: |  11.05.2022  |
 | :yellow_circle: | 824  | V         |  in progress :hammer: |  05.05.2022  |
 | :no_entry:      | 825  | cpto_node |  Passed :heavy_check_mark: |  07.05.2022  |
@@ -404,7 +404,7 @@
 | :yellow_circle:     | 1856  | cpto_node   |  in progress :hammer: |  04.05.2022  |
 | :yellow_circle:     | 1857  | cpto_node   |  in progress :hammer: |  04.05.2022  |
 | :no_entry:          | 1858  | cpto_node   |  Passed :heavy_check_mark: |  11.05.2022  |
-| :yellow_circle:     | 1859  | cpto_node   |  in progress :hammer: |  04.05.2022  |
+| :no_entry:          | 1859  | cpto_node   |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:          | 1860  | Sam         |  Passed :heavy_check_mark: |  29.04.2022  |
 | :no_entry:          | 1861  | cpto_node   |  Passed :heavy_check_mark: |  10.05.2022  |
 | :no_entry:          | 1862  | Sam         |  Passed :heavy_check_mark: |  29.04.2022  |
@@ -413,7 +413,7 @@
 | :no_entry:          | 1865  | cpto_node   |  Passed :heavy_check_mark: |  10.05.2022  |
 | :yellow_circle:     | 1866  | Kuw         |  in progress :hammer:  |  25.04.2022  |
 | :yellow_circle:     | 1867  | cpto_node   |  in progress :hammer: |  04.05.2022  |
-| :yellow_circle:     | 1868  | cpto_node   |  in progress :hammer: |  04.05.2022  |
+| :no_entry:          | 1868  | cpto_node   |  Passed :heavy_check_mark: |  11.05.2022  |
 | :yellow_circle:     | 1869  | JRodary     |  in progress :hammer:  |  06.05.2022  |
 | :no_entry:          | 1870  | Sam         |  Passed :heavy_check_mark:  |  20.05.2022  |
 | :yellow_circle:     | 1871  | cpto_node   |  in progress :hammer:  |  10.05.2022  |

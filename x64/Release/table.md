@@ -44,8 +44,8 @@
 | :no_entry:     | 33      | V         |  Passed :heavy_check_mark: |  02.05.2022 |
 | :green_circle: | 34      | FREE    |  FREE  |  00.00.2022  |
 | :green_circle: | 35      | FREE    |  FREE  |  00.00.2022  |
-| :green_circle: | 36      | FREE    |  FREE  |  00.00.2022  |
-| :green_circle: | 37      | FREE    |  FREE  |  00.00.2022  |
+| :yellow_circle:| 36      | 047     |  in progress :hammer: |  11.05.2022  |
+| :yellow_circle:| 37      | 047     |  in progress :hammer: |  11.05.2022  |
 | :yellow_circle:| 38      | Mars42  |  in progress :hammer: |  06.05.2022  |
 | :yellow_circle:| 39      | Mars42  |  in progress :hammer: |  06.05.2022  |
 | :yellow_circle:| 40      | Mars42  |  in progress :hammer: |  06.05.2022  |
@@ -302,8 +302,8 @@
 | :yellow_circle: | 836  | K-Fed     |  in progress :hammer: |  09.05.2022  |
 | :yellow_circle: | 837  | Chris     |  in progress :hammer: |  09.05.2022  |
 | :no_entry:      | 838  | Sam       |  Passed :heavy_check_mark: |  11.05.2022  |
-| :yellow_circle: | 839  | 047       |  in progress :hammer: |  07.05.2022  |
-| :yellow_circle: | 840  | 047       |  in progress :hammer: |  07.05.2022  |
+| :no_entry:      | 839  | 047       |  Passed :heavy_check_mark: |  11.05.2022  |
+| :no_entry:      | 840  | 047       |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:      | 841  | Oleg_R    |  Passed :heavy_check_mark: |  06.05.2022  |
 | :no_entry:      | 842  | Oleg_R    |  Passed :heavy_check_mark: |  07.05.2022  |
 | :yellow_circle: | 843  | K-Fed     |  in progress :hammer:  |  03.05.2022  |

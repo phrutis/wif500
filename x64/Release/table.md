@@ -404,12 +404,12 @@
 | :no_entry:          | 1855  | cpto_node   |  Passed :heavy_check_mark: |  10.05.2022  |
 | :yellow_circle:     | 1856  | cpto_node   |  in progress :hammer: |  04.05.2022  |
 | :yellow_circle:     | 1857  | cpto_node   |  in progress :hammer: |  04.05.2022  |
-| :yellow_circle:     | 1858  | cpto_node   |  in progress :hammer: |  04.05.2022  |
+| :no_entry:          | 1858  | cpto_node   |  Passed :heavy_check_mark: |  11.05.2022  |
 | :yellow_circle:     | 1859  | cpto_node   |  in progress :hammer: |  04.05.2022  |
 | :no_entry:          | 1860  | Sam         |  Passed :heavy_check_mark: |  29.04.2022  |
 | :no_entry:          | 1861  | cpto_node   |  Passed :heavy_check_mark: |  10.05.2022  |
 | :no_entry:          | 1862  | Sam         |  Passed :heavy_check_mark: |  29.04.2022  |
-| :yellow_circle:     | 1863  | cpto_node   |  in progress :hammer: |  04.05.2022  |
+| :no_entry:          | 1863  | cpto_node   |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:          | 1864  | cpto_node   |  Passed :heavy_check_mark: |  10.05.2022  |
 | :no_entry:          | 1865  | cpto_node   |  Passed :heavy_check_mark: |  10.05.2022  |
 | :yellow_circle:     | 1866  | Kuw         |  in progress :hammer:  |  25.04.2022  |
@@ -431,15 +431,15 @@
 | :yellow_circle:     | 1882  | Chris       |  in progress :hammer: |  11.05.2022  |
 | :yellow_circle:     | 1883  | Chris       |  in progress :hammer: |  11.05.2022  |
 | :yellow_circle:     | 1884  | Chris       |  in progress :hammer: |  11.05.2022  |
-| :large_blue_circle: | 1885  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 1885  | cpto_node   |  in progress :hammer: |  11.05.2022  |
 | :yellow_circle:     | 1886  | K-Fed       |  in progress :hammer:  |  11.05.2022  |
 | :yellow_circle:     | 1887  | K-Fed       |  in progress :hammer:  |  11.05.2022  |
 | :no_entry:          | 1888  | com bio     |  Passed |  29.05.2022  |
 | :yellow_circle:     | 1889  | Leonid      |  in progress :hammer:  |  11.05.2022  |
 | :yellow_circle:     | 1890  | Leonid      |  in progress :hammer:  |  11.05.2022  |
-| :large_blue_circle: | 1891  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1892  | Priority    |  FREE  |  00.00.2022  |
-| :large_blue_circle: | 1893  | Priority    |  FREE  |  00.00.2022  |
+| :yellow_circle:     | 1891  | cpto_node   |  in progress :hammer: |  11.05.2022  |
+| :yellow_circle:     | 1892  | cpto_node   |  in progress :hammer: |  11.05.2022  |
+| :yellow_circle:     | 1893  | cpto_node   |  in progress :hammer: |  11.05.2022  |
 | :no_entry:          | 1894  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:          | 1895  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:          | 1896  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |

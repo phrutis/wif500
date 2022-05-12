@@ -9,7 +9,7 @@
 
 |            | Range(s)    | Hunter    | Status         | Date           |
 |------------|:------------|-----------|----------------|----------------|
-| :yellow_circle:| 0       | phrutis   |  in progress :hammer:  |  30.04.2022  |
+| :no_entry:     | 0       | cpto_node |  Passed :heavy_check_mark: |  12.05.2022  |
 | :no_entry:     | 1       | Fantom    |  Passed :heavy_check_mark: |  24.04.2022  |
 | :no_entry:     | 2       | Fantom    |  Passed :heavy_check_mark: |  24.04.2022  |
 | :no_entry:     | 3       | 047       |  Passed :heavy_check_mark: |  24.04.2022  |

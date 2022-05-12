@@ -1285,15 +1285,15 @@
 | :no_entry:          | 2734  | com bio      |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:          | 2735  | V            |  Passed :heavy_check_mark: |  12.05.2022  |
 | :yellow_circle:     | 2736  | Noname       |  in progress :hammer: |  10.05.2022  |
-| :yellow_circle:     | 2737  | Demon        |  in progress :hammer: | 10.05.2022   |
+| :yellow_circle:     | 2737  | Demon        |  in progress :hammer: |  10.05.2022  |
 | :yellow_circle:     | 2738  | com bio      |  in progress :hammer: |  10.05.2022  |
 | :yellow_circle:     | 2739  | Noname       |  in progress :hammer: |  10.05.2022  |
 | :no_entry:          | 2740  | Leonid       |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:          | 2741  | Leonid       |  Passed :heavy_check_mark: |  11.05.2022  |
-| :yellow_circle:     | 2742  | DworfD       |  in progress :hammer: |  08.05.2022  |
-| :yellow_circle:     | 2743  | DworfD       |  in progress :hammer: |  08.05.2022  |
+| :no_entry:          | 2742  | DworfD       |  Passed :heavy_check_mark: |  12.05.2022  |
+| :no_entry:          | 2743  | DworfD       |  Passed :heavy_check_mark: |  12.05.2022  |
 | :yellow_circle:     | 2744  | DworfD       |  in progress :hammer: |  08.05.2022  |
-| :yellow_circle:     | 2745  | DworfD       |  in progress :hammer: |  08.05.2022  |
+| :no_entry:          | 2745  | DworfD       |  Passed :heavy_check_mark: |  12.05.2022  |
 | :yellow_circle:     | 2746  | DworfD       |  in progress :hammer: |  08.05.2022  |
 | :yellow_circle:     | 2747  | DworfD       |  in progress :hammer: |  08.05.2022  |
 | :yellow_circle:     | 2748  | DworfD       |  in progress :hammer: |  08.05.2022  |

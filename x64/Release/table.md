@@ -839,7 +839,7 @@
 | :yellow_circle:| 834  | K-Fed     |  in progress :hammer: |  08.05.2022  |
 | :yellow_circle:| 835  | K-Fed     |  in progress :hammer: |  09.05.2022  |
 | :yellow_circle:| 836  | K-Fed     |  in progress :hammer: |  09.05.2022  |
-| :yellow_circle:| 837  | Chris     |  in progress :hammer: |  09.05.2022  |
+| :no_entry:     | 837  | Chris     |  Passed :heavy_check_mark: |  12.05.2022  |
 | :no_entry:     | 838  | Sam       |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:     | 839  | 047       |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:     | 840  | 047       |  Passed :heavy_check_mark: |  11.05.2022  |

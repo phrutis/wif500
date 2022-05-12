@@ -903,7 +903,7 @@
 | :large_blue_circle: | 1068 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1069 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1070 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1071 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1071 | Birol    | in progress :hammer: | 12.05.2022 |
 | :large_blue_circle: | 1072 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1073 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1074 | priority | FREE | 00.00.2022 |
@@ -988,7 +988,7 @@
 | :no_entry:     | 1672  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
 | :no_entry:     | 1782  | Almera    |  Passed :heavy_check_mark:  |  22.04.2022  |
 | :no_entry:     | 1844  | com bio   |  Passed |  29.05.2022 |
-| :yellow_circle:| 1845  | Chris     |  in progress :hammer: |  09.05.2022  |
+| :no_entry:     | 1845  | Chris     |  Passed :heavy_check_mark:  |  12.05.2022  |
 | :yellow_circle:| 1846  | Илья      |  in progress :hammer: |  09.05.2022  |
 | :yellow_circle:| 1847  | Chris    |  in progress :hammer: |  09.05.2022  |
 | :yellow_circle:| 1848  | Chris    |  in progress :hammer: |  09.05.2022  |

@@ -933,7 +933,7 @@
 | :no_entry:     | 1344    | Almera    |  Passed :heavy_check_mark:  |  25.04.2022  |
 | :no_entry:     | 1365    | Almera    |  Passed :heavy_check_mark:  |  22.04.2022  |
 | :no_entry:     | 1381    | Almera    |  Passed :heavy_check_mark:  |  24.04.2022  |
-| :no_entry:     | 1398    | Zero      |  Passed :heavy_check_mark:  |  12.05.2022  |
+| :no_entry:     | 1398    | Zero      |  Passed :white_check_mark:  |  12.05.2022  |
 | :no_entry:     | 1401    | Kuw       |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 1502    | Kuw       |  Passed                |  22.04.2022  |
 | :green_circle: | 1504    | FREE      |  FREE  |  00.00.2022  |
@@ -1045,7 +1045,7 @@
 | :no_entry:          | 1899  | com bio      |  Passed |  29.05.2022  |
 | :no_entry:          | 1900  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:          | 1901  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
-| :no_entry:          | 1908  | Zero         |  Passed :heavy_check_mark:  |  12.05.2022  |
+| :no_entry:          | 1908  | Zero         |  Passed :white_check_mark:  |  12.05.2022  |
 | :no_entry:          | 1924  | cpto_node    |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :no_entry:          | 2019  | Leonid        |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:          | 2020      | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
@@ -1128,7 +1128,7 @@
 | :no_entry:          | 2358      | Oleg_R    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:          | 2371      | Oleg_R    |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:          | 2416      | Oleg_R    |  Passed :heavy_check_mark:  |  03.05.2022  |
-| :no_entry:          | 2421      | Zero      |  Passed :heavy_check_mark:  |  12.05.2022  |
+| :no_entry:          | 2421      | Zero      |  Passed :white_check_mark:  |  12.05.2022  |
 | :no_entry:          | 2424      | DworfD    |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:          | 2425      | DworfD    |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :no_entry:          | 2426      | DworfD    |  Passed :heavy_check_mark:  |  01.05.2022  |
@@ -1379,7 +1379,7 @@
 | :large_blue_circle: | 2943 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2944 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2945 | priority | FREE | 00.00.2022 |
-| :no_entry:          | 2975  | Zero         |  Passed :heavy_check_mark:  |  12.05.2022  |
+| :no_entry:          | 2975  | Zero         |  Passed :white_check_mark:  |  12.05.2022  |
 | :yellow_circle:     | 2977  | K-Fed        |  in progress :hammer: |  11.05.2022  |
 | :no_entry:          | 3000  | Fantom       |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :no_entry:          | 3004  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |

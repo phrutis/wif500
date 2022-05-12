@@ -996,7 +996,7 @@
 | :yellow_circle:     | 1850  | Mars42      |  in progress :hammer: |  06.05.2022  |
 | :yellow_circle:     | 1851  | Mars42      |  in progress :hammer: |  06.05.2022  |
 | :yellow_circle:     | 1852  | Chris       |  in progress :hammer: |  09.05.2022  |
-| :yellow_circle:     | 1853  | Chris       |  in progress :hammer: |  09.05.2022  |
+| :no_entry:          | 1853  | Chris       |  Passed :heavy_check_mark: |  12.05.2022  |
 | :no_entry:          | 1854  | Oleg_R      |  Passed :heavy_check_mark: |  02.05.2022  |
 | :no_entry:          | 1855  | cpto_node   |  Passed :heavy_check_mark: |  10.05.2022  |
 | :no_entry:          | 1856  | cpto_node   |  Passed :heavy_check_mark: |  12.05.2022  |
@@ -1193,7 +1193,7 @@
 | :large_blue_circle: | 2543 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2544 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2545 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2546 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2546 | Oleg_R   |  in progress :hammer:  |  12.05.2022  |
 | :large_blue_circle: | 2547 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2548 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2549 | priority | FREE | 00.00.2022 |
@@ -1206,7 +1206,7 @@
 | :large_blue_circle: | 2556 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2557 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2558 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2559 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2559 | Oleg_R   |  in progress :hammer:  |  12.05.2022  |
 | :large_blue_circle: | 2560 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 2561 | aiyulu   | in progress :hammer: | 12.05.2022 |
 | :large_blue_circle: | 2562 | priority | FREE | 00.00.2022 |
@@ -1248,6 +1248,8 @@
 | :no_entry:          | 2648      | Oleg_R    |  Passed :heavy_check_mark:  |  04.05.2022  |
 | :no_entry:          | 2661      | Oleg_R    |  Passed :heavy_check_mark:  |  04.05.2022  |
 | :no_entry:          | 2662      | Oleg_R    |  Passed :white_check_mark:  |  11.05.2022  |
+| :no_entry:          | 2666      | Oleg_R    |  Passed :white_check_mark:  |  12.05.2022  |
+| :yellow_circle:     | 2667      | Oleg_R    |  in progress :hammer:  |  12.05.2022  |
 | :no_entry:          | 2675      | Oleg_R    |  Passed :heavy_check_mark:  |  10.05.2022  |
 | :no_entry:          | 2687      | Oleg_R    |  Passed :white_check_mark:  |  11.05.2022  |
 | :no_entry:          | 2693      | Oleg_R    |  Passed :heavy_check_mark:  |  12.05.2022  |

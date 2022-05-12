@@ -15,8 +15,8 @@ The advantage of the challenge is that if the key is found, each hunter will rec
 Good luck!</br>
 ```mermaid
 pie title Total ranges 3364
-  "- Passed 423" : 423
-  "- In progress 230" : 230
+  "- Passed 426" : 426
+  "- In progress 227" : 227
   "- FREE 2440" : 2440
   "- FREE (Priority Ranges) 272" : 272
 ```

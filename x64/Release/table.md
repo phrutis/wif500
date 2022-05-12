@@ -56,7 +56,7 @@
 | :no_entry:     | 44      | V         |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :green_circle: | 45      | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 46      | FREE    |  FREE  |  00.00.2022 |
-| :green_circle: | 47      | FREE    |  FREE  |  00.00.2022 |
+| :yellow_circle:| 47      | Ervings |  in progress :hammer: |  12.05.2022 |
 | :green_circle: | 48      | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 49      | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 50      | FREE    |  FREE  |  00.00.2022 |

@@ -859,11 +859,11 @@
 | :no_entry:     | 854  | K-Fed     |  Passed :heavy_check_mark: |  12.05.2022  |
 | :no_entry:     | 855  | K-Fed     |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:     | 856  | K-Fed     |  Passed :heavy_check_mark: |  12.05.2022  |
-| :no_entry:     | 857     | K-Fed     |  Passed :white_check_mark:  |  10.05.2022  |
-| :no_entry:     | 869     | Almera    |  Passed :heavy_check_mark:  |  26.04.2022  |
-| :no_entry:     | 897     | Almera    |  Passed :heavy_check_mark:  |  01.05.2022  |
-| :no_entry:     | 898     | Almera    |  Passed :heavy_check_mark:  |  01.05.2022  |
-| :no_entry:     | 899     | Almera    |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:     | 857  | K-Fed     |  Passed :white_check_mark:  |  10.05.2022  |
+| :no_entry:     | 869  | Almera    |  Passed :heavy_check_mark:  |  26.04.2022  |
+| :no_entry:     | 897  | Almera    |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:     | 898  | Almera    |  Passed :heavy_check_mark:  |  01.05.2022  |
+| :no_entry:     | 899  | Almera    |  Passed :heavy_check_mark:  |  01.05.2022  |
 | :yellow_circle:| 1032 | K-Fed | in progress :hammer: | 11.05.2022 |
 | :yellow_circle:| 1033 | K-Fed | in progress :hammer: | 11.05.2022 |
 | :yellow_circle:| 1034 | K-Fed | in progress :hammer: | 12.05.2022 |
@@ -1208,7 +1208,7 @@
 | :large_blue_circle: | 2558 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2559 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2560 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2561 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2561 | aiyulu   | in progress :hammer: | 12.05.2022 |
 | :large_blue_circle: | 2562 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2563 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2564 | priority | FREE | 00.00.2022 |
@@ -1260,7 +1260,7 @@
 | :no_entry:          | 2704      | Alexander |  Passed :heavy_check_mark:  |  06.05.2022  |
 | :no_entry:          | 2705      | Alexander |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :no_entry:          | 2706      | Alexander |  Passed :heavy_check_mark:  |  03.05.2022  |
-| :yellow_circle:     | 2707      | Oleg_R    |  in progress :hammer:  |  09.05.2022  |
+| :no_entry:          | 2707      | Oleg_R    |  Passed :white_check_mark:  |  12.05.2022  |
 | :yellow_circle:     | 2710      | Oleg_R    |  in progress :hammer:  |  10.05.2022  |
 | :yellow_circle:     | 2714      | lan       |  in progress :hammer:  |  05.05.2022  |
 | :yellow_circle:     | 2715      | lan       |  in progress :hammer:  |  05.05.2022  |

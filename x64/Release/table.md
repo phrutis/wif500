@@ -1082,7 +1082,7 @@
 | :large_blue_circle: | 2264 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2265 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2266 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2267 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2267 | Oleg_R   |  in progress :hammer:  |  12.05.2022  |
 | :large_blue_circle: | 2268 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2269 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2270 | priority | FREE | 00.00.2022 |

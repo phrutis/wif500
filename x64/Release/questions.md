@@ -19,6 +19,12 @@ Only the organizers of the challenge can decrypt this key and pay you a donation
 There is a video in which there is a similar key.</br>
 There are errors in the video that make the key impossible to find.<hr>
 
+I have a RTX 3060 TI card, and I have a low speed, how can speed up the search.</br>
+In the new drivers for ```30xx Ti```, ```20xx Ti```, a limiter is installed that slows down the speed by half.</br>
+You need to download the old driver from six months ago. 496.13</br>
+Delete the new driver, install the old driver, the speed will increase.</br>
+After searching, you can install new drivers.<hr>
+
 I have many GPUs. How to start?</br>
 Run each GPU separately with a new range Add your card id -d ?</br>
 For RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090, A5000, A6000</br>

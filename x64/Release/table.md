@@ -995,7 +995,7 @@
 | :yellow_circle:| 1849  | Chris    |  in progress :hammer: |  09.05.2022  |
 | :yellow_circle:     | 1850  | Mars42      |  in progress :hammer: |  06.05.2022  |
 | :yellow_circle:     | 1851  | Mars42      |  in progress :hammer: |  06.05.2022  |
-| :yellow_circle:     | 1852  | Chris       |  in progress :hammer: |  09.05.2022  |
+| :no_entry:          | 1852  | Chris       |  Passed :heavy_check_mark: |  12.05.2022  |
 | :no_entry:          | 1853  | Chris       |  Passed :heavy_check_mark: |  12.05.2022  |
 | :no_entry:          | 1854  | Oleg_R      |  Passed :heavy_check_mark: |  02.05.2022  |
 | :no_entry:          | 1855  | cpto_node   |  Passed :heavy_check_mark: |  10.05.2022  |

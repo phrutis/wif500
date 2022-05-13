@@ -1076,7 +1076,7 @@
 | :large_blue_circle: | 2258 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2259 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 2260 | Sam      |  in progress :hammer: | 13.05.2022  |
-| :large_blue_circle: | 2261 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2261 | Sam      |  in progress :hammer: | 13.05.2022  |
 | :large_blue_circle: | 2262 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2263 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2264 | priority | FREE | 00.00.2022 |

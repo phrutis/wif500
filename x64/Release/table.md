@@ -1415,7 +1415,7 @@
 | :no_entry:          | 3032  | Kripto       |  Passed :heavy_check_mark: |  10.05.2022  |
 | :no_entry:          | 3033  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3034  | cpto_node    |  Passed :heavy_check_mark: |  04.05.2022  |
-| :yellow_circle:     | 3035  | cpto_node    |  in progress :hammer:  |  09.05.2022  |
+| :no_entry:          | 3035  | cpto_node    |  Passed :heavy_check_mark: |  13.05.2022  |
 | :no_entry:          | 3036  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3037  | cpto_node    |  Passed :heavy_check_mark: |  01.05.2022  |
 | :yellow_circle:     | 3038  | Chris        |  in progress :hammer:      |  10.05.2022  |

@@ -50,10 +50,10 @@
 | :yellow_circle:| 38      | Mars42  |  in progress :hammer: |  06.05.2022  |
 | :yellow_circle:| 39      | Mars42  |  in progress :hammer: |  06.05.2022  |
 | :no_entry:     | 40      | Mars42  |  Passed :heavy_check_mark: |  13.05.2022  |
-| :yellow_circle:| 41      | Mars42  |  in progress :hammer: |  06.05.2022  |
-| :yellow_circle:| 42      | Mars42  |  in progress :hammer: |  06.05.2022  |
-| :no_entry:     | 43      | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
-| :no_entry:     | 44      | V         |  Passed :heavy_check_mark:  |  02.05.2022  |
+| :no_entry:     | 41      | Mars42  |  Passed :white_check_mark:  |  13.05.2022  |
+| :no_entry:     | 42      | Mars42  |  Passed :white_check_mark:  |  13.05.2022  |
+| :no_entry:     | 43      | Almera  |  Passed :heavy_check_mark:  |  23.04.2022  |
+| :no_entry:     | 44      | V       |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :green_circle: | 45      | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 46      | FREE    |  FREE  |  00.00.2022 |
 | :yellow_circle:| 47      | Ervings |  in progress :hammer: |  12.05.2022 |
@@ -302,7 +302,7 @@
 | :no_entry:     | 297     | Almera  |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 298     | Almera  |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :no_entry:     | 299     | Almera  |  Passed :heavy_check_mark:  |  21.04.2022  |
-| :yellow_circle:| 300     | Mars42  |  in progress :hammer: |  06.05.2022  |
+| :no_entry:     | 300     | Mars42  |  Passed :white_check_mark:  |  13.05.2022  |
 | :green_circle: | 301     | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 302     | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 303     | FREE    |  FREE  |  00.00.2022 |
@@ -990,10 +990,10 @@
 | :no_entry:     | 1844  | com bio   |  Passed |  29.05.2022 |
 | :no_entry:     | 1845  | Chris     |  Passed :heavy_check_mark:  |  12.05.2022  |
 | :yellow_circle:| 1846  | Илья      |  in progress :hammer: |  09.05.2022  |
-| :yellow_circle:| 1847  | Chris    |  in progress :hammer: |  09.05.2022  |
-| :yellow_circle:| 1848  | Chris    |  in progress :hammer: |  09.05.2022  |
-| :yellow_circle:| 1849  | Chris    |  in progress :hammer: |  09.05.2022  |
-| :yellow_circle:     | 1850  | Mars42      |  in progress :hammer: |  06.05.2022  |
+| :yellow_circle:| 1847  | Chris     |  in progress :hammer: |  09.05.2022  |
+| :yellow_circle:| 1848  | Chris     |  in progress :hammer: |  09.05.2022  |
+| :yellow_circle:| 1849  | Chris     |  in progress :hammer: |  09.05.2022  |
+| :no_entry:     | 1850  | Mars42    |  Passed :white_check_mark:  |  13.05.2022  |
 | :yellow_circle:     | 1851  | Mars42      |  in progress :hammer: |  06.05.2022  |
 | :no_entry:          | 1852  | Chris       |  Passed :heavy_check_mark: |  12.05.2022  |
 | :no_entry:          | 1853  | Chris       |  Passed :heavy_check_mark: |  12.05.2022  |
@@ -1065,17 +1065,17 @@
 | :no_entry:          | 2227      | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:          | 2228      | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:          | 2229      | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
-| :yellow_circle:     | 2250 | Mars42   | in progress :hammer: | 13.05.2022 |
-| :large_blue_circle: | 2251 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2252 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2253 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2254 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2250 | Mars42   |  in progress :hammer: | 13.05.2022  |
+| :yellow_circle:     | 2251 | Mars42   |  in progress :hammer: | 13.05.2022  |
+| :yellow_circle:     | 2252 | Mars42   |  in progress :hammer: | 13.05.2022  |
+| :yellow_circle:     | 2253 | Mars42   |  in progress :hammer: | 13.05.2022  |
+| :yellow_circle:     | 2254 | Mars42   |  in progress :hammer: | 13.05.2022  |
 | :large_blue_circle: | 2255 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2256 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2257 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2258 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2259 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2260 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2260 | Sam      |  in progress :hammer: | 13.05.2022  |
 | :large_blue_circle: | 2261 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2262 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2263 | priority | FREE | 00.00.2022 |

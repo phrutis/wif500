@@ -42,14 +42,14 @@
 | :green_circle: | 30      | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 31      | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 32      | FREE    |  FREE  |  00.00.2022 |
-| :no_entry:     | 33      | V         |  Passed :heavy_check_mark: |  02.05.2022 |
+| :no_entry:     | 33      | V       |  Passed :heavy_check_mark: |  02.05.2022 |
 | :green_circle: | 34      | FREE    |  FREE  |  00.00.2022  |
 | :green_circle: | 35      | FREE    |  FREE  |  00.00.2022  |
 | :yellow_circle:| 36      | 047     |  in progress :hammer: |  11.05.2022  |
 | :yellow_circle:| 37      | 047     |  in progress :hammer: |  11.05.2022  |
 | :yellow_circle:| 38      | Mars42  |  in progress :hammer: |  06.05.2022  |
 | :yellow_circle:| 39      | Mars42  |  in progress :hammer: |  06.05.2022  |
-| :yellow_circle:| 40      | Mars42  |  in progress :hammer: |  06.05.2022  |
+| :no_entry:     | 40      | Mars42  |  Passed :heavy_check_mark: |  13.05.2022  |
 | :yellow_circle:| 41      | Mars42  |  in progress :hammer: |  06.05.2022  |
 | :yellow_circle:| 42      | Mars42  |  in progress :hammer: |  06.05.2022  |
 | :no_entry:     | 43      | Almera    |  Passed :heavy_check_mark:  |  23.04.2022  |
@@ -1065,7 +1065,7 @@
 | :no_entry:          | 2227      | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:          | 2228      | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:          | 2229      | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
-| :large_blue_circle: | 2250 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2250 | Mars42   | in progress :hammer: | 13.05.2022 |
 | :large_blue_circle: | 2251 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2252 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2253 | priority | FREE | 00.00.2022 |
@@ -1294,7 +1294,7 @@
 | :no_entry:          | 2741  | Leonid       |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:          | 2742  | DworfD       |  Passed :heavy_check_mark: |  12.05.2022  |
 | :no_entry:          | 2743  | DworfD       |  Passed :heavy_check_mark: |  12.05.2022  |
-| :yellow_circle:     | 2744  | DworfD       |  in progress :hammer: |  08.05.2022  |
+| :no_entry:          | 2744  | DworfD       |  Passed :heavy_check_mark: |  13.05.2022  |
 | :no_entry:          | 2745  | DworfD       |  Passed :heavy_check_mark: |  12.05.2022  |
 | :yellow_circle:     | 2746  | DworfD       |  in progress :hammer: |  08.05.2022  |
 | :yellow_circle:     | 2747  | DworfD       |  in progress :hammer: |  08.05.2022  |

@@ -912,7 +912,7 @@
 | :large_blue_circle: | 1077 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1078 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1079 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1080 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1080 | Sam      | in progress :hammer: | 13.00.2022 |
 | :large_blue_circle: | 1081 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1082 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1083 | priority | FREE | 00.00.2022 |

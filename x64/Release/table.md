@@ -1082,7 +1082,7 @@
 | :large_blue_circle: | 2264 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2265 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2266 | priority | FREE | 00.00.2022 |
-| :yellow_circle:     | 2267 | Oleg_R   |  in progress :hammer:  |  12.05.2022  |
+| :yellow_circle:     | 2267 | Oleg_R   | in progress :hammer:  |  12.05.2022  |
 | :large_blue_circle: | 2268 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2269 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2270 | priority | FREE | 00.00.2022 |
@@ -1105,10 +1105,10 @@
 | :large_blue_circle: | 2287 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2288 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2289 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2290 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2291 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2292 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2293 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2290 | Sam      | in progress :hammer: | 14.05.2022 |
+| :yellow_circle:     | 2291 | Sam      | in progress :hammer: | 14.05.2022 |
+| :yellow_circle:     | 2292 | Sam      | in progress :hammer: | 14.05.2022 |
+| :yellow_circle:     | 2293 | Sam      | in progress :hammer: | 14.05.2022 |
 | :large_blue_circle: | 2294 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2295 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2296 | priority | FREE | 00.00.2022 |

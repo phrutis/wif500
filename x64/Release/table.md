@@ -833,7 +833,7 @@
 | :yellow_circle:| 828  | K-Fed     |  in progress :hammer: |  08.05.2022  |
 | :yellow_circle:| 829  | K-Fed     |  in progress :hammer: |  08.05.2022  |
 | :no_entry:     | 830  | cpto_node |  Passed :heavy_check_mark: |  09.05.2022  |
-| :yellow_circle:| 831  | K-Fed     |  in progress :hammer: |  05.05.2022  |
+| :no_entry:     | 831  | K-Fed     |  Passed :heavy_check_mark: |  14.05.2022  |
 | :yellow_circle:| 832  | Kuw       |  in progress :hammer: |  08.05.2022  |
 | :yellow_circle:| 833  | Kuw       |  in progress :hammer: |  08.05.2022  |
 | :yellow_circle:| 834  | K-Fed     |  in progress :hammer: |  08.05.2022  |
@@ -870,7 +870,7 @@
 | :yellow_circle:| 1035 | K-Fed     | in progress :hammer: | 12.05.2022 |
 | :yellow_circle:| 1036 | K-Fed     | in progress :hammer: | 12.05.2022 |
 | :yellow_circle:| 1037 | GR Sasa   | in progress :hammer: | 14.05.2022 |
-| :large_blue_circle: | 1038 | priority | FREE | 00.00.2022 |
+| :yellow_circle:| 1038 | K-Fed     | in progress :hammer: | 14.05.2022 |
 | :large_blue_circle: | 1039 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1040 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1041 | priority | FREE | 00.00.2022 |

@@ -1465,7 +1465,7 @@
 | :large_blue_circle: | 3138 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3139 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3140 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 3141 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 3141 | Kripto   | in progress :hammer: | 14.05.2022 |
 | :large_blue_circle: | 3142 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3143 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3144 | priority | FREE | 00.00.2022 |

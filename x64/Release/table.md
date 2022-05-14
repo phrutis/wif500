@@ -19,7 +19,7 @@
 | :no_entry:     | 7       | 047       |  Passed :heavy_check_mark: |  24.04.2022  |
 | :no_entry:     | 8       | 047       |  Passed :heavy_check_mark: |  24.04.2022  |
 | :no_entry:     | 9       | 047       |  Passed :heavy_check_mark: |  24.04.2022  |
-| :no_entry:     | 10      | K-Fed     |  Passed :white_check_mark: |  10.05.2022  |
+| :no_entry:     | 10      | K-Fed     |  Passed :heavy_check_mark: |  10.05.2022  |
 | :yellow_circle:| 11      | Kuw       |  in progress :hammer:  |  08.05.2022  |
 | :yellow_circle:| 12      | Kuw       |  in progress :hammer:  |  08.05.2022  |
 | :yellow_circle:| 13      | Kuw       |  in progress :hammer:  |  08.05.2022  |

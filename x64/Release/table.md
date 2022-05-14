@@ -880,7 +880,7 @@
 | :large_blue_circle: | 1045 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1046 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1047 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1048 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1048 | Илья     | in progress :hammer: | 14.05.2022 |
 | :large_blue_circle: | 1049 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1050 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1051 | priority | FREE | 00.00.2022 |
@@ -989,7 +989,7 @@
 | :no_entry:     | 1782  | Almera    |  Passed :heavy_check_mark:  |  22.04.2022  |
 | :no_entry:     | 1844  | com bio   |  Passed |  29.05.2022 |
 | :no_entry:     | 1845  | Chris     |  Passed :heavy_check_mark:  |  12.05.2022  |
-| :yellow_circle:| 1846  | Илья      |  in progress :hammer: |  09.05.2022  |
+| :no_entry:     | 1846  | Илья      |  Passed :heavy_check_mark:  |  14.05.2022  |
 | :no_entry:     | 1847  | Chris     |  Passed :heavy_check_mark:  |  13.05.2022  |
 | :yellow_circle:| 1848  | Chris     |  in progress :hammer: |  09.05.2022  |
 | :no_entry:     | 1849  | Chris     |  Passed :heavy_check_mark:  |  13.05.2022  |
@@ -1322,6 +1322,7 @@
 | :no_entry:          | 2769  | Crypto GPU   |  Passed :heavy_check_mark: |  10.05.2022  |
 | :yellow_circle:     | 2770  | V            |  in progress :hammer: |  05.05.2022  |
 | :no_entry:          | 2771  | Chris        |  Passed :heavy_check_mark:  |  12.05.2022  |
+| :yellow_circle:     | 2865  | Crypto GPU   |  in progress :hammer: |  14.05.2022  |
 | :yellow_circle:     | 2885  | Crypto GPU   |  in progress :hammer: |  08.05.2022  |
 | :large_blue_circle: | 2888 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2889 | priority | FREE | 00.00.2022 |

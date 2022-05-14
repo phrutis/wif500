@@ -991,7 +991,7 @@
 | :no_entry:     | 1845  | Chris     |  Passed :heavy_check_mark:  |  12.05.2022  |
 | :no_entry:     | 1846  | Илья      |  Passed :heavy_check_mark:  |  14.05.2022  |
 | :no_entry:     | 1847  | Chris     |  Passed :heavy_check_mark:  |  13.05.2022  |
-| :yellow_circle:| 1848  | Chris     |  in progress :hammer: |  09.05.2022  |
+| :no_entry:     | 1848  | Chris     |  Passed :heavy_check_mark:  |  14.05.2022  |
 | :no_entry:     | 1849  | Chris     |  Passed :heavy_check_mark:  |  13.05.2022  |
 | :no_entry:     | 1850  | Mars42    |  Passed :heavy_check_mark:  |  13.05.2022  |
 | :yellow_circle:     | 1851  | Mars42      |  in progress :hammer: |  06.05.2022  |

@@ -871,11 +871,11 @@
 | :yellow_circle:| 1036 | K-Fed     | in progress :hammer: | 12.05.2022 |
 | :yellow_circle:| 1037 | GR Sasa   | in progress :hammer: | 14.05.2022 |
 | :yellow_circle:| 1038 | K-Fed     | in progress :hammer: | 14.05.2022 |
-| :large_blue_circle: | 1039 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1040 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1041 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1042 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1043 | priority | FREE | 00.00.2022 |
+| :yellow_circle:| 1039 | 047       |  in progress :hammer:| 14.05.2022 |
+| :yellow_circle:| 1040 | 047       |  in progress :hammer:| 14.05.2022 |
+| :yellow_circle:| 1041 | 047       |  in progress :hammer:| 14.05.2022 |
+| :yellow_circle:| 1042 | 047       |  in progress :hammer:| 14.05.2022 |
+| :yellow_circle:| 1043 | 047       |  in progress :hammer:| 14.05.2022 |
 | :large_blue_circle: | 1044 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1045 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1046 | priority | FREE | 00.00.2022 |
@@ -1015,11 +1015,11 @@
 | :yellow_circle:     | 1869  | JRodary     |  in progress :hammer:  |  06.05.2022  |
 | :no_entry:          | 1870  | Sam         |  Passed :heavy_check_mark:  |  20.05.2022  |
 | :yellow_circle:     | 1871  | cpto_node   |  in progress :hammer:  |  10.05.2022  |
-| :yellow_circle:     | 1872  | 047         |  in progress :hammer:  |  10.05.2022  |
-| :yellow_circle:     | 1873  | 047         |  in progress :hammer:  |  10.05.2022  |
-| :yellow_circle:     | 1874  | 047         |  in progress :hammer:  |  10.05.2022  |
-| :yellow_circle:     | 1875  | 047         |  in progress :hammer:  |  10.05.2022  |
-| :yellow_circle:     | 1876  | 047         |  in progress :hammer:  |  10.05.2022  |
+| :no_entry:          | 1872  | 047         |  Passed :heavy_check_mark:  |  14.05.2022  |
+| :no_entry:          | 1873  | 047         |  Passed :heavy_check_mark:  |  14.05.2022  |
+| :no_entry:          | 1874  | 047         |  Passed :heavy_check_mark:  |  14.05.2022  |
+| :no_entry:          | 1875  | 047         |  Passed :heavy_check_mark:  |  14.05.2022  |
+| :no_entry:          | 1876  | 047         |  Passed :heavy_check_mark:  |  14.05.2022  |
 | :yellow_circle:     | 1877  | Kuw         |  in progress :hammer:  |  08.05.2022  |
 | :yellow_circle:     | 1878  | K-Fed       |  in progress :hammer:  |  10.05.2022  |
 | :yellow_circle:     | 1879  | K-Fed       |  in progress :hammer:  |  10.05.2022  |

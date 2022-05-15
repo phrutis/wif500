@@ -878,8 +878,8 @@
 | :yellow_circle:| 1043 | 047       |  in progress :hammer:| 14.05.2022 |
 | :yellow_circle:| 1044 | Chris     | in progress :hammer: | 15.05.2022 |
 | :yellow_circle:| 1045 | Chris     | in progress :hammer: | 15.05.2022 |
-| :large_blue_circle: | 1046 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1047 | priority | FREE | 00.00.2022 |
+| :yellow_circle:| 1046 | Chris     | in progress :hammer: | 15.05.2022 |
+| :yellow_circle:| 1047 | Chris     | in progress :hammer: | 15.05.2022 |
 | :yellow_circle:     | 1048 | Илья     | in progress :hammer: | 14.05.2022 |
 | :large_blue_circle: | 1049 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1050 | priority | FREE | 00.00.2022 |

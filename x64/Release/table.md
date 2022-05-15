@@ -887,7 +887,7 @@
 | :large_blue_circle: | 1052 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1053 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1054 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1055 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1055 | JRodary  | in progress :hammer: | 15.05.2022 |
 | :large_blue_circle: | 1056 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1057 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1058 | priority | FREE | 00.00.2022 |
@@ -912,7 +912,7 @@
 | :large_blue_circle: | 1077 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1078 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1079 | priority | FREE | 00.00.2022 |
-| :yellow_circle:     | 1080 | Sam      | in progress :hammer: | 13.00.2022 |
+| :yellow_circle:     | 1080 | Sam      | in progress :hammer: | 13.05.2022 |
 | :large_blue_circle: | 1081 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1082 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1083 | priority | FREE | 00.00.2022 |
@@ -1012,8 +1012,8 @@
 | :yellow_circle:     | 1866  | Kuw         |  in progress :hammer:  |  25.04.2022  |
 | :yellow_circle:     | 1867  | cpto_node   |  in progress :hammer: |  04.05.2022  |
 | :no_entry:          | 1868  | cpto_node   |  Passed :heavy_check_mark: |  11.05.2022  |
-| :yellow_circle:     | 1869  | JRodary     |  in progress :hammer:  |  06.05.2022  |
-| :no_entry:          | 1870  | Sam         |  Passed :heavy_check_mark:  |  20.05.2022  |
+| :no_entry:          | 1869  | JRodary     |  Passed :heavy_check_mark: |  15.05.2022  |
+| :no_entry:          | 1870  | Sam         |  Passed :heavy_check_mark: |  20.05.2022  |
 | :yellow_circle:     | 1871  | cpto_node   |  in progress :hammer:  |  10.05.2022  |
 | :no_entry:          | 1872  | 047         |  Passed :heavy_check_mark:  |  14.05.2022  |
 | :no_entry:          | 1873  | 047         |  Passed :heavy_check_mark:  |  14.05.2022  |

@@ -1098,7 +1098,7 @@
 | :large_blue_circle: | 2280 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2281 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2282 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2283 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2283 | make kang| in progress :hammer: | 15.05.2022 |
 | :large_blue_circle: | 2284 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2285 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2286 | priority | FREE | 00.00.2022 |

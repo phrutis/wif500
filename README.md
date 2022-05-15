@@ -87,11 +87,8 @@ If I find the key can I take all the coins for myself?</br>
 No, you will find the encrypted key.</br>
 Only the organizers of the challenge can decrypt this key and pay you a donation.<hr>
 
-There is a video in which there is a similar key.</br>
-There are errors in the video that make the key impossible to find.<hr>
-
-I have a RTX 3060 TI card, and I have a low speed, how can speed up the search?</br>
-In the new drivers for ```30xx Ti```, ```20xx Ti```, a limiter is installed that slows down the speed by half.</br>
+I have a RTX 3060 TI card, and I have a low speed, how can speed up?</br>
+In the new drivers for ```30xx ti```, ```20xx ti```, a limiter is installed that slows down the speed by half.</br>
 You need to download the old driver from six months ago. 496.13</br>
 Delete the new driver, install the old driver, the speed will increase x2</br>
 After searching, you can install new drivers.<hr>
@@ -117,7 +114,7 @@ The photo went from hand to hand.</br>
 Years have passed.</br>
 I was approached by a person (intermediary) who offered to find the key for 50% of the amount.</br> 
 After counting the combinations, it turned out that I needed to rent 3364 RTX 3090 cards for 4 days.</br>
-It's $100-150,000. This is a big amount of risk.</br>
+It is physically impossible to rent such a number of cards.</br>
 The intermediary was asked to make a challenge and if the key is found, he will receive 10%. He agreed.</br>
 A program was developed and the challenge was launched.<hr>
 
@@ -166,9 +163,6 @@ I'm running. I don't have gpu.</br>
 hahaha I went through everything, it's empty.</br> 
 It's fake. I don't understand anything, but you still help me.</br>
 I have a telegram full of similar messages. </br>
-It's hard to answer the same questions to everyone.</br>
-Write such questions in the [questions to the program](https://github.com/phrutis/wif500/issues/5). </br>
-Prompt each other, who figured it out, help, discuss it there. </br>
 Questions not related to the challenge do not write to me.<hr>
 
 phrutis why are you deleting hunters and being so demanding on screenshots?</br>
@@ -208,7 +202,8 @@ The hunter passed more than 90%, but for some reason did not have time (could no
 There were cases when they launched from bat files, after 100% the console window closed automatically.</br>
 This range is assigned to him for compensation.</br>
 When there are very few ranges left, it will become free again.</br>
-If another hunter passes it, then he will become its owner.<hr>
+If another hunter passes it, then he will become its owner.</br>
+Now the program has a continuation of the search from the last checkpoint.<hr>
 
 I'm worried that someone is faking a sequel from the end.</br>
 Do not worry, there is a very powerful protection.</br>

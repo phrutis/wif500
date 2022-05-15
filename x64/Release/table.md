@@ -1423,15 +1423,15 @@
 | :no_entry:          | 3039  | Almera       |  Passed :heavy_check_mark: |  24.04.2022  |
 | :no_entry:          | 3040  | cpto_node    |  Passed :heavy_check_mark: |  30.04.2022  |
 | :no_entry:          | 3041  | Kripto       |  Passed :heavy_check_mark: |  14.05.2022  |
-| :yellow_circle:     | 3042  | Chris        |  in progress :hammer:      |  10.05.2022  |
+| :no_entry:          | 3042  | Chris        |  Passed :heavy_check_mark: |  15.05.2022  |
 | :no_entry:          | 3043  | cpto_node    |  Passed :heavy_check_mark: |  30.04.2022  |
 | :no_entry:          | 3044  | Chris        |  Passed :heavy_check_mark: |  14.05.2022  |
 | :no_entry:          | 3045  | com bio      |  Passed :heavy_check_mark: |  15.05.2022  |
 | :no_entry:          | 3046  | cpto_node    |  Passed :heavy_check_mark: |  03.05.2022  |
 | :no_entry:          | 3047  | com bio      |  Passed :heavy_check_mark: |  15.05.2022  |
-| :yellow_circle:     | 3048  | Chris        |  in progress :hammer:  |  10.05.2022  |
-| :no_entry:          | 3049  | cpto_node    |  Passed :heavy_check_mark:  | 04.04.2022  |
-| :no_entry:          | 3050  | Alexsandr    |  Passed :heavy_check_mark:  | 11.05.2022  |
+| :no_entry:          | 3048  | Chris        |  Passed :heavy_check_mark: |  15.05.2022  |
+| :no_entry:          | 3049  | cpto_node    |  Passed :heavy_check_mark: |  04.04.2022  |
+| :no_entry:          | 3050  | Alexsandr    |  Passed :heavy_check_mark: |  11.05.2022  |
 | :yellow_circle:     | 3051  | Alexsandr    |  in progress :hammer:  |  06.05.2022  |
 | :yellow_circle:     | 3052  | Alexsandr    |  in progress :hammer:  |  06.05.2022  |
 | :no_entry:          | 3053  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |

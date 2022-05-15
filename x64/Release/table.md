@@ -826,7 +826,7 @@
 | :no_entry:     | 821  | V         |  Passed :heavy_check_mark: |  12.05.2022  |
 | :no_entry:     | 822  | cpto_node |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:     | 823  | cpto_node |  Passed :heavy_check_mark: |  11.05.2022  |
-| :yellow_circle:| 824  | V         |  in progress :hammer: |  05.05.2022  |
+| :no_entry:     | 824  | V         |  Passed :heavy_check_mark: |  15.05.2022  |
 | :no_entry:     | 825  | cpto_node |  Passed :heavy_check_mark: |  07.05.2022  |
 | :no_entry:     | 826  | cpto_node |  Passed :heavy_check_mark: |  12.05.2022  |
 | :yellow_circle:| 827  | K-Fed     |  in progress :hammer: |  08.05.2022  |
@@ -1306,7 +1306,7 @@
 | :no_entry:          | 2753  | Leonid       |  Passed  |  03.05.2022  |
 | :no_entry:          | 2754  | Leonid       |  Passed :heavy_check_mark:  |  07.05.2022  |
 | :no_entry:          | 2755  | Leonid       |  Passed :heavy_check_mark:  |  07.05.2022  |
-| :yellow_circle:     | 2756  | V            |  in progress :hammer: |  05.05.2022  |
+| :no_entry:          | 2756  | V            |  Passed :heavy_check_mark:  |  15.05.2022  |
 | :no_entry:          | 2757  | Chris        |  Passed :heavy_check_mark:  |  13.05.2022  |
 | :no_entry:          | 2758  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
 | :no_entry:          | 2759  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
@@ -1319,11 +1319,11 @@
 | :no_entry:          | 2766  | com bio      |  Passed :heavy_check_mark:  |  07.05.2022  |
 | :no_entry:          | 2767  | Almera       |  Passed :heavy_check_mark:  |  24.04.2022  |
 | :no_entry:          | 2768  | Chris        |  Passed :heavy_check_mark:  |  13.05.2022  |
-| :no_entry:          | 2769  | Crypto GPU   |  Passed :heavy_check_mark: |  10.05.2022  |
-| :yellow_circle:     | 2770  | V            |  in progress :hammer: |  05.05.2022  |
+| :no_entry:          | 2769  | Crypto GPU   |  Passed :heavy_check_mark:  |  10.05.2022  |
+| :no_entry:          | 2770  | V            |  Passed :heavy_check_mark:  |  15.05.2022  |
 | :no_entry:          | 2771  | Chris        |  Passed :heavy_check_mark:  |  12.05.2022  |
 | :yellow_circle:     | 2865  | Crypto GPU   |  in progress :hammer: |  14.05.2022  |
-| :no_entry:          | 2885  | Crypto GPU   |  Passed :heavy_check_mark: |  15.05.2022  |
+| :no_entry:          | 2885  | Crypto GPU   |  Passed :heavy_check_mark:  |  15.05.2022  |
 | :large_blue_circle: | 2888 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2889 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2890 | priority | FREE | 00.00.2022 |

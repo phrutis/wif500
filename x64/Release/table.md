@@ -33,7 +33,7 @@
 | :no_entry:     | 21      | Zhiquaran |  Passed :heavy_check_mark: |  23.04.2022  |
 | :no_entry:     | 22      | 047       |  Passed :heavy_check_mark: |  28.04.2022  |
 | :green_circle: | 23      | FREE      |  FREE  |  00.00.2022  |
-| :yellow_circle:| 24      | Andrii    |  in progress :hammer: |  06.05.2022  |
+| :no_entry:     | 24      | Andrii    |  Passed :heavy_check_mark: |  15.05.2022  |
 | :green_circle: | 25      | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 26      | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 27      | FREE    |  FREE  |  00.00.2022 |

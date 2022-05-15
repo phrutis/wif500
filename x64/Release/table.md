@@ -43,10 +43,10 @@
 | :green_circle: | 31      | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 32      | FREE    |  FREE  |  00.00.2022 |
 | :no_entry:     | 33      | V       |  Passed :heavy_check_mark: |  02.05.2022 |
-| :green_circle: | 34      | FREE    |  FREE  |  00.00.2022  |
-| :green_circle: | 35      | FREE    |  FREE  |  00.00.2022  |
-| :yellow_circle:| 36      | 047     |  in progress :hammer: |  11.05.2022  |
-| :yellow_circle:| 37      | 047     |  in progress :hammer: |  11.05.2022  |
+| :yellow_circle:| 34      | 047     |  in progress :hammer:  |  15.05.2022  |
+| :yellow_circle:| 35      | 047     |  in progress :hammer:  |  15.05.2022  |
+| :no_entry:     | 36      | 047     |  Passed :heavy_check_mark: |  15.05.2022  |
+| :no_entry:     | 37      | 047     |  Passed :heavy_check_mark: |  15.05.2022  |
 | :yellow_circle:| 38      | Mars42  |  in progress :hammer: |  06.05.2022  |
 | :yellow_circle:| 39      | Mars42  |  in progress :hammer: |  06.05.2022  |
 | :no_entry:     | 40      | Mars42  |  Passed :heavy_check_mark: |  13.05.2022  |
@@ -876,8 +876,8 @@
 | :yellow_circle:| 1041 | 047       |  in progress :hammer:| 14.05.2022 |
 | :yellow_circle:| 1042 | 047       |  in progress :hammer:| 14.05.2022 |
 | :yellow_circle:| 1043 | 047       |  in progress :hammer:| 14.05.2022 |
-| :large_blue_circle: | 1044 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1045 | priority | FREE | 00.00.2022 |
+| :yellow_circle:| 1044 | Chris     | in progress :hammer: | 15.05.2022 |
+| :yellow_circle:| 1045 | Chris     | in progress :hammer: | 15.05.2022 |
 | :large_blue_circle: | 1046 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1047 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 1048 | Илья     | in progress :hammer: | 14.05.2022 |
@@ -892,8 +892,8 @@
 | :large_blue_circle: | 1057 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1058 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1059 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1060 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1061 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1060 | Leonid   | in progress :hammer: | 15.05.2022 |
+| :yellow_circle:     | 1061 | Leonid   | in progress :hammer: | 15.05.2022 |
 | :large_blue_circle: | 1062 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1063 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1064 | priority | FREE | 00.00.2022 |
@@ -1032,8 +1032,8 @@
 | :yellow_circle:     | 1886  | K-Fed       |  in progress :hammer: |  11.05.2022  |
 | :yellow_circle:     | 1887  | K-Fed       |  in progress :hammer: |  11.05.2022  |
 | :no_entry:          | 1888  | com bio     |  Passed |  29.05.2022 |
-| :yellow_circle:     | 1889  | Leonid      |  in progress :hammer: |  11.05.2022  |
-| :yellow_circle:     | 1890  | Leonid      |  in progress :hammer: |  11.05.2022  |
+| :no_entry:          | 1889  | Leonid      |  Passed :heavy_check_mark: |  15.05.2022  |
+| :no_entry:          | 1890  | Leonid      |  Passed :heavy_check_mark: |  15.05.2022  |
 | :yellow_circle:     | 1891  | cpto_node   |  in progress :hammer: |  11.05.2022  |
 | :yellow_circle:     | 1892  | cpto_node   |  in progress :hammer: |  11.05.2022  |
 | :yellow_circle:     | 1893  | cpto_node   |  in progress :hammer: |  11.05.2022  |
@@ -1238,7 +1238,7 @@
 | :large_blue_circle: | 2588 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2589 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2590 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2591 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2591 | Andrii   | in progress :hammer: | 15.05.2022 |
 | :large_blue_circle: | 2592 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2593 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2594 | priority | FREE | 00.00.2022 |
@@ -1323,7 +1323,7 @@
 | :yellow_circle:     | 2770  | V            |  in progress :hammer: |  05.05.2022  |
 | :no_entry:          | 2771  | Chris        |  Passed :heavy_check_mark:  |  12.05.2022  |
 | :yellow_circle:     | 2865  | Crypto GPU   |  in progress :hammer: |  14.05.2022  |
-| :yellow_circle:     | 2885  | Crypto GPU   |  in progress :hammer: |  08.05.2022  |
+| :no_entry:          | 2885  | Crypto GPU   |  Passed :heavy_check_mark: |  15.05.2022  |
 | :large_blue_circle: | 2888 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2889 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2890 | priority | FREE | 00.00.2022 |

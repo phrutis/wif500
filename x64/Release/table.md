@@ -34,7 +34,7 @@
 | :no_entry:     | 22      | 047       |  Passed :heavy_check_mark: |  28.04.2022  |
 | :green_circle: | 23      | FREE      |  FREE  |  00.00.2022  |
 | :no_entry:     | 24      | Andrii    |  Passed :heavy_check_mark: |  15.05.2022  |
-| :green_circle: | 25      | FREE    |  FREE  |  00.00.2022 |
+| :yellow_circle:| 25      | .       |  in progress :hammer:  |  16.05.2022 |
 | :green_circle: | 26      | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 27      | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 28      | FREE    |  FREE  |  00.00.2022 |
@@ -47,8 +47,8 @@
 | :yellow_circle:| 35      | 047     |  in progress :hammer:  |  15.05.2022  |
 | :no_entry:     | 36      | 047     |  Passed :heavy_check_mark: |  15.05.2022  |
 | :no_entry:     | 37      | 047     |  Passed :heavy_check_mark: |  15.05.2022  |
-| :yellow_circle:| 38      | Mars42  |  in progress :hammer: |  06.05.2022  |
-| :yellow_circle:| 39      | Mars42  |  in progress :hammer: |  06.05.2022  |
+| :no_entry:     | 38      | Mars42  |  Passed :heavy_check_mark: |  16.05.2022  |
+| :no_entry:     | 39      | Mars42  |  Passed :heavy_check_mark: |  16.05.2022  |
 | :no_entry:     | 40      | Mars42  |  Passed :heavy_check_mark: |  13.05.2022  |
 | :no_entry:     | 41      | Mars42  |  Passed :heavy_check_mark: |  13.05.2022  |
 | :no_entry:     | 42      | Mars42  |  Passed :heavy_check_mark: |  13.05.2022  |
@@ -881,7 +881,7 @@
 | :yellow_circle:| 1046 | Chris     | in progress :hammer: | 15.05.2022 |
 | :yellow_circle:| 1047 | Chris     | in progress :hammer: | 15.05.2022 |
 | :yellow_circle:     | 1048 | Илья     | in progress :hammer: | 14.05.2022 |
-| :large_blue_circle: | 1049 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1049 | Noname   | in progress :hammer: | 16.00.2022 |
 | :large_blue_circle: | 1050 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1051 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1052 | priority | FREE | 00.00.2022 |
@@ -994,7 +994,7 @@
 | :no_entry:     | 1848  | Chris     |  Passed :heavy_check_mark:  |  14.05.2022  |
 | :no_entry:     | 1849  | Chris     |  Passed :heavy_check_mark:  |  13.05.2022  |
 | :no_entry:     | 1850  | Mars42    |  Passed :heavy_check_mark:  |  13.05.2022  |
-| :yellow_circle:     | 1851  | Mars42      |  in progress :hammer: |  06.05.2022  |
+| :no_entry:          | 1851  | Mars42      |  Passed :heavy_check_mark: |  16.05.2022  |
 | :no_entry:          | 1852  | Chris       |  Passed :heavy_check_mark: |  12.05.2022  |
 | :no_entry:          | 1853  | Chris       |  Passed :heavy_check_mark: |  12.05.2022  |
 | :no_entry:          | 1854  | Oleg_R      |  Passed :heavy_check_mark: |  02.05.2022  |
@@ -1070,9 +1070,9 @@
 | :yellow_circle:     | 2252 | Mars42   |  in progress :hammer: | 13.05.2022  |
 | :yellow_circle:     | 2253 | Mars42   |  in progress :hammer: | 13.05.2022  |
 | :yellow_circle:     | 2254 | Mars42   |  in progress :hammer: | 13.05.2022  |
-| :large_blue_circle: | 2255 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2256 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2257 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2255 | Mars42   | in progress :hammer: | 16.05.2022 |
+| :yellow_circle:     | 2256 | Mars42   | in progress :hammer: | 16.05.2022 |
+| :yellow_circle:     | 2257 | Mars42   | in progress :hammer: | 16.05.2022 |
 | :large_blue_circle: | 2258 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2259 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 2260 | Sam      |  in progress :hammer: | 13.05.2022  |
@@ -1281,7 +1281,7 @@
 | :yellow_circle:     | 2728  | cpto_node    |  in progress :hammer: |  10.05.2022  |
 | :yellow_circle:     | 2729  | cpto_node    |  in progress :hammer: |  10.05.2022  |
 | :yellow_circle:     | 2730  | cpto_node    |  in progress :hammer: |  10.05.2022  |
-| :yellow_circle:     | 2731  | Noname       |  in progress :hammer: |  10.05.2022  |
+| :no_entry:          | 2731  | Noname       |  Passed :heavy_check_mark: |  16.05.2022  |
 | :no_entry:          | 2732  | com bio      |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:          | 2733  | com bio      |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:          | 2734  | com bio      |  Passed :heavy_check_mark: |  11.05.2022  |

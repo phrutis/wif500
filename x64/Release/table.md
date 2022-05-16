@@ -829,16 +829,16 @@
 | :no_entry:     | 824  | V         |  Passed :heavy_check_mark: |  15.05.2022  |
 | :no_entry:     | 825  | cpto_node |  Passed :heavy_check_mark: |  07.05.2022  |
 | :no_entry:     | 826  | cpto_node |  Passed :heavy_check_mark: |  12.05.2022  |
-| :yellow_circle:| 827  | K-Fed     |  in progress :hammer: |  08.05.2022  |
-| :yellow_circle:| 828  | K-Fed     |  in progress :hammer: |  08.05.2022  |
-| :yellow_circle:| 829  | K-Fed     |  in progress :hammer: |  08.05.2022  |
+| :no_entry:     | 827  | K-Fed     |  Passed :heavy_check_mark: |  16.05.2022  |
+| :no_entry:     | 828  | K-Fed     |  Passed :heavy_check_mark: |  16.05.2022  |
+| :no_entry:     | 829  | K-Fed     |  Passed :heavy_check_mark: |  16.05.2022  |
 | :no_entry:     | 830  | cpto_node |  Passed :heavy_check_mark: |  09.05.2022  |
 | :no_entry:     | 831  | K-Fed     |  Passed :heavy_check_mark: |  14.05.2022  |
 | :no_entry:     | 832  | Kuw       |  Passed :heavy_check_mark: |  16.05.2022  |
 | :no_entry:     | 833  | Kuw       |  Passed :heavy_check_mark: |  16.05.2022  |
-| :yellow_circle:| 834  | K-Fed     |  in progress :hammer: |  08.05.2022  |
-| :yellow_circle:| 835  | K-Fed     |  in progress :hammer: |  09.05.2022  |
-| :yellow_circle:| 836  | K-Fed     |  in progress :hammer: |  09.05.2022  |
+| :no_entry:     | 834  | K-Fed     |  Passed :heavy_check_mark: |  16.05.2022  |
+| :no_entry:     | 835  | K-Fed     |  Passed :heavy_check_mark: |  16.05.2022  |
+| :no_entry:     | 836  | K-Fed     |  Passed :heavy_check_mark: |  16.05.2022  |
 | :no_entry:     | 837  | Chris     |  Passed :heavy_check_mark: |  12.05.2022  |
 | :no_entry:     | 838  | Sam       |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:     | 839  | 047       |  Passed :heavy_check_mark: |  11.05.2022  |
@@ -904,12 +904,12 @@
 | :large_blue_circle: | 1069 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1070 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 1071 | Birol    | in progress :hammer: | 12.05.2022 |
-| :large_blue_circle: | 1072 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1073 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1074 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1075 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1076 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1077 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1072 | K-Fed    | in progress :hammer: | 16.05.2022 |
+| :yellow_circle:     | 1073 | K-Fed    | in progress :hammer: | 16.05.2022 |
+| :yellow_circle:     | 1074 | K-Fed    | in progress :hammer: | 16.05.2022 |
+| :yellow_circle:     | 1075 | K-Fed    | in progress :hammer: | 16.05.2022 |
+| :yellow_circle:     | 1076 | K-Fed    | in progress :hammer: | 16.05.2022 |
+| :yellow_circle:     | 1077 | K-Fed    | in progress :hammer: | 16.05.2022 |
 | :large_blue_circle: | 1078 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1079 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 1080 | Sam      | in progress :hammer: | 13.05.2022 |
@@ -1278,7 +1278,7 @@
 | :yellow_circle:     | 2725  | cpto_node    |  in progress :hammer: |  10.05.2022  |
 | :yellow_circle:     | 2726  | cpto_node    |  in progress :hammer: |  10.05.2022  |
 | :yellow_circle:     | 2727  | cpto_node    |  in progress :hammer: |  10.05.2022  |
-| :yellow_circle:     | 2728  | cpto_node    |  in progress :hammer: |  10.05.2022  |
+| :no_entry:          | 2728  | cpto_node    |  Passed :heavy_check_mark: |  16.05.2022  |
 | :yellow_circle:     | 2729  | cpto_node    |  in progress :hammer: |  10.05.2022  |
 | :yellow_circle:     | 2730  | cpto_node    |  in progress :hammer: |  10.05.2022  |
 | :no_entry:          | 2731  | Noname       |  Passed :heavy_check_mark: |  16.05.2022  |
@@ -1444,7 +1444,7 @@
 | :no_entry:          | 3060  | aiyulu       |  Passed :heavy_check_mark: |  08.05.2022  |
 | :no_entry:          | 3061  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :yellow_circle:     | 3077  | Demon        |  in progress :hammer:  |  09.05.2022  |
-| :yellow_circle:     | 3120 | cpto_node| in progress :hammer: | 12.05.2022 |
+| :no_entry:          | 3120 | cpto_node| Passed :heavy_check_mark: | 16.05.2022 |
 | :yellow_circle:     | 3121 | cpto_node| in progress :hammer: | 12.05.2022 |
 | :yellow_circle:     | 3122 | cpto_node| in progress :hammer: | 12.05.2022 |
 | :yellow_circle:     | 3123 | cpto_node| in progress :hammer: | 12.05.2022 |

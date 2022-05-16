@@ -1454,7 +1454,7 @@
 | :yellow_circle:     | 3127 | cpto_node| in progress :hammer: | 12.05.2022 |
 | :yellow_circle:     | 3128 | cpto_node| in progress :hammer: | 12.05.2022 |
 | :yellow_circle:     | 3129 | cpto_node| in progress :hammer: | 12.05.2022 |
-| :yellow_circle:     | 3130 | cpto_node| in progress :hammer: | 12.05.2022 |
+| :no_entry:          | 3130 | cpto_node| Passed :heavy_check_mark: | 16.05.2022 |
 | :large_blue_circle: | 3131 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3132 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3133 | priority | FREE | 00.00.2022 |

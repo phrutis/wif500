@@ -1296,8 +1296,8 @@
 | :no_entry:          | 2743  | DworfD       |  Passed :heavy_check_mark: |  12.05.2022  |
 | :no_entry:          | 2744  | DworfD       |  Passed :heavy_check_mark: |  13.05.2022  |
 | :no_entry:          | 2745  | DworfD       |  Passed :heavy_check_mark: |  12.05.2022  |
-| :yellow_circle:     | 2746  | DworfD       |  in progress :hammer: |  08.05.2022  |
-| :yellow_circle:     | 2747  | DworfD       |  in progress :hammer: |  08.05.2022  |
+| :no_entry:          | 2746  | DworfD       |  Passed :heavy_check_mark: |  16.05.2022  |
+| :no_entry:          | 2747  | DworfD       |  Passed :heavy_check_mark: |  16.05.2022  |
 | :yellow_circle:     | 2748  | DworfD       |  in progress :hammer: |  08.05.2022  |
 | :yellow_circle:     | 2749  | DworfD       |  in progress :hammer: |  08.05.2022  |
 | :no_entry:          | 2750  | Leonid       |  Passed :heavy_check_mark:  |  29.04.2022  |

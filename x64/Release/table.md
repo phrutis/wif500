@@ -834,7 +834,7 @@
 | :yellow_circle:| 829  | K-Fed     |  in progress :hammer: |  08.05.2022  |
 | :no_entry:     | 830  | cpto_node |  Passed :heavy_check_mark: |  09.05.2022  |
 | :no_entry:     | 831  | K-Fed     |  Passed :heavy_check_mark: |  14.05.2022  |
-| :yellow_circle:| 832  | Kuw       |  in progress :hammer: |  08.05.2022  |
+| :no_entry:     | 832  | Kuw       |  Passed :heavy_check_mark: |  16.05.2022  |
 | :yellow_circle:| 833  | Kuw       |  in progress :hammer: |  08.05.2022  |
 | :yellow_circle:| 834  | K-Fed     |  in progress :hammer: |  08.05.2022  |
 | :yellow_circle:| 835  | K-Fed     |  in progress :hammer: |  09.05.2022  |
@@ -881,8 +881,8 @@
 | :yellow_circle:| 1046 | Chris     | in progress :hammer: | 15.05.2022 |
 | :yellow_circle:| 1047 | Chris     | in progress :hammer: | 15.05.2022 |
 | :yellow_circle:     | 1048 | Илья     | in progress :hammer: | 14.05.2022 |
-| :yellow_circle:     | 1049 | Noname   | in progress :hammer: | 16.00.2022 |
-| :large_blue_circle: | 1050 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1049 | Noname   | in progress :hammer: | 16.05.2022 |
+| :yellow_circle:     | 1050 | Kuw      | in progress :hammer: | 16.05.2022 |
 | :large_blue_circle: | 1051 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1052 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1053 | priority | FREE | 00.00.2022 |

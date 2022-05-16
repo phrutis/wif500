@@ -129,7 +129,9 @@ The author of the diary took the photo himself.</br>
 Thus, he made a public key out of a private key and gave it to third parties.<hr>
 
 What happens if the key is not found?</br>
-Nothing. Write on the photo SOLVED. Let's start another challenge and we'll look for it.<hr>
+Nothing.</br>
+Write on the photo SOLVED. </br>
+Let's start another challenge and we'll look for it.<hr>
 
 How to know that the key is found by someone?</br>
 Verify transactions on the blockchain.<hr>
@@ -220,3 +222,7 @@ Hunters who participate in the challenge will not receive a prize and compensati
 The mediator and the organizers of the challenge will be left without coins.</br>
 You understand that this is not logical.<hr>
 
+Why did you remove me from the group?</br>
+If the hunter was added to the group and did not report the range number within 24 hours.</br>
+He will be removed, only hunters are needed in the group.</br>
+You can join the group again when you're ready to search.<hr>

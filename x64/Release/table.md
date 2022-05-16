@@ -312,9 +312,9 @@
 | :green_circle: | 307     | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 308     | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 309     | FREE    |  FREE  |  00.00.2022 |
-| :green_circle: | 310     | FREE    |  FREE  |  00.00.2022 |
-| :green_circle: | 311     | FREE    |  FREE  |  00.00.2022 |
-| :green_circle: | 312     | FREE    |  FREE  |  00.00.2022 |
+| :yellow_circle:| 310     | Oleg D  |  in progress :hammer:  |  16.05.2022 |
+| :yellow_circle:| 311     | Oleg D  |  in progress :hammer:  |  16.05.2022 |
+| :yellow_circle:| 312     | Oleg D  |  in progress :hammer:  |  16.05.2022 |
 | :green_circle: | 313     | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 314     | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 315     | FREE    |  FREE  |  00.00.2022 |

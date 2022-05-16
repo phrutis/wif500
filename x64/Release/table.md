@@ -1082,9 +1082,9 @@
 | :large_blue_circle: | 2264 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2265 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2266 | priority | FREE | 00.00.2022 |
-| :yellow_circle:     | 2267 | Oleg_R   | in progress :hammer:  |  12.05.2022  |
+| :no_entry:          | 2267 | Oleg_R   | Passed :heavy_check_mark:  |  16.05.2022  |
 | :large_blue_circle: | 2268 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2269 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2269 | Oleg_R   | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 2270 | Andrzej  | in progress :hammer: | 15.05.2022 |
 | :large_blue_circle: | 2271 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2272 | priority | FREE | 00.00.2022 |
@@ -1206,7 +1206,7 @@
 | :yellow_circle:     | 2556 | com bio  | in progress :hammer: | 15.05.2022 |
 | :yellow_circle:     | 2557 | com bio  | in progress :hammer: | 15.05.2022 |
 | :yellow_circle:     | 2558 | com bio  | in progress :hammer: | 15.05.2022 |
-| :yellow_circle:     | 2559 | Oleg_R   |  in progress :hammer: |  12.05.2022  |
+| :no_entry:          | 2559 | Oleg_R   | Passed :heavy_check_mark:  |  16.05.2022  |
 | :large_blue_circle: | 2560 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 2561 | aiyulu   | in progress :hammer: | 12.05.2022 |
 | :large_blue_circle: | 2562 | priority | FREE | 00.00.2022 |
@@ -1241,7 +1241,7 @@
 | :yellow_circle:     | 2591 | Andrii   | in progress :hammer: | 15.05.2022 |
 | :large_blue_circle: | 2592 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2593 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2594 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2594 | Oleg_R   | in progress :hammer: | 16.05.2022 |
 | :large_blue_circle: | 2595 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2596 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2597 | priority | FREE | 00.00.2022 |

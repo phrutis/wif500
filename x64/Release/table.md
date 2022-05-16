@@ -1513,10 +1513,10 @@
 | :no_entry:          | 3293  | Noname       |  Passed :heavy_check_mark:  |  02.05.2022  |
 | :no_entry:          | 3294  | L-N          |  Passed :heavy_check_mark:  |  09.05.2022  |
 | :no_entry:          | 3295  | L-N          |  Passed :heavy_check_mark:  |  08.05.2022  |
-| :yellow_circle:     | 3296  | L-N          |  in progress :hammer:       |  03.05.2022  |
-| :yellow_circle:     | 3297  | L-N          |  in progress :hammer:       |  03.05.2022  |
-| :yellow_circle:     | 3298  | L-N          |  in progress :hammer:       |  03.05.2022  |
-| :yellow_circle:     | 3299  | L-N          |  in progress :hammer:       |  03.05.2022  |
-| :yellow_circle:     | 3300  | L-N          |  in progress :hammer:       |  03.05.2022  |
+| :green_circle:      | 3296  | FREE         |  FREE |  00.00.2022  |
+| :green_circle:      | 3297  | FREE         |  FREE |  00.00.2022  |
+| :green_circle:      | 3298  | FREE         |  FREE |  00.00.2022  |
+| :green_circle:      | 3299  | FREE         |  FREE |  00.00.2022  |
+| :green_circle:      | 3300  | FREE         |  FREE |  00.00.2022  |
 | :no_entry:          | 3301  | Илья         |  Passed :heavy_check_mark:  |  09.05.2022  |
 | :green_circle:      | 3302-3363  | FREE    |  FREE  |  00.00.2022  |

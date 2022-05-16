@@ -835,7 +835,7 @@
 | :no_entry:     | 830  | cpto_node |  Passed :heavy_check_mark: |  09.05.2022  |
 | :no_entry:     | 831  | K-Fed     |  Passed :heavy_check_mark: |  14.05.2022  |
 | :no_entry:     | 832  | Kuw       |  Passed :heavy_check_mark: |  16.05.2022  |
-| :yellow_circle:| 833  | Kuw       |  in progress :hammer: |  08.05.2022  |
+| :no_entry:     | 833  | Kuw       |  Passed :heavy_check_mark: |  16.05.2022  |
 | :yellow_circle:| 834  | K-Fed     |  in progress :hammer: |  08.05.2022  |
 | :yellow_circle:| 835  | K-Fed     |  in progress :hammer: |  09.05.2022  |
 | :yellow_circle:| 836  | K-Fed     |  in progress :hammer: |  09.05.2022  |
@@ -883,7 +883,7 @@
 | :yellow_circle:     | 1048 | Илья     | in progress :hammer: | 14.05.2022 |
 | :yellow_circle:     | 1049 | Noname   | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 1050 | Kuw      | in progress :hammer: | 16.05.2022 |
-| :large_blue_circle: | 1051 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1051 | Kuw      | in progress :hammer: | 16.05.2022 |
 | :large_blue_circle: | 1052 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1053 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1054 | priority | FREE | 00.00.2022 |
@@ -1215,11 +1215,11 @@
 | :large_blue_circle: | 2565 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2566 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2567 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2568 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2568 | Илья 95  | in progress :hammer: | 16.05.2022 |
 | :large_blue_circle: | 2569 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2570 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2571 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2572 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2572 | Илья 95  | in progress :hammer: | 16.05.2022 |
 | :large_blue_circle: | 2573 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2574 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2575 | priority | FREE | 00.00.2022 |
@@ -1475,7 +1475,7 @@
 | :large_blue_circle: | 3148 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3149 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 3150 | com bio  |  Passed :heavy_check_mark: |  15.05.2022  |
-| :large_blue_circle: | 3151 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 3151 | Илья 95  | in progress :hammer: | 16.05.2022 |
 | :large_blue_circle: | 3152 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3153 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3154 | priority | FREE | 00.00.2022 |

@@ -894,11 +894,11 @@
 | :large_blue_circle: | 1059 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 1060 | Leonid   | in progress :hammer: | 15.05.2022 |
 | :yellow_circle:     | 1061 | Leonid   | in progress :hammer: | 15.05.2022 |
-| :large_blue_circle: | 1062 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1063 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1064 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1065 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1066 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1062 | Vyacheslav| in progress :hammer: | 17.05.2022 |
+| :yellow_circle:     | 1063 | Vyacheslav| in progress :hammer: | 17.05.2022 |
+| :yellow_circle:     | 1064 | Vyacheslav| in progress :hammer: | 17.05.2022 |
+| :yellow_circle:     | 1065 | Vyacheslav| in progress :hammer: | 17.05.2022 |
+| :yellow_circle:     | 1066 | Vyacheslav| in progress :hammer: | 17.05.2022 |
 | :large_blue_circle: | 1067 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1068 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1069 | priority | FREE | 00.00.2022 |

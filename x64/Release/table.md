@@ -809,8 +809,8 @@
 | :no_entry:     | 804     | 047       |  Passed :heavy_check_mark:  |  06.05.2022  |
 | :no_entry:     | 805     | 047       |  Passed :heavy_check_mark:  |  08.05.2022  |
 | :yellow_circle:| 806     | 047       |  Passed :heavy_check_mark:  |  06.05.2022  |
-| :yellow_circle:| 807  | Jo Z      |  in progress :hammer:  |  04.05.2022  |
-| :yellow_circle:| 808  | Jo Z      |  in progress :hammer:  |  04.05.2022  |
+| :yellow_circle:| 807  | Jo Z      |  in progress :hammer:  |  14.05.2022  |
+| :yellow_circle:| 808  | Jo Z      |  in progress :hammer:  |  14.05.2022  |
 | :no_entry:     | 809  | Jo Z      |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:     | 810  | Jo Z      |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:     | 811  | Oleg_R    |  Passed :heavy_check_mark: |  08.05.2022  |

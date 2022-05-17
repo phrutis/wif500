@@ -3,7 +3,8 @@
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
 :green_circle: - Range FREE</br>
-:large_blue_circle: - Recommended Free Ranges (priority)
+:large_blue_circle: - Recommended Free Ranges (priority)</br>
+:purple_circle: - FREE more than 12 days in progress
 
 [Choose a free range and report it to the group](https://t.me/+WFEuFatijpowMjRi)
 
@@ -1275,11 +1276,11 @@
 | :no_entry:          | 2722  | com bio      |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:          | 2723  | com bio      |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:          | 2724  | com bio      |  Passed :heavy_check_mark: |  11.05.2022  |
-| :yellow_circle:     | 2725  | cpto_node    |  in progress :hammer: |  10.05.2022  |
-| :yellow_circle:     | 2726  | cpto_node    |  in progress :hammer: |  10.05.2022  |
-| :yellow_circle:     | 2727  | cpto_node    |  in progress :hammer: |  10.05.2022  |
+| :no_entry:          | 2725  | cpto_node    |  Passed :heavy_check_mark: |  17.05.2022  |
+| :no_entry:          | 2726  | cpto_node    |  Passed :heavy_check_mark: |  17.05.2022  |
+| :no_entry:          | 2727  | cpto_node    |  Passed :heavy_check_mark: |  17.05.2022  |
 | :no_entry:          | 2728  | cpto_node    |  Passed :heavy_check_mark: |  16.05.2022  |
-| :yellow_circle:     | 2729  | cpto_node    |  in progress :hammer: |  10.05.2022  |
+| :no_entry:          | 2729  | cpto_node    |  Passed :heavy_check_mark: |  17.05.2022  |
 | :yellow_circle:     | 2730  | cpto_node    |  in progress :hammer: |  10.05.2022  |
 | :no_entry:          | 2731  | Noname       |  Passed :heavy_check_mark: |  16.05.2022  |
 | :no_entry:          | 2732  | com bio      |  Passed :heavy_check_mark: |  11.05.2022  |

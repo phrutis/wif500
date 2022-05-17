@@ -3,8 +3,7 @@
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
 :green_circle: - Range FREE</br>
-:large_blue_circle: - Recommended Free Ranges (priority)</br>
-:purple_circle: - FREE more than 12 days in progress
+:large_blue_circle: - Recommended Free Ranges (priority)
 
 [Choose a free range and report it to the group](https://t.me/+WFEuFatijpowMjRi)
 

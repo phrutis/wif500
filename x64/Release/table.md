@@ -1028,13 +1028,13 @@
 | :no_entry:          | 1882  | Chris       |  Passed :heavy_check_mark: |  14.05.2022  |
 | :no_entry:          | 1883  | Chris       |  Passed :heavy_check_mark: |  14.05.2022  |
 | :no_entry:          | 1884  | Chris       |  Passed :heavy_check_mark: |  14.05.2022  |
-| :yellow_circle:     | 1885  | cpto_node   |  in progress :hammer: |  11.05.2022  |
+| :no_entry:          | 1885  | cpto_node   |  Passed :heavy_check_mark: |  17.05.2022  |
 | :yellow_circle:     | 1886  | K-Fed       |  in progress :hammer: |  11.05.2022  |
 | :yellow_circle:     | 1887  | K-Fed       |  in progress :hammer: |  11.05.2022  |
 | :no_entry:          | 1888  | com bio     |  Passed |  29.05.2022 |
 | :no_entry:          | 1889  | Leonid      |  Passed :heavy_check_mark: |  15.05.2022  |
 | :no_entry:          | 1890  | Leonid      |  Passed :heavy_check_mark: |  15.05.2022  |
-| :yellow_circle:     | 1891  | cpto_node   |  in progress :hammer: |  11.05.2022  |
+| :no_entry:          | 1891  | cpto_node   |  Passed :heavy_check_mark: |  17.05.2022  |
 | :yellow_circle:     | 1892  | cpto_node   |  in progress :hammer: |  11.05.2022  |
 | :yellow_circle:     | 1893  | cpto_node   |  in progress :hammer: |  11.05.2022  |
 | :no_entry:          | 1894  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |

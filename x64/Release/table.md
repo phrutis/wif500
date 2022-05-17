@@ -1324,7 +1324,7 @@
 | :no_entry:          | 2771  | Chris        |  Passed :heavy_check_mark:  |  12.05.2022  |
 | :yellow_circle:     | 2865  | Crypto GPU   |  in progress :hammer: |  14.05.2022  |
 | :no_entry:          | 2885  | Crypto GPU   |  Passed :heavy_check_mark:  |  15.05.2022  |
-| :large_blue_circle: | 2888 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2888 | com bio       | in progress :hammer: | 17.05.2022 |
 | :large_blue_circle: | 2889 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2890 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2891 | priority | FREE | 00.00.2022 |

@@ -927,7 +927,7 @@
 | :no_entry:     | 1120    | KillBill_2|  Passed :heavy_check_mark:  |  11.05.2022  |
 | :no_entry:     | 1121    | KillBill_2|  Passed                |  06.05.2022  |
 | :no_entry:     | 1211    | Almera    |  Passed :heavy_check_mark:  |  25.04.2022  |
-| :yellow_circle:| 1234    | Dextronomous|  in progress :hammer:  |  29.04.2022  |
+| :green_circle: | 1234    | FREE      |  FREE  |  00.00.2022  |
 | :no_entry:     | 1250    | Oleg_R    |  Passed :heavy_check_mark:  |  06.05.2022  |
 | :no_entry:     | 1267    | Almera    |  Passed :heavy_check_mark:  |  26.04.2022  |
 | :no_entry:     | 1344    | Almera    |  Passed :heavy_check_mark:  |  25.04.2022  |

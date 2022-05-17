@@ -1079,7 +1079,7 @@
 | :yellow_circle:     | 2261 | Sam      | in progress :hammer: | 13.05.2022  |
 | :large_blue_circle: | 2262 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2263 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2264 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2264 | Demon    | in progress :hammer: | 17.05.2022 |
 | :large_blue_circle: | 2265 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2266 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 2267 | Oleg_R   | Passed :heavy_check_mark:  |  16.05.2022  |
@@ -1443,7 +1443,7 @@
 | :no_entry:          | 3059  | com bio      |  Passed :heavy_check_mark: |  15.05.2022  |
 | :no_entry:          | 3060  | aiyulu       |  Passed :heavy_check_mark: |  08.05.2022  |
 | :no_entry:          | 3061  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
-| :yellow_circle:     | 3077  | Demon        |  in progress :hammer:  |  09.05.2022  |
+| :no_entry:          | 3077  | Demon        |  Passed :heavy_check_mark: |  17.05.2022  |
 | :no_entry:          | 3120 | cpto_node| Passed :heavy_check_mark: | 16.05.2022 |
 | :yellow_circle:     | 3121 | cpto_node| in progress :hammer: | 12.05.2022 |
 | :yellow_circle:     | 3122 | cpto_node| in progress :hammer: | 12.05.2022 |

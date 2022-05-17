@@ -1280,7 +1280,7 @@
 | :no_entry:          | 2727  | cpto_node    |  Passed :heavy_check_mark: |  17.05.2022  |
 | :no_entry:          | 2728  | cpto_node    |  Passed :heavy_check_mark: |  16.05.2022  |
 | :no_entry:          | 2729  | cpto_node    |  Passed :heavy_check_mark: |  17.05.2022  |
-| :yellow_circle:     | 2730  | cpto_node    |  in progress :hammer: |  10.05.2022  |
+| :no_entry:          | 2730  | cpto_node    |  Passed :heavy_check_mark: |  17.05.2022  |
 | :no_entry:          | 2731  | Noname       |  Passed :heavy_check_mark: |  16.05.2022  |
 | :no_entry:          | 2732  | com bio      |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:          | 2733  | com bio      |  Passed :heavy_check_mark: |  11.05.2022  |

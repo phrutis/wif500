@@ -234,5 +234,5 @@ IMPORTANT!!!</br>
 Windows may have enabled disk write caching before writing to a file. </br>
 In this case, after a power outage, the files may be EMPTY.</br>
 You need to disable this feature. </br>
-Instruction [EN](https://translate.google.com/translate?sl=ru&tl=en&hl=ru&u=https://techarks.ru/general/osobennosti/vklyuchit-otklyuchit-keshirovanie-zapisi-na-disk-v-windows-10-8-7/&client=webapp) and [RU](https://techarks.ru/general/osobennosti/vklyuchit-otklyuchit-keshirovanie-zapisi-na-disk-v-windows-10-8-7/) <hr>
+Instruction [EN](https://docs.microsoft.com/en-us/troubleshoot/windows-server/backup-and-storage/turn-disk-write-caching-on-off) and [RU](https://techarks.ru/general/osobennosti/vklyuchit-otklyuchit-keshirovanie-zapisi-na-disk-v-windows-10-8-7/) <hr>
 

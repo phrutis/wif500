@@ -56,7 +56,7 @@
 | :no_entry:     | 44      | V       |  Passed :heavy_check_mark: |  02.05.2022  |
 | :green_circle: | 45      | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 46      | FREE    |  FREE  |  00.00.2022 |
-| :yellow_circle:| 47      | Ervings |  in progress :hammer: |  12.05.2022 |
+| :no_entry:     | 47      | Ervings |  Passed :heavy_check_mark: |  18.05.2022 |
 | :green_circle: | 48      | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 49      | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 50      | FREE    |  FREE  |  00.00.2022 |
@@ -902,7 +902,7 @@
 | :large_blue_circle: | 1067 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1068 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1069 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1070 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1070 | Ervings  | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1071 | Birol    | in progress :hammer: | 12.05.2022 |
 | :yellow_circle:     | 1072 | K-Fed    | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 1073 | K-Fed    | in progress :hammer: | 16.05.2022 |
@@ -1465,7 +1465,7 @@
 | :large_blue_circle: | 3138 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3139 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3140 | priority | FREE | 00.00.2022 |
-| :yellow_circle:     | 3141 | Kripto   | in progress :hammer: | 14.05.2022 |
+| :large_blue_circle: | 3141 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3142 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3143 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3144 | priority | FREE | 00.00.2022 |
@@ -1474,7 +1474,7 @@
 | :large_blue_circle: | 3147 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3148 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3149 | priority | FREE | 00.00.2022 |
-| :no_entry:          | 3150 | com bio  |  Passed :heavy_check_mark: |  15.05.2022  |
+| :no_entry:          | 3150 | com bio  | Passed :heavy_check_mark: |  15.05.2022  |
 | :yellow_circle:     | 3151 | Илья 95  | in progress :hammer: | 16.05.2022 |
 | :large_blue_circle: | 3152 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3153 | priority | FREE | 00.00.2022 |
@@ -1485,8 +1485,8 @@
 | :large_blue_circle: | 3158 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3159 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3160 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 3161 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 3162 | priority | FREE | 00.00.2022 |
+| :no_entry:          | 3161 | Kripto   | Passed :heavy_check_mark: | 18.05.2022 |
+| :yellow_circle:     | 3162 | Kripto   | in progress :hammer: | 18.05.2022 |
 | :large_blue_circle: | 3163 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3164 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3165 | priority | FREE | 00.00.2022 |

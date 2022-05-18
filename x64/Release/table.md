@@ -1286,7 +1286,7 @@
 | :no_entry:          | 2733  | com bio      |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:          | 2734  | com bio      |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:          | 2735  | V            |  Passed :heavy_check_mark: |  12.05.2022  |
-| :yellow_circle:     | 2736  | Noname       |  in progress :hammer: |  10.05.2022  |
+| :no_entry:          | 2736  | Noname       |  Passed :heavy_check_mark: |  18.05.2022  |
 | :yellow_circle:     | 2737  | Demon        |  in progress :hammer: |  10.05.2022  |
 | :no_entry:          | 2738  | com bio      |  Passed :heavy_check_mark: |  17.05.2022  |
 | :yellow_circle:     | 2739  | Noname       |  in progress :hammer: |  10.05.2022  |

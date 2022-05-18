@@ -1109,7 +1109,7 @@
 | :no_entry:          | 2291 | Sam      | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:          | 2292 | Sam      | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:          | 2293 | Sam      | Passed :heavy_check_mark: | 18.05.2022 |
-| :large_blue_circle: | 2294 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2294 | Noname   | in progress :hammer: | 18.05.2022 |
 | :large_blue_circle: | 2295 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2296 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2297 | priority | FREE | 00.00.2022 |

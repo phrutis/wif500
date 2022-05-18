@@ -884,7 +884,7 @@
 | :yellow_circle:     | 1049 | Noname   | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 1050 | Kuw      | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 1051 | Kuw      | in progress :hammer: | 16.05.2022 |
-| :large_blue_circle: | 1052 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1052 | K-Fed    | in progress :hammer: | 18.05.2022 |
 | :large_blue_circle: | 1053 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1054 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 1055 | JRodary  | in progress :hammer: | 15.05.2022 |
@@ -914,10 +914,10 @@
 | :large_blue_circle: | 1079 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 1080 | Sam      | in progress :hammer: | 13.05.2022 |
 | :yellow_circle:     | 1081 | Sam      | in progress :hammer: | 17.05.2022 |
-| :large_blue_circle: | 1082 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1083 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1084 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1085 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1082 | Sam      | in progress :hammer: | 18.05.2022 |
+| :yellow_circle:     | 1083 | Sam      | in progress :hammer: | 18.05.2022 |
+| :yellow_circle:     | 1084 | Sam      | in progress :hammer: | 18.05.2022 |
+| :yellow_circle:     | 1085 | Sam      | in progress :hammer: | 18.05.2022 |
 | :large_blue_circle: | 1086 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1087 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1088 | priority | FREE | 00.00.2022 |
@@ -1029,7 +1029,7 @@
 | :no_entry:          | 1883  | Chris       |  Passed :heavy_check_mark: |  14.05.2022  |
 | :no_entry:          | 1884  | Chris       |  Passed :heavy_check_mark: |  14.05.2022  |
 | :no_entry:          | 1885  | cpto_node   |  Passed :heavy_check_mark: |  17.05.2022  |
-| :yellow_circle:     | 1886  | K-Fed       |  in progress :hammer: |  11.05.2022  |
+| :no_entry:          | 1886  | K-Fed       |  Passed :heavy_check_mark: |  18.05.2022  |
 | :yellow_circle:     | 1887  | K-Fed       |  in progress :hammer: |  11.05.2022  |
 | :no_entry:          | 1888  | com bio     |  Passed |  29.05.2022 |
 | :no_entry:          | 1889  | Leonid      |  Passed :heavy_check_mark: |  15.05.2022  |
@@ -1105,10 +1105,10 @@
 | :large_blue_circle: | 2287 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2288 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2289 | priority | FREE | 00.00.2022 |
-| :yellow_circle:     | 2290 | Sam      | in progress :hammer: | 14.05.2022 |
-| :yellow_circle:     | 2291 | Sam      | in progress :hammer: | 14.05.2022 |
-| :yellow_circle:     | 2292 | Sam      | in progress :hammer: | 14.05.2022 |
-| :yellow_circle:     | 2293 | Sam      | in progress :hammer: | 14.05.2022 |
+| :no_entry:          | 2290 | Sam      | Passed :heavy_check_mark: | 18.05.2022 |
+| :no_entry:          | 2291 | Sam      | Passed :heavy_check_mark: | 18.05.2022 |
+| :no_entry:          | 2292 | Sam      | Passed :heavy_check_mark: | 18.05.2022 |
+| :no_entry:          | 2293 | Sam      | Passed :heavy_check_mark: | 18.05.2022 |
 | :large_blue_circle: | 2294 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2295 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2296 | priority | FREE | 00.00.2022 |

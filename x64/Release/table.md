@@ -1014,7 +1014,7 @@
 | :no_entry:          | 1868  | cpto_node   |  Passed :heavy_check_mark: |  11.05.2022  |
 | :no_entry:          | 1869  | JRodary     |  Passed :heavy_check_mark: |  15.05.2022  |
 | :no_entry:          | 1870  | Sam         |  Passed :heavy_check_mark: |  20.05.2022  |
-| :yellow_circle:     | 1871  | cpto_node   |  in progress :hammer:  |  10.05.2022  |
+| :no_entry:          | 1871  | cpto_node   |  Passed :heavy_check_mark:  |  18.05.2022  |
 | :no_entry:          | 1872  | 047         |  Passed :heavy_check_mark:  |  14.05.2022  |
 | :no_entry:          | 1873  | 047         |  Passed :heavy_check_mark:  |  14.05.2022  |
 | :no_entry:          | 1874  | 047         |  Passed :heavy_check_mark:  |  14.05.2022  |

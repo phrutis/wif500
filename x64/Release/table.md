@@ -885,8 +885,8 @@
 | :yellow_circle:     | 1050 | Kuw      | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 1051 | Kuw      | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 1052 | K-Fed    | in progress :hammer: | 18.05.2022 |
-| :large_blue_circle: | 1053 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1054 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1053 | K-Fed    | in progress :hammer: | 18.05.2022 |
+| :yellow_circle:     | 1054 | K-Fed    | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1055 | JRodary  | in progress :hammer: | 15.05.2022 |
 | :large_blue_circle: | 1056 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1057 | priority | FREE | 00.00.2022 |
@@ -1021,8 +1021,8 @@
 | :no_entry:          | 1875  | 047         |  Passed :heavy_check_mark:  |  14.05.2022  |
 | :no_entry:          | 1876  | 047         |  Passed :heavy_check_mark:  |  14.05.2022  |
 | :yellow_circle:     | 1877  | Kuw         |  in progress :hammer:  |  08.05.2022  |
-| :yellow_circle:     | 1878  | K-Fed       |  in progress :hammer:  |  10.05.2022  |
-| :yellow_circle:     | 1879  | K-Fed       |  in progress :hammer:  |  10.05.2022  |
+| :no_entry:          | 1878  | K-Fed       |  Passed :heavy_check_mark:  |  18.05.2022  |
+| :no_entry:          | 1879  | K-Fed       |  Passed :heavy_check_mark:  |  18.05.2022  |
 | :yellow_circle:     | 1880  | KillBill_2  |  in progress :hammer:  |  07.05.2022  |
 | :no_entry:          | 1881  | Chris       |  Passed :heavy_check_mark: |  14.05.2022  |
 | :no_entry:          | 1882  | Chris       |  Passed :heavy_check_mark: |  14.05.2022  |
@@ -1030,7 +1030,7 @@
 | :no_entry:          | 1884  | Chris       |  Passed :heavy_check_mark: |  14.05.2022  |
 | :no_entry:          | 1885  | cpto_node   |  Passed :heavy_check_mark: |  17.05.2022  |
 | :no_entry:          | 1886  | K-Fed       |  Passed :heavy_check_mark: |  18.05.2022  |
-| :yellow_circle:     | 1887  | K-Fed       |  in progress :hammer: |  11.05.2022  |
+| :no_entry:          | 1887  | K-Fed       |  Passed :heavy_check_mark: |  18.05.2022  |
 | :no_entry:          | 1888  | com bio     |  Passed |  29.05.2022 |
 | :no_entry:          | 1889  | Leonid      |  Passed :heavy_check_mark: |  15.05.2022  |
 | :no_entry:          | 1890  | Leonid      |  Passed :heavy_check_mark: |  15.05.2022  |
@@ -1193,7 +1193,7 @@
 | :large_blue_circle: | 2543 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2544 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2545 | priority | FREE | 00.00.2022 |
-| :yellow_circle:     | 2546 | Oleg_R   |  in progress :hammer:  |  12.05.2022  |
+| :no_entry:          | 2546 | Oleg_R   | Passed :heavy_check_mark: |  18.05.2022  |
 | :large_blue_circle: | 2547 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2548 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2549 | priority | FREE | 00.00.2022 |
@@ -1227,7 +1227,7 @@
 | :large_blue_circle: | 2577 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2578 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2579 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2580 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2580 | K-Fed    | in progress :hammer: | 18.05.2022 |
 | :large_blue_circle: | 2581 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2582 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2583 | priority | FREE | 00.00.2022 |
@@ -1325,7 +1325,7 @@
 | :yellow_circle:     | 2865  | Crypto GPU   |  in progress :hammer: |  14.05.2022  |
 | :no_entry:          | 2885  | Crypto GPU   |  Passed :heavy_check_mark:  |  15.05.2022  |
 | :yellow_circle:     | 2888 | com bio       |  in progress :hammer: | 17.05.2022 |
-| :large_blue_circle: | 2889 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2889 | Supere   | in progress :hammer: | 18.05.2022 |
 | :large_blue_circle: | 2890 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2891 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2892 | priority | FREE | 00.00.2022 |

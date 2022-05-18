@@ -1220,13 +1220,13 @@
 | :large_blue_circle: | 2570 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2571 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 2572 | Илья 95  | in progress :hammer: | 16.05.2022 |
-| :large_blue_circle: | 2573 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2574 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2575 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2576 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2577 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2578 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2579 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2573 | 047      | in progress :hammer: | 18.05.2022 |
+| :yellow_circle:     | 2574 | 047      | in progress :hammer: | 18.05.2022 |
+| :yellow_circle:     | 2575 | 047      | in progress :hammer: | 18.05.2022 |
+| :yellow_circle:     | 2576 | 047      | in progress :hammer: | 18.05.2022 |
+| :yellow_circle:     | 2577 | 047      | in progress :hammer: | 18.05.2022 |
+| :yellow_circle:     | 2578 | 047      | in progress :hammer: | 18.05.2022 |
+| :yellow_circle:     | 2579 | 047      | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 2580 | K-Fed    | in progress :hammer: | 18.05.2022 |
 | :large_blue_circle: | 2581 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2582 | priority | FREE | 00.00.2022 |

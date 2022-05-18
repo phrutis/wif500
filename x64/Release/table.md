@@ -1207,7 +1207,7 @@
 | :yellow_circle:     | 2557 | com bio  | in progress :hammer: | 15.05.2022 |
 | :yellow_circle:     | 2558 | com bio  | in progress :hammer: | 15.05.2022 |
 | :no_entry:          | 2559 | Oleg_R   | Passed :heavy_check_mark:  |  16.05.2022  |
-| :large_blue_circle: | 2560 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2560 | Oleg_R   | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 2561 | aiyulu   | in progress :hammer: | 12.05.2022 |
 | :large_blue_circle: | 2562 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2563 | priority | FREE | 00.00.2022 |

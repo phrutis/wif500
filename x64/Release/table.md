@@ -43,8 +43,8 @@
 | :green_circle: | 31      | FREE    |  FREE  |  00.00.2022 |
 | :green_circle: | 32      | FREE    |  FREE  |  00.00.2022 |
 | :no_entry:     | 33      | V       |  Passed :heavy_check_mark: |  02.05.2022 |
-| :yellow_circle:| 34      | 047     |  in progress :hammer:  |  15.05.2022  |
-| :yellow_circle:| 35      | 047     |  in progress :hammer:  |  15.05.2022  |
+| :no_entry:     | 34      | 047     |  Passed :heavy_check_mark: |  18.05.2022  |
+| :no_entry:     | 35      | 047     |  Passed :heavy_check_mark: |  18.05.2022  |
 | :no_entry:     | 36      | 047     |  Passed :heavy_check_mark: |  15.05.2022  |
 | :no_entry:     | 37      | 047     |  Passed :heavy_check_mark: |  15.05.2022  |
 | :no_entry:     | 38      | Mars42  |  Passed :heavy_check_mark: |  16.05.2022  |

@@ -19,9 +19,9 @@ pie title Total ranges 3364
             "  " : 0
            "   " : 0
           "    " : 0
-  "- Passed 607" : 607
+  "- Passed 609" : 609
          "     " : 0
-  "- In progress 246" : 246
+  "- In progress 244" : 244
    "- FREE 2340" : 2340
         "      " : 0
   "- FREE (Priority Ranges) 171" : 171
@@ -226,3 +226,13 @@ Why did you remove me from the group?</br>
 If the hunter was added to the group and did not report the range number within 24 hours.</br>
 He will be removed, only hunters are needed in the group.</br>
 You can join the group again when you're ready to search.<hr>
+
+I often turn off the light, how to continue? </br>
+Run 1234_1Continue.bat continuation files.</br>
+The continuation will start from the last checkpoint.</br>
+IMPORTANT!!!</br>
+Windows may have enabled disk write caching before writing to a file. </br>
+In this case, after a power outage, the files may be EMPTY.</br>
+You need to disable this feature. </br>
+Instruction [EN](https://translate.google.com/translate?sl=ru&tl=en&hl=ru&u=https://techarks.ru/general/osobennosti/vklyuchit-otklyuchit-keshirovanie-zapisi-na-disk-v-windows-10-8-7/&client=webapp) and [RU](https://techarks.ru/general/osobennosti/vklyuchit-otklyuchit-keshirovanie-zapisi-na-disk-v-windows-10-8-7/) <hr>
+

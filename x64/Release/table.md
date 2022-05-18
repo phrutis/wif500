@@ -1238,8 +1238,8 @@
 | :large_blue_circle: | 2588 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2589 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2590 | priority | FREE | 00.00.2022 |
-| :yellow_circle:     | 2591 | Andrii   | in progress :hammer: | 15.05.2022 |
-| :large_blue_circle: | 2592 | priority | FREE | 00.00.2022 |
+| :no_entry:          | 2591 | Andrii   | Passed :heavy_check_mark: | 18.05.2022 |
+| :yellow_circle:     | 2592 | Andrii   | in progress :hammer: | 18.05.2022 |
 | :large_blue_circle: | 2593 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 2594 | Oleg_R   | in progress :hammer: | 16.05.2022 |
 | :large_blue_circle: | 2595 | priority | FREE | 00.00.2022 |

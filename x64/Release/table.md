@@ -878,7 +878,7 @@
 | :no_entry:     | 1043 | 047       | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:     | 1044 | Chris     | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:     | 1045 | Chris     | Passed :heavy_check_mark: | 18.05.2022 |
-| :yellow_circle:| 1046 | Chris     | in progress :hammer: | 15.05.2022 |
+| :no_entry:     | 1046 | Chris     | Passed :heavy_check_mark: | 18.05.2022 |
 | :yellow_circle:| 1047 | Chris     | in progress :hammer: | 15.05.2022 |
 | :yellow_circle:     | 1048 | Илья     | in progress :hammer: | 14.05.2022 |
 | :yellow_circle:     | 1049 | Noname   | in progress :hammer: | 16.05.2022 |
@@ -888,10 +888,10 @@
 | :yellow_circle:     | 1053 | K-Fed    | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1054 | K-Fed    | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1055 | JRodary  | in progress :hammer: | 15.05.2022 |
-| :large_blue_circle: | 1056 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1057 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1058 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1059 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1056 | Chris    | in progress :hammer: | 18.05.2022 |
+| :yellow_circle:     | 1057 | Chris    | in progress :hammer: | 18.05.2022 |
+| :yellow_circle:     | 1058 | Chris    | in progress :hammer: | 18.05.2022 |
+| :yellow_circle:     | 1059 | Chris    | in progress :hammer: | 18.05.2022 |
 | :no_entry:          | 1060 | Leonid   | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:          | 1061 | Leonid   | Passed :heavy_check_mark: | 18.05.2022 |
 | :yellow_circle:     | 1062 | Vyacheslav| in progress :hammer: | 17.05.2022 |
@@ -901,7 +901,7 @@
 | :yellow_circle:     | 1066 | Vyacheslav| in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 1067 | Leonid | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1068 | Leonid | in progress :hammer: | 18.05.2022 |
-| :large_blue_circle: | 1069 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1069 | Chris  | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1070 | Ervings  | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1071 | Birol    | in progress :hammer: | 12.05.2022 |
 | :yellow_circle:     | 1072 | K-Fed    | in progress :hammer: | 16.05.2022 |
@@ -910,15 +910,15 @@
 | :yellow_circle:     | 1075 | K-Fed    | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 1076 | K-Fed    | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 1077 | K-Fed    | in progress :hammer: | 16.05.2022 |
-| :large_blue_circle: | 1078 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 1079 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1078 | Chris    | in progress :hammer: | 18.05.2022 |
+| :yellow_circle:     | 1079 | Chris    | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1080 | Sam      | in progress :hammer: | 13.05.2022 |
 | :yellow_circle:     | 1081 | Sam      | in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 1082 | Sam      | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1083 | Sam      | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1084 | Sam      | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1085 | Sam      | in progress :hammer: | 18.05.2022 |
-| :large_blue_circle: | 1086 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1086 | Chris    | in progress :hammer: | 18.05.2022 |
 | :large_blue_circle: | 1087 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1088 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1089 | priority | FREE | 00.00.2022 |

@@ -871,13 +871,13 @@
 | :yellow_circle:| 1036 | K-Fed     | in progress :hammer: | 12.05.2022 |
 | :yellow_circle:| 1037 | GR Sasa   | in progress :hammer: | 14.05.2022 |
 | :yellow_circle:| 1038 | K-Fed     | in progress :hammer: | 14.05.2022 |
-| :yellow_circle:| 1039 | 047       |  in progress :hammer:| 14.05.2022 |
-| :yellow_circle:| 1040 | 047       |  in progress :hammer:| 14.05.2022 |
-| :yellow_circle:| 1041 | 047       |  in progress :hammer:| 14.05.2022 |
-| :yellow_circle:| 1042 | 047       |  in progress :hammer:| 14.05.2022 |
-| :yellow_circle:| 1043 | 047       |  in progress :hammer:| 14.05.2022 |
-| :yellow_circle:| 1044 | Chris     | in progress :hammer: | 15.05.2022 |
-| :yellow_circle:| 1045 | Chris     | in progress :hammer: | 15.05.2022 |
+| :yellow_circle:| 1039 | 047       | in progress :hammer: | 14.05.2022 |
+| :yellow_circle:| 1040 | 047       | in progress :hammer: | 14.05.2022 |
+| :yellow_circle:| 1041 | 047       | in progress :hammer: | 14.05.2022 |
+| :yellow_circle:| 1042 | 047       | in progress :hammer: | 14.05.2022 |
+| :yellow_circle:| 1043 | 047       | in progress :hammer: | 14.05.2022 |
+| :no_entry:     | 1044 | Chris     | Passed :heavy_check_mark: | 18.05.2022 |
+| :no_entry:     | 1045 | Chris     | Passed :heavy_check_mark: | 18.05.2022 |
 | :yellow_circle:| 1046 | Chris     | in progress :hammer: | 15.05.2022 |
 | :yellow_circle:| 1047 | Chris     | in progress :hammer: | 15.05.2022 |
 | :yellow_circle:     | 1048 | Илья     | in progress :hammer: | 14.05.2022 |

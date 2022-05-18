@@ -1035,8 +1035,8 @@
 | :no_entry:          | 1889  | Leonid      |  Passed :heavy_check_mark: |  15.05.2022  |
 | :no_entry:          | 1890  | Leonid      |  Passed :heavy_check_mark: |  15.05.2022  |
 | :no_entry:          | 1891  | cpto_node   |  Passed :heavy_check_mark: |  17.05.2022  |
-| :yellow_circle:     | 1892  | cpto_node   |  in progress :hammer: |  11.05.2022  |
-| :yellow_circle:     | 1893  | cpto_node   |  in progress :hammer: |  11.05.2022  |
+| :no_entry:          | 1892  | cpto_node   |  Passed :heavy_check_mark: |  17.05.2022  |
+| :no_entry:          | 1893  | cpto_node   |  Passed :heavy_check_mark: |  17.05.2022  |
 | :no_entry:          | 1894  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:          | 1895  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |
 | :no_entry:          | 1896  | com bio      |  Passed :heavy_check_mark:  |  03.05.2022  |

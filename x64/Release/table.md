@@ -1065,7 +1065,7 @@
 | :no_entry:          | 2227 | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:          | 2228 | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:          | 2229 | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
-| :yellow_circle:     | 2250 | Mars42   |  in progress :hammer: | 13.05.2022  |
+| :no_entry:          | 2250 | Mars42   |  Passed :heavy_check_mark: | 19.05.2022  |
 | :yellow_circle:     | 2251 | Mars42   |  in progress :hammer: | 13.05.2022  |
 | :yellow_circle:     | 2252 | Mars42   |  in progress :hammer: | 13.05.2022  |
 | :yellow_circle:     | 2253 | Mars42   |  in progress :hammer: | 13.05.2022  |
@@ -1073,7 +1073,7 @@
 | :yellow_circle:     | 2255 | Mars42   | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 2256 | Mars42   | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 2257 | Mars42   | in progress :hammer: | 16.05.2022 |
-| :large_blue_circle: | 2258 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2258 | Mars42   | in progress :hammer: | 19.05.2022 |
 | :large_blue_circle: | 2259 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 2260 | Sam      | Passed :heavy_check_mark: | 16.05.2022  |
 | :yellow_circle:     | 2261 | Sam      | in progress :hammer: | 13.05.2022  |
@@ -1084,7 +1084,7 @@
 | :large_blue_circle: | 2266 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 2267 | Oleg_R   | Passed :heavy_check_mark:  |  16.05.2022  |
 | :large_blue_circle: | 2268 | priority | FREE | 00.00.2022 |
-| :yellow_circle:     | 2269 | Oleg_R   | in progress :hammer: | 16.05.2022 |
+| :no_entry:          | 2269 | Oleg_R   | Passed :heavy_check_mark: | 19.05.2022 |
 | :yellow_circle:     | 2270 | Andrzej  | in progress :hammer: | 15.05.2022 |
 | :large_blue_circle: | 2271 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2272 | priority | FREE | 00.00.2022 |
@@ -1241,7 +1241,7 @@
 | :no_entry:          | 2591 | Andrii   | Passed :heavy_check_mark: | 18.05.2022 |
 | :yellow_circle:     | 2592 | Andrii   | in progress :hammer: | 18.05.2022 |
 | :large_blue_circle: | 2593 | priority | FREE | 00.00.2022 |
-| :yellow_circle:     | 2594 | Oleg_R   | in progress :hammer: | 16.05.2022 |
+| :no_entry:          | 2594 | Oleg_R   | Passed :heavy_check_mark: | 19.05.2022 |
 | :yellow_circle:     | 2595 | V        | in progress :hammer: | 19.05.2022 |
 | :yellow_circle:     | 2596 | V        | in progress :hammer: | 19.05.2022 |
 | :yellow_circle:     | 2597 | V        | in progress :hammer: | 19.05.2022 |

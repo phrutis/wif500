@@ -668,7 +668,7 @@
 | :green_circle: | 663     | FREE      |  FREE  |  00.00.2022 |
 | :green_circle: | 664     | FREE      |  FREE  |  00.00.2022 |
 | :green_circle: | 665     | FREE      |  FREE  |  00.00.2022 |
-| :green_circle: | 666     | FREE      |  FREE  |  00.00.2022 |
+| :yellow_circle:| 666     | KIKI      |  in progress :hammer:  |  19.05.2022 |
 | :green_circle: | 667     | FREE      |  FREE  |  00.00.2022 |
 | :green_circle: | 668     | FREE      |  FREE  |  00.00.2022 |
 | :green_circle: | 669     | FREE      |  FREE  |  00.00.2022 |

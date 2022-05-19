@@ -617,7 +617,7 @@
 | :green_circle: | 612     | FREE      |  FREE  |  00.00.2022 |
 | :green_circle: | 613     | FREE      |  FREE  |  00.00.2022 |
 | :green_circle: | 614     | FREE      |  FREE  |  00.00.2022 |
-| :yellow_circle:| 615     | V         |  in progress :hammer:  |  11.05.2022 |
+| :green_circle: | 615     | FREE      |  FREE  |  00.00.2022 |
 | :green_circle: | 616     | FREE      |  FREE  |  00.00.2022 |
 | :green_circle: | 617     | FREE      |  FREE  |  00.00.2022 |
 | :green_circle: | 618     | FREE      |  FREE  |  00.00.2022 |
@@ -1242,9 +1242,9 @@
 | :yellow_circle:     | 2592 | Andrii   | in progress :hammer: | 18.05.2022 |
 | :large_blue_circle: | 2593 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 2594 | Oleg_R   | in progress :hammer: | 16.05.2022 |
-| :large_blue_circle: | 2595 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2596 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2597 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2595 | V        | in progress :hammer: | 19.05.2022 |
+| :yellow_circle:     | 2596 | V        | in progress :hammer: | 19.05.2022 |
+| :yellow_circle:     | 2597 | V        | in progress :hammer: | 19.05.2022 |
 | :no_entry:          | 2648 | Oleg_R    |  Passed :heavy_check_mark:  |  04.05.2022  |
 | :no_entry:          | 2661 | Oleg_R    |  Passed :heavy_check_mark:  |  04.05.2022  |
 | :no_entry:          | 2662 | Oleg_R    |  Passed :heavy_check_mark:  |  11.05.2022  |
@@ -1333,8 +1333,8 @@
 | :large_blue_circle: | 2894 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2895 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2896 | priority | FREE | 00.00.2022 |
-| :yellow_circle:     | 2897 | V             | in progress :hammer: | 12.05.2022 |
-| :yellow_circle:     | 2898 | V             | in progress :hammer: | 12.05.2022 |
+| :large_blue_circle: | 2897 | FREE     | FREE | 00.00.2022 |
+| :large_blue_circle: | 2898 | FREE     | FREE | 00.00.2022 |
 | :large_blue_circle: | 2899 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 2900 | cpto_node| in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2901 | cpto_node| in progress :hammer: | 17.05.2022 |

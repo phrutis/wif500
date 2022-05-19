@@ -867,8 +867,8 @@
 | :no_entry:     | 1032 | K-Fed     | Passed :heavy_check_mark: | 19.05.2022 |
 | :no_entry:     | 1033 | K-Fed     | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:     | 1034 | K-Fed     | Passed :heavy_check_mark: | 19.05.2022 |
-| :yellow_circle:| 1035 | K-Fed     | in progress :hammer: | 12.05.2022 |
-| :yellow_circle:| 1036 | K-Fed     | in progress :hammer: | 12.05.2022 |
+| :no_entry:     | 1035 | K-Fed     | Passed :heavy_check_mark: | 19.05.2022 |
+| :no_entry:     | 1036 | K-Fed     | Passed :heavy_check_mark: | 19.05.2022 |
 | :yellow_circle:| 1037 | GR Sasa   | in progress :hammer: | 14.05.2022 |
 | :yellow_circle:| 1038 | K-Fed     | in progress :hammer: | 14.05.2022 |
 | :no_entry:     | 1039 | 047       | Passed :heavy_check_mark: | 18.05.2022 |
@@ -1232,8 +1232,8 @@
 | :yellow_circle:     | 2582 | K-Fed    | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 2583 | K-Fed    | in progress :hammer: | 19.05.2022 |
 | :yellow_circle:     | 2584 | K-Fed    | in progress :hammer: | 19.05.2022 |
-| :large_blue_circle: | 2585 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2586 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2585 | K-Fed    | in progress :hammer: | 19.05.2022 |
+| :yellow_circle:     | 2586 | K-Fed    | in progress :hammer: | 19.05.2022 |
 | :large_blue_circle: | 2587 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2588 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2589 | priority | FREE | 00.00.2022 |

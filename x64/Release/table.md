@@ -20,7 +20,7 @@
 | :no_entry:     | 8       | 047       |  Passed :heavy_check_mark: |  24.04.2022  |
 | :no_entry:     | 9       | 047       |  Passed :heavy_check_mark: |  24.04.2022  |
 | :no_entry:     | 10      | K-Fed     |  Passed :heavy_check_mark: |  10.05.2022  |
-| :yellow_circle:| 11      | Kuw       |  in progress :hammer:  |  08.05.2022  |
+| :no_entry:     | 11      | Kuw       |  Passed :heavy_check_mark: |  19.05.2022  |
 | :yellow_circle:| 12      | Kuw       |  in progress :hammer:  |  08.05.2022  |
 | :yellow_circle:| 13      | Kuw       |  in progress :hammer:  |  08.05.2022  |
 | :no_entry:     | 14      | 047       |  Passed :heavy_check_mark: |  27.04.2022  |
@@ -939,7 +939,7 @@
 | :green_circle: | 1504    | FREE      |  FREE  |  00.00.2022  |
 | :no_entry:     | 1600    | Haymac    |  Passed :heavy_check_mark: |  26.04.2022  |
 | :no_entry:     | 1601    | Haymac    |  Passed :heavy_check_mark: |  30.04.2022  |
-| :yellow_circle:| 1602    | Haymac    |  in progress :hammer:  |  30.04.2022  |
+| :yellow_circle:| 1602    | Haymac    |  in progress :hammer:     |  19.05.2022  |
 | :no_entry:     | 1627  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
 | :no_entry:     | 1628  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
 | :no_entry:     | 1629  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
@@ -1074,7 +1074,7 @@
 | :yellow_circle:     | 2256 | Mars42   | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 2257 | Mars42   | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 2258 | Mars42   | in progress :hammer: | 19.05.2022 |
-| :large_blue_circle: | 2259 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2259 | Mars42   | in progress :hammer: | 19.05.2022 |
 | :no_entry:          | 2260 | Sam      | Passed :heavy_check_mark: | 16.05.2022  |
 | :yellow_circle:     | 2261 | Sam      | in progress :hammer: | 13.05.2022  |
 | :large_blue_circle: | 2262 | priority | FREE | 00.00.2022 |

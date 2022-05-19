@@ -1117,7 +1117,7 @@
 | :large_blue_circle: | 2299 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2300 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2301 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2302 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2302 | Evgeniy  | in progress :hammer: | 19.05.2022 |
 | :large_blue_circle: | 2303 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2304 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2305 | priority | FREE | 00.00.2022 |

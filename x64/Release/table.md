@@ -864,9 +864,9 @@
 | :no_entry:     | 897  | Almera    |  Passed :heavy_check_mark: |  01.05.2022  |
 | :no_entry:     | 898  | Almera    |  Passed :heavy_check_mark: |  01.05.2022  |
 | :no_entry:     | 899  | Almera    |  Passed :heavy_check_mark: |  01.05.2022  |
-| :yellow_circle:| 1032 | K-Fed     | in progress :hammer: | 11.05.2022 |
+| :no_entry:     | 1032 | K-Fed     | Passed :heavy_check_mark: | 19.05.2022 |
 | :no_entry:     | 1033 | K-Fed     | Passed :heavy_check_mark: | 18.05.2022 |
-| :yellow_circle:| 1034 | K-Fed     | in progress :hammer: | 12.05.2022 |
+| :no_entry:     | 1034 | K-Fed     | Passed :heavy_check_mark: | 19.05.2022 |
 | :yellow_circle:| 1035 | K-Fed     | in progress :hammer: | 12.05.2022 |
 | :yellow_circle:| 1036 | K-Fed     | in progress :hammer: | 12.05.2022 |
 | :yellow_circle:| 1037 | GR Sasa   | in progress :hammer: | 14.05.2022 |
@@ -879,8 +879,8 @@
 | :no_entry:     | 1044 | Chris     | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:     | 1045 | Chris     | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:     | 1046 | Chris     | Passed :heavy_check_mark: | 18.05.2022 |
-| :yellow_circle:| 1047 | Chris     | in progress :hammer: | 15.05.2022 |
-| :yellow_circle:     | 1048 | Илья     | in progress :hammer: | 14.05.2022 |
+| :no_entry:     | 1047 | Chris     | Passed :heavy_check_mark: | 19.05.2022 |
+| :no_entry:     | 1048 | Илья      | Passed :heavy_check_mark: | 19.05.2022 |
 | :yellow_circle:     | 1049 | Noname   | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 1050 | Kuw      | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 1051 | Kuw      | in progress :hammer: | 16.05.2022 |
@@ -919,7 +919,7 @@
 | :yellow_circle:     | 1084 | Sam      | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1085 | Sam      | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1086 | Chris    | in progress :hammer: | 18.05.2022 |
-| :large_blue_circle: | 1087 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1087 | Илья     | in progress :hammer: | 19.05.2022 |
 | :large_blue_circle: | 1088 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 1089 | priority | FREE | 00.00.2022 |
 | :no_entry:     | 1103    | Teddy     |  Passed :heavy_check_mark:  |  30.04.2022  |
@@ -1230,8 +1230,8 @@
 | :yellow_circle:     | 2580 | K-Fed    | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 2581 | K-Fed    | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 2582 | K-Fed    | in progress :hammer: | 18.05.2022 |
-| :large_blue_circle: | 2583 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2584 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2583 | K-Fed    | in progress :hammer: | 19.05.2022 |
+| :yellow_circle:     | 2584 | K-Fed    | in progress :hammer: | 19.05.2022 |
 | :large_blue_circle: | 2585 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2586 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2587 | priority | FREE | 00.00.2022 |
@@ -1249,7 +1249,7 @@
 | :no_entry:          | 2661 | Oleg_R    |  Passed :heavy_check_mark:  |  04.05.2022  |
 | :no_entry:          | 2662 | Oleg_R    |  Passed :heavy_check_mark:  |  11.05.2022  |
 | :no_entry:          | 2666 | Oleg_R    |  Passed :heavy_check_mark:  |  12.05.2022  |
-| :yellow_circle:     | 2667 | Oleg_R    |  in progress :hammer:  |  12.05.2022  |
+| :no_entry:          | 2667 | Oleg_R    |  Passed :heavy_check_mark:  |  19.05.2022  |
 | :no_entry:          | 2675 | Oleg_R    |  Passed :heavy_check_mark:  |  10.05.2022  |
 | :no_entry:          | 2687 | Oleg_R    |  Passed :heavy_check_mark:  |  11.05.2022  |
 | :no_entry:          | 2693 | Oleg_R    |  Passed :heavy_check_mark:  |  12.05.2022  |
@@ -1326,10 +1326,10 @@
 | :no_entry:          | 2885  | Crypto GPU   |  Passed :heavy_check_mark:  |  15.05.2022  |
 | :yellow_circle:     | 2888 | com bio       |  in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2889 | Supere   | in progress :hammer: | 18.05.2022 |
-| :large_blue_circle: | 2890 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2891 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2892 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2893 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2890 | Supere   | in progress :hammer: | 19.05.2022 |
+| :yellow_circle:     | 2891 | Supere   | in progress :hammer: | 19.05.2022 |
+| :yellow_circle:     | 2892 | Supere   | in progress :hammer: | 19.05.2022 |
+| :yellow_circle:     | 2893 | Supere   | in progress :hammer: | 19.05.2022 |
 | :large_blue_circle: | 2894 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2895 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2896 | priority | FREE | 00.00.2022 |

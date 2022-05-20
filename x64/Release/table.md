@@ -1076,7 +1076,7 @@
 | :yellow_circle:     | 2258 | Mars42   | in progress :hammer: | 19.05.2022 |
 | :yellow_circle:     | 2259 | Mars42   | in progress :hammer: | 19.05.2022 |
 | :no_entry:          | 2260 | Sam      | Passed :heavy_check_mark: | 16.05.2022  |
-| :yellow_circle:     | 2261 | Sam      | in progress :hammer: | 13.05.2022  |
+| :no_entry:          | 2261 | Sam      | Passed :heavy_check_mark: | 20.05.2022  |
 | :yellow_circle:     | 2262 | Mars42   | in progress :hammer: | 20.05.2022 |
 | :yellow_circle:     | 2263 | Mars42   | in progress :hammer: | 20.05.2022 |
 | :yellow_circle:     | 2264 | Demon    | in progress :hammer: | 17.05.2022 |

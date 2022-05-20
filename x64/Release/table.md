@@ -920,7 +920,7 @@
 | :yellow_circle:     | 1085 | Sam      | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1086 | Chris    | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1087 | Илья     | in progress :hammer: | 19.05.2022 |
-| :large_blue_circle: | 1088 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 1088 | Sam      | in progress :hammer: | 20.05.2022 |
 | :large_blue_circle: | 1089 | priority | FREE | 00.00.2022 |
 | :no_entry:     | 1103    | Teddy     |  Passed :heavy_check_mark:  |  30.04.2022  |
 | :no_entry:     | 1111    | Kuw       |  Passed                |  22.04.2022  |

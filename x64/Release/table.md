@@ -1065,11 +1065,11 @@
 | :no_entry:          | 2227 | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:          | 2228 | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
 | :no_entry:          | 2229 | DworfD    |  Passed :heavy_check_mark:  |  29.04.2022  |
-| :no_entry:          | 2250 | Mars42   |  Passed :heavy_check_mark: | 19.05.2022  |
-| :yellow_circle:     | 2251 | Mars42   |  in progress :hammer: | 13.05.2022  |
-| :yellow_circle:     | 2252 | Mars42   |  in progress :hammer: | 13.05.2022  |
-| :yellow_circle:     | 2253 | Mars42   |  in progress :hammer: | 13.05.2022  |
-| :yellow_circle:     | 2254 | Mars42   |  in progress :hammer: | 13.05.2022  |
+| :no_entry:          | 2250 | Mars42   | Passed :heavy_check_mark: | 19.05.2022  |
+| :yellow_circle:     | 2251 | Mars42   | in progress :hammer: | 13.05.2022  |
+| :no_entry:          | 2252 | Mars42   | Passed :heavy_check_mark: | 20.05.2022  |
+| :no_entry:          | 2253 | Mars42   | Passed :heavy_check_mark: | 20.05.2022  |
+| :yellow_circle:     | 2254 | Mars42   | in progress :hammer: | 13.05.2022  |
 | :yellow_circle:     | 2255 | Mars42   | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 2256 | Mars42   | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 2257 | Mars42   | in progress :hammer: | 16.05.2022 |
@@ -1077,8 +1077,8 @@
 | :yellow_circle:     | 2259 | Mars42   | in progress :hammer: | 19.05.2022 |
 | :no_entry:          | 2260 | Sam      | Passed :heavy_check_mark: | 16.05.2022  |
 | :yellow_circle:     | 2261 | Sam      | in progress :hammer: | 13.05.2022  |
-| :large_blue_circle: | 2262 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2263 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2262 | Mars42   | in progress :hammer: | 20.05.2022 |
+| :yellow_circle:     | 2263 | Mars42   | in progress :hammer: | 20.05.2022 |
 | :yellow_circle:     | 2264 | Demon    | in progress :hammer: | 17.05.2022 |
 | :large_blue_circle: | 2265 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2266 | priority | FREE | 00.00.2022 |

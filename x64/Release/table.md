@@ -1086,9 +1086,9 @@
 | :large_blue_circle: | 2268 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 2269 | Oleg_R   | Passed :heavy_check_mark: | 19.05.2022 |
 | :yellow_circle:     | 2270 | Andrzej  | in progress :hammer: | 15.05.2022 |
-| :large_blue_circle: | 2271 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2272 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2273 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2271 | Sam      | in progress :hammer: | 20.05.2022 |
+| :yellow_circle:     | 2272 | Sam      | in progress :hammer: | 20.05.2022 |
+| :yellow_circle:     | 2273 | Sam      | in progress :hammer: | 20.05.2022 |
 | :large_blue_circle: | 2274 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2275 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2276 | priority | FREE | 00.00.2022 |

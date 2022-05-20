@@ -19,10 +19,10 @@ pie title Total ranges 3364
             "  " : 0
            "   " : 0
           "    " : 0
-  "- Passed 652" : 652
+  "- Passed 662" : 662
          "     " : 0
-  "- In progress 258" : 258
-   "- FREE 2298" : 2298
+  "- In progress 268" : 268
+   "- FREE 2278" : 2278
         "      " : 0
   "- FREE (Priority Ranges) 156" : 156
 ```

@@ -913,7 +913,7 @@
 | :yellow_circle:     | 1078 | Chris    | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1079 | Chris    | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1080 | Sam      | in progress :hammer: | 13.05.2022 |
-| :yellow_circle:     | 1081 | Sam      | in progress :hammer: | 17.05.2022 |
+| :no_entry:          | 1081 | Sam      | Passed :heavy_check_mark: | 20.05.2022 |
 | :yellow_circle:     | 1082 | Sam      | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1083 | Sam      | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 1084 | Sam      | in progress :hammer: | 18.05.2022 |
@@ -1432,8 +1432,8 @@
 | :no_entry:          | 3048  | Chris        |  Passed :heavy_check_mark: |  15.05.2022  |
 | :no_entry:          | 3049  | cpto_node    |  Passed :heavy_check_mark: |  04.04.2022  |
 | :no_entry:          | 3050  | Alexsandr    |  Passed :heavy_check_mark: |  11.05.2022  |
-| :yellow_circle:     | 3051  | Alexsandr    |  in progress :hammer:  |  06.05.2022  |
-| :yellow_circle:     | 3052  | Alexsandr    |  in progress :hammer:  |  06.05.2022  |
+| :no_entry:          | 3051  | Alexsandr    |  Passed :heavy_check_mark: |  20.05.2022  |
+| :yellow_circle:     | 3052  | Alexsandr    |  in progress :hammer:  |  20.05.2022  |
 | :no_entry:          | 3053  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |
 | :no_entry:          | 3054  | com bio      |  Passed :heavy_check_mark: |  15.05.2022  |
 | :no_entry:          | 3055  | Fantom       |  Passed :heavy_check_mark: |  04.05.2022  |

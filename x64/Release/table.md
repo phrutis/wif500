@@ -1455,9 +1455,9 @@
 | :yellow_circle:     | 3128 | cpto_node| in progress :hammer: | 12.05.2022 |
 | :yellow_circle:     | 3129 | cpto_node| in progress :hammer: | 12.05.2022 |
 | :no_entry:          | 3130 | cpto_node| Passed :heavy_check_mark: | 16.05.2022 |
-| :large_blue_circle: | 3131 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 3132 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 3133 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 3131 | Alexsandr| in progress :hammer: | 20.05.2022 |
+| :yellow_circle:     | 3132 | Alexsandr| in progress :hammer: | 20.05.2022 |
+| :yellow_circle:     | 3133 | Alexsandr| in progress :hammer: | 20.05.2022 |
 | :yellow_circle:     | 3134 | ola lala | in progress :hammer: | 15.05.2022 |
 | :large_blue_circle: | 3135 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3136 | priority | FREE | 00.00.2022 |

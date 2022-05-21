@@ -312,9 +312,9 @@
 | :green_circle: | 307 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 308 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 309 | FREE  | FREE | 00.00.2022 |
-| :yellow_circle:| 310 | Oleg D| in progress :hammer: | 16.05.2022 |
-| :yellow_circle:| 311 | Oleg D| in progress :hammer: | 16.05.2022 |
-| :yellow_circle:| 312 | Oleg D| in progress :hammer: | 16.05.2022 |
+| :no_entry:     | 310 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |
+| :no_entry:     | 311 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |
+| :no_entry:     | 312 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |
 | :green_circle: | 313 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 314 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 315 | FREE  | FREE | 00.00.2022 |
@@ -361,7 +361,7 @@
 | :green_circle: | 356 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 357 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 358 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 359 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 359 | Илья 95  | in progress :hammer: | 21.05.2022 |
 | :green_circle: | 360 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 361 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 362 | FREE  | FREE | 00.00.2022 |
@@ -1215,11 +1215,11 @@
 | :large_blue_circle: | 2565 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2566 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2567 | priority | FREE | 00.00.2022 |
-| :yellow_circle:     | 2568 | Илья 95  | in progress :hammer: | 16.05.2022 |
+| :no_entry:          | 2568 | Илья 95  | Passed :heavy_check_mark: | 21.05.2022 |
 | :large_blue_circle: | 2569 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2570 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2571 | priority | FREE | 00.00.2022 |
-| :yellow_circle:     | 2572 | Илья 95  | in progress :hammer: | 16.05.2022 |
+| :no_entry:          | 2572 | Илья 95  | Passed :heavy_check_mark: | 21.05.2022 |
 | :yellow_circle:     | 2573 | 047      | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 2574 | 047      | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 2575 | 047      | in progress :hammer: | 18.05.2022 |
@@ -1261,9 +1261,9 @@
 | :yellow_circle:     | 2668 | Sam      | in progress :hammer: | 21.05.2022 |
 | :yellow_circle:     | 2669 | Sam      | in progress :hammer: | 21.05.2022 |
 | :yellow_circle:     | 2670 | Sam      | in progress :hammer: | 21.05.2022 |
-| :large_blue_circle: | 2671 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2671 | Sam      | in progress :hammer: | 21.05.2022 |
 | :large_blue_circle: | 2672 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2673 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2673 | Илья 95  | in progress :hammer: | 16.05.2022 |
 | :large_blue_circle: | 2674 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 2675 | Oleg_R   | Passed :heavy_check_mark: | 10.05.2022 |
 | :large_blue_circle: | 2676 | priority | FREE | 00.00.2022 |
@@ -1539,9 +1539,9 @@
 | :yellow_circle:     | 3172 | Supere   | in progress :hammer: | 21.05.2022 |
 | :yellow_circle:     | 3173 | Supere   | in progress :hammer: | 21.05.2022 |
 | :yellow_circle:     | 3174 | Supere   | in progress :hammer: | 21.05.2022 |
-| :large_blue_circle: | 3175 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 3176 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 3177 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 3175 | Oleg D   | in progress :hammer: | 21.05.2022 |
+| :yellow_circle:     | 3176 | Oleg D   | in progress :hammer: | 21.05.2022 |
+| :yellow_circle:     | 3177 | Oleg D   | in progress :hammer: | 21.05.2022 |
 | :no_entry:          | 3228 | Oleg_R   | Passed :heavy_check_mark: | 03.05.2022 |
 | :no_entry:          | 3241 | Oleg_R   | Passed :heavy_check_mark: | 02.05.2022 |
 | :no_entry:          | 3262 | Noname   | Passed :heavy_check_mark: | 02.05.2022 |

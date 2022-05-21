@@ -916,8 +916,8 @@
 | :no_entry:     | 1081 | Sam    | Passed :heavy_check_mark: | 20.05.2022 |
 | :yellow_circle:| 1082 | Sam    | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:| 1083 | Sam    | in progress :hammer: | 18.05.2022 |
-| :yellow_circle:| 1084 | Sam    | in progress :hammer: | 18.05.2022 |
-| :yellow_circle:| 1085 | Sam    | in progress :hammer: | 18.05.2022 |
+| :no_entry:     | 1084 | Sam    | Passed :heavy_check_mark: | 21.05.2022 |
+| :no_entry:     | 1085 | Sam    | Passed :heavy_check_mark: | 21.05.2022 |
 | :yellow_circle:| 1086 | Chris  | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:| 1087 | Илья   | in progress :hammer: | 19.05.2022 |
 | :yellow_circle:| 1088 | Sam    | in progress :hammer: | 20.05.2022 |
@@ -1187,8 +1187,8 @@
 | :no_entry:          | 2479 | DworfD   | Passed :heavy_check_mark: | 04.05.2022 |
 | :no_entry:          | 2480 | DworfD   | Passed :heavy_check_mark: | 04.05.2022 |
 | :no_entry:          | 2481 | DworfD   | Passed :heavy_check_mark: | 04.05.2022 |
-| :large_blue_circle: | 2540 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2541 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2540 | Sam      | in progress :hammer: | 21.05.2022 |
+| :yellow_circle:     | 2541 | Sam      | in progress :hammer: | 21.05.2022 |
 | :large_blue_circle: | 2542 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2543 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2544 | priority | FREE | 00.00.2022 |
@@ -1364,7 +1364,7 @@
 | :no_entry:          | 2771 | Chris     | Passed :heavy_check_mark: | 12.05.2022 |
 | :no_entry:          | 2865 | Crypto GPU| Passed :heavy_check_mark: | 20.05.2022 |
 | :no_entry:          | 2885 | Crypto GPU| Passed :heavy_check_mark: | 15.05.2022 |
-| :yellow_circle:     | 2888 | com bio   | in progress :hammer: | 17.05.2022 |
+| :yellow_circle:     | 2888 | com bio  | in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2889 | Supere   | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 2890 | Supere   | in progress :hammer: | 19.05.2022 |
 | :yellow_circle:     | 2891 | Supere   | in progress :hammer: | 19.05.2022 |

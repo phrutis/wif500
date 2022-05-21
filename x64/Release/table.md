@@ -1023,7 +1023,7 @@
 | :yellow_circle:| 1877 | Kuw       | in progress :hammer:  | 08.05.2022 |
 | :no_entry:     | 1878 | K-Fed     | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:     | 1879 | K-Fed     | Passed :heavy_check_mark: | 18.05.2022 |
-| :yellow_circle:| 1880 | KillBill_2| in progress :hammer: | 07.05.2022 |
+| :large_blue_circle: | 1880 | FREE | FREE | 00.00.2022 |
 | :no_entry:     | 1881 | Chris     | Passed :heavy_check_mark: | 14.05.2022 |
 | :no_entry:     | 1882 | Chris     | Passed :heavy_check_mark: | 14.05.2022 |
 | :no_entry:     | 1883 | Chris     | Passed :heavy_check_mark: | 14.05.2022 |

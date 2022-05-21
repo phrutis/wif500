@@ -914,8 +914,8 @@
 | :yellow_circle:| 1079 | Chris  | in progress :hammer: | 18.05.2022 |
 | :no_entry:     | 1080 | Sam    | Passed :heavy_check_mark: | 21.05.2022 |
 | :no_entry:     | 1081 | Sam    | Passed :heavy_check_mark: | 20.05.2022 |
-| :yellow_circle:| 1082 | Sam    | in progress :hammer: | 18.05.2022 |
-| :yellow_circle:| 1083 | Sam    | in progress :hammer: | 18.05.2022 |
+| :no_entry:     | 1082 | Sam    | Passed :heavy_check_mark: | 21.05.2022 |
+| :no_entry:     | 1083 | Sam    | Passed :heavy_check_mark: | 21.05.2022 |
 | :no_entry:     | 1084 | Sam    | Passed :heavy_check_mark: | 21.05.2022 |
 | :no_entry:     | 1085 | Sam    | Passed :heavy_check_mark: | 21.05.2022 |
 | :yellow_circle:| 1086 | Chris  | in progress :hammer: | 18.05.2022 |
@@ -1258,9 +1258,9 @@
 | :large_blue_circle: | 2665 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 2666 | Oleg_R   | Passed :heavy_check_mark: | 12.05.2022 |
 | :no_entry:          | 2667 | Oleg_R   | Passed :heavy_check_mark: | 19.05.2022 |
-| :large_blue_circle: | 2668 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2669 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2670 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2668 | Sam      | in progress :hammer: | 21.05.2022 |
+| :yellow_circle:     | 2669 | Sam      | in progress :hammer: | 21.05.2022 |
+| :yellow_circle:     | 2670 | Sam      | in progress :hammer: | 21.05.2022 |
 | :large_blue_circle: | 2671 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2672 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2673 | priority | FREE | 00.00.2022 |
@@ -1283,7 +1283,7 @@
 | :large_blue_circle: | 2690 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2691 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2692 | priority | FREE | 00.00.2022 |
-| :no_entry:          | 2693 | Oleg_R   |  Passed :heavy_check_mark: | 12.05.2022 |
+| :no_entry:          | 2693 | Oleg_R   | Passed :heavy_check_mark: | 12.05.2022 |
 | :large_blue_circle: | 2694 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2695 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2696 | priority | FREE | 00.00.2022 |

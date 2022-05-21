@@ -1208,7 +1208,7 @@
 | :no_entry:          | 2558 | com bio  | Passed :heavy_check_mark: | 20.05.2022 |
 | :no_entry:          | 2559 | Oleg_R   | Passed :heavy_check_mark: | 16.05.2022 |
 | :yellow_circle:     | 2560 | Oleg_R   | in progress :hammer: | 18.05.2022 |
-| :yellow_circle:     | 2561 | aiyulu   | in progress :hammer: | 12.05.2022 |
+| :no_entry:          | 2561 | aiyulu   | Passed :heavy_check_mark: | 21.05.2022 |
 | :large_blue_circle: | 2562 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2563 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2564 | priority | FREE | 00.00.2022 |
@@ -1304,8 +1304,8 @@
 | :large_blue_circle: | 2711 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2712 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2713 | priority | FREE | 00.00.2022 |
-| :yellow_circle:     | 2714 | lan      | in progress :hammer: | 05.05.2022 |
-| :yellow_circle:     | 2715 | lan      | in progress :hammer: | 05.05.2022 |
+| :large_blue_circle: | 2714 | FREE      | FREE | 00.00.2022 |
+| :large_blue_circle: | 2715 | FREE      | FREE | 00.00.2022 |
 | :no_entry:          | 2716 | Chris     | Passed :heavy_check_mark: | 11.05.2022 |
 | :no_entry:          | 2717 | Chris     | Passed :heavy_check_mark: | 11.05.2022 |
 | :no_entry:          | 2718 | Chris     | Passed :heavy_check_mark: | 11.05.2022 |

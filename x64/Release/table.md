@@ -1498,7 +1498,7 @@
 | :yellow_circle:     | 3131 | Alexsandr| in progress :hammer: | 20.05.2022 |
 | :yellow_circle:     | 3132 | Alexsandr| in progress :hammer: | 20.05.2022 |
 | :yellow_circle:     | 3133 | Alexsandr| in progress :hammer: | 20.05.2022 |
-| :yellow_circle:     | 3134 | ola lala | in progress :hammer: | 15.05.2022 |
+| :no_entry:          | 3134 | ola lala | Passed :heavy_check_mark: | 21.05.2022 |
 | :large_blue_circle: | 3135 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3136 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3137 | priority | FREE | 00.00.2022 |
@@ -1553,7 +1553,7 @@
 | :no_entry:          | 3293 | Noname   | Passed :heavy_check_mark: | 02.05.2022 |
 | :no_entry:          | 3294 | L-N      | Passed :heavy_check_mark: | 09.05.2022 |
 | :no_entry:          | 3295 | L-N      | Passed :heavy_check_mark: | 08.05.2022 |
-| :green_circle:      | 3296 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:     | 3296 | ola lala | in progress :hammer: | 21.05.2022 |
 | :green_circle:      | 3297 | FREE     | FREE | 00.00.2022 |
 | :green_circle:      | 3298 | FREE     | FREE | 00.00.2022 |
 | :green_circle:      | 3299 | FREE     | FREE | 00.00.2022 |

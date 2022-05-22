@@ -1191,7 +1191,7 @@
 | :yellow_circle:     | 2541 | Sam      | in progress :hammer: | 21.05.2022 |
 | :large_blue_circle: | 2542 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 2543 | Crypto GPU| in progress :hammer: | 22.05.2022 |
-| :large_blue_circle: | 2544 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2544 | Crypto GPU| in progress :hammer: | 22.05.2022 |
 | :large_blue_circle: | 2545 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 2546 | Oleg_R   | Passed :heavy_check_mark: | 18.05.2022 |
 | :large_blue_circle: | 2547 | priority | FREE | 00.00.2022 |

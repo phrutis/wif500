@@ -1071,7 +1071,7 @@
 | :no_entry:     | 2253 | Mars42   | Passed :heavy_check_mark: | 20.05.2022  |
 | :no_entry:     | 2254 | Mars42   | Passed :heavy_check_mark: | 20.05.2022  |
 | :yellow_circle:| 2255 | Mars42   | in progress :hammer: | 16.05.2022 |
-| :yellow_circle:| 2256 | Mars42   | in progress :hammer: | 16.05.2022 |
+| :no_entry:     | 2256 | Mars42   | Passed :heavy_check_mark: | 22.05.2022 |
 | :yellow_circle:| 2257 | Mars42   | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:| 2258 | Mars42   | in progress :hammer: | 19.05.2022 |
 | :yellow_circle:| 2259 | Mars42   | in progress :hammer: | 19.05.2022 |
@@ -1083,7 +1083,7 @@
 | :yellow_circle:| 2265 | Mars42   | in progress :hammer: | 20.05.2022 |
 | :yellow_circle:| 2266 | Mars42   | in progress :hammer: | 20.05.2022 |
 | :no_entry:     | 2267 | Oleg_R   | Passed :heavy_check_mark:  |  16.05.2022  |
-| :large_blue_circle: | 2268 | priority | FREE | 00.00.2022 |
+| :yellow_circle:| 2268 | Mars42   | in progress :hammer: | 22.05.2022 |
 | :no_entry:          | 2269 | Oleg_R   | Passed :heavy_check_mark: | 19.05.2022 |
 | :yellow_circle:     | 2270 | Andrzej  | in progress :hammer: | 15.05.2022 |
 | :yellow_circle:     | 2271 | Sam      | in progress :hammer: | 20.05.2022 |
@@ -1397,11 +1397,11 @@
 | :yellow_circle:     | 2918 | cpto_node| in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2919 | cpto_node| in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2920 | cpto_node| in progress :hammer: | 17.05.2022 |
-| :large_blue_circle: | 2921 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2922 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2923 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2924 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2925 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2921 | 047      | in progress :hammer: | 22.05.2022 |
+| :yellow_circle:     | 2922 | 047      | in progress :hammer: | 22.05.2022 |
+| :yellow_circle:     | 2923 | 047      | in progress :hammer: | 22.05.2022 |
+| :yellow_circle:     | 2924 | 047      | in progress :hammer: | 22.05.2022 |
+| :yellow_circle:     | 2925 | 047      | in progress :hammer: | 22.05.2022 |
 | :large_blue_circle: | 2926 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2927 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2928 | priority | FREE | 00.00.2022 |

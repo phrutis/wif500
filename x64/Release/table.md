@@ -602,7 +602,7 @@
 | :no_entry:     | 597 | Almera   | Passed :heavy_check_mark: | 27.04.2022 |
 | :no_entry:     | 598 | Almera   | Passed :heavy_check_mark: | 27.04.2022 |
 | :no_entry:     | 599 | Almera   | Passed :heavy_check_mark: | 27.04.2022 |
-| :green_circle: | 600 | k bluesky| in progress :hammer: | 22.05.2022 |
+| :yellow_circle:| 600 | k bluesky| in progress :hammer: | 22.05.2022 |
 | :green_circle: | 601 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 602 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 603 | FREE     | FREE | 00.00.2022 |

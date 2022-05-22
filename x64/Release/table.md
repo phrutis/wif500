@@ -1267,8 +1267,8 @@
 | :yellow_circle:     | 2674 | Sam      | in progress :hammer: | 22.05.2022 |
 | :no_entry:          | 2675 | Oleg_R   | Passed :heavy_check_mark: | 10.05.2022 |
 | :yellow_circle:     | 2676 | Sam      | in progress :hammer: | 22.05.2022 |
-| :large_blue_circle: | 2677 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2678 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2677 | Sam      | in progress :hammer: | 22.05.2022 |
+| :yellow_circle:     | 2678 | Sam      | in progress :hammer: | 22.05.2022 |
 | :large_blue_circle: | 2679 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2680 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2681 | priority | FREE | 00.00.2022 |
@@ -1526,10 +1526,10 @@
 | :large_blue_circle: | 3159 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3160 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 3161 | Kripto   | Passed :heavy_check_mark: | 18.05.2022 |
-| :yellow_circle:     | 3162 | Kripto   | in progress :hammer: | 18.05.2022 |
+| :no_entry:          | 3162 | Kripto   | Passed :heavy_check_mark: | 22.05.2022 |
 | :yellow_circle:     | 3163 | Ji       | in progress :hammer: | 18.05.2022 |
 | :large_blue_circle: | 3164 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 3165 | priority | FREE | 00.00.2022 |
+| :yellow_circle:тттт | 3165 | Kripto   | in progress :hammer: | 22.05.2022 |
 | :large_blue_circle: | 3166 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 3167 | Almera   | Passed :heavy_check_mark: | 24.04.2022 |
 | :large_blue_circle: | 3168 | priority | FREE | 00.00.2022 |

@@ -1079,7 +1079,7 @@
 | :no_entry:     | 2261 | Sam      | Passed :heavy_check_mark: | 20.05.2022  |
 | :yellow_circle:| 2262 | Mars42   | in progress :hammer: | 20.05.2022 |
 | :yellow_circle:| 2263 | Mars42   | in progress :hammer: | 20.05.2022 |
-| :yellow_circle:| 2264 | Demon    | in progress :hammer: | 17.05.2022 |
+| :no_entry:     | 2264 | Demon    | Passed :heavy_check_mark: | 22.05.2022 |
 | :yellow_circle:| 2265 | Mars42   | in progress :hammer: | 20.05.2022 |
 | :yellow_circle:| 2266 | Mars42   | in progress :hammer: | 20.05.2022 |
 | :no_entry:     | 2267 | Oleg_R   | Passed :heavy_check_mark:  |  16.05.2022  |
@@ -1096,8 +1096,8 @@
 | :yellow_circle:     | 2278 | Sam      | in progress :hammer: | 21.05.2022 |
 | :yellow_circle:     | 2279 | Sam      | in progress :hammer: | 21.05.2022 |
 | :yellow_circle:     | 2280 | Sam      | in progress :hammer: | 21.05.2022 |
-| :large_blue_circle: | 2281 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2282 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2281 | Demon    | in progress :hammer: | 22.05.2022 |
+| :yellow_circle:     | 2282 | Demon    | in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 2283 | make kang| in progress :hammer: | 15.05.2022 |
 | :large_blue_circle: | 2284 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2285 | priority | FREE | 00.00.2022 |
@@ -1220,11 +1220,11 @@
 | :large_blue_circle: | 2570 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2571 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 2572 | Илья 95  | Passed :heavy_check_mark: | 21.05.2022 |
-| :yellow_circle:     | 2573 | 047      | in progress :hammer: | 18.05.2022 |
-| :yellow_circle:     | 2574 | 047      | in progress :hammer: | 18.05.2022 |
-| :yellow_circle:     | 2575 | 047      | in progress :hammer: | 18.05.2022 |
-| :yellow_circle:     | 2576 | 047      | in progress :hammer: | 18.05.2022 |
-| :yellow_circle:     | 2577 | 047      | in progress :hammer: | 18.05.2022 |
+| :no_entry:          | 2573 | 047      | Passed :heavy_check_mark: | 22.05.2022 |
+| :no_entry:          | 2574 | 047      | Passed :heavy_check_mark: | 22.05.2022 |
+| :no_entry:          | 2575 | 047      | Passed :heavy_check_mark: | 22.05.2022 |
+| :no_entry:          | 2576 | 047      | Passed :heavy_check_mark: | 22.05.2022 |
+| :no_entry:          | 2577 | 047      | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:          | 2578 | 047      | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:          | 2579 | 047      | Passed :heavy_check_mark: | 22.05.2022 |
 | :yellow_circle:     | 2580 | K-Fed    | in progress :hammer: | 18.05.2022 |
@@ -1327,7 +1327,7 @@
 | :no_entry:          | 2734 | com bio   | Passed :heavy_check_mark: | 11.05.2022 |
 | :no_entry:          | 2735 | V         | Passed :heavy_check_mark: | 12.05.2022 |
 | :no_entry:          | 2736 | Noname    | Passed :heavy_check_mark: | 18.05.2022 |
-| :yellow_circle:     | 2737 | Demon     | in progress :hammer: | 10.05.2022 |
+| :no_entry:          | 2737 | Demon     | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:          | 2738 | com bio   | Passed :heavy_check_mark: | 17.05.2022 |
 | :yellow_circle:     | 2739 | Noname    | in progress :hammer: | 10.05.2022 |
 | :no_entry:          | 2740 | Leonid    | Passed :heavy_check_mark: | 11.05.2022 |

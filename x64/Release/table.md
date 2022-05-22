@@ -890,7 +890,7 @@
 | :yellow_circle:| 1055 | JRodary | in progress :hammer: | 15.05.2022 |
 | :yellow_circle:| 1056 | Chris   | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:| 1057 | Chris   | in progress :hammer: | 18.05.2022 |
-| :yellow_circle:| 1058 | Chris   | in progress :hammer: | 18.05.2022 |
+| :no_entry:     | 1058 | Chris   | Passed :heavy_check_mark: | 22.05.2022 |
 | :yellow_circle:| 1059 | Chris   | in progress :hammer: | 18.05.2022 |
 | :no_entry:     | 1060 | Leonid  | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:     | 1061 | Leonid  | Passed :heavy_check_mark: | 18.05.2022 |

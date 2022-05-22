@@ -1262,11 +1262,11 @@
 | :yellow_circle:     | 2669 | Sam      | in progress :hammer: | 21.05.2022 |
 | :yellow_circle:     | 2670 | Sam      | in progress :hammer: | 21.05.2022 |
 | :yellow_circle:     | 2671 | Sam      | in progress :hammer: | 21.05.2022 |
-| :yellow_circle:     | 2672 | Crypto GPU| in progress :hammer: | 22.05.2022 |
+| :yellow_circle:     | 2672 | Sam      | in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 2673 | Илья 95  | in progress :hammer: | 16.05.2022 |
-| :yellow_circle:     | 2674 | Crypto GPU| in progress :hammer: | 22.05.2022 |
+| :yellow_circle:     | 2674 | Sam      | in progress :hammer: | 22.05.2022 |
 | :no_entry:          | 2675 | Oleg_R   | Passed :heavy_check_mark: | 10.05.2022 |
-| :yellow_circle:     | 2676 | Crypto GPU| in progress :hammer: | 22.05.2022 |
+| :yellow_circle:     | 2676 | Sam      | in progress :hammer: | 22.05.2022 |
 | :large_blue_circle: | 2677 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2678 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2679 | priority | FREE | 00.00.2022 |

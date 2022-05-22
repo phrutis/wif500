@@ -888,7 +888,7 @@
 | :yellow_circle:| 1053 | K-Fed   | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:| 1054 | K-Fed   | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:| 1055 | JRodary | in progress :hammer: | 15.05.2022 |
-| :yellow_circle:| 1056 | Chris   | in progress :hammer: | 18.05.2022 |
+| :no_entry:     | 1056 | Chris   | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:     | 1057 | Chris   | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:     | 1058 | Chris   | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:     | 1059 | Chris   | Passed :heavy_check_mark: | 22.05.2022 |

@@ -602,7 +602,7 @@
 | :no_entry:     | 597 | Almera   | Passed :heavy_check_mark: | 27.04.2022 |
 | :no_entry:     | 598 | Almera   | Passed :heavy_check_mark: | 27.04.2022 |
 | :no_entry:     | 599 | Almera   | Passed :heavy_check_mark: | 27.04.2022 |
-| :green_circle: | 600 | FREE     | FREE | 00.00.2022 |
+| :green_circle: | 600 | k bluesky| in progress :hammer: | 22.05.2022 |
 | :green_circle: | 601 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 602 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 603 | FREE     | FREE | 00.00.2022 |
@@ -918,7 +918,7 @@
 | :no_entry:     | 1083 | Sam    | Passed :heavy_check_mark: | 21.05.2022 |
 | :no_entry:     | 1084 | Sam    | Passed :heavy_check_mark: | 21.05.2022 |
 | :no_entry:     | 1085 | Sam    | Passed :heavy_check_mark: | 21.05.2022 |
-| :yellow_circle:| 1086 | Chris  | in progress :hammer: | 18.05.2022 |
+| :no_entry:     | 1086 | Chris  | Passed :heavy_check_mark: | 22.05.2022 |
 | :yellow_circle:| 1087 | Илья   | in progress :hammer: | 19.05.2022 |
 | :yellow_circle:| 1088 | Sam    | in progress :hammer: | 20.05.2022 |
 | :yellow_circle:| 1089 | Sam    | in progress :hammer: | 21.05.2022 |

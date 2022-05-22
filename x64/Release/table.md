@@ -1121,7 +1121,7 @@
 | :large_blue_circle: | 2303 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 2304 | Oleg_R   | in progress :hammer: | 21.05.2022 |
 | :large_blue_circle: | 2305 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2306 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2306 | Evgeniy  | in progress :hammer: | 22.05.2022 |
 | :large_blue_circle: | 2307 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 2334 | Oleg_R   | Passed :heavy_check_mark: | 09.05.2022 |
 | :no_entry:          | 2345 | Oleg_R   | Passed :heavy_check_mark: | 08.05.2022 |

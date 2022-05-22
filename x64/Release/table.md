@@ -911,7 +911,7 @@
 | :yellow_circle:| 1076 | K-Fed  | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:| 1077 | K-Fed  | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:| 1078 | Chris  | in progress :hammer: | 18.05.2022 |
-| :yellow_circle:| 1079 | Chris  | in progress :hammer: | 18.05.2022 |
+| :no_entry:     | 1079 | Chris  | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:     | 1080 | Sam    | Passed :heavy_check_mark: | 21.05.2022 |
 | :no_entry:     | 1081 | Sam    | Passed :heavy_check_mark: | 20.05.2022 |
 | :no_entry:     | 1082 | Sam    | Passed :heavy_check_mark: | 21.05.2022 |

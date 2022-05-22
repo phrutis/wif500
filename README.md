@@ -19,12 +19,12 @@ pie title Total ranges 3364
             "  " : 0
            "   " : 0
           "    " : 0
-  "- Passed 677" : 677
+  "- Passed 679" : 679
          "     " : 0
-  "- In progress 277" : 277
+  "- In progress 283" : 283
    "- FREE 2275" : 2275
         "      " : 0
-  "- FREE (Priority Ranges) 135" : 135
+  "- FREE (Priority Ranges) 130" : 130
 ```
 ## How to participate in the challenge:
 If you have a GPUs:</br>

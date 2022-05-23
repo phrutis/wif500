@@ -1511,7 +1511,7 @@
 | :large_blue_circle: | 3144 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3145 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3146 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 3147 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 3147 | Romario  | in progress :hammer: | 23.05.2022 |
 | :large_blue_circle: | 3148 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3149 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 3150 | com bio  | Passed :heavy_check_mark: | 15.05.2022 |

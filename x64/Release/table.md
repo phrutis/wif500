@@ -1119,7 +1119,7 @@
 | :yellow_circle:     | 2301 | Mars42   | in progress :hammer: | 23.05.2022 |
 | :yellow_circle:     | 2302 | Evgeniy  | in progress :hammer: | 19.05.2022 |
 | :large_blue_circle: | 2303 | priority | FREE | 00.00.2022 |
-| :yellow_circle:     | 2304 | Oleg_R   | in progress :hammer: | 21.05.2022 |
+| :no_entry:          | 2304 | Oleg_R   | Passed :heavy_check_mark: | 23.05.2022 |
 | :large_blue_circle: | 2305 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 2306 | Evgeniy  | in progress :hammer: | 22.05.2022 |
 | :large_blue_circle: | 2307 | priority | FREE | 00.00.2022 |

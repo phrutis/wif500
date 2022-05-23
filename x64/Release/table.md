@@ -1065,14 +1065,14 @@
 | :no_entry:     | 2227 | DworfD   | Passed :heavy_check_mark: | 29.04.2022 |
 | :no_entry:     | 2228 | DworfD   | Passed :heavy_check_mark: | 29.04.2022 |
 | :no_entry:     | 2229 | DworfD   | Passed :heavy_check_mark: | 29.04.2022 |
-| :no_entry:     | 2250 | Mars42   | Passed :heavy_check_mark: | 19.05.2022  |
-| :no_entry:     | 2251 | Mars42   | Passed :heavy_check_mark: | 20.05.2022  |
-| :no_entry:     | 2252 | Mars42   | Passed :heavy_check_mark: | 20.05.2022  |
-| :no_entry:     | 2253 | Mars42   | Passed :heavy_check_mark: | 20.05.2022  |
-| :no_entry:     | 2254 | Mars42   | Passed :heavy_check_mark: | 20.05.2022  |
-| :yellow_circle:| 2255 | Mars42   | in progress :hammer: | 16.05.2022 |
+| :no_entry:     | 2250 | Mars42   | Passed :heavy_check_mark: | 19.05.2022 |
+| :no_entry:     | 2251 | Mars42   | Passed :heavy_check_mark: | 20.05.2022 |
+| :no_entry:     | 2252 | Mars42   | Passed :heavy_check_mark: | 20.05.2022 |
+| :no_entry:     | 2253 | Mars42   | Passed :heavy_check_mark: | 20.05.2022 |
+| :no_entry:     | 2254 | Mars42   | Passed :heavy_check_mark: | 20.05.2022 |
+| :no_entry:     | 2255 | Mars42   | Passed :heavy_check_mark: | 23.05.2022 |
 | :no_entry:     | 2256 | Mars42   | Passed :heavy_check_mark: | 22.05.2022 |
-| :yellow_circle:| 2257 | Mars42   | in progress :hammer: | 16.05.2022 |
+| :no_entry:     | 2257 | Mars42   | Passed :heavy_check_mark: | 23.05.2022 |
 | :yellow_circle:| 2258 | Mars42   | in progress :hammer: | 19.05.2022 |
 | :yellow_circle:| 2259 | Mars42   | in progress :hammer: | 19.05.2022 |
 | :no_entry:     | 2260 | Sam      | Passed :heavy_check_mark: | 16.05.2022  |
@@ -1099,10 +1099,10 @@
 | :yellow_circle:     | 2281 | Demon    | in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 2282 | Demon    | in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 2283 | make kang| in progress :hammer: | 15.05.2022 |
-| :large_blue_circle: | 2284 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2285 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2286 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2287 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2284 | Supere   | in progress :hammer: | 23.05.2022 |
+| :yellow_circle:     | 2285 | Supere   | in progress :hammer: | 23.05.2022 |
+| :yellow_circle:     | 2286 | Supere   | in progress :hammer: | 23.05.2022 |
+| :yellow_circle:     | 2287 | Supere   | in progress :hammer: | 23.05.2022 |
 | :large_blue_circle: | 2288 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2289 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 2290 | Sam      | Passed :heavy_check_mark: | 18.05.2022 |
@@ -1115,8 +1115,8 @@
 | :large_blue_circle: | 2297 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 2298 | Leonid   | in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 2299 | Leonid   | in progress :hammer: | 22.05.2022 |
-| :large_blue_circle: | 2300 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2301 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2300 | Mars42   | in progress :hammer: | 23.05.2022 |
+| :yellow_circle:     | 2301 | Mars42   | in progress :hammer: | 23.05.2022 |
 | :yellow_circle:     | 2302 | Evgeniy  | in progress :hammer: | 19.05.2022 |
 | :large_blue_circle: | 2303 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 2304 | Oleg_R   | in progress :hammer: | 21.05.2022 |
@@ -1194,8 +1194,8 @@
 | :yellow_circle:     | 2544 | Crypto GPU| in progress :hammer: | 22.05.2022 |
 | :large_blue_circle: | 2545 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 2546 | Oleg_R   | Passed :heavy_check_mark: | 18.05.2022 |
-| :large_blue_circle: | 2547 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2548 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2547 | DworfD | in progress :hammer: | 23.05.2022 |
+| :yellow_circle:     | 2548 | DworfD | in progress :hammer: | 23.05.2022 |
 | :large_blue_circle: | 2549 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2550 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2551 | priority | FREE | 00.00.2022 |
@@ -1366,10 +1366,10 @@
 | :no_entry:          | 2885 | Crypto GPU| Passed :heavy_check_mark: | 15.05.2022 |
 | :yellow_circle:     | 2888 | com bio  | in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2889 | Supere   | in progress :hammer: | 18.05.2022 |
-| :yellow_circle:     | 2890 | Supere   | in progress :hammer: | 19.05.2022 |
-| :yellow_circle:     | 2891 | Supere   | in progress :hammer: | 19.05.2022 |
-| :yellow_circle:     | 2892 | Supere   | in progress :hammer: | 19.05.2022 |
-| :yellow_circle:     | 2893 | Supere   | in progress :hammer: | 19.05.2022 |
+| :no_entry:          | 2890 | Supere   | Passed :heavy_check_mark: | 23.05.2022 |
+| :no_entry:          | 2891 | Supere   | Passed :heavy_check_mark: | 23.05.2022 |
+| :no_entry:          | 2892 | Supere   | Passed :heavy_check_mark: | 23.05.2022 |
+| :no_entry:          | 2893 | Supere   | Passed :heavy_check_mark: | 23.05.2022 |
 | :yellow_circle:     | 2894 | com bio  | in progress :hammer: | 20.06.2022 |
 | :yellow_circle:     | 2895 | com bio  | in progress :hammer: | 20.06.2022 |
 | :yellow_circle:     | 2896 | com bio  | in progress :hammer: | 20.06.2022 |

@@ -882,8 +882,8 @@
 | :no_entry:     | 1047 | Chris   | Passed :heavy_check_mark: | 19.05.2022 |
 | :no_entry:     | 1048 | Илья    | Passed :heavy_check_mark: | 19.05.2022 |
 | :yellow_circle:| 1049 | Noname  | in progress :hammer: | 16.05.2022 |
-| :yellow_circle:| 1050 | Kuw     | in progress :hammer: | 16.05.2022 |
-| :yellow_circle:| 1051 | Kuw     | in progress :hammer: | 16.05.2022 |
+| :no_entry:     | 1050 | Kuw     | Passed :heavy_check_mark: | 23.05.2022 |
+| :no_entry:     | 1051 | Kuw     | Passed :heavy_check_mark: | 23.05.2022 |
 | :yellow_circle:| 1052 | K-Fed   | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:| 1053 | K-Fed   | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:| 1054 | K-Fed   | in progress :hammer: | 18.05.2022 |
@@ -1194,11 +1194,11 @@
 | :yellow_circle:     | 2544 | Crypto GPU| in progress :hammer: | 22.05.2022 |
 | :large_blue_circle: | 2545 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 2546 | Oleg_R   | Passed :heavy_check_mark: | 18.05.2022 |
-| :yellow_circle:     | 2547 | DworfD | in progress :hammer: | 23.05.2022 |
-| :yellow_circle:     | 2548 | DworfD | in progress :hammer: | 23.05.2022 |
+| :yellow_circle:     | 2547 | DworfD   | in progress :hammer: | 23.05.2022 |
+| :yellow_circle:     | 2548 | DworfD   | in progress :hammer: | 23.05.2022 |
 | :large_blue_circle: | 2549 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2550 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2551 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2550 | Kuw      | in progress :hammer: | 23.05.2022 |
+| :yellow_circle:     | 2551 | Kuw      | in progress :hammer: | 23.05.2022 |
 | :no_entry:          | 2552 | com bio  | Passed :heavy_check_mark: | 20.05.2022 |
 | :no_entry:          | 2553 | com bio  | Passed :heavy_check_mark: | 20.05.2022 |
 | :no_entry:          | 2554 | com bio  | Passed :heavy_check_mark: | 20.05.2022 |

@@ -905,11 +905,11 @@
 | :yellow_circle:| 1070 | Ervings| in progress :hammer: | 18.05.2022 |
 | :no_entry:     | 1071 | Birol  | Passed :heavy_check_mark: | 21.05.2022 |
 | :yellow_circle:| 1072 | K-Fed  | in progress :hammer: | 16.05.2022 |
-| :yellow_circle:| 1073 | K-Fed  | in progress :hammer: | 16.05.2022 |
-| :yellow_circle:| 1074 | K-Fed  | in progress :hammer: | 16.05.2022 |
+| :no_entry:     | 1073 | K-Fed  | Passed :heavy_check_mark: | 23.05.2022 |
+| :no_entry:     | 1074 | K-Fed  | Passed :heavy_check_mark: | 23.05.2022 |
 | :yellow_circle:| 1075 | K-Fed  | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:| 1076 | K-Fed  | in progress :hammer: | 16.05.2022 |
-| :yellow_circle:| 1077 | K-Fed  | in progress :hammer: | 16.05.2022 |
+| :no_entry:     | 1077 | K-Fed  | Passed :heavy_check_mark: | 23.05.2022 |
 | :no_entry:     | 1078 | Chris  | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:     | 1079 | Chris  | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:     | 1080 | Sam    | Passed :heavy_check_mark: | 21.05.2022 |
@@ -1235,9 +1235,9 @@
 | :yellow_circle:     | 2585 | K-Fed    | in progress :hammer: | 19.05.2022 |
 | :yellow_circle:     | 2586 | K-Fed    | in progress :hammer: | 19.05.2022 |
 | :yellow_circle:     | 2587 | K-Fed    | in progress :hammer: | 21.05.2022 |
-| :large_blue_circle: | 2588 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2589 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2590 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2588 | K-Fed    | in progress :hammer: | 23.05.2022 |
+| :yellow_circle:     | 2589 | K-Fed    | in progress :hammer: | 23.05.2022 |
+| :yellow_circle:     | 2590 | K-Fed    | in progress :hammer: | 23.05.2022 |
 | :no_entry:          | 2591 | Andrii   | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:          | 2592 | Andrii   | Passed :heavy_check_mark: | 22.05.2022 |
 | :yellow_circle:     | 2593 | Crypto GPU| in progress :hammer: | 21.05.2022 |

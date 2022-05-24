@@ -1249,8 +1249,8 @@
 | :no_entry:          | 2648 | Oleg_R   | Passed :heavy_check_mark: | 04.05.2022 |
 | :yellow_circle:     | 2656 | K-Fed    | in progress :hammer: | 23.05.2022 |
 | :yellow_circle:     | 2657 | K-Fed    | in progress :hammer: | 23.05.2022 |
-| :large_blue_circle: | 2658 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2659 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2658 | Noname   | in progress :hammer: | 24.05.2022 |
+| :yellow_circle:     | 2659 | Noname   | in progress :hammer: | 24.05.2022 |
 | :large_blue_circle: | 2660 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 2661 | Oleg_R   | Passed :heavy_check_mark: | 04.05.2022 |
 | :no_entry:          | 2662 | Oleg_R   | Passed :heavy_check_mark: | 11.05.2022 |

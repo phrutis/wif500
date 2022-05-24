@@ -1403,10 +1403,10 @@
 | :yellow_circle:     | 2923 | 047      | in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 2924 | 047      | in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 2925 | 047      | in progress :hammer: | 22.05.2022 |
-| :large_blue_circle: | 2926 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2927 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2928 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2929 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2926 | Supere   | in progress :hammer: | 24.05.2022 |
+| :yellow_circle:     | 2927 | Supere   | in progress :hammer: | 24.05.2022 |
+| :yellow_circle:     | 2928 | Supere   | in progress :hammer: | 24.05.2022 |
+| :yellow_circle:     | 2929 | Supere   | in progress :hammer: | 24.05.2022 |
 | :large_blue_circle: | 2930 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2931 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 2932 | com bio  | in progress :hammer: | 20.05.2022 |

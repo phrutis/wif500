@@ -904,7 +904,7 @@
 | :no_entry:     | 1069 | Chris  | Passed :heavy_check_mark: | 22.05.2022 |
 | :yellow_circle:| 1070 | Ervings| in progress :hammer: | 18.05.2022 |
 | :no_entry:     | 1071 | Birol  | Passed :heavy_check_mark: | 21.05.2022 |
-| :yellow_circle:| 1072 | K-Fed  | in progress :hammer: | 16.05.2022 |
+| :no_entry:     | 1072 | K-Fed  | Passed :heavy_check_mark: | 24.05.2022 |
 | :no_entry:     | 1073 | K-Fed  | Passed :heavy_check_mark: | 23.05.2022 |
 | :no_entry:     | 1074 | K-Fed  | Passed :heavy_check_mark: | 23.05.2022 |
 | :no_entry:     | 1075 | K-Fed  | Passed :heavy_check_mark: | 24.05.2022 |
@@ -1251,7 +1251,7 @@
 | :yellow_circle:     | 2657 | K-Fed    | in progress :hammer: | 23.05.2022 |
 | :yellow_circle:     | 2658 | Noname   | in progress :hammer: | 24.05.2022 |
 | :yellow_circle:     | 2659 | Noname   | in progress :hammer: | 24.05.2022 |
-| :large_blue_circle: | 2660 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2660 | K-Fed    | in progress :hammer: | 24.05.2022 |
 | :no_entry:          | 2661 | Oleg_R   | Passed :heavy_check_mark: | 04.05.2022 |
 | :no_entry:          | 2662 | Oleg_R   | Passed :heavy_check_mark: | 11.05.2022 |
 | :large_blue_circle: | 2663 | priority | FREE | 00.00.2022 |

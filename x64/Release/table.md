@@ -1474,7 +1474,7 @@
 | :no_entry:          | 3049 | cpto_node| Passed :heavy_check_mark: | 04.05.2022 |
 | :no_entry:          | 3050 | Alexsandr| Passed :heavy_check_mark: | 11.05.2022 |
 | :no_entry:          | 3051 | Alexsandr| Passed :heavy_check_mark: | 20.05.2022 |
-| :yellow_circle:     | 3052 | Alexsandr| in progress :hammer: | 20.05.2022 |
+| :no_entry:          | 3052 | Alexsandr| Passed :heavy_check_mark: | 24.05.2022 |
 | :no_entry:          | 3053 | Fantom   | Passed :heavy_check_mark: | 04.05.2022 |
 | :no_entry:          | 3054 | com bio  | Passed :heavy_check_mark: | 15.05.2022 |
 | :no_entry:          | 3055 | Fantom   | Passed :heavy_check_mark: | 04.05.2022 |

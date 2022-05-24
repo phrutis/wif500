@@ -1370,12 +1370,12 @@
 | :no_entry:          | 2891 | Supere   | Passed :heavy_check_mark: | 23.05.2022 |
 | :no_entry:          | 2892 | Supere   | Passed :heavy_check_mark: | 23.05.2022 |
 | :no_entry:          | 2893 | Supere   | Passed :heavy_check_mark: | 23.05.2022 |
-| :yellow_circle:     | 2894 | com bio  | in progress :hammer: | 20.06.2022 |
-| :yellow_circle:     | 2895 | com bio  | in progress :hammer: | 20.06.2022 |
-| :yellow_circle:     | 2896 | com bio  | in progress :hammer: | 20.06.2022 |
-| :yellow_circle:     | 2897 | com bio  | in progress :hammer: | 20.06.2022 |
-| :yellow_circle:     | 2898 | com bio  | in progress :hammer: | 20.06.2022 |
-| :yellow_circle:     | 2899 | com bio  | in progress :hammer: | 20.06.2022 |
+| :yellow_circle:     | 2894 | com bio  | in progress :hammer: | 20.05.2022 |
+| :yellow_circle:     | 2895 | com bio  | in progress :hammer: | 20.05.2022 |
+| :yellow_circle:     | 2896 | com bio  | in progress :hammer: | 20.05.2022 |
+| :yellow_circle:     | 2897 | com bio  | in progress :hammer: | 20.05.2022 |
+| :yellow_circle:     | 2898 | com bio  | in progress :hammer: | 20.05.2022 |
+| :yellow_circle:     | 2899 | com bio  | in progress :hammer: | 20.05.2022 |
 | :yellow_circle:     | 2900 | cpto_node| in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2901 | cpto_node| in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2902 | cpto_node| in progress :hammer: | 17.05.2022 |
@@ -1408,7 +1408,7 @@
 | :large_blue_circle: | 2929 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2930 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2931 | priority | FREE | 00.00.2022 |
-| :yellow_circle:     | 2932 | com bio  | in progress :hammer: | 20.06.2022 |
+| :yellow_circle:     | 2932 | com bio  | in progress :hammer: | 20.05.2022 |
 | :large_blue_circle: | 2933 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2934 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 2935 | priority | FREE | 00.00.2022 |

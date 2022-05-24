@@ -881,7 +881,7 @@
 | :no_entry:     | 1046 | Chris   | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:     | 1047 | Chris   | Passed :heavy_check_mark: | 19.05.2022 |
 | :no_entry:     | 1048 | Илья    | Passed :heavy_check_mark: | 19.05.2022 |
-| :yellow_circle:| 1049 | Noname  | in progress :hammer: | 16.05.2022 |
+| :no_entry:     | 1049 | Noname  | Passed :heavy_check_mark: | 24.05.2022 |
 | :no_entry:     | 1050 | Kuw     | Passed :heavy_check_mark: | 23.05.2022 |
 | :no_entry:     | 1051 | Kuw     | Passed :heavy_check_mark: | 23.05.2022 |
 | :yellow_circle:| 1052 | K-Fed   | in progress :hammer: | 18.05.2022 |
@@ -1329,7 +1329,7 @@
 | :no_entry:          | 2736 | Noname    | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:          | 2737 | Demon     | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:          | 2738 | com bio   | Passed :heavy_check_mark: | 17.05.2022 |
-| :yellow_circle:     | 2739 | Noname    | in progress :hammer: | 10.05.2022 |
+| :no_entry:          | 2739 | Noname    | Passed :heavy_check_mark: | 24.05.2022 |
 | :no_entry:          | 2740 | Leonid    | Passed :heavy_check_mark: | 11.05.2022 |
 | :no_entry:          | 2741 | Leonid    | Passed :heavy_check_mark: | 11.05.2022 |
 | :no_entry:          | 2742 | DworfD    | Passed :heavy_check_mark: | 12.05.2022 |

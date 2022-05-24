@@ -1377,7 +1377,7 @@
 | :yellow_circle:     | 2897 | com bio  | in progress :hammer: | 20.05.2022 |
 | :yellow_circle:     | 2898 | com bio  | in progress :hammer: | 20.05.2022 |
 | :yellow_circle:     | 2899 | com bio  | in progress :hammer: | 20.05.2022 |
-| :yellow_circle:     | 2900 | cpto_node| in progress :hammer: | 17.05.2022 |
+| :no_entry:          | 2900 | cpto_node| Passed :heavy_check_mark: | 24.05.2022 |
 | :yellow_circle:     | 2901 | cpto_node| in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2902 | cpto_node| in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2903 | cpto_node| in progress :hammer: | 17.05.2022 |
@@ -1397,7 +1397,7 @@
 | :yellow_circle:     | 2917 | cpto_node| in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2918 | cpto_node| in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2919 | cpto_node| in progress :hammer: | 17.05.2022 |
-| :yellow_circle:     | 2920 | cpto_node| in progress :hammer: | 17.05.2022 |
+| :no_entry:          | 2920 | cpto_node| Passed :heavy_check_mark: | 24.05.2022 |
 | :yellow_circle:     | 2921 | 047      | in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 2922 | 047      | in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 2923 | 047      | in progress :hammer: | 22.05.2022 |
@@ -1486,14 +1486,14 @@
 | :no_entry:          | 3061 | Fantom   | Passed :heavy_check_mark: | 04.05.2022 |
 | :no_entry:          | 3077 | Demon    | Passed :heavy_check_mark: | 17.05.2022 |
 | :no_entry:          | 3120 | cpto_node| Passed :heavy_check_mark: | 16.05.2022 |
-| :yellow_circle:     | 3121 | cpto_node| in progress :hammer: | 12.05.2022 |
+| :no_entry:          | 3121 | cpto_node| Passed :heavy_check_mark: | 24.05.2022 |
 | :yellow_circle:     | 3122 | cpto_node| in progress :hammer: | 12.05.2022 |
 | :yellow_circle:     | 3123 | cpto_node| in progress :hammer: | 12.05.2022 |
 | :yellow_circle:     | 3124 | cpto_node| in progress :hammer: | 12.05.2022 |
 | :yellow_circle:     | 3125 | cpto_node| in progress :hammer: | 12.05.2022 |
-| :yellow_circle:     | 3126 | cpto_node| in progress :hammer: | 12.05.2022 |
-| :yellow_circle:     | 3127 | cpto_node| in progress :hammer: | 12.05.2022 |
-| :yellow_circle:     | 3128 | cpto_node| in progress :hammer: | 12.05.2022 |
+| :no_entry:          | 3126 | cpto_node| Passed :heavy_check_mark: | 24.05.2022 |
+| :no_entry:          | 3127 | cpto_node| Passed :heavy_check_mark: | 24.05.2022 |
+| :no_entry:          | 3128 | cpto_node| Passed :heavy_check_mark: | 24.05.2022 |
 | :yellow_circle:     | 3129 | cpto_node| in progress :hammer: | 12.05.2022 |
 | :no_entry:          | 3130 | cpto_node| Passed :heavy_check_mark: | 16.05.2022 |
 | :yellow_circle:     | 3131 | Alexsandr| in progress :hammer: | 20.05.2022 |

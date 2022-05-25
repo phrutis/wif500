@@ -1533,7 +1533,7 @@
 | :yellow_circle:тттт | 3165 | Kripto   | in progress :hammer: | 22.05.2022 |
 | :large_blue_circle: | 3166 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 3167 | Almera   | Passed :heavy_check_mark: | 24.04.2022 |
-| :large_blue_circle: | 3168 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 3168 | Trump88  | in progress :hammer: | 25.05.2022 |
 | :large_blue_circle: | 3169 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 3170 | Supere   | Passed :heavy_check_mark: | 25.05.2022 |
 | :yellow_circle:     | 3171 | XM XX    | in progress :hammer: | 21.05.2022 |

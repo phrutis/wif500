@@ -1260,7 +1260,7 @@
 | :no_entry:          | 2666 | Oleg_R   | Passed :heavy_check_mark: | 12.05.2022 |
 | :no_entry:          | 2667 | Oleg_R   | Passed :heavy_check_mark: | 19.05.2022 |
 | :yellow_circle:     | 2668 | Sam      | in progress :hammer: | 21.05.2022 |
-| :yellow_circle:     | 2669 | Sam      | in progress :hammer: | 21.05.2022 |
+| :no_entry:          | 2669 | Sam      | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2670 | Sam      | Passed :heavy_check_mark: | 25.05.2022 |
 | :yellow_circle:     | 2671 | Sam      | in progress :hammer: | 21.05.2022 |
 | :yellow_circle:     | 2672 | Sam      | in progress :hammer: | 22.05.2022 |

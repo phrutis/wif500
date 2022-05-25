@@ -1418,8 +1418,8 @@
 | :yellow_circle:     | 2938 | com bio  | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 2939 | com bio  | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 2940 | com bio  | in progress :hammer: | 25.05.2022 |
-| :large_blue_circle: | 2941 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2942 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2941 | com bio  | in progress :hammer: | 25.05.2022 |
+| :yellow_circle:     | 2942 | com bio  | in progress :hammer: | 25.05.2022 |
 | :large_blue_circle: | 2943 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 2944 | 047      | in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 2945 | 047      | in progress :hammer: | 22.05.2022 |

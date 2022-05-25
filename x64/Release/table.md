@@ -885,7 +885,7 @@
 | :no_entry:     | 1050 | Kuw     | Passed :heavy_check_mark: | 23.05.2022 |
 | :no_entry:     | 1051 | Kuw     | Passed :heavy_check_mark: | 23.05.2022 |
 | :yellow_circle:| 1052 | K-Fed   | in progress :hammer: | 18.05.2022 |
-| :yellow_circle:| 1053 | K-Fed   | in progress :hammer: | 18.05.2022 |
+| :no_entry:     | 1053 | K-Fed   | Passed :heavy_check_mark: | 25.05.2022 |
 | :yellow_circle:| 1054 | K-Fed   | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:| 1055 | JRodary | in progress :hammer: | 15.05.2022 |
 | :no_entry:     | 1056 | Chris   | Passed :heavy_check_mark: | 22.05.2022 |
@@ -1114,8 +1114,8 @@
 | :large_blue_circle: | 2295 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 2296 | Oleg_R   | in progress :hammer: | 23.05.2022 |
 | :large_blue_circle: | 2297 | priority | FREE | 00.00.2022 |
-| :yellow_circle:     | 2298 | Leonid   | in progress :hammer: | 22.05.2022 |
-| :yellow_circle:     | 2299 | Leonid   | in progress :hammer: | 22.05.2022 |
+| :no_entry:          | 2298 | Leonid   | Passed :heavy_check_mark: | 25.05.2022 |
+| :no_entry:          | 2299 | Leonid   | Passed :heavy_check_mark: | 25.05.2022 |
 | :yellow_circle:     | 2300 | Mars42   | in progress :hammer: | 23.05.2022 |
 | :yellow_circle:     | 2301 | Mars42   | in progress :hammer: | 23.05.2022 |
 | :no_entry:          | 2302 | Evgeniy  | Passed :heavy_check_mark: | 23.05.2022 |
@@ -1190,10 +1190,10 @@
 | :no_entry:          | 2481 | DworfD   | Passed :heavy_check_mark: | 04.05.2022 |
 | :yellow_circle:     | 2540 | Sam      | in progress :hammer: | 21.05.2022 |
 | :yellow_circle:     | 2541 | Sam      | in progress :hammer: | 21.05.2022 |
-| :large_blue_circle: | 2542 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2542 | Leonid   | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 2543 | Crypto GPU| in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 2544 | Crypto GPU| in progress :hammer: | 22.05.2022 |
-| :large_blue_circle: | 2545 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2545 | Leonid   | in progress :hammer: | 25.05.2022 |
 | :no_entry:          | 2546 | Oleg_R   | Passed :heavy_check_mark: | 18.05.2022 |
 | :yellow_circle:     | 2547 | DworfD   | in progress :hammer: | 23.05.2022 |
 | :yellow_circle:     | 2548 | DworfD   | in progress :hammer: | 23.05.2022 |
@@ -1229,7 +1229,7 @@
 | :no_entry:          | 2578 | 047      | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:          | 2579 | 047      | Passed :heavy_check_mark: | 22.05.2022 |
 | :yellow_circle:     | 2580 | K-Fed    | in progress :hammer: | 18.05.2022 |
-| :yellow_circle:     | 2581 | K-Fed    | in progress :hammer: | 18.05.2022 |
+| :no_entry:          | 2581 | K-Fed    | Passed :heavy_check_mark: | 25.05.2022 |
 | :yellow_circle:     | 2582 | K-Fed    | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 2583 | K-Fed    | in progress :hammer: | 19.05.2022 |
 | :yellow_circle:     | 2584 | K-Fed    | in progress :hammer: | 19.05.2022 |
@@ -1500,8 +1500,8 @@
 | :yellow_circle:     | 3132 | Alexsandr| in progress :hammer: | 20.05.2022 |
 | :yellow_circle:     | 3133 | Alexsandr| in progress :hammer: | 20.05.2022 |
 | :no_entry:          | 3134 | ola lala | Passed :heavy_check_mark: | 21.05.2022 |
-| :large_blue_circle: | 3135 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 3136 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 3135 | K-Fed    | in progress :hammer: | 25.05.2022 |
+| :yellow_circle:     | 3136 | K-Fed    | in progress :hammer: | 25.05.2022 |
 | :large_blue_circle: | 3137 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3138 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3139 | priority | FREE | 00.00.2022 |

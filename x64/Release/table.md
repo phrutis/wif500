@@ -1011,7 +1011,7 @@
 | :no_entry:     | 1864 | cpto_node | Passed :heavy_check_mark: | 10.05.2022 |
 | :no_entry:     | 1865 | cpto_node | Passed :heavy_check_mark: | 10.05.2022 |
 | :yellow_circle:| 1866 | Kuw       | in progress :hammer: | 25.04.2022 |
-| :yellow_circle:| 1867 | cpto_node | in progress :hammer: | 04.05.2022 |
+| :no_entry:     | 1867 | cpto_node | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:     | 1868 | cpto_node | Passed :heavy_check_mark: | 11.05.2022 |
 | :no_entry:     | 1869 | JRodary   | Passed :heavy_check_mark: | 15.05.2022 |
 | :no_entry:     | 1870 | Sam       | Passed :heavy_check_mark: | 20.05.2022 |
@@ -1378,7 +1378,7 @@
 | :no_entry:          | 2898 | com bio  | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2894 | com bio  | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2900 | cpto_node| Passed :heavy_check_mark: | 24.05.2022 |
-| :yellow_circle:     | 2901 | cpto_node| in progress :hammer: | 17.05.2022 |
+| :no_entry:          | 2901 | cpto_node| Passed :heavy_check_mark: | 25.05.2022 |
 | :yellow_circle:     | 2902 | cpto_node| in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2903 | cpto_node| in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2904 | cpto_node| in progress :hammer: | 17.05.2022 |
@@ -1487,7 +1487,7 @@
 | :no_entry:          | 3077 | Demon    | Passed :heavy_check_mark: | 17.05.2022 |
 | :no_entry:          | 3120 | cpto_node| Passed :heavy_check_mark: | 16.05.2022 |
 | :no_entry:          | 3121 | cpto_node| Passed :heavy_check_mark: | 24.05.2022 |
-| :yellow_circle:     | 3122 | cpto_node| in progress :hammer: | 12.05.2022 |
+| :no_entry:          | 3122 | cpto_node| Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 3123 | cpto_node| Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 3124 | cpto_node| Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 3125 | cpto_node| Passed :heavy_check_mark: | 25.05.2022 |

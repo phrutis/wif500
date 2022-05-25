@@ -1490,7 +1490,7 @@
 | :yellow_circle:     | 3122 | cpto_node| in progress :hammer: | 12.05.2022 |
 | :no_entry:          | 3123 | cpto_node| Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 3124 | cpto_node| Passed :heavy_check_mark: | 25.05.2022 |
-| :yellow_circle:     | 3125 | cpto_node| in progress :hammer: | 12.05.2022 |
+| :no_entry:          | 3125 | cpto_node| Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 3126 | cpto_node| Passed :heavy_check_mark: | 24.05.2022 |
 | :no_entry:          | 3127 | cpto_node| Passed :heavy_check_mark: | 24.05.2022 |
 | :no_entry:          | 3128 | cpto_node| Passed :heavy_check_mark: | 24.05.2022 |

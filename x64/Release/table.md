@@ -611,7 +611,7 @@
 | :yellow_circle:| 606 | k bluesky| in progress :hammer: | 24.05.2022 |
 | :yellow_circle:| 607 | k bluesky| in progress :hammer: | 24.05.2022 |
 | :yellow_circle:| 608 | k bluesky| in progress :hammer: | 24.05.2022 |
-| :green_circle: | 609 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 609 | k bluesky| in progress :hammer: | 25.05.2022 |
 | :green_circle: | 610 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 611 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 612 | FREE     | FREE | 00.00.2022 |
@@ -1263,11 +1263,11 @@
 | :no_entry:          | 2669 | Sam      | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2670 | Sam      | Passed :heavy_check_mark: | 25.05.2022 |
 | :yellow_circle:     | 2671 | Sam      | in progress :hammer: | 21.05.2022 |
-| :yellow_circle:     | 2672 | Sam      | in progress :hammer: | 22.05.2022 |
+| :no_entry:          | 2672 | Sam      | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2673 | Илья 95  | Passed :heavy_check_mark: | 25.05.2022 |
-| :yellow_circle:     | 2674 | Sam      | in progress :hammer: | 22.05.2022 |
+| :no_entry:          | 2674 | Sam      | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2675 | Oleg_R   | Passed :heavy_check_mark: | 10.05.2022 |
-| :yellow_circle:     | 2676 | Sam      | in progress :hammer: | 22.05.2022 |
+| :no_entry:          | 2676 | Sam      | Passed :heavy_check_mark: | 25.05.2022 |
 | :yellow_circle:     | 2677 | Sam      | in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 2678 | Sam      | in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 2679 | Sam      | in progress :hammer: | 24.05.2022 |

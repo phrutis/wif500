@@ -361,7 +361,7 @@
 | :green_circle: | 356 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 357 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 358 | FREE  | FREE | 00.00.2022 |
-| :yellow_circle:| 359 | Илья 95  | in progress :hammer: | 21.05.2022 |
+| :no_entry:     | 359 | Илья 95| Passed :heavy_check_mark: | 25.05.2022 |
 | :green_circle: | 360 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 361 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 362 | FREE  | FREE | 00.00.2022 |
@@ -1264,7 +1264,7 @@
 | :no_entry:          | 2670 | Sam      | Passed :heavy_check_mark: | 25.05.2022 |
 | :yellow_circle:     | 2671 | Sam      | in progress :hammer: | 21.05.2022 |
 | :yellow_circle:     | 2672 | Sam      | in progress :hammer: | 22.05.2022 |
-| :yellow_circle:     | 2673 | Илья 95  | in progress :hammer: | 16.05.2022 |
+| :no_entry:          | 2673 | Илья 95  | Passed :heavy_check_mark: | 25.05.2022 |
 | :yellow_circle:     | 2674 | Sam      | in progress :hammer: | 22.05.2022 |
 | :no_entry:          | 2675 | Oleg_R   | Passed :heavy_check_mark: | 10.05.2022 |
 | :yellow_circle:     | 2676 | Sam      | in progress :hammer: | 22.05.2022 |
@@ -1517,8 +1517,8 @@
 | :large_blue_circle: | 3149 | priority | FREE | 00.00.2022 |
 | :no_entry:          | 3150 | com bio  | Passed :heavy_check_mark: | 15.05.2022 |
 | :yellow_circle:     | 3151 | Илья 95  | in progress :hammer: | 16.05.2022 |
-| :large_blue_circle: | 3152 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 3153 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 3152 | Илья 95  | in progress :hammer: | 25.05.2022 |
+| :yellow_circle:     | 3153 | Илья 95  | in progress :hammer: | 25.05.2022 |
 | :large_blue_circle: | 3154 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3155 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3156 | priority | FREE | 00.00.2022 |
@@ -1540,9 +1540,9 @@
 | :no_entry:          | 3172 | Supere   | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 3173 | Supere   | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 3174 | Supere   | Passed :heavy_check_mark: | 25.05.2022 |
-| :yellow_circle:     | 3175 | Oleg D   | in progress :hammer: | 21.05.2022 |
-| :yellow_circle:     | 3176 | Oleg D   | in progress :hammer: | 21.05.2022 |
-| :yellow_circle:     | 3177 | Oleg D   | in progress :hammer: | 21.05.2022 |
+| :no_entry:          | 3175 | Oleg D   | Passed :heavy_check_mark: | 25.05.2022 |
+| :no_entry:          | 3176 | Oleg D   | Passed :heavy_check_mark: | 25.05.2022 |
+| :no_entry:          | 3177 | Oleg D   | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 3228 | Oleg_R   | Passed :heavy_check_mark: | 03.05.2022 |
 | :no_entry:          | 3241 | Oleg_R   | Passed :heavy_check_mark: | 02.05.2022 |
 | :no_entry:          | 3262 | Noname   | Passed :heavy_check_mark: | 02.05.2022 |
@@ -1555,7 +1555,7 @@
 | :no_entry:          | 3294 | L-N      | Passed :heavy_check_mark: | 09.05.2022 |
 | :no_entry:          | 3295 | L-N      | Passed :heavy_check_mark: | 08.05.2022 |
 | :yellow_circle:     | 3296 | ola lala | in progress :hammer: | 21.05.2022 |
-| :green_circle:      | 3297 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:     | 3297 | Oleg D   | in progress :hammer: | 25.05.2022 |
 | :green_circle:      | 3298 | FREE     | FREE | 00.00.2022 |
 | :green_circle:      | 3299 | FREE     | FREE | 00.00.2022 |
 | :green_circle:      | 3300 | FREE     | FREE | 00.00.2022 |

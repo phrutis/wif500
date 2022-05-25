@@ -1255,8 +1255,8 @@
 | :no_entry:          | 2661 | Oleg_R   | Passed :heavy_check_mark: | 04.05.2022 |
 | :no_entry:          | 2662 | Oleg_R   | Passed :heavy_check_mark: | 11.05.2022 |
 | :yellow_circle:     | 2663 | Noname   | in progress :hammer: | 25.05.2022 |
-| :large_blue_circle: | 2664 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2665 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2664 | Sam      | in progress :hammer: | 25.05.2022 |
+| :yellow_circle:     | 2665 | Sam      | in progress :hammer: | 25.05.2022 |
 | :no_entry:          | 2666 | Oleg_R   | Passed :heavy_check_mark: | 12.05.2022 |
 | :no_entry:          | 2667 | Oleg_R   | Passed :heavy_check_mark: | 19.05.2022 |
 | :yellow_circle:     | 2668 | Sam      | in progress :hammer: | 21.05.2022 |
@@ -1420,7 +1420,7 @@
 | :yellow_circle:     | 2940 | com bio  | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 2941 | com bio  | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 2942 | com bio  | in progress :hammer: | 25.05.2022 |
-| :large_blue_circle: | 2943 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2943 | Sam      | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 2944 | 047      | in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 2945 | 047      | in progress :hammer: | 22.05.2022 |
 | :no_entry:          | 2975 | Zero     | Passed :heavy_check_mark: | 12.05.2022 |

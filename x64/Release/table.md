@@ -329,7 +329,7 @@
 | :green_circle: | 324 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 325 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 326 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 327 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 327 | Andrzej | in progress :hammer: | 26.05.2022 |
 | :green_circle: | 328 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 329 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 330 | FREE  | FREE | 00.00.2022 |
@@ -668,7 +668,7 @@
 | :green_circle: | 663 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 664 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 665 | FREE     | FREE | 00.00.2022 |
-| :yellow_circle:| 666 | KIKI     | in progress :hammer:  |  19.05.2022 |
+| :no_entry:     | 666 | KIKI     | Passed :heavy_check_mark: | 26.05.2022 |
 | :green_circle: | 667 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 668 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 669 | FREE     | FREE | 00.00.2022 |
@@ -1086,7 +1086,7 @@
 | :no_entry:     | 2267 | Oleg_R   | Passed :heavy_check_mark:  |  16.05.2022  |
 | :yellow_circle:| 2268 | Mars42   | in progress :hammer: | 22.05.2022 |
 | :no_entry:          | 2269 | Oleg_R   | Passed :heavy_check_mark: | 19.05.2022 |
-| :yellow_circle:     | 2270 | Andrzej  | in progress :hammer: | 15.05.2022 |
+| :no_entry:          | 2270 | Andrzej  | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:          | 2271 | Sam      | Passed :heavy_check_mark: | 24.05.2022 |
 | :no_entry:          | 2272 | Sam      | Passed :heavy_check_mark: | 24.05.2022 |
 | :no_entry:          | 2273 | Sam      | Passed :heavy_check_mark: | 24.05.2022 |
@@ -1194,10 +1194,10 @@
 | :no_entry:          | 2543 | Crypto GPU| Passed :heavy_check_mark: | 26.05.2022 |
 | :yellow_circle:     | 2544 | Crypto GPU| in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 2545 | Leonid   | in progress :hammer: | 25.05.2022 |
-| :no_entry:          | 2546 | Oleg_R   | Passed :heavy_check_mark: | 18.05.2022 |
-| :yellow_circle:     | 2547 | DworfD   | in progress :hammer: | 23.05.2022 |
-| :yellow_circle:     | 2548 | DworfD   | in progress :hammer: | 23.05.2022 |
-| :large_blue_circle: | 2549 | priority | FREE | 00.00.2022 |
+| :no_entry:          | 2546 | Oleg_R   |  | 18.05.2022 |
+| :no_entry:          | 2547 | DworfD   | Passed :heavy_check_mark: | 26.05.2022 |
+| :no_entry:          | 2548 | DworfD   | Passed :heavy_check_mark: | 26.05.2022 |
+| :yellow_circle:     | 2549 | KIKI     | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 2550 | Kuw      | in progress :hammer: | 23.05.2022 |
 | :yellow_circle:     | 2551 | Kuw      | in progress :hammer: | 23.05.2022 |
 | :no_entry:          | 2552 | com bio  | Passed :heavy_check_mark: | 20.05.2022 |
@@ -1512,14 +1512,14 @@
 | :large_blue_circle: | 3144 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3145 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3146 | priority | FREE | 00.00.2022 |
-| :yellow_circle:     | 3147 | Romario  | in progress :hammer: | 23.05.2022 |
-| :large_blue_circle: | 3148 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 3149 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 3148 | Romario  | in progress :hammer: | 23.05.2022 |
+| :yellow_circle:     | 3149 | Dmitry S | in progress :hammer: | 26.05.2022 |
+| :yellow_circle:     | 3149 | Dmitry S | in progress :hammer: | 26.05.2022 |
 | :no_entry:          | 3150 | com bio  | Passed :heavy_check_mark: | 15.05.2022 |
 | :yellow_circle:     | 3151 | Илья 95  | in progress :hammer: | 16.05.2022 |
 | :yellow_circle:     | 3152 | Илья 95  | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 3153 | Илья 95  | in progress :hammer: | 25.05.2022 |
-| :large_blue_circle: | 3154 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 3154 | Dmitry S | in progress :hammer: | 26.05.2022 |
 | :large_blue_circle: | 3155 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3156 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3157 | priority | FREE | 00.00.2022 |

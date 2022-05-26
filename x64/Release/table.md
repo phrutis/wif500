@@ -1100,8 +1100,8 @@
 | :yellow_circle:     | 2281 | Demon    | in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 2282 | Demon    | in progress :hammer: | 22.05.2022 |
 | :no_entry:          | 2283 | make kang| Passed :heavy_check_mark: | 23.05.2022 |
-| :yellow_circle:     | 2284 | Supere   | in progress :hammer: | 23.05.2022 |
-| :yellow_circle:     | 2285 | Supere   | in progress :hammer: | 23.05.2022 |
+| :no_entry:          | 2284 | Supere   | Passed :heavy_check_mark: | 26.05.2022 |
+| :no_entry:          | 2285 | Supere   | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:          | 2286 | Supere   | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:          | 2287 | Supere   | Passed :heavy_check_mark: | 26.05.2022 |
 | :yellow_circle:     | 2288 | Илья     | in progress :hammer: | 24.05.2022 |

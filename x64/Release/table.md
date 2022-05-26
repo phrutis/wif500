@@ -1191,7 +1191,7 @@
 | :yellow_circle:     | 2540 | Sam      | in progress :hammer: | 21.05.2022 |
 | :yellow_circle:     | 2541 | Sam      | in progress :hammer: | 21.05.2022 |
 | :yellow_circle:     | 2542 | Leonid   | in progress :hammer: | 25.05.2022 |
-| :yellow_circle:     | 2543 | Crypto GPU| in progress :hammer: | 22.05.2022 |
+| :no_entry:          | 2543 | Crypto GPU| Passed :heavy_check_mark: | 26.05.2022 |
 | :yellow_circle:     | 2544 | Crypto GPU| in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 2545 | Leonid   | in progress :hammer: | 25.05.2022 |
 | :no_entry:          | 2546 | Oleg_R   | Passed :heavy_check_mark: | 18.05.2022 |
@@ -1218,8 +1218,8 @@
 | :yellow_circle:     | 2567 | Crypto GPU| in progress :hammer: | 25.05.2022 |
 | :no_entry:          | 2568 | Илья 95  | Passed :heavy_check_mark: | 21.05.2022 |
 | :large_blue_circle: | 2569 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2570 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2571 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2570 | 047      | in progress :hammer: | 26.05.2022 |
+| :yellow_circle:     | 2571 | 047      | in progress :hammer: | 26.05.2022 |
 | :no_entry:          | 2572 | Илья 95  | Passed :heavy_check_mark: | 21.05.2022 |
 | :no_entry:          | 2573 | 047      | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:          | 2574 | 047      | Passed :heavy_check_mark: | 22.05.2022 |
@@ -1228,7 +1228,7 @@
 | :no_entry:          | 2577 | 047      | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:          | 2578 | 047      | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:          | 2579 | 047      | Passed :heavy_check_mark: | 22.05.2022 |
-| :yellow_circle:     | 2580 | K-Fed    | in progress :hammer: | 18.05.2022 |
+| :no_entry:          | 2580 | K-Fed    | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:          | 2581 | K-Fed    | Passed :heavy_check_mark: | 25.05.2022 |
 | :yellow_circle:     | 2582 | K-Fed    | in progress :hammer: | 18.05.2022 |
 | :yellow_circle:     | 2583 | K-Fed    | in progress :hammer: | 19.05.2022 |
@@ -1259,7 +1259,7 @@
 | :yellow_circle:     | 2665 | Sam      | in progress :hammer: | 25.05.2022 |
 | :no_entry:          | 2666 | Oleg_R   | Passed :heavy_check_mark: | 12.05.2022 |
 | :no_entry:          | 2667 | Oleg_R   | Passed :heavy_check_mark: | 19.05.2022 |
-| :yellow_circle:     | 2668 | Sam      | in progress :hammer: | 21.05.2022 |
+| :no_entry:          | 2668 | Sam      | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:          | 2669 | Sam      | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2670 | Sam      | Passed :heavy_check_mark: | 25.05.2022 |
 | :yellow_circle:     | 2671 | Sam      | in progress :hammer: | 21.05.2022 |
@@ -1268,8 +1268,8 @@
 | :no_entry:          | 2674 | Sam      | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2675 | Oleg_R   | Passed :heavy_check_mark: | 10.05.2022 |
 | :no_entry:          | 2676 | Sam      | Passed :heavy_check_mark: | 25.05.2022 |
-| :yellow_circle:     | 2677 | Sam      | in progress :hammer: | 22.05.2022 |
-| :yellow_circle:     | 2678 | Sam      | in progress :hammer: | 22.05.2022 |
+| :no_entry:          | 2677 | Sam      | Passed :heavy_check_mark: | 26.05.2022 |
+| :no_entry:          | 2678 | Sam      | Passed :heavy_check_mark: | 26.05.2022 |
 | :yellow_circle:     | 2679 | Sam      | in progress :hammer: | 24.05.2022 |
 | :yellow_circle:     | 2680 | Sam      | in progress :hammer: | 24.05.2022 |
 | :yellow_circle:     | 2681 | Sam      | in progress :hammer: | 24.05.2022 |
@@ -1531,10 +1531,10 @@
 | :yellow_circle:     | 3163 | Ji       | in progress :hammer: | 18.05.2022 |
 | :large_blue_circle: | 3164 | priority | FREE | 00.00.2022 |
 | :yellow_circle:тттт | 3165 | Kripto   | in progress :hammer: | 22.05.2022 |
-| :large_blue_circle: | 3166 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 3166 | Dmitry S | in progress :hammer: | 26.05.2022 |
 | :no_entry:          | 3167 | Almera   | Passed :heavy_check_mark: | 24.04.2022 |
 | :yellow_circle:     | 3168 | Trump88  | in progress :hammer: | 25.05.2022 |
-| :large_blue_circle: | 3169 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 3169 | K-Fed    | in progress :hammer: | 26.05.2022 |
 | :no_entry:          | 3170 | Supere   | Passed :heavy_check_mark: | 25.05.2022 |
 | :yellow_circle:     | 3171 | XM XX    | in progress :hammer: | 21.05.2022 |
 | :no_entry:          | 3172 | Supere   | Passed :heavy_check_mark: | 25.05.2022 |
@@ -1544,6 +1544,7 @@
 | :no_entry:          | 3176 | Oleg D   | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 3177 | Oleg D   | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 3228 | Oleg_R   | Passed :heavy_check_mark: | 03.05.2022 |
+| :yellow_circle:     | 3232 | Crypto GPU| in progress :hammer: | 26.05.2022 |
 | :no_entry:          | 3241 | Oleg_R   | Passed :heavy_check_mark: | 02.05.2022 |
 | :no_entry:          | 3262 | Noname   | Passed :heavy_check_mark: | 02.05.2022 |
 | :no_entry:          | 3268 | Noname   | Passed :heavy_check_mark: | 02.05.2022 |

@@ -1074,7 +1074,7 @@
 | :no_entry:     | 2255 | Mars42   | Passed :heavy_check_mark: | 23.05.2022 |
 | :no_entry:     | 2256 | Mars42   | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:     | 2257 | Mars42   | Passed :heavy_check_mark: | 23.05.2022 |
-| :yellow_circle:| 2258 | Mars42   | in progress :hammer: | 19.05.2022 |
+| :no_entry:     | 2258 | Mars42   | Passed :heavy_check_mark: | 26.05.2022 |
 | :yellow_circle:| 2259 | Mars42   | in progress :hammer: | 19.05.2022 |
 | :no_entry:     | 2260 | Sam      | Passed :heavy_check_mark: | 16.05.2022  |
 | :no_entry:     | 2261 | Sam      | Passed :heavy_check_mark: | 20.05.2022  |
@@ -1214,7 +1214,7 @@
 | :yellow_circle:     | 2563 | DworfD   | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 2564 | DworfD   | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 2565 | DworfD   | in progress :hammer: | 26.05.2022 |
-| :large_blue_circle: | 2566 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2566 | Mars42   | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 2567 | Crypto GPU| in progress :hammer: | 25.05.2022 |
 | :no_entry:          | 2568 | Илья 95  | Passed :heavy_check_mark: | 21.05.2022 |
 | :large_blue_circle: | 2569 | priority | FREE | 00.00.2022 |
@@ -1505,10 +1505,10 @@
 | :large_blue_circle: | 3137 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3138 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 3139 | Kripto   | in progress :hammer: | 26.05.2022 |
-| :large_blue_circle: | 3140 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 3141 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 3142 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 3143 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 3140 | Supere   | in progress :hammer: | 26.05.2022 |
+| :yellow_circle:     | 3141 | Supere   | in progress :hammer: | 26.05.2022 |
+| :yellow_circle:     | 3142 | Supere   | in progress :hammer: | 26.05.2022 |
+| :yellow_circle:     | 3143 | Supere   | in progress :hammer: | 26.05.2022 |
 | :large_blue_circle: | 3144 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3145 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3146 | priority | FREE | 00.00.2022 |

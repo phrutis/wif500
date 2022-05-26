@@ -1421,8 +1421,8 @@
 | :yellow_circle:     | 2941 | com bio  | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 2942 | com bio  | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 2943 | Sam      | in progress :hammer: | 25.05.2022 |
-| :yellow_circle:     | 2944 | 047      | in progress :hammer: | 22.05.2022 |
-| :yellow_circle:     | 2945 | 047      | in progress :hammer: | 22.05.2022 |
+| :no_entry:          | 2944 | 047      | Passed :heavy_check_mark: | 26.05.2022 |
+| :no_entry:          | 2945 | 047      | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:          | 2975 | Zero     | Passed :heavy_check_mark: | 12.05.2022 |
 | :no_entry:          | 2977 | K-Fed    | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:          | 3000 | Fantom   | Passed :heavy_check_mark: | 26.04.2022 |

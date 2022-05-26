@@ -1208,7 +1208,7 @@
 | :no_entry:          | 2557 | com bio  | Passed :heavy_check_mark: | 20.05.2022 |
 | :no_entry:          | 2558 | com bio  | Passed :heavy_check_mark: | 20.05.2022 |
 | :no_entry:          | 2559 | Oleg_R   | Passed :heavy_check_mark: | 16.05.2022 |
-| :yellow_circle:     | 2560 | Oleg_R   | in progress :hammer: | 18.05.2022 |
+| :no_entry:          | 2560 | Oleg_R   | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:          | 2561 | aiyulu   | Passed :heavy_check_mark: | 21.05.2022 |
 | :yellow_circle:     | 2562 | DworfD   | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 2563 | DworfD   | in progress :hammer: | 26.05.2022 |
@@ -1217,7 +1217,7 @@
 | :yellow_circle:     | 2566 | Mars42   | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 2567 | Crypto GPU| in progress :hammer: | 25.05.2022 |
 | :no_entry:          | 2568 | Илья 95  | Passed :heavy_check_mark: | 21.05.2022 |
-| :large_blue_circle: | 2569 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2569 | Oleg_R   | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 2570 | 047      | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 2571 | 047      | in progress :hammer: | 26.05.2022 |
 | :no_entry:          | 2572 | Илья 95  | Passed :heavy_check_mark: | 21.05.2022 |

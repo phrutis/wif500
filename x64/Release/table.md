@@ -1210,10 +1210,10 @@
 | :no_entry:          | 2559 | Oleg_R   | Passed :heavy_check_mark: | 16.05.2022 |
 | :yellow_circle:     | 2560 | Oleg_R   | in progress :hammer: | 18.05.2022 |
 | :no_entry:          | 2561 | aiyulu   | Passed :heavy_check_mark: | 21.05.2022 |
-| :large_blue_circle: | 2562 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2563 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2564 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 2565 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 2562 | DworfD   | in progress :hammer: | 26.05.2022 |
+| :yellow_circle:     | 2563 | DworfD   | in progress :hammer: | 26.05.2022 |
+| :yellow_circle:     | 2564 | DworfD   | in progress :hammer: | 26.05.2022 |
+| :yellow_circle:     | 2565 | DworfD   | in progress :hammer: | 26.05.2022 |
 | :large_blue_circle: | 2566 | priority | FREE | 00.00.2022 |
 | :yellow_circle:     | 2567 | Crypto GPU| in progress :hammer: | 25.05.2022 |
 | :no_entry:          | 2568 | Илья 95  | Passed :heavy_check_mark: | 21.05.2022 |

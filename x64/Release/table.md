@@ -894,10 +894,10 @@
 | :no_entry:     | 1059 | Chris   | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:     | 1060 | Leonid  | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:     | 1061 | Leonid  | Passed :heavy_check_mark: | 18.05.2022 |
-| :yellow_circle:| 1062 | Vyacheslav| in progress :hammer: | 17.05.2022 |
+| :no_entry:     | 1062 | Vyacheslav| Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:     | 1063 | Vyacheslav| Passed :heavy_check_mark: | 25.05.2022 |
-| :yellow_circle:| 1064 | Vyacheslav| in progress :hammer: | 17.05.2022 |
-| :yellow_circle:| 1065 | Vyacheslav| in progress :hammer: | 17.05.2022 |
+| :no_entry:     | 1064 | Vyacheslav| Passed :heavy_check_mark: | 26.05.2022 |
+| :no_entry:     | 1065 | Vyacheslav| Passed :heavy_check_mark: | 26.05.2022 |
 | :yellow_circle:| 1066 | Vyacheslav| in progress :hammer: | 17.05.2022 |
 | :no_entry:     | 1067 | Leonid | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:     | 1068 | Leonid | Passed :heavy_check_mark: | 22.05.2022 |

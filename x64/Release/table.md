@@ -886,7 +886,7 @@
 | :no_entry:     | 1051 | Kuw     | Passed :heavy_check_mark: | 23.05.2022 |
 | :yellow_circle:| 1052 | K-Fed   | in progress :hammer: | 18.05.2022 |
 | :no_entry:     | 1053 | K-Fed   | Passed :heavy_check_mark: | 25.05.2022 |
-| :yellow_circle:| 1054 | K-Fed   | in progress :hammer: | 18.05.2022 |
+| :no_entry:     | 1053 | K-Fed   | Passed :heavy_check_mark: | 26.05.2022 |
 | :yellow_circle:| 1055 | JRodary | in progress :hammer: | 15.05.2022 |
 | :no_entry:     | 1056 | Chris   | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:     | 1057 | Chris   | Passed :heavy_check_mark: | 22.05.2022 |
@@ -1230,9 +1230,9 @@
 | :no_entry:          | 2579 | 047      | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:          | 2580 | K-Fed    | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:          | 2581 | K-Fed    | Passed :heavy_check_mark: | 25.05.2022 |
-| :yellow_circle:     | 2582 | K-Fed    | in progress :hammer: | 18.05.2022 |
-| :yellow_circle:     | 2583 | K-Fed    | in progress :hammer: | 19.05.2022 |
-| :yellow_circle:     | 2584 | K-Fed    | in progress :hammer: | 19.05.2022 |
+| :no_entry:          | 2582 | K-Fed    | Passed :heavy_check_mark: | 26.05.2022 |
+| :no_entry:          | 2583 | K-Fed    | Passed :heavy_check_mark: | 26.05.2022 |
+| :no_entry:          | 2584 | K-Fed    | Passed :heavy_check_mark: | 26.05.2022 |
 | :yellow_circle:     | 2585 | K-Fed    | in progress :hammer: | 19.05.2022 |
 | :yellow_circle:     | 2586 | K-Fed    | in progress :hammer: | 19.05.2022 |
 | :yellow_circle:     | 2587 | K-Fed    | in progress :hammer: | 21.05.2022 |
@@ -1509,9 +1509,9 @@
 | :yellow_circle:     | 3141 | Supere   | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 3142 | Supere   | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 3143 | Supere   | in progress :hammer: | 26.05.2022 |
-| :large_blue_circle: | 3144 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 3145 | priority | FREE | 00.00.2022 |
-| :large_blue_circle: | 3146 | priority | FREE | 00.00.2022 |
+| :large_blue_circle: | 3144 | K-Fed    | in progress :hammer: | 26.05.2022 |
+| :large_blue_circle: | 3145 | K-Fed    | in progress :hammer: | 26.05.2022 |
+| :large_blue_circle: | 3146 | K-Fed    | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 3147 | Romario  | in progress :hammer: | 23.05.2022 |
 | :yellow_circle:     | 3148 | Dmitry S | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 3149 | Dmitry S | in progress :hammer: | 26.05.2022 |
@@ -1520,7 +1520,7 @@
 | :yellow_circle:     | 3152 | Илья 95  | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 3153 | Илья 95  | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 3154 | Dmitry S | in progress :hammer: | 26.05.2022 |
-| :large_blue_circle: | 3155 | priority | FREE | 00.00.2022 |
+| :large_blue_circle: | 3155 | K-Fed    | in progress :hammer: | 26.05.2022 |
 | :large_blue_circle: | 3156 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3157 | priority | FREE | 00.00.2022 |
 | :large_blue_circle: | 3158 | priority | FREE | 00.00.2022 |

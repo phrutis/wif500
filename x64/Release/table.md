@@ -887,7 +887,7 @@
 | :yellow_circle:| 1052 | K-Fed   | in progress :hammer: | 18.05.2022 |
 | :no_entry:     | 1053 | K-Fed   | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:     | 1054 | K-Fed   | Passed :heavy_check_mark: | 26.05.2022 |
-| :no_entry:     | 1055 | JRodary | Passed | 27.05.2022 |
+| :no_entry:     | 1055 | JRodary | Passed :heavy_check_mark: | 27.05.2022 |
 | :no_entry:     | 1056 | Chris   | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:     | 1057 | Chris   | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:     | 1058 | Chris   | Passed :heavy_check_mark: | 22.05.2022 |
@@ -1112,7 +1112,7 @@
 | :no_entry:          | 2293 | Sam      | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:          | 2294 | Noname   | Passed :heavy_check_mark: | 25.05.2022 |
 | :yellow_circle:     | 2295 | Ervings  | in progress :hammer: | 25.05.2022 |
-| :yellow_circle:     | 2296 | Oleg_R   | in progress :hammer: | 23.05.2022 |
+| :no_entry:          | 2296 | Oleg_R   | Passed :heavy_check_mark: | 27.05.2022 |
 | :yellow_circle:     | 2297 | Ervings  | in progress :hammer: | 25.05.2022 |
 | :no_entry:          | 2298 | Leonid   | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2299 | Leonid   | Passed :heavy_check_mark: | 25.05.2022 |

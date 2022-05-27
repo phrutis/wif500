@@ -1509,9 +1509,9 @@
 | :yellow_circle:     | 3141 | Supere   | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 3142 | Supere   | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 3143 | Supere   | in progress :hammer: | 26.05.2022 |
-| :large_blue_circle: | 3144 | K-Fed    | in progress :hammer: | 26.05.2022 |
-| :large_blue_circle: | 3145 | K-Fed    | in progress :hammer: | 26.05.2022 |
-| :large_blue_circle: | 3146 | K-Fed    | in progress :hammer: | 26.05.2022 |
+| :yellow_circle:     | 3144 | K-Fed    | in progress :hammer: | 26.05.2022 |
+| :yellow_circle:     | 3145 | K-Fed    | in progress :hammer: | 26.05.2022 |
+| :yellow_circle:     | 3146 | K-Fed    | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 3147 | Romario  | in progress :hammer: | 23.05.2022 |
 | :yellow_circle:     | 3148 | Dmitry S | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 3149 | Dmitry S | in progress :hammer: | 26.05.2022 |
@@ -1520,7 +1520,7 @@
 | :yellow_circle:     | 3152 | Илья 95  | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 3153 | Илья 95  | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 3154 | Dmitry S | in progress :hammer: | 26.05.2022 |
-| :large_blue_circle: | 3155 | K-Fed    | in progress :hammer: | 26.05.2022 |
+| :yellow_circle:     | 3155 | K-Fed    | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 3156 | k bluesky| in progress :hammer: | 27.05.2022 |
 | :yellow_circle:     | 3157 | Trump88  | in progress :hammer: | 27.05.2022 |
 | :yellow_circle:     | 3158 | Trump88  | in progress :hammer: | 27.05.2022 |

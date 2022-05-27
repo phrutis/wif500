@@ -1523,7 +1523,7 @@
 | :large_blue_circle: | 3155 | K-Fed    | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 3156 | k bluesky| in progress :hammer: | 27.05.2022 |
 | :yellow_circle:     | 3157 | Trump88  | in progress :hammer: | 27.05.2022 |
-| :large_blue_circle: | 3158 | priority | FREE | 00.00.2022 |
+| :yellow_circle:     | 3158 | Trump88  | in progress :hammer: | 27.05.2022 |
 | :yellow_circle:     | 3159 | JRodary  | in progress :hammer: | 27.05.2022 |
 | :yellow_circle:     | 3160 | Mars42   | in progress :hammer: | 27.05.2022 |
 | :no_entry:          | 3161 | Kripto   | Passed :heavy_check_mark: | 18.05.2022 |

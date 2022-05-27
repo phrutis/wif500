@@ -21,8 +21,8 @@ pie title Total ranges 3364
           "    " : 0
   "- Passed 853" : 853
          "     " : 0
-  "- In progress 380" : 380
-   "- FREE 2131" : 2131
+  "- In progress 494" : 494
+   "- FREE 2017" : 2017
 ```
 ## How to participate in the challenge:
 If you have a GPUs:</br>

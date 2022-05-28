@@ -603,7 +603,7 @@
 | :no_entry:     | 599 | Almera   | Passed :heavy_check_mark: | 27.04.2022 |
 | :no_entry:     | 600 | k bluesky| Passed :heavy_check_mark: | 27.05.2022 |
 | :no_entry:     | 601 | k bluesky| Passed :heavy_check_mark: | 27.05.2022 |
-| :yellow_circle:| 602 | k bluesky| in progress :hammer: | 24.05.2022 |
+| :no_entry:     | 602 | k bluesky| Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:     | 603 | k bluesky| Passed :heavy_check_mark: | 27.05.2022 |
 | :no_entry:     | 604 | k bluesky| Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:     | 605 | k bluesky| Passed :heavy_check_mark: | 28.05.2022 |
@@ -618,7 +618,7 @@
 | :yellow_circle:| 614 | k bluesky| in progress :hammer: | 28.05.2022 |
 | :yellow_circle:| 615 | k bluesky| in progress :hammer: | 28.05.2022 |
 | :yellow_circle:| 616 | k bluesky| in progress :hammer: | 28.05.2022 |
-| :green_circle: | 617 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 617 | k bluesky| in progress :hammer: | 28.05.2022 |
 | :green_circle: | 618 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 619 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 620 | FREE     | FREE | 00.00.2022 |

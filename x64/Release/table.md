@@ -1001,7 +1001,7 @@
 | :no_entry:     | 1034 | K-Fed   | Passed :heavy_check_mark: | 19.05.2022 |
 | :no_entry:     | 1035 | K-Fed   | Passed :heavy_check_mark: | 19.05.2022 |
 | :no_entry:     | 1036 | K-Fed   | Passed :heavy_check_mark: | 19.05.2022 |
-| :blue_square:  | 1037 | FREE    | FREE | 14.05.2022 |
+| :yellow_circle:| 1037 | V       | in progress :hammer: | 28.05.2022 |
 | :no_entry:     | 1038 | K-Fed   | Passed :heavy_check_mark: | 21.05.2022 |
 | :no_entry:     | 1039 | 047     | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:     | 1040 | 047     | Passed :heavy_check_mark: | 18.05.2022 |
@@ -1435,7 +1435,7 @@
 | :no_entry:          | 2594 | Oleg_R   | Passed :heavy_check_mark: | 19.05.2022 |
 | :no_entry:          | 2595 | V        | Passed :heavy_check_mark: | 28.05.2022 |
 | :yellow_circle:     | 2596 | V        | in progress :hammer: | 19.05.2022 |
-| :yellow_circle:     | 2597 | V        | in progress :hammer: | 19.05.2022 |
+| :no_entry:          | 2597 | V        | Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:          | 2648 | Oleg_R   | Passed :heavy_check_mark: | 04.05.2022 |
 | :yellow_circle:     | 2656 | K-Fed    | in progress :hammer: | 23.05.2022 |
 | :yellow_circle:     | 2657 | K-Fed    | in progress :hammer: | 23.05.2022 |

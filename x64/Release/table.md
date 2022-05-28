@@ -1190,7 +1190,7 @@
 | :blue_square:  | 2077 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2078 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2079 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2080 | priority  | FREE | 00.00.2022 |
+| :yellow_circle:| 2080 | Илья  | in progress :hammer: | 28.05.2022 |
 | :blue_square:  | 2081 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2082 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2083 | priority  | FREE | 00.00.2022 |
@@ -1294,7 +1294,7 @@
 | :no_entry:          | 2285 | Supere   | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:          | 2286 | Supere   | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:          | 2287 | Supere   | Passed :heavy_check_mark: | 26.05.2022 |
-| :yellow_circle:     | 2288 | Илья     | in progress :hammer: | 24.05.2022 |
+| :no_entry:          | 2288 | Илья     | Passed :heavy_check_mark: | 28.05.2022 |
 | :yellow_circle:     | 2289 | Supere   | in progress :hammer: | 25.05.2022 |
 | :no_entry:          | 2290 | Sam      | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:          | 2291 | Sam      | Passed :heavy_check_mark: | 18.05.2022 |

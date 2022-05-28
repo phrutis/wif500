@@ -605,19 +605,19 @@
 | :no_entry:     | 601 | k bluesky| Passed :heavy_check_mark: | 27.05.2022 |
 | :yellow_circle:| 602 | k bluesky| in progress :hammer: | 24.05.2022 |
 | :no_entry:     | 603 | k bluesky| Passed :heavy_check_mark: | 27.05.2022 |
-| :yellow_circle:| 604 | k bluesky| in progress :hammer: | 24.05.2022 |
-| :yellow_circle:| 605 | k bluesky| in progress :hammer: | 24.05.2022 |
-| :yellow_circle:| 606 | k bluesky| in progress :hammer: | 24.05.2022 |
-| :yellow_circle:| 607 | k bluesky| in progress :hammer: | 24.05.2022 |
-| :yellow_circle:| 608 | k bluesky| in progress :hammer: | 24.05.2022 |
+| :no_entry:     | 604 | k bluesky| Passed :heavy_check_mark: | 28.05.2022 |
+| :no_entry:     | 605 | k bluesky| Passed :heavy_check_mark: | 28.05.2022 |
+| :no_entry:     | 606 | k bluesky| Passed :heavy_check_mark: | 28.05.2022 |
+| :no_entry:     | 607 | k bluesky| Passed :heavy_check_mark: | 28.05.2022 |
+| :no_entry:     | 608 | k bluesky| Passed :heavy_check_mark: | 28.05.2022 |
 | :yellow_circle:| 609 | k bluesky| in progress :hammer: | 25.05.2022 |
 | :yellow_circle:| 610 | k bluesky| in progress :hammer: | 27.05.2022 |
 | :yellow_circle:| 611 | k bluesky| in progress :hammer: | 27.05.2022 |
-| :green_circle: | 612 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 613 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 614 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 615 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 616 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 612 | k bluesky| in progress :hammer: | 28.05.2022 |
+| :yellow_circle:| 613 | k bluesky| in progress :hammer: | 28.05.2022 |
+| :yellow_circle:| 614 | k bluesky| in progress :hammer: | 28.05.2022 |
+| :yellow_circle:| 615 | k bluesky| in progress :hammer: | 28.05.2022 |
+| :yellow_circle:| 616 | k bluesky| in progress :hammer: | 28.05.2022 |
 | :green_circle: | 617 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 618 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 619 | FREE     | FREE | 00.00.2022 |
@@ -1404,7 +1404,7 @@
 | :no_entry:          | 2679 | Sam      | Passed :heavy_check_mark: | 27.05.2022 |
 | :no_entry:          | 2680 | Sam      | Passed :heavy_check_mark: | 27.05.2022 |
 | :yellow_circle:     | 2681 | Sam      | in progress :hammer: | 24.05.2022 |
-| :yellow_circle:     | 2682 | Sam      | in progress :hammer: | 24.05.2022 |
+| :no_entry:          | 2682 | Sam      | Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:          | 2683 | Sam      | Passed :heavy_check_mark: | 27.05.2022 |
 | :no_entry:          | 2684 | Sam      | Passed :heavy_check_mark: | 27.05.2022 |
 | :no_entry:          | 2685 | Sam      | Passed :heavy_check_mark: | 27.05.2022 |
@@ -1413,10 +1413,10 @@
 | :no_entry:          | 2688 | Sam      | Passed :heavy_check_mark: | 27.05.2022 |
 | :no_entry:          | 2689 | Sam      | Passed :heavy_check_mark: | 27.05.2022 |
 | :no_entry:          | 2690 | Sam      | Passed :heavy_check_mark: | 27.05.2022 |
-| :yellow_circle:     | 2691 | Sam      | in progress :hammer: | 24.05.2022 |
-| :yellow_circle:     | 2692 | Sam      | in progress :hammer: | 24.05.2022 |
+| :no_entry:          | 2691 | Sam      | Passed :heavy_check_mark: | 28.05.2022 |
+| :no_entry:          | 2692 | Sam      | Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:          | 2693 | Oleg_R   | Passed :heavy_check_mark: | 12.05.2022 |
-| :yellow_circle:     | 2694 | Sam      | in progress :hammer: | 24.05.2022 |
+| :no_entry:          | 2694 | Sam      | Passed :heavy_check_mark: | 28.05.2022 |
 | :yellow_circle:     | 2695 | Sam      | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 2696 | Sam      | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 2697 | Sam      | in progress :hammer: | 25.05.2022 |
@@ -1648,10 +1648,10 @@
 | :no_entry:          | 2923 | 047      | Passed :heavy_check_mark: | 27.05.2022 |
 | :no_entry:          | 2924 | 047      | Passed :heavy_check_mark: | 27.05.2022 |
 | :no_entry:          | 2925 | 047      | Passed :heavy_check_mark: | 27.05.2022 |
-| :yellow_circle:     | 2926 | Supere   | in progress :hammer: | 24.05.2022 |
-| :yellow_circle:     | 2927 | Supere   | in progress :hammer: | 24.05.2022 |
-| :yellow_circle:     | 2928 | Supere   | in progress :hammer: | 24.05.2022 |
-| :yellow_circle:     | 2929 | Supere   | in progress :hammer: | 24.05.2022 |
+| :no_entry:          | 2926 | Supere   | Passed :heavy_check_mark: | 28.05.2022 |
+| :no_entry:          | 2927 | Supere   | Passed :heavy_check_mark: | 28.05.2022 |
+| :no_entry:          | 2928 | Supere   | Passed :heavy_check_mark: | 28.05.2022 |
+| :no_entry:          | 2929 | Supere   | Passed :heavy_check_mark: | 28.05.2022 |
 | :yellow_circle:     | 2930 | Supere   | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 2931 | Supere   | in progress :hammer: | 25.05.2022 |
 | :no_entry:          | 2932 | com bio  | Passed :heavy_check_mark: | 25.05.2022 |

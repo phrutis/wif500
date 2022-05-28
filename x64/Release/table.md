@@ -306,7 +306,7 @@
 | :green_circle: | 302 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 303 | FREE  | FREE | 00.00.2022 |
 | :yellow_circle:| 304 | Kuw   | in progress :hammer: | 08.05.2022 |
-| :green_circle: | 305 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 305 | V     | in progress :hammer: | 28.05.2022 |
 | :green_circle: | 306 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 307 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 308 | FREE  | FREE | 00.00.2022 |

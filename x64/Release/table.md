@@ -1319,7 +1319,7 @@
 | :no_entry:          | 2479 | DworfD   | Passed :heavy_check_mark: | 04.05.2022 |
 | :no_entry:          | 2480 | DworfD   | Passed :heavy_check_mark: | 04.05.2022 |
 | :no_entry:          | 2481 | DworfD   | Passed :heavy_check_mark: | 04.05.2022 |
-| :yellow_circle:     | 2540 | Sam      | in progress :hammer: | 21.05.2022 |
+| :no_entry:          | 2540 | Sam      | Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:          | 2541 | Sam      | Passed :heavy_check_mark: | 27.05.2022 |
 | :yellow_circle:     | 2542 | Leonid   | in progress :hammer: | 25.05.2022 |
 | :no_entry:          | 2543 | Crypto GPU| Passed :heavy_check_mark: | 26.05.2022 |
@@ -1417,8 +1417,8 @@
 | :no_entry:          | 2692 | Sam      | Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:          | 2693 | Oleg_R   | Passed :heavy_check_mark: | 12.05.2022 |
 | :no_entry:          | 2694 | Sam      | Passed :heavy_check_mark: | 28.05.2022 |
-| :yellow_circle:     | 2695 | Sam      | in progress :hammer: | 25.05.2022 |
-| :yellow_circle:     | 2696 | Sam      | in progress :hammer: | 25.05.2022 |
+| :no_entry:          | 2695 | Sam      | Passed :heavy_check_mark: | 28.05.2022 |
+| :no_entry:          | 2696 | Sam      | Passed :heavy_check_mark: | 28.05.2022 |
 | :yellow_circle:     | 2697 | Sam      | in progress :hammer: | 25.05.2022 |
 | :no_entry:          | 2698 | Oleg_R   | Passed :heavy_check_mark: | 12.05.2022 |
 | :no_entry:          | 2699 | Oleg_R   | Passed :heavy_check_mark: | 11.05.2022 |
@@ -1652,11 +1652,11 @@
 | :no_entry:          | 2927 | Supere   | Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:          | 2928 | Supere   | Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:          | 2929 | Supere   | Passed :heavy_check_mark: | 28.05.2022 |
-| :yellow_circle:     | 2930 | Supere   | in progress :hammer: | 25.05.2022 |
-| :yellow_circle:     | 2931 | Supere   | in progress :hammer: | 25.05.2022 |
+| :no_entry:          | 2930 | Supere   | Passed :heavy_check_mark: | 28.05.2022 |
+| :no_entry:          | 2931 | Supere   | Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:          | 2932 | com bio  | Passed :heavy_check_mark: | 25.05.2022 |
-| :yellow_circle:     | 2933 | Supere   | in progress :hammer: | 25.05.2022 |
-| :yellow_circle:     | 2934 | Supere   | in progress :hammer: | 25.05.2022 |
+| :no_entry:          | 2933 | Supere   | Passed :heavy_check_mark: | 28.05.2022 |
+| :no_entry:          | 2934 | Supere   | Passed :heavy_check_mark: | 28.05.2022 |
 | :yellow_circle:     | 2935 | com bio  | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 2936 | com bio  | in progress :hammer: | 25.05.2022 |
 | :yellow_circle:     | 2937 | com bio  | in progress :hammer: | 25.05.2022 |

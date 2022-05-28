@@ -3,6 +3,7 @@
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
 :green_circle: - Range FREE</br>
+:blue_square: - Range FREE (priority)</br>
 
 [Choose a free range and report it to the group](https://t.me/+WFEuFatijpowMjRi)
 

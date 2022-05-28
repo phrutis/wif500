@@ -1000,7 +1000,7 @@
 | :no_entry:     | 1034 | K-Fed   | Passed :heavy_check_mark: | 19.05.2022 |
 | :no_entry:     | 1035 | K-Fed   | Passed :heavy_check_mark: | 19.05.2022 |
 | :no_entry:     | 1036 | K-Fed   | Passed :heavy_check_mark: | 19.05.2022 |
-| :yellow_circle:| 1037 | GR Sasa | in progress :hammer: | 14.05.2022 |
+| :blue_square:  | 1037 | FREE    | FREE | 14.05.2022 |
 | :no_entry:     | 1038 | K-Fed   | Passed :heavy_check_mark: | 21.05.2022 |
 | :no_entry:     | 1039 | 047     | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:     | 1040 | 047     | Passed :heavy_check_mark: | 18.05.2022 |
@@ -1180,11 +1180,69 @@
 | :no_entry:     | 1908 | Zero      | Passed :heavy_check_mark: | 12.05.2022 |
 | :no_entry:     | 1924 | cpto_node | Passed :heavy_check_mark: | 26.04.2022 |
 | :no_entry:     | 2019 | Leonid    | Passed :heavy_check_mark: | 21.04.2022 |
-| :no_entry:     | 2020 | Leonid   | Passed :heavy_check_mark: | 18.04.2022 |
-| :no_entry:     | 2021 | Leonid   | Passed :heavy_check_mark: | 21.04.2022 |
-| :no_entry:     | 2022 | Leonid   | Passed :heavy_check_mark: | 18.04.2022 |
-| :no_entry:     | 2023 | Leonid   | Passed :heavy_check_mark: | 25.04.2022 |
-| :no_entry:     | 2024 | Leonid   | Passed :heavy_check_mark: | 25.04.2022 |
+| :no_entry:     | 2020 | Leonid    | Passed :heavy_check_mark: | 18.04.2022 |
+| :no_entry:     | 2021 | Leonid    | Passed :heavy_check_mark: | 21.04.2022 |
+| :no_entry:     | 2022 | Leonid    | Passed :heavy_check_mark: | 18.04.2022 |
+| :no_entry:     | 2023 | Leonid    | Passed :heavy_check_mark: | 25.04.2022 |
+| :no_entry:     | 2024 | Leonid    | Passed :heavy_check_mark: | 25.04.2022 |
+| :blue_square:  | 2076 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2077 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2078 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2079 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2080 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2081 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2082 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2083 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2084 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2085 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2086 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2087 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2088 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2089 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2090 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2091 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2092 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2093 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2094 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2095 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2096 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2097 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2098 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2099 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2100 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2101 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2102 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2103 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2104 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2105 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2106 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2107 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2108 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2109 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2110 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2111 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2112 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2113 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2114 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2115 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2116 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2117 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2118 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2119 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2120 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2121 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2122 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2123 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2124 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2125 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2126 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2127 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2128 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2129 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2130 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2131 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2132 | priority  | FREE | 00.00.2022 |
+| :blue_square:  | 2133 | priority  | FREE | 00.00.2022 |
 | :no_entry:     | 2134 | Almera   | Passed :heavy_check_mark: | 22.04.2022 |
 | :no_entry:     | 2145 | Almera   | Passed :heavy_check_mark: | 23.04.2022 |
 | :no_entry:     | 2220 | DworfD   | Passed :heavy_check_mark: | 29.04.2022 |
@@ -1430,7 +1488,7 @@
 | :no_entry:          | 2705 | Alexander| Passed :heavy_check_mark: | 02.05.2022 |
 | :no_entry:          | 2706 | Alexander| Passed :heavy_check_mark: | 03.05.2022 |
 | :no_entry:          | 2707 | Oleg_R   | Passed :heavy_check_mark: | 12.05.2022 |
-| :yellow_circle:     | 2708 | Sam      | in progress :hammer: | 25.05.2022 |
+| :no_entry:          | 2708 | Sam      | Passed :heavy_check_mark: | 28.05.2022 |
 | :yellow_circle:     | 2709 | Sam      | in progress :hammer: | 25.05.2022 |
 | :no_entry:          | 2710 | Oleg_R   | Passed :heavy_check_mark: | 12.05.2022 |
 | :yellow_circle:     | 2711 | Sam      | in progress :hammer: | 25.05.2022 |

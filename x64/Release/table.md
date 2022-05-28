@@ -1374,7 +1374,7 @@
 | :no_entry:          | 2592 | Andrii   | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:          | 2593 | Crypto GPU| Passed :heavy_check_mark: | 27.05.2022 |
 | :no_entry:          | 2594 | Oleg_R   | Passed :heavy_check_mark: | 19.05.2022 |
-| :yellow_circle:     | 2595 | V        | in progress :hammer: | 19.05.2022 |
+| :no_entry:          | 2595 | V        | Passed :heavy_check_mark: | 28.05.2022 |
 | :yellow_circle:     | 2596 | V        | in progress :hammer: | 19.05.2022 |
 | :yellow_circle:     | 2597 | V        | in progress :hammer: | 19.05.2022 |
 | :no_entry:          | 2648 | Oleg_R   | Passed :heavy_check_mark: | 04.05.2022 |

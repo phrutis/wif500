@@ -1059,7 +1059,7 @@
 | :no_entry:     | 1120 | KillBill_2| Passed :heavy_check_mark:  | 11.05.2022 |
 | :no_entry:     | 1121 | KillBill_2| Passed                | 06.05.2022  |
 | :no_entry:     | 1211 | Almera    | Passed :heavy_check_mark:  | 25.04.2022 |
-| :green_circle: | 1234 | FREE      | FREE  |  00.00.2022  |
+| :yellow_circle:| 1234 | Denis     | in progress :hammer: | 29.05.2022 |
 | :no_entry:     | 1250 | Oleg_R    | Passed :heavy_check_mark: | 06.05.2022 |
 | :no_entry:     | 1267 | Almera    | Passed :heavy_check_mark: | 26.04.2022 |
 | :no_entry:     | 1344 | Almera    | Passed :heavy_check_mark: | 25.04.2022 |
@@ -1219,31 +1219,31 @@
 | :yellow_circle:| 2106 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2107 | Oleg_R    | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2108 | Denis     | in progress :hammer: | 29.05.2022 |
-| :blue_square:  | 2109 | priority  | FREE | 00.00.2022 |
+| :yellow_circle:| 2109 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2110 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2011 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2112 | Oleg_R    | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2113 | Oleg_R    | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2114 | Denis     | in progress :hammer: | 29.05.2022 |
-| :blue_square:  | 2115 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2116 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2117 | priority  | FREE | 00.00.2022 |
+| :yellow_circle:| 2115 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2116 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2117 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2118 | Oleg_R    | in progress :hammer: | 29.05.2022 |
-| :blue_square:  | 2119 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2120 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2121 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2122 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2123 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2124 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2125 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2126 | priority  | FREE | 00.00.2022 |
+| :yellow_circle:| 2119 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2120 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2121 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2122 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2123 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2124 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2125 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2126 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2127 | Oleg_R    | in progress :hammer: | 29.05.2022 |
-| :blue_square:  | 2128 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2129 | priority  | FREE | 00.00.2022 |
+| :yellow_circle:| 2128 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2129 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2130 | Oleg_R    | in progress :hammer: | 29.05.2022 |
-| :blue_square:  | 2131 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2132 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2133 | priority  | FREE | 00.00.2022 |
+| :yellow_circle:| 2131 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2132 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2133 | Denis     | in progress :hammer: | 29.05.2022 |
 | :no_entry:     | 2134 | Almera   | Passed :heavy_check_mark: | 22.04.2022 |
 | :no_entry:     | 2145 | Almera   | Passed :heavy_check_mark: | 23.04.2022 |
 | :no_entry:     | 2220 | DworfD   | Passed :heavy_check_mark: | 29.04.2022 |

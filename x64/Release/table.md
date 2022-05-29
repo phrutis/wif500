@@ -1495,7 +1495,7 @@
 | :no_entry:          | 2712 | Sam      | Passed :heavy_check_mark: | 29.05.2022 |
 | :no_entry:          | 2713 | Sam      | Passed :heavy_check_mark: | 29.05.2022 |
 | :yellow_circle:     | 2714 | Sam      | in progress :hammer: | 25.05.2022 |
-| :yellow_circle:     | 2715 | Sam      | in progress :hammer: | 25.05.2022 |
+| :no_entry:          | 2715 | Sam      | Passed :heavy_check_mark: | 29.05.2022 |
 | :no_entry:          | 2716 | Chris     | Passed :heavy_check_mark: | 11.05.2022 |
 | :no_entry:          | 2717 | Chris     | Passed :heavy_check_mark: | 11.05.2022 |
 | :no_entry:          | 2718 | Chris     | Passed :heavy_check_mark: | 11.05.2022 |

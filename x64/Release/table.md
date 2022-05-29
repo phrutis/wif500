@@ -499,7 +499,7 @@
 | :no_entry:     | 494 | Almera  | Passed :heavy_check_mark: | 27.04.2022 |
 | :no_entry:     | 495 | Almera  | Passed :heavy_check_mark: | 27.04.2022 |
 | :no_entry:     | 496 | Almera  | Passed :heavy_check_mark: | 27.04.2022 |
-| :no_entry:     | 497 | Almera  | Passed | 27.04.2022 |
+| :no_entry:     | 497 | Almera  | Passed :heavy_check_mark: | 27.04.2022 |
 | :no_entry:     | 498 | Almera  | Passed :heavy_check_mark: | 27.04.2022 |
 | :no_entry:     | 499 | Almera  | Passed :heavy_check_mark: | 27.04.2022 |
 | :no_entry:     | 500 | Fantom  | Passed :heavy_check_mark: | 26.04.2022 |
@@ -809,8 +809,8 @@
 | :no_entry:     | 804 | 047      | Passed :heavy_check_mark: | 06.05.2022 |
 | :no_entry:     | 805 | 047      | Passed :heavy_check_mark: | 08.05.2022 |
 | :no_entry:     | 806 | 047      | Passed :heavy_check_mark: | 06.05.2022 |
-| :yellow_circle:| 807 | Jo Z     | in progress :hammer: | 14.05.2022 |
-| :yellow_circle:| 808 | Jo Z     | in progress :hammer: | 14.05.2022 |
+| :blue_square:  | 807 | FREE     | FREE | 00.00.2022 |
+| :blue_square:  | 808 | FREE     | FREE | 00.00.2022 |
 | :no_entry:     | 809 | Jo Z     | Passed :heavy_check_mark: | 11.05.2022 |
 | :no_entry:     | 810 | Jo Z     | Passed :heavy_check_mark: | 11.05.2022 |
 | :no_entry:     | 811 | Oleg_R   | Passed :heavy_check_mark: | 08.05.2022 |
@@ -1452,7 +1452,7 @@
 | :no_entry:          | 2668 | Sam      | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:          | 2669 | Sam      | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2670 | Sam      | Passed :heavy_check_mark: | 25.05.2022 |
-| :yellow_circle:     | 2671 | Sam      | in progress :hammer: | 21.05.2022 |
+| :no_entry:          | 2671 | Sam      | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2672 | Sam      | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2673 | Илья 95  | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2674 | Sam      | Passed :heavy_check_mark: | 25.05.2022 |
@@ -1462,7 +1462,7 @@
 | :no_entry:          | 2678 | Sam      | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:          | 2679 | Sam      | Passed :heavy_check_mark: | 27.05.2022 |
 | :no_entry:          | 2680 | Sam      | Passed :heavy_check_mark: | 27.05.2022 |
-| :yellow_circle:     | 2681 | Sam      | in progress :hammer: | 24.05.2022 |
+| :no_entry:          | 2681 | Sam      | Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:          | 2682 | Sam      | Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:          | 2683 | Sam      | Passed :heavy_check_mark: | 27.05.2022 |
 | :no_entry:          | 2684 | Sam      | Passed :heavy_check_mark: | 27.05.2022 |

@@ -754,8 +754,8 @@
 | :green_circle: | 750 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 751 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 752 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 753 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 754 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 753 | Leonid   | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 754 | Leonid   | in progress :hammer: | 29.05.2022 |
 | :green_circle: | 755 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 756 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 757 | FREE     | FREE | 00.00.2022 |

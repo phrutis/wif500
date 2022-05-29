@@ -3,7 +3,6 @@
 :no_entry: - Range Passed</br>
 :yellow_circle: - Range in progress</br>
 :green_circle: - Range FREE</br>
-:blue_square: - Range FREE (priority)</br>
 
 [Choose a free range and report it to the group](https://t.me/+WFEuFatijpowMjRi)
 
@@ -38,10 +37,10 @@
 | :yellow_circle:| 26  | Vyacheslav| in progress :hammer: | 26.05.2022 |
 | :yellow_circle:| 27  | Vyacheslav| in progress :hammer: | 26.05.2022 |
 | :yellow_circle:| 28  | Vyacheslav| in progress :hammer: | 26.05.2022 |
-| :green_circle: | 29  | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 30  | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 31  | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 32  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 29  | com bio | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 30  | com bio | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 31  | com bio | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 32  | com bio | in progress :hammer: | 29.05.2022 |
 | :no_entry:     | 33  | V       | Passed :heavy_check_mark: | 02.05.2022 |
 | :no_entry:     | 34  | 047     | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:     | 35  | 047     | Passed :heavy_check_mark: | 18.05.2022 |
@@ -809,8 +808,8 @@
 | :no_entry:     | 804 | 047      | Passed :heavy_check_mark: | 06.05.2022 |
 | :no_entry:     | 805 | 047      | Passed :heavy_check_mark: | 08.05.2022 |
 | :no_entry:     | 806 | 047      | Passed :heavy_check_mark: | 06.05.2022 |
-| :blue_square:  | 807 | FREE     | FREE | 00.00.2022 |
-| :blue_square:  | 808 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 807 | com bio  | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 808 | com bio  | in progress :hammer: | 29.05.2022 |
 | :no_entry:     | 809 | Jo Z     | Passed :heavy_check_mark: | 11.05.2022 |
 | :no_entry:     | 810 | Jo Z     | Passed :heavy_check_mark: | 11.05.2022 |
 | :no_entry:     | 811 | Oleg_R   | Passed :heavy_check_mark: | 08.05.2022 |
@@ -1067,8 +1066,8 @@
 | :no_entry:     | 1381 | Almera    | Passed :heavy_check_mark: | 24.04.2022 |
 | :no_entry:     | 1398 | Zero      | Passed :heavy_check_mark: | 12.05.2022 |
 | :no_entry:     | 1401 | Kuw       | Passed :heavy_check_mark: | 21.04.2022 |
-| :no_entry:     | 1502 | Kuw       | Passed                | 22.04.2022 |
-| :green_circle: | 1504 | FREE      | FREE  |  00.00.2022 |
+| :no_entry:     | 1502 | Kuw       | Passed               | 22.04.2022 |
+| :yellow_circle:| 1504 | com bio   | in progress :hammer: | 29.05.2022 |
 | :no_entry:     | 1600 | Haymac    | Passed :heavy_check_mark: | 26.04.2022 |
 | :no_entry:     | 1601 | Haymac    | Passed :heavy_check_mark: | 30.04.2022 |
 | :no_entry:     | 1602 | Haymac    | Passed :heavy_check_mark: | 24.05.2022 |
@@ -1380,11 +1379,11 @@
 | :no_entry:          | 2481 | DworfD   | Passed :heavy_check_mark: | 04.05.2022 |
 | :no_entry:          | 2540 | Sam      | Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:          | 2541 | Sam      | Passed :heavy_check_mark: | 27.05.2022 |
-| :yellow_circle:     | 2542 | Leonid   | in progress :hammer: | 25.05.2022 |
+| :no_entry:          | 2542 | Leonid   | Passed :heavy_check_mark: | 29.05.2022 |
 | :no_entry:          | 2543 | Crypto GPU| Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:          | 2544 | Crypto GPU| Passed :heavy_check_mark: | 27.05.2022 |
-| :yellow_circle:     | 2545 | Leonid   | in progress :hammer: | 25.05.2022 |
-| :no_entry:          | 2546 | Oleg_R   |  | 18.05.2022 |
+| :no_entry:          | 2545 | Leonid   | Passed :heavy_check_mark: | 29.05.2022 |
+| :no_entry:          | 2546 | Oleg_R   | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:          | 2547 | DworfD   | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:          | 2548 | DworfD   | Passed :heavy_check_mark: | 26.05.2022 |
 | :yellow_circle:     | 2549 | KIKI     | in progress :hammer: | 26.05.2022 |
@@ -1716,14 +1715,14 @@
 | :no_entry:          | 2932 | com bio  | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2933 | Supere   | Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:          | 2934 | Supere   | Passed :heavy_check_mark: | 28.05.2022 |
-| :yellow_circle:     | 2935 | com bio  | in progress :hammer: | 25.05.2022 |
-| :yellow_circle:     | 2936 | com bio  | in progress :hammer: | 25.05.2022 |
-| :yellow_circle:     | 2937 | com bio  | in progress :hammer: | 25.05.2022 |
-| :yellow_circle:     | 2938 | com bio  | in progress :hammer: | 25.05.2022 |
-| :yellow_circle:     | 2939 | com bio  | in progress :hammer: | 25.05.2022 |
+| :no_entry:          | 2935 | com bio  | Passed :heavy_check_mark: | 29.05.2022 |
+| :no_entry:          | 2936 | com bio  | Passed :heavy_check_mark: | 29.05.2022 |
+| :no_entry:          | 2937 | com bio  | Passed :heavy_check_mark: | 29.05.2022 |
+| :no_entry:          | 2938 | com bio  | Passed :heavy_check_mark: | 29.05.2022 |
+| :no_entry:          | 2939 | com bio  | Passed :heavy_check_mark: | 29.05.2022 |
 | :yellow_circle:     | 2940 | com bio  | in progress :hammer: | 25.05.2022 |
-| :yellow_circle:     | 2941 | com bio  | in progress :hammer: | 25.05.2022 |
-| :yellow_circle:     | 2942 | com bio  | in progress :hammer: | 25.05.2022 |
+| :no_entry:          | 2941 | com bio  | Passed :heavy_check_mark: | 29.05.2022 |
+| :no_entry:          | 2942 | com bio  | Passed :heavy_check_mark: | 29.05.2022 |
 | :no_entry:          | 2943 | Sam      | Passed :heavy_check_mark: | 29.05.2022 |
 | :no_entry:          | 2944 | 047      | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:          | 2945 | 047      | Passed :heavy_check_mark: | 26.05.2022 |
@@ -1832,7 +1831,7 @@
 | :yellow_circle:     | 3160 | Mars42   | in progress :hammer: | 27.05.2022 |
 | :no_entry:          | 3161 | Kripto   | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:          | 3162 | Kripto   | Passed :heavy_check_mark: | 22.05.2022 |
-| :yellow_circle:     | 3163 | Ji       | in progress :hammer: | 18.05.2022 |
+| :yellow_circle:     | 3163 | Ji       | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:     | 3164 | Trump88  | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 3165 | Kripto   | in progress :hammer: | 22.05.2022 |
 | :yellow_circle:     | 3166 | Dmitry S | in progress :hammer: | 26.05.2022 |

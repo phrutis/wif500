@@ -1208,7 +1208,7 @@
 | :yellow_circle:| 2085 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2096 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2097 | Denis     | in progress :hammer: | 29.05.2022 |
-| :blue_square:  | 2098 | priority  | FREE | 00.00.2022 |
+| :yellow_circle:| 2098 | Denis     | in progress :hammer: | 29.05.2022 |
 | :blue_square:  | 2099 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2100 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2101 | priority  | FREE | 00.00.2022 |

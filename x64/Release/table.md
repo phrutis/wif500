@@ -1217,18 +1217,18 @@
 | :blue_square:  | 2104 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2105 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2106 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2107 | priority  | FREE | 00.00.2022 |
+| :yellow_circle:| 2107 | Oleg_R    | in progress :hammer: | 29.05.2022 |
 | :blue_square:  | 2108 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2109 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2110 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2111 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2112 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2113 | priority  | FREE | 00.00.2022 |
+| :yellow_circle:| 2112 | Oleg_R    | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2113 | Oleg_R    | in progress :hammer: | 29.05.2022 |
 | :blue_square:  | 2114 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2115 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2116 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2117 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2118 | priority  | FREE | 00.00.2022 |
+| :yellow_circle:| 2118 | Oleg_R    | in progress :hammer: | 29.05.2022 |
 | :blue_square:  | 2119 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2120 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2121 | priority  | FREE | 00.00.2022 |
@@ -1237,10 +1237,10 @@
 | :blue_square:  | 2124 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2125 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2126 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2127 | priority  | FREE | 00.00.2022 |
+| :yellow_circle:| 2127 | Oleg_R    | in progress :hammer: | 29.05.2022 |
 | :blue_square:  | 2128 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2129 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2130 | priority  | FREE | 00.00.2022 |
+| :yellow_circle:| 2130 | Oleg_R    | in progress :hammer: | 29.05.2022 |
 | :blue_square:  | 2131 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2132 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2133 | priority  | FREE | 00.00.2022 |

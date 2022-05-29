@@ -1669,6 +1669,7 @@
 | :yellow_circle: | 2883 | Almera   | in progress :hammer: | 28.05.2022 |
 | :yellow_circle: | 2884 | Almera   | in progress :hammer: | 28.05.2022 |
 | :no_entry:      | 2885 | Crypto GPU| Passed :heavy_check_mark: | 15.05.2022 |
+| :yellow_circle: | 2887 | Oleg_R   | in progress :hammer: | 29.05.2022 |
 | :no_entry:          | 2888 | com bio  | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2889 | Supere   | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2890 | Supere   | Passed :heavy_check_mark: | 23.05.2022 |

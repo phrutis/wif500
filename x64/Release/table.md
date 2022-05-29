@@ -1209,22 +1209,22 @@
 | :yellow_circle:| 2096 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2097 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2098 | Denis     | in progress :hammer: | 29.05.2022 |
-| :blue_square:  | 2099 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2100 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2101 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2102 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2103 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2104 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2105 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2106 | priority  | FREE | 00.00.2022 |
+| :yellow_circle:| 2099 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2100 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2101 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2102 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2103 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2104 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2105 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2106 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2107 | Oleg_R    | in progress :hammer: | 29.05.2022 |
-| :blue_square:  | 2108 | priority  | FREE | 00.00.2022 |
+| :yellow_circle:| 2108 | Denis     | in progress :hammer: | 29.05.2022 |
 | :blue_square:  | 2109 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2110 | priority  | FREE | 00.00.2022 |
-| :blue_square:  | 2111 | priority  | FREE | 00.00.2022 |
+| :yellow_circle:| 2110 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2011 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2112 | Oleg_R    | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2113 | Oleg_R    | in progress :hammer: | 29.05.2022 |
-| :blue_square:  | 2114 | priority  | FREE | 00.00.2022 |
+| :yellow_circle:| 2114 | Denis     | in progress :hammer: | 29.05.2022 |
 | :blue_square:  | 2115 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2116 | priority  | FREE | 00.00.2022 |
 | :blue_square:  | 2117 | priority  | FREE | 00.00.2022 |

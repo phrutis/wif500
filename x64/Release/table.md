@@ -1052,7 +1052,7 @@
 | :no_entry:     | 1086 | Chris  | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:     | 1087 | Илья   | Passed :heavy_check_mark: | 24.05.2022 |
 | :no_entry:     | 1088 | Sam    | Passed :heavy_check_mark: | 24.05.2022 |
-| :yellow_circle:| 1089 | Sam    | in progress :hammer: | 21.05.2022 |
+| :no_entry:     | 1089 | Sam    | Passed :heavy_check_mark: | 30.05.2022 |
 | :no_entry:     | 1103 | Teddy     | Passed :heavy_check_mark:  | 30.04.2022 |
 | :no_entry:     | 1111 | Kuw       | Passed                | 22.04.2022  |
 | :no_entry:     | 1120 | KillBill_2| Passed :heavy_check_mark:  | 11.05.2022 |

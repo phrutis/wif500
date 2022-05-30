@@ -1895,7 +1895,7 @@
 | :no_entry:      | 3295 | L-N      | Passed :heavy_check_mark: | 08.05.2022 |
 | :no_entry:      | 3296 | ola lala | Passed :heavy_check_mark: | 27.05.2022 |
 | :no_entry:      | 3297 | Oleg D   | Passed :heavy_check_mark: | 30.05.2022 |
-| :green_circle:  | 3298 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle: | 3298 | Crypto GPU | in progress :hammer: | 30.05.2022 |
 | :yellow_circle: | 3299 | Andrrii  | in progress :hammer: | 30.05.2022 |
 | :yellow_circle: | 3300 | ola lala | in progress :hammer: | 27.05.2022 |
 | :no_entry:      | 3301 | Илья     | Passed :heavy_check_mark: | 09.05.2022 |

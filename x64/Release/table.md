@@ -1801,7 +1801,7 @@
 | :no_entry:          | 3128 | cpto_node| Passed :heavy_check_mark: | 24.05.2022 |
 | :no_entry:          | 3129 | cpto_node| Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 3130 | cpto_node| Passed :heavy_check_mark: | 16.05.2022 |
-| :yellow_circle:     | 3131 | Alexsandr| in progress :hammer: | 20.05.2022 |
+| :no_entry:          | 3131 | Alexsandr| Passed :heavy_check_mark: | 30.05.2022 |
 | :yellow_circle:     | 3132 | Alexsandr| in progress :hammer: | 20.05.2022 |
 | :yellow_circle:     | 3133 | Alexsandr| in progress :hammer: | 20.05.2022 |
 | :no_entry:          | 3134 | ola lala | Passed :heavy_check_mark: | 21.05.2022 |

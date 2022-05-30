@@ -302,7 +302,7 @@
 | :no_entry:     | 298 | Almera   | Passed :heavy_check_mark: | 21.04.2022 |
 | :no_entry:     | 299 | Almera   | Passed :heavy_check_mark: | 21.04.2022 |
 | :no_entry:     | 300 | Mars42   | Passed :heavy_check_mark: | 13.05.2022 |
-| :green_circle: | 301 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 301 | Mars42   | in progress :hammer: | 30.05.2022 |
 | :green_circle: | 302 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 303 | FREE  | FREE | 00.00.2022 |
 | :yellow_circle:| 304 | Kuw   | in progress :hammer: | 08.05.2022 |
@@ -1307,7 +1307,7 @@
 | :no_entry:          | 2298 | Leonid   | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2299 | Leonid   | Passed :heavy_check_mark: | 25.05.2022 |
 | :yellow_circle:     | 2300 | Mars42   | in progress :hammer: | 23.05.2022 |
-| :yellow_circle:     | 2301 | Mars42   | in progress :hammer: | 23.05.2022 |
+| :no_entry:          | 2301 | Mars42   | Passed :heavy_check_mark: | 30.05.2022 |
 | :no_entry:          | 2302 | Evgeniy  | Passed :heavy_check_mark: | 23.05.2022 |
 | :yellow_circle:     | 2303 | Ervings  | in progress :hammer: | 25.05.2022 |
 | :no_entry:          | 2304 | Oleg_R   | Passed :heavy_check_mark: | 23.05.2022 |

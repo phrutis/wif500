@@ -1265,7 +1265,7 @@
 | :no_entry:     | 2256 | Mars42   | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:     | 2257 | Mars42   | Passed :heavy_check_mark: | 23.05.2022 |
 | :no_entry:     | 2258 | Mars42   | Passed :heavy_check_mark: | 26.05.2022 |
-| :yellow_circle:| 2259 | Mars42   | in progress :hammer: | 19.05.2022 |
+| :no_entry:     | 2259 | Mars42   | Passed :heavy_check_mark: | 30.05.2022 |
 | :no_entry:     | 2260 | Sam      | Passed :heavy_check_mark: | 16.05.2022 |
 | :no_entry:     | 2261 | Sam      | Passed :heavy_check_mark: | 20.05.2022 |
 | :no_entry:     | 2262 | Mars42   | Passed :heavy_check_mark: | 27.05.2022 |
@@ -1400,8 +1400,8 @@
 | :no_entry:          | 2559 | Oleg_R   | Passed :heavy_check_mark: | 16.05.2022 |
 | :no_entry:          | 2560 | Oleg_R   | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:          | 2561 | aiyulu   | Passed :heavy_check_mark: | 21.05.2022 |
-| :yellow_circle:     | 2562 | DworfD   | in progress :hammer: | 26.05.2022 |
-| :yellow_circle:     | 2563 | DworfD   | in progress :hammer: | 26.05.2022 |
+| :no_entry:          | 2562 | DworfD   | Passed :heavy_check_mark: | 30.05.2022 |
+| :no_entry:          | 2563 | DworfD   | Passed :heavy_check_mark: | 30.05.2022 |
 | :yellow_circle:     | 2564 | DworfD   | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 2565 | DworfD   | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:     | 2566 | Mars42   | in progress :hammer: | 26.05.2022 |

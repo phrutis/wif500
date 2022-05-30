@@ -1388,7 +1388,7 @@
 | :no_entry:          | 2547 | DworfD   | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:          | 2548 | DworfD   | Passed :heavy_check_mark: | 26.05.2022 |
 | :yellow_circle:     | 2549 | KIKI     | in progress :hammer: | 26.05.2022 |
-| :yellow_circle:     | 2550 | Kuw      | in progress :hammer: | 23.05.2022 |
+| :no_entry:          | 2550 | Kuw      | Passed :heavy_check_mark: | 30.05.2022 |
 | :no_entry:          | 2551 | Kuw      | Passed :heavy_check_mark: | 30.05.2022 |
 | :no_entry:          | 2552 | com bio  | Passed :heavy_check_mark: | 20.05.2022 |
 | :no_entry:          | 2553 | com bio  | Passed :heavy_check_mark: | 20.05.2022 |

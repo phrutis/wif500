@@ -1205,7 +1205,7 @@
 | :yellow_circle:| 2092 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2093 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2094 | Denis     | in progress :hammer: | 29.05.2022 |
-| :yellow_circle:| 2085 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 2095 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2096 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2097 | Denis     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 2098 | Denis     | in progress :hammer: | 29.05.2022 |

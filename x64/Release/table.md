@@ -72,7 +72,7 @@
 | :green_circle: | 61  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 62  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 63  | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 64  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 64  | PVA     | in progress :hammer: | 30.05.2022 |
 | :green_circle: | 65  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 66  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 67  | FREE    | FREE | 00.00.2022 |

@@ -54,7 +54,7 @@
 | :no_entry:     | 43  | Almera  | Passed :heavy_check_mark: | 23.04.2022 |
 | :no_entry:     | 44  | V       | Passed :heavy_check_mark: | 02.05.2022 |
 | :yellow_circle:| 45  | Mars42  | in progress :hammer: | 29.05.2022 |
-| :green_circle: | 46  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 46  | Supere  | in progress :hammer: | 30.05.2022 |
 | :no_entry:     | 47  | Ervings | Passed :heavy_check_mark: | 18.05.2022 |
 | :green_circle: | 48  | FREE    | FREE | 00.00.2022 |
 | :yellow_circle:| 49  | PVA     | in progress :hammer: | 30.05.2022 |
@@ -64,7 +64,7 @@
 | :green_circle: | 53  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 54  | FREE    | FREE | 00.00.2022 |
 | :no_entry:     | 55  | V       | Passed :heavy_check_mark:  |  02.05.2022  |
-| :green_circle: | 56  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 56  | Supere  | in progress :hammer: | 30.05.2022 |
 | :green_circle: | 57  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 58  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 59  | FREE    | FREE | 00.00.2022 |
@@ -74,7 +74,7 @@
 | :green_circle: | 63  | FREE    | FREE | 00.00.2022 |
 | :yellow_circle:| 64  | PVA     | in progress :hammer: | 30.05.2022 |
 | :green_circle: | 65  | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 66  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 66  | Supere  | in progress :hammer: | 30.05.2022 |
 | :green_circle: | 67  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 68  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 69  | FREE    | FREE | 00.00.2022 |
@@ -84,7 +84,7 @@
 | :green_circle: | 73  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 74  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 75  | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 76  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 76  | Supere  | in progress :hammer: | 30.05.2022 |
 | :no_entry:     | 77  | Werevalis| Passed :heavy_check_mark: | 25.04.2022 |
 | :no_entry:     | 83  | Almera   | Passed :heavy_check_mark: | 21.04.2022 |
 | :no_entry:     | 86  | Almera   | Passed :heavy_check_mark: | 21.04.2022 |
@@ -747,7 +747,7 @@
 | :green_circle: | 743 | FREE     | FREE | 00.00.2022 |
 | :no_entry:     | 744 | Almera   | Passed :heavy_check_mark:  |  26.04.2022  |
 | :green_circle: | 745 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 746 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 746 | Supere   | in progress :hammer: | 30.05.2022 |
 | :green_circle: | 747 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 748 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 749 | FREE     | FREE | 00.00.2022 |
@@ -757,7 +757,7 @@
 | :yellow_circle:| 753 | Leonid   | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 754 | Leonid   | in progress :hammer: | 29.05.2022 |
 | :green_circle: | 755 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 756 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 756 | Supere   | in progress :hammer: | 30.05.2022 |
 | :green_circle: | 757 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 758 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 759 | FREE     | FREE | 00.00.2022 |
@@ -767,7 +767,7 @@
 | :green_circle: | 763 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 764 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 765 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 766 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 766 | Supere   | in progress :hammer: | 30.05.2022 |
 | :green_circle: | 767 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 768 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 769 | FREE     | FREE | 00.00.2022 |
@@ -777,7 +777,7 @@
 | :green_circle: | 773 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 774 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 775 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 776 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 776 | Supere   | in progress :hammer: | 30.05.2022 |
 | :no_entry:     | 777 | JRodary  | Passed :heavy_check_mark:  |  20.04.2022  |
 | :no_entry:     | 778 | JRodary  | Passed :heavy_check_mark:  |  27.04.2022  |
 | :green_circle: | 779 | FREE     | FREE |  00.00.2022 |

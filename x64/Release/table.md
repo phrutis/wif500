@@ -57,7 +57,7 @@
 | :green_circle: | 46  | FREE    | FREE | 00.00.2022 |
 | :no_entry:     | 47  | Ervings | Passed :heavy_check_mark: | 18.05.2022 |
 | :green_circle: | 48  | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 49  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 49  | PVA     | in progress :hammer: | 30.05.2022 |
 | :green_circle: | 50  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 51  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 52  | FREE    | FREE | 00.00.2022 |

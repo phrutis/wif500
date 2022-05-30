@@ -1553,8 +1553,6 @@
 | :no_entry:          | 2769 | Crypto GPU| Passed :heavy_check_mark: | 10.05.2022 |
 | :no_entry:          | 2770 | V         | Passed :heavy_check_mark: | 15.05.2022 |
 | :no_entry:          | 2771 | Chris     | Passed :heavy_check_mark: | 12.05.2022 |
-| :yellow_circle: | 2770 | Almera   | in progress :hammer: | 28.05.2022 |
-| :yellow_circle: | 2771 | Almera   | in progress :hammer: | 28.05.2022 |
 | :yellow_circle: | 2772 | Almera   | in progress :hammer: | 28.05.2022 |
 | :yellow_circle: | 2773 | Almera   | in progress :hammer: | 28.05.2022 |
 | :yellow_circle: | 2774 | Almera   | in progress :hammer: | 28.05.2022 |

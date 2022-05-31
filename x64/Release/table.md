@@ -1008,6 +1008,10 @@
 | :green_circle: | 997 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 998 | FREE     | FREE | 00.00.2022 |
 | :yellow_circle:| 999 | Илья 95   | in progress :hammer: | 30.05.2022 |
+
+
+|            | Range(s)    | Hunter    | Status         | Date           |
+|------------|:------------|-----------|----------------|----------------|
 | :green_circle: | 1000 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 1001 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 1002 | FREE     | FREE | 00.00.2022 |
@@ -2008,6 +2012,10 @@
 | :green_circle: | 1997 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 1998 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 1999 | FREE  | FREE | 00.00.2022 |
+
+
+|            | Range(s)    | Hunter    | Status         | Date           |
+|------------|:------------|-----------|----------------|----------------|
 | :green_circle: | 2000 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 2001 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 2002 | FREE  | FREE | 00.00.2022 |

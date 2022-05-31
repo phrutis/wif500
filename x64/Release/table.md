@@ -31,11 +31,11 @@
 | :no_entry:     | 20  | 047      | Passed :heavy_check_mark: | 28.04.2022 |
 | :no_entry:     | 21  | Zhiquaran| Passed :heavy_check_mark: | 23.04.2022 |
 | :no_entry:     | 22  | 047      | Passed :heavy_check_mark: | 28.04.2022 |
-| :yellow_circle:| 23  | Vyacheslav| in progress :hammer: | 26.05.2022 |
+| :no_entry:     | 23  | Vyacheslav| Passed :heavy_check_mark: | 31.05.2022 |
 | :no_entry:     | 24  | Andrii   | Passed :heavy_check_mark: | 15.05.2022 |
 | :yellow_circle:| 25  | IDontLike| in progress :hammer: | 16.05.2022 |
-| :yellow_circle:| 26  | Vyacheslav| in progress :hammer: | 26.05.2022 |
-| :yellow_circle:| 27  | Vyacheslav| in progress :hammer: | 26.05.2022 |
+| :no_entry:     | 26  | Vyacheslav| Passed :heavy_check_mark: | 31.05.2022 |
+| :no_entry:     | 27  | Vyacheslav| Passed :heavy_check_mark: | 31.05.2022 |
 | :yellow_circle:| 28  | Vyacheslav| in progress :hammer: | 26.05.2022 |
 | :yellow_circle:| 29  | com bio | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 30  | com bio | in progress :hammer: | 29.05.2022 |
@@ -59,9 +59,9 @@
 | :green_circle: | 48  | FREE    | FREE | 00.00.2022 |
 | :yellow_circle:| 49  | PVA     | in progress :hammer: | 30.05.2022 |
 | :green_circle: | 50  | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 51  | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 52  | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 53  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 51  | Vyacheslav| in progress :hammer: | 31.05.2022 |
+| :yellow_circle:| 52  | Vyacheslav| in progress :hammer: | 31.05.2022 |
+| :yellow_circle:| 53  | Vyacheslav| in progress :hammer: | 31.05.2022 |
 | :green_circle: | 54  | FREE    | FREE | 00.00.2022 |
 | :no_entry:     | 55  | V       | Passed :heavy_check_mark:  |  02.05.2022  |
 | :yellow_circle:| 56  | Supere  | in progress :hammer: | 30.05.2022 |

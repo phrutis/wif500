@@ -903,7 +903,7 @@
 | :green_circle: | 937 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 938 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 939 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 940 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 940 | root     | in progress :hammer: | 31.05.2022 |
 | :green_circle: | 941 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 942 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 943 | FREE     | FREE | 00.00.2022 |

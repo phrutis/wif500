@@ -331,7 +331,7 @@
 | :yellow_circle:| 327 | Andrzej | in progress :hammer: | 26.05.2022 |
 | :green_circle: | 328 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 329 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 330 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 330 | Dmitry S| in progress :hammer: | 31.05.2022 |
 | :green_circle: | 331 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 332 | FREE  | FREE | 00.00.2022 |
 | :yellow_circle:| 333 | PVA   | in progress :hammer: | 29.05.2022 |
@@ -505,7 +505,7 @@
 | :green_circle: | 501 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 502 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 503 | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 504 | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 504 | Dmitry S| in progress :hammer: | 31.05.2022 |
 | :green_circle: | 505 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 506 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 507 | FREE    | FREE | 00.00.2022 |
@@ -520,7 +520,7 @@
 | :green_circle: | 516 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 517 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 518 | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 519 | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 519 | Trump88 | in progress :hammer: | 31.05.2022 |
 | :green_circle: | 520 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 521 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 522 | FREE    | FREE | 00.00.2022 |
@@ -578,7 +578,7 @@
 | :green_circle: | 574 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 575 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 576 | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 577 | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 577 | Trump88 | in progress :hammer: | 31.05.2022 |
 | :green_circle: | 578 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 579 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 580 | FREE    | FREE | 00.00.2022 |
@@ -621,7 +621,7 @@
 | :yellow_circle:| 617 | k bluesky| in progress :hammer: | 28.05.2022 |
 | :green_circle: | 618 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 619 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 620 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 620 | Dmitry S | in progress :hammer: | 31.05.2022 |
 | :green_circle: | 621 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 622 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 623 | FREE     | FREE | 00.00.2022 |
@@ -694,7 +694,7 @@
 | :green_circle: | 690 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 691 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 692 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 693 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 693 | Trump88  | in progress :hammer: | 31.05.2022 |
 | :no_entry:     | 694 | Almera   | Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 695 | Almera   | Passed :heavy_check_mark:  |  27.04.2022  |
 | :no_entry:     | 696 | Almera   | Passed :heavy_check_mark:  |  27.04.2022  |
@@ -888,7 +888,7 @@
 | :green_circle: | 922 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 923 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 924 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 925 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 925 | Trump88  | in progress :hammer: | 31.05.2022 |
 | :green_circle: | 926 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 927 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 928 | FREE     | FREE | 00.00.2022 |
@@ -931,7 +931,7 @@
 | :green_circle: | 965 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 966 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 967 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 968 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 968 | Dmitry S| in progress :hammer: | 31.05.2022 |
 | :green_circle: | 969 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 970 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 971 | FREE     | FREE | 00.00.2022 |

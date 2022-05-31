@@ -6,6 +6,7 @@
 
 [Choose a free range and report it to the group](https://t.me/+WFEuFatijpowMjRi)
 
+
 |            | Range(s)    | Hunter    | Status         | Date           |
 |------------|:------------|-----------|----------------|----------------|
 | :no_entry:     | 0   | cpto_node| Passed :heavy_check_mark: | 12.05.2022 |

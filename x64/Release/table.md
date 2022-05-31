@@ -1008,10 +1008,6 @@
 | :green_circle: | 997 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 998 | FREE     | FREE | 00.00.2022 |
 | :yellow_circle:| 999 | Илья 95   | in progress :hammer: | 30.05.2022 |
-
-
-|            | Range(s)    | Hunter    | Status         | Date           |
-|------------|:------------|-----------|----------------|----------------|
 | :green_circle: | 1000 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 1001 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 1002 | FREE     | FREE | 00.00.2022 |
@@ -1126,9 +1122,9 @@
 | :no_entry:     | 1111 | Kuw   | Passed | 22.04.2022  |
 | :green_circle: | 1112 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 1113 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 1114 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 1115 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 1116 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 1114 | K-Fed | in progress :hammer: | 31.05.2022 |
+| :yellow_circle:| 1115 | K-Fed | in progress :hammer: | 31.05.2022 |
+| :yellow_circle:| 1116 | K-Fed | in progress :hammer: | 31.05.2022 |
 | :green_circle: | 1117 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 1118 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 1119 | FREE  | FREE | 00.00.2022 |
@@ -1246,7 +1242,7 @@
 | :green_circle: | 1231 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 1232 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 1233 | FREE  | FREE | 00.00.2022 |
-| :yellow_circle:| 1234 | Denis     | in progress :hammer: | 29.05.2022 |
+| :yellow_circle:| 1234 | Denis | in progress :hammer: | 29.05.2022 |
 | :green_circle: | 1235 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 1236 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 1237 | FREE  | FREE | 00.00.2022 |
@@ -1262,7 +1258,7 @@
 | :green_circle: | 1247 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 1248 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 1249 | FREE  | FREE | 00.00.2022 |
-| :no_entry:     | 1250 | Oleg_R    | Passed :heavy_check_mark: | 06.05.2022 |
+| :no_entry:     | 1250 | Oleg_R| Passed :heavy_check_mark: | 06.05.2022 |
 | :green_circle: | 1251 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 1252 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 1253 | FREE  | FREE | 00.00.2022 |
@@ -2012,10 +2008,6 @@
 | :green_circle: | 1997 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 1998 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 1999 | FREE  | FREE | 00.00.2022 |
-
-
-|            | Range(s)    | Hunter    | Status         | Date           |
-|------------|:------------|-----------|----------------|----------------|
 | :green_circle: | 2000 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 2001 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 2002 | FREE  | FREE | 00.00.2022 |
@@ -2601,12 +2593,12 @@
 | :no_entry:     | 2582 | K-Fed    | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:     | 2583 | K-Fed    | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:     | 2584 | K-Fed    | Passed :heavy_check_mark: | 26.05.2022 |
-| :yellow_circle:| 2585 | K-Fed    | in progress :hammer: | 19.05.2022 |
-| :yellow_circle:| 2586 | K-Fed    | in progress :hammer: | 19.05.2022 |
+| :no_entry:     | 2585 | K-Fed    | Passed :heavy_check_mark: | 31.05.2022 |
+| :no_entry:     | 2586 | K-Fed    | Passed :heavy_check_mark: | 31.05.2022 |
 | :yellow_circle:| 2587 | K-Fed    | in progress :hammer: | 21.05.2022 |
 | :no_entry:     | 2588 | K-Fed    | Passed :heavy_check_mark: | 30.05.2022 |
 | :no_entry:     | 2589 | K-Fed    | Passed :heavy_check_mark: | 31.05.2022 |
-| :yellow_circle:| 2590 | K-Fed    | in progress :hammer: | 23.05.2022 |
+| :no_entry:     | 2590 | K-Fed    | Passed :heavy_check_mark: | 31.05.2022 |
 | :no_entry:     | 2591 | Andrii   | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:     | 2592 | Andrii   | Passed :heavy_check_mark: | 22.05.2022 |
 | :no_entry:     | 2593 | Crypto GPU| Passed :heavy_check_mark: | 27.05.2022 |

@@ -973,10 +973,10 @@
 | :green_circle: | 1007 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 1008 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 1009 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 1010 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 1011 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 1012 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 1013 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 1010 | K-Fed    | in progress :hammer: | 31.05.2022 |
+| :yellow_circle:| 1011 | K-Fed    | in progress :hammer: | 31.05.2022 |
+| :yellow_circle:| 1012 | K-Fed    | in progress :hammer: | 31.05.2022 |
+| :yellow_circle:| 1013 | K-Fed    | in progress :hammer: | 31.05.2022 |
 | :green_circle: | 1014 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 1015 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 1016 | FREE     | FREE | 00.00.2022 |
@@ -1015,7 +1015,7 @@
 | :no_entry:     | 1049 | Noname  | Passed :heavy_check_mark: | 24.05.2022 |
 | :no_entry:     | 1050 | Kuw     | Passed :heavy_check_mark: | 23.05.2022 |
 | :no_entry:     | 1051 | Kuw     | Passed :heavy_check_mark: | 23.05.2022 |
-| :yellow_circle:| 1052 | K-Fed   | in progress :hammer: | 18.05.2022 |
+| :no_entry:     | 1052 | K-Fed   | Passed :heavy_check_mark: | 31.05.2022 |
 | :no_entry:     | 1053 | K-Fed   | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:     | 1054 | K-Fed   | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:     | 1055 | JRodary | Passed :heavy_check_mark: | 27.05.2022 |
@@ -1426,8 +1426,8 @@
 | :yellow_circle:     | 2585 | K-Fed    | in progress :hammer: | 19.05.2022 |
 | :yellow_circle:     | 2586 | K-Fed    | in progress :hammer: | 19.05.2022 |
 | :yellow_circle:     | 2587 | K-Fed    | in progress :hammer: | 21.05.2022 |
-| :yellow_circle:     | 2588 | K-Fed    | in progress :hammer: | 23.05.2022 |
-| :yellow_circle:     | 2589 | K-Fed    | in progress :hammer: | 23.05.2022 |
+| :no_entry:          | 2588 | K-Fed    | Passed :heavy_check_mark: | 30.05.2022 |
+| :no_entry:          | 2589 | K-Fed    | Passed :heavy_check_mark: | 31.05.2022 |
 | :yellow_circle:     | 2590 | K-Fed    | in progress :hammer: | 23.05.2022 |
 | :no_entry:          | 2591 | Andrii   | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:          | 2592 | Andrii   | Passed :heavy_check_mark: | 22.05.2022 |
@@ -1438,7 +1438,7 @@
 | :no_entry:          | 2597 | V        | Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:          | 2648 | Oleg_R   | Passed :heavy_check_mark: | 04.05.2022 |
 | :yellow_circle:     | 2656 | K-Fed    | in progress :hammer: | 23.05.2022 |
-| :yellow_circle:     | 2657 | K-Fed    | in progress :hammer: | 23.05.2022 |
+| :no_entry:          | 2657 | K-Fed    | Passed :heavy_check_mark: | 31.05.2022 |
 | :yellow_circle:     | 2658 | Noname   | in progress :hammer: | 24.05.2022 |
 | :yellow_circle:     | 2659 | Noname   | in progress :hammer: | 24.05.2022 |
 | :yellow_circle:     | 2660 | K-Fed    | in progress :hammer: | 24.05.2022 |
@@ -1682,12 +1682,12 @@
 | :no_entry:          | 2899 | com bio  | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 2900 | cpto_node| Passed :heavy_check_mark: | 24.05.2022 |
 | :no_entry:          | 2901 | cpto_node| Passed :heavy_check_mark: | 25.05.2022 |
-| :yellow_circle:     | 2902 | cpto_node| in progress :hammer: | 17.05.2022 |
-| :yellow_circle:     | 2903 | cpto_node| in progress :hammer: | 17.05.2022 |
-| :yellow_circle:     | 2904 | cpto_node| in progress :hammer: | 17.05.2022 |
-| :yellow_circle:     | 2905 | cpto_node| in progress :hammer: | 17.05.2022 |
-| :yellow_circle:     | 2906 | cpto_node| in progress :hammer: | 17.05.2022 |
-| :yellow_circle:     | 2907 | cpto_node| in progress :hammer: | 17.05.2022 |
+| :no_entry:          | 2902 | cpto_node| Passed :heavy_check_mark: | 31.05.2022 |
+| :no_entry:          | 2903 | cpto_node| Passed :heavy_check_mark: | 31.05.2022 |
+| :no_entry:          | 2904 | cpto_node| Passed :heavy_check_mark: | 31.05.2022 |
+| :no_entry:          | 2905 | cpto_node| Passed :heavy_check_mark: | 31.05.2022 |
+| :no_entry:          | 2906 | cpto_node| Passed :heavy_check_mark: | 31.05.2022 |
+| :no_entry:          | 2907 | cpto_node| Passed :heavy_check_mark: | 31.05.2022 |
 | :yellow_circle:     | 2908 | cpto_node| in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2909 | cpto_node| in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2910 | cpto_node| in progress :hammer: | 17.05.2022 |
@@ -1847,7 +1847,7 @@
 | :no_entry:          | 3176 | Oleg D   | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 3177 | Oleg D   | Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:          | 3228 | Oleg_R   | Passed :heavy_check_mark: | 03.05.2022 |
-| :yellow_circle:     | 3232 | Crypto GPU| in progress :hammer: | 26.05.2022 |
+| :no_entry:          | 3232 | Crypto GPU| Passed :heavy_check_mark: | 31.05.2022 |
 | :no_entry:          | 3241 | Oleg_R   | Passed :heavy_check_mark: | 02.05.2022 |
 | :yellow_circle: | 3248 | Denis    | in progress :hammer: | 27.05.2022 |
 | :yellow_circle: | 3249 | Denis    | in progress :hammer: | 27.05.2022 |

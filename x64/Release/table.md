@@ -550,9 +550,9 @@
 | :green_circle: | 546 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 547 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 548 | FREE    | FREE | 00.00.2022 |
-| :yellow_circle:| 549 | D       | in progress :hammer: | 27.05.2022 |
+| :no_entry:     | 549 | D       | Passed :heavy_check_mark: | 31.05.2022 |
 | :yellow_circle:| 550 | D       | in progress :hammer: | 27.05.2022 |
-| :green_circle: | 551 | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 551 | D       | in progress :hammer: | 31.05.2022 |
 | :green_circle: | 552 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 553 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 554 | FREE    | FREE | 00.00.2022 |
@@ -986,13 +986,13 @@
 | :green_circle: | 1020 | FREE     | FREE | 00.00.2022 |
 | :yellow_circle:| 1021 | Kripto   | in progress :hammer: | 30.05.2022 |
 | :green_circle: | 1022 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 1023 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 1024 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 1025 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 1026 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 1027 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 1028 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 1029 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 1023 | cpto_node| in progress :hammer: | 31.05.2022 |
+| :yellow_circle:| 1024 | cpto_node| in progress :hammer: | 31.05.2022 |
+| :yellow_circle:| 1025 | cpto_node| in progress :hammer: | 31.05.2022 |
+| :yellow_circle:| 1026 | cpto_node| in progress :hammer: | 31.05.2022 |
+| :yellow_circle:| 1027 | cpto_node| in progress :hammer: | 31.05.2022 |
+| :yellow_circle:| 1028 | cpto_node| in progress :hammer: | 31.05.2022 |
+| :yellow_circle:| 1029 | cpto_node| in progress :hammer: | 31.05.2022 |
 | :yellow_circle:| 1030 | 047     | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 1031 | 047     | in progress :hammer: | 29.05.2022 |
 | :no_entry:     | 1032 | K-Fed   | Passed :heavy_check_mark: | 19.05.2022 |
@@ -1689,12 +1689,12 @@
 | :no_entry:          | 2906 | cpto_node| Passed :heavy_check_mark: | 31.05.2022 |
 | :no_entry:          | 2907 | cpto_node| Passed :heavy_check_mark: | 31.05.2022 |
 | :yellow_circle:     | 2908 | cpto_node| in progress :hammer: | 17.05.2022 |
-| :yellow_circle:     | 2909 | cpto_node| in progress :hammer: | 17.05.2022 |
-| :yellow_circle:     | 2910 | cpto_node| in progress :hammer: | 17.05.2022 |
-| :yellow_circle:     | 2911 | cpto_node| in progress :hammer: | 17.05.2022 |
-| :yellow_circle:     | 2912 | cpto_node| in progress :hammer: | 17.05.2022 |
+| :no_entry:          | 2909 | cpto_node| Passed :heavy_check_mark: | 31.05.2022 |
+| :no_entry:          | 2910 | cpto_node| Passed :heavy_check_mark: | 31.05.2022 |
+| :no_entry:          | 2911 | cpto_node| Passed :heavy_check_mark: | 31.05.2022 |
+| :no_entry:          | 2912 | cpto_node| Passed :heavy_check_mark: | 31.05.2022 |
 | :yellow_circle:     | 2913 | cpto_node| in progress :hammer: | 17.05.2022 |
-| :yellow_circle:     | 2914 | cpto_node| in progress :hammer: | 17.05.2022 |
+| :no_entry:          | 2914 | cpto_node| Passed :heavy_check_mark: | 31.05.2022 |
 | :yellow_circle:     | 2915 | cpto_node| in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2916 | cpto_node| in progress :hammer: | 17.05.2022 |
 | :yellow_circle:     | 2917 | cpto_node| in progress :hammer: | 17.05.2022 |

@@ -89,10 +89,10 @@
 | :no_entry:     | 77  | Werevalis| Passed :heavy_check_mark: | 25.04.2022 |
 | :green_circle: | 78  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 79  | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 80  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 80  | An      | in progress :hammer: | 01.06.2022 |
 | :green_circle: | 81  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 82  | FREE    | FREE | 00.00.2022 |
-| :no_entry:     | 83  | Almera   | Passed :heavy_check_mark: | 21.04.2022 |
+| :no_entry:     | 83  | Almera  | Passed :heavy_check_mark: | 21.04.2022 |
 | :green_circle: | 84  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 85  | FREE    | FREE | 00.00.2022 |
 | :no_entry:     | 86  | Almera   | Passed :heavy_check_mark: | 21.04.2022 |

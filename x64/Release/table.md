@@ -341,7 +341,7 @@
 | :green_circle: | 329 | FREE  | FREE | 00.00.2022 |
 | :yellow_circle:| 330 | Dmitry S| in progress :hammer: | 31.05.2022 |
 | :green_circle: | 331 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 332 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 332 | Бывалый| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 333 | PVA   | in progress :hammer: | 29.05.2022 |
 | :green_circle: | 334 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 335 | FREE  | FREE | 00.00.2022 |

@@ -57,7 +57,7 @@
 | :yellow_circle:| 45  | Mars42  | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 46  | Supere  | in progress :hammer: | 30.05.2022 |
 | :no_entry:     | 47  | Ervings | Passed :heavy_check_mark: | 18.05.2022 |
-| :green_circle: | 48  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 48  | Ervings | in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 49  | PVA     | in progress :hammer: | 30.05.2022 |
 | :green_circle: | 50  | FREE    | FREE | 00.00.2022 |
 | :yellow_circle:| 51  | Vyacheslav| in progress :hammer: | 31.05.2022 |
@@ -79,7 +79,7 @@
 | :green_circle: | 67  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 68  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 69  | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 70  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 70  | Chris   | in progress :hammer: | 01.06.2022 |
 | :green_circle: | 71  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 72  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 73  | FREE    | FREE | 00.00.2022 |

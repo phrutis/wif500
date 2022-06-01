@@ -37,7 +37,7 @@
 | :yellow_circle:| 25  | IDontLike| in progress :hammer: | 16.05.2022 |
 | :no_entry:     | 26  | Vyacheslav| Passed :heavy_check_mark: | 31.05.2022 |
 | :no_entry:     | 27  | Vyacheslav| Passed :heavy_check_mark: | 31.05.2022 |
-| :yellow_circle:| 28  | Vyacheslav| in progress :hammer: | 26.05.2022 |
+| :no_entry:     | 28  | Vyacheslav| Passed :heavy_check_mark: | 01.06.2022 |
 | :yellow_circle:| 29  | com bio | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 30  | com bio | in progress :hammer: | 29.05.2022 |
 | :yellow_circle:| 31  | com bio | in progress :hammer: | 29.05.2022 |
@@ -63,7 +63,7 @@
 | :yellow_circle:| 51  | Vyacheslav| in progress :hammer: | 31.05.2022 |
 | :yellow_circle:| 52  | Vyacheslav| in progress :hammer: | 31.05.2022 |
 | :yellow_circle:| 53  | Vyacheslav| in progress :hammer: | 31.05.2022 |
-| :green_circle: | 54  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 54  | Vyacheslav| in progress :hammer: | 01.06.2022 |
 | :no_entry:     | 55  | V       | Passed :heavy_check_mark:  |  02.05.2022  |
 | :yellow_circle:| 56  | Supere  | in progress :hammer: | 30.05.2022 |
 | :green_circle: | 57  | FREE    | FREE | 00.00.2022 |
@@ -899,7 +899,7 @@
 | :green_circle: | 887 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 888 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 889 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 890 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 890 | ola lala | in progress :hammer: | 01.06.2022 |
 | :green_circle: | 891 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 892 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 893 | FREE  | FREE | 00.00.2022 |
@@ -1026,8 +1026,8 @@
 | :yellow_circle:| 1014 | K-Fed    | in progress :hammer: | 31.05.2022 |
 | :yellow_circle:| 1015 | K-Fed    | in progress :hammer: | 31.05.2022 |
 | :yellow_circle:| 1016 | K-Fed    | in progress :hammer: | 31.05.2022 |
-| :green_circle: | 1017 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 1018 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 1017 | K-Fed    | in progress :hammer: | 01.06.2022 |
+| :yellow_circle:| 1018 | K-Fed    | in progress :hammer: | 01.06.2022 |
 | :green_circle: | 1019 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 1020 | FREE     | FREE | 00.00.2022 |
 | :yellow_circle:| 1021 | Kripto   | in progress :hammer: | 30.05.2022 |
@@ -2298,7 +2298,7 @@
 | :no_entry:     | 2286 | Supere   | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:     | 2287 | Supere   | Passed :heavy_check_mark: | 26.05.2022 |
 | :no_entry:     | 2288 | Илья     | Passed :heavy_check_mark: | 28.05.2022 |
-| :yellow_circle:| 2289 | Supere   | in progress :hammer: | 25.05.2022 |
+| :no_entry:     | 2289 | Supere   | Passed :heavy_check_mark: | 01.06.2022 |
 | :no_entry:     | 2290 | Sam      | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:     | 2291 | Sam      | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:     | 2292 | Sam      | Passed :heavy_check_mark: | 18.05.2022 |
@@ -2509,7 +2509,7 @@
 | :green_circle: | 2497 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 2498 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 2499 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 2500 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 2500 | Supere| in progress :hammer: | 01.06.2022 |
 | :green_circle: | 2501 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 2502 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 2503 | FREE  | FREE | 00.00.2022 |
@@ -2665,11 +2665,11 @@
 | :green_circle: | 2653 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 2654 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 2655 | FREE  | FREE | 00.00.2022 |
-| :yellow_circle:| 2656 | K-Fed    | in progress :hammer: | 23.05.2022 |
+| :no_entry:     | 2656 | K-Fed    | Passed :heavy_check_mark: | 01.06.2022 |
 | :no_entry:     | 2657 | K-Fed    | Passed :heavy_check_mark: | 31.05.2022 |
 | :yellow_circle:| 2658 | Noname   | in progress :hammer: | 24.05.2022 |
 | :no_entry:     | 2659 | Noname   | Passed :heavy_check_mark: | 31.05.2022 |
-| :yellow_circle:| 2660 | K-Fed    | in progress :hammer: | 24.05.2022 |
+| :no_entry:     | 2660 | K-Fed    | Passed :heavy_check_mark: | 01.06.2022 |
 | :no_entry:     | 2661 | Oleg_R   | Passed :heavy_check_mark: | 04.05.2022 |
 | :no_entry:     | 2662 | Oleg_R   | Passed :heavy_check_mark: | 11.05.2022 |
 | :yellow_circle:| 2663 | Noname   | in progress :hammer: | 25.05.2022 |
@@ -3309,7 +3309,7 @@
 | :no_entry:     | 3297 | Oleg D   | Passed :heavy_check_mark: | 30.05.2022 |
 | :yellow_circle:| 3298 | Crypto GPU | in progress :hammer: | 30.05.2022 |
 | :yellow_circle:| 3299 | Andrrii  | in progress :hammer: | 30.05.2022 |
-| :yellow_circle:| 3300 | ola lala | in progress :hammer: | 27.05.2022 |
+| :no_entry:     | 3300 | ola lala | Passed :heavy_check_mark: | 01.06.2022 |
 | :no_entry:     | 3301 | Илья     | Passed :heavy_check_mark: | 09.05.2022 |
 | :yellow_circle:| 3302 | Denis    | in progress :hammer: | 27.05.2022 |
 | :yellow_circle:| 3303 | Denis    | in progress :hammer: | 27.05.2022 |

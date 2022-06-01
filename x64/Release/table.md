@@ -619,14 +619,14 @@
 | :no_entry:     | 607 | k bluesky| Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:     | 608 | k bluesky| Passed :heavy_check_mark: | 28.05.2022 |
 | :yellow_circle:| 609 | k bluesky| in progress :hammer: | 25.05.2022 |
-| :yellow_circle:| 610 | k bluesky| in progress :hammer: | 27.05.2022 |
-| :yellow_circle:| 611 | k bluesky| in progress :hammer: | 27.05.2022 |
+| :no_entry:     | 610 | k bluesky| Passed :heavy_check_mark: | 01.06.2022 |
+| :no_entry:     | 611 | k bluesky| Passed :heavy_check_mark: | 01.06.2022 |
 | :yellow_circle:| 612 | k bluesky| in progress :hammer: | 28.05.2022 |
 | :yellow_circle:| 613 | k bluesky| in progress :hammer: | 28.05.2022 |
 | :yellow_circle:| 614 | k bluesky| in progress :hammer: | 28.05.2022 |
 | :yellow_circle:| 615 | k bluesky| in progress :hammer: | 28.05.2022 |
 | :yellow_circle:| 616 | k bluesky| in progress :hammer: | 28.05.2022 |
-| :yellow_circle:| 617 | k bluesky| in progress :hammer: | 28.05.2022 |
+| :no_entry:     | 617 | k bluesky| Passed :heavy_check_mark: | 01.06.2022 |
 | :green_circle: | 618 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 619 | FREE     | FREE | 00.00.2022 |
 | :yellow_circle:| 620 | Dmitry S | in progress :hammer: | 31.05.2022 |
@@ -3165,7 +3165,7 @@
 | :no_entry:     | 3153 | Илья 95  | Passed :heavy_check_mark: | 30.05.2022 |
 | :yellow_circle:| 3154 | Dmitry S | in progress :hammer: | 26.05.2022 |
 | :yellow_circle:| 3155 | K-Fed    | in progress :hammer: | 26.05.2022 |
-| :yellow_circle:| 3156 | k bluesky| in progress :hammer: | 27.05.2022 |
+| :no_entry:     | 3156 | k bluesky| Passed :heavy_check_mark: | 01.06.2022 |
 | :yellow_circle:| 3157 | Trump88  | in progress :hammer: | 27.05.2022 |
 | :yellow_circle:| 3158 | Trump88  | in progress :hammer: | 27.05.2022 |
 | :yellow_circle:| 3159 | JRodary  | in progress :hammer: | 27.05.2022 |

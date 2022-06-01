@@ -786,8 +786,8 @@
 | :green_circle: | 774 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 775 | FREE     | FREE | 00.00.2022 |
 | :yellow_circle:| 776 | Supere   | in progress :hammer: | 30.05.2022 |
-| :no_entry:     | 777 | JRodary  | Passed :heavy_check_mark:  |  20.04.2022  |
-| :no_entry:     | 778 | JRodary  | Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 777 | JRodary  | Passed :heavy_check_mark: | 20.04.2022 |
+| :no_entry:     | 778 | JRodary  | Passed :heavy_check_mark: | 27.04.2022 |
 | :green_circle: | 779 | FREE     | FREE |  00.00.2022 |
 | :green_circle: | 780 | FREE     | FREE |  00.00.2022 |
 | :green_circle: | 781 | FREE     | FREE |  00.00.2022 |
@@ -800,11 +800,11 @@
 | :green_circle: | 788 | FREE     | FREE |  00.00.2022 |
 | :green_circle: | 789 | FREE     | FREE |  00.00.2022 |
 | :green_circle: | 790 | FREE     | FREE |  00.00.2022 |
-| :yellow_circle:| 791 | 047      | in progress :hammer: | 27.05.2022 |
-| :yellow_circle:| 792 | 047      | in progress :hammer: | 27.05.2022 |
-| :yellow_circle:| 793 | 047      | in progress :hammer: | 27.05.2022 |
-| :yellow_circle:| 794 | 047      | in progress :hammer: | 27.05.2022 |
-| :yellow_circle:| 795 | 047      | in progress :hammer: | 27.05.2022 |
+| :no_entry:     | 791 | 047      | Passed :heavy_check_mark: | 02.06.2022 |
+| :no_entry:     | 792 | 047      | Passed :heavy_check_mark: | 02.07.2022 |
+| :no_entry:     | 793 | 047      | Passed :heavy_check_mark: | 02.06.2022 |
+| :no_entry:     | 794 | 047      | Passed :heavy_check_mark: | 02.06.2022 |
+| :no_entry:     | 795 | 047      | Passed :heavy_check_mark: | 02.06.2022 |
 | :no_entry:     | 796 | Almera   | Passed :heavy_check_mark: | 30.04.2022 |
 | :no_entry:     | 797 | Almera   | Passed :heavy_check_mark: | 28.04.2022 |
 | :no_entry:     | 798 | Almera   | Passed :heavy_check_mark: | 27.04.2022 |
@@ -867,11 +867,11 @@
 | :no_entry:     | 855 | K-Fed    | Passed :heavy_check_mark: | 11.05.2022 |
 | :no_entry:     | 856 | K-Fed    | Passed :heavy_check_mark: | 12.05.2022 |
 | :no_entry:     | 857 | K-Fed    | Passed :heavy_check_mark: | 10.05.2022 |
-| :green_circle: | 858 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 859 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 860 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 861 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 862 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 858 | 047   | in progress :hammer: | 02.06.2022 |
+| :yellow_circle:| 859 | 047   | in progress :hammer: | 02.06.2022 |
+| :yellow_circle:| 860 | 047   | in progress :hammer: | 02.06.2022 |
+| :yellow_circle:| 861 | 047   | in progress :hammer: | 02.06.2022 |
+| :yellow_circle:| 862 | 047   | in progress :hammer: | 02.06.2022 |
 | :green_circle: | 863 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 864 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 865 | FREE  | FREE | 00.00.2022 |

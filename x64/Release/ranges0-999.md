@@ -64,7 +64,7 @@
 | :yellow_circle:| 52  | Vyacheslav| in progress :hammer: | 31.05.2022 |
 | :yellow_circle:| 53  | Vyacheslav| in progress :hammer: | 31.05.2022 |
 | :yellow_circle:| 54  | Vyacheslav| in progress :hammer: | 01.06.2022 |
-| :no_entry:     | 55  | V       | Passed :heavy_check_mark:  |  02.05.2022  |
+| :no_entry:     | 55  | V       | Passed :heavy_check_mark: | 02.05.2022 |
 | :yellow_circle:| 56  | Supere  | in progress :hammer: | 30.05.2022 |
 | :green_circle: | 57  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 58  | FREE    | FREE | 00.00.2022 |
@@ -73,8 +73,8 @@
 | :green_circle: | 61  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 62  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 63  | FREE    | FREE | 00.00.2022 |
-| :yellow_circle:| 64  | PVA     | in progress :hammer: | 30.05.2022 |
-| :green_circle: | 65  | FREE    | FREE | 00.00.2022 |
+| :no_entry:     | 64  | PVA     | Passed :heavy_check_mark: | 02.06.2022 |
+| :yellow_circle:| 65  | PVA     | in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 66  | Supere  | in progress :hammer: | 30.05.2022 |
 | :green_circle: | 67  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 68  | FREE    | FREE | 00.00.2022 |

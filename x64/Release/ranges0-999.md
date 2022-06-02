@@ -38,10 +38,10 @@
 | :no_entry:     | 26  | Vyacheslav| Passed :heavy_check_mark: | 31.05.2022 |
 | :no_entry:     | 27  | Vyacheslav| Passed :heavy_check_mark: | 31.05.2022 |
 | :no_entry:     | 28  | Vyacheslav| Passed :heavy_check_mark: | 01.06.2022 |
-| :yellow_circle:| 29  | com bio | in progress :hammer: | 29.05.2022 |
-| :yellow_circle:| 30  | com bio | in progress :hammer: | 29.05.2022 |
-| :yellow_circle:| 31  | com bio | in progress :hammer: | 29.05.2022 |
-| :yellow_circle:| 32  | com bio | in progress :hammer: | 29.05.2022 |
+| :no_entry:     | 29  | com bio | Passed :heavy_check_mark: | 02.06.2022 |
+| :no_entry:     | 30  | com bio | Passed :heavy_check_mark: | 02.06.2022 |
+| :no_entry:     | 31  | com bio | Passed :heavy_check_mark: | 02.06.2022 |
+| :no_entry:     | 32  | com bio | Passed :heavy_check_mark: | 02.06.2022 |
 | :no_entry:     | 33  | V       | Passed :heavy_check_mark: | 02.05.2022 |
 | :no_entry:     | 34  | 047     | Passed :heavy_check_mark: | 18.05.2022 |
 | :no_entry:     | 35  | 047     | Passed :heavy_check_mark: | 18.05.2022 |

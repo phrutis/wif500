@@ -621,22 +621,22 @@
 | :yellow_circle:| 609 | k bluesky| in progress :hammer: | 25.05.2022 |
 | :no_entry:     | 610 | k bluesky| Passed :heavy_check_mark: | 01.06.2022 |
 | :no_entry:     | 611 | k bluesky| Passed :heavy_check_mark: | 01.06.2022 |
-| :yellow_circle:| 612 | k bluesky| in progress :hammer: | 28.05.2022 |
-| :yellow_circle:| 613 | k bluesky| in progress :hammer: | 28.05.2022 |
-| :yellow_circle:| 614 | k bluesky| in progress :hammer: | 28.05.2022 |
-| :yellow_circle:| 615 | k bluesky| in progress :hammer: | 28.05.2022 |
-| :yellow_circle:| 616 | k bluesky| in progress :hammer: | 28.05.2022 |
+| :no_entry:     | 612 | k bluesky| Passed :heavy_check_mark: | 02.06.2022 |
+| :no_entry:     | 613 | k bluesky| Passed :heavy_check_mark: | 02.06.2022 |
+| :no_entry:     | 614 | k bluesky| Passed :heavy_check_mark: | 02.06.2022 |
+| :no_entry:     | 615 | k bluesky| Passed :heavy_check_mark: | 02.06.2022 |
+| :no_entry:     | 616 | k bluesky| Passed :heavy_check_mark: | 02.06.2022 |
 | :no_entry:     | 617 | k bluesky| Passed :heavy_check_mark: | 01.06.2022 |
 | :yellow_circle:| 618 | k bluesky| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 619 | k bluesky| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 620 | Dmitry S | in progress :hammer: | 31.05.2022 |
 | :yellow_circle:| 621 | k bluesky| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 622 | k bluesky| in progress :hammer: | 01.06.2022 |
-| :green_circle: | 623 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 624 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 625 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 626 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 627 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 623 | k bluesky| in progress :hammer: | 02.06.2022 |
+| :yellow_circle:| 624 | k bluesky| in progress :hammer: | 02.06.2022 |
+| :yellow_circle:| 625 | k bluesky| in progress :hammer: | 02.06.2022 |
+| :yellow_circle:| 626 | k bluesky| in progress :hammer: | 02.06.2022 |
+| :yellow_circle:| 627 | k bluesky| in progress :hammer: | 02.06.2022 |
 | :green_circle: | 628 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 629 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 630 | FREE     | FREE | 00.00.2022 |
@@ -729,7 +729,7 @@
 | :green_circle: | 717 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 718 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 719 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 720 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 720 | KIKI     | in progress :hammer: | 02.06.2022 |
 | :green_circle: | 721 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 722 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 723 | FREE     | FREE | 00.00.2022 |
@@ -746,14 +746,14 @@
 | :green_circle: | 734 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 735 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 736 | FREE     | FREE | 00.00.2022 |
-| :no_entry:     | 737 | Hyeok    | Passed :heavy_check_mark: |  27.05.2022 |
+| :no_entry:     | 737 | Hyeok    | Passed :heavy_check_mark: | 27.05.2022 |
 | :green_circle: | 738 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 739 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 740 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 741 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 742 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 743 | FREE     | FREE | 00.00.2022 |
-| :no_entry:     | 744 | Almera   | Passed :heavy_check_mark:  |  26.04.2022  |
+| :no_entry:     | 744 | Almera   | Passed :heavy_check_mark: | 26.04.2022 |
 | :green_circle: | 745 | FREE     | FREE | 00.00.2022 |
 | :yellow_circle:| 746 | Supere   | in progress :hammer: | 30.05.2022 |
 | :green_circle: | 747 | FREE     | FREE | 00.00.2022 |
@@ -762,8 +762,8 @@
 | :green_circle: | 750 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 751 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 752 | FREE     | FREE | 00.00.2022 |
-| :yellow_circle:| 753 | Leonid   | in progress :hammer: | 29.05.2022 |
-| :yellow_circle:| 754 | Leonid   | in progress :hammer: | 29.05.2022 |
+| :no_entry:     | 753 | Leonid   | Passed :heavy_check_mark: | 02.06.2022 |
+| :no_entry:     | 754 | Leonid   | Passed :heavy_check_mark: | 02.06.2022 |
 | :green_circle: | 755 | FREE     | FREE | 00.00.2022 |
 | :yellow_circle:| 756 | Supere   | in progress :hammer: | 30.05.2022 |
 | :green_circle: | 757 | FREE     | FREE | 00.00.2022 |
@@ -959,8 +959,8 @@
 | :green_circle: | 947 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 948 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 949 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 950 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 951 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 950 | Leonid   | in progress :hammer: | 02.06.2022 |
+| :yellow_circle:| 951 | Leonid   | in progress :hammer: | 02.06.2022 |
 | :green_circle: | 952 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 953 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 954 | FREE     | FREE | 00.00.2022 |

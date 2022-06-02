@@ -618,7 +618,7 @@
 | :no_entry:     | 606 | k bluesky| Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:     | 607 | k bluesky| Passed :heavy_check_mark: | 28.05.2022 |
 | :no_entry:     | 608 | k bluesky| Passed :heavy_check_mark: | 28.05.2022 |
-| :yellow_circle:| 609 | k bluesky| in progress :hammer: | 25.05.2022 |
+| :no_entry:     | 609 | k bluesky| Passed :heavy_check_mark: | 02.06.2022 |
 | :no_entry:     | 610 | k bluesky| Passed :heavy_check_mark: | 01.06.2022 |
 | :no_entry:     | 611 | k bluesky| Passed :heavy_check_mark: | 01.06.2022 |
 | :no_entry:     | 612 | k bluesky| Passed :heavy_check_mark: | 02.06.2022 |
@@ -637,7 +637,7 @@
 | :yellow_circle:| 625 | k bluesky| in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 626 | k bluesky| in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 627 | k bluesky| in progress :hammer: | 02.06.2022 |
-| :green_circle: | 628 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 628 | k bluesky| in progress :hammer: | 02.06.2022 |
 | :green_circle: | 629 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 630 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 631 | FREE     | FREE | 00.00.2022 |

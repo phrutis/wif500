@@ -342,7 +342,7 @@
 | :yellow_circle:| 330 | Dmitry S| in progress :hammer: | 31.05.2022 |
 | :green_circle: | 331 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 332 | FREE  | FREE | 00.00.2022 |
-| :yellow_circle:| 333 | PVA   | in progress :hammer: | 29.05.2022 |
+| :no_entry:     | 333 | PVA   | Passed :heavy_check_mark: | 02.06.2022 |
 | :green_circle: | 334 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 335 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 336 | FREE  | FREE | 00.00.2022 |
@@ -1006,6 +1006,6 @@
 | :green_circle: | 994 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 995 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 996 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 997 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 997 | PVA      | in progress :hammer: | 02.06.2022 |
 | :green_circle: | 998 | FREE     | FREE | 00.00.2022 |
 | :yellow_circle:| 999 | Илья 95   | in progress :hammer: | 30.05.2022 |

@@ -34,7 +34,7 @@
 | :no_entry:     | 22  | 047      | Passed :heavy_check_mark: | 28.04.2022 |
 | :no_entry:     | 23  | Vyacheslav| Passed :heavy_check_mark: | 31.05.2022 |
 | :no_entry:     | 24  | Andrii   | Passed :heavy_check_mark: | 15.05.2022 |
-| :green_circle: | 25  | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 25  | Илья     | in progress :hammer: | 02.06.2022 |
 | :no_entry:     | 26  | Vyacheslav| Passed :heavy_check_mark: | 31.05.2022 |
 | :no_entry:     | 27  | Vyacheslav| Passed :heavy_check_mark: | 31.05.2022 |
 | :no_entry:     | 28  | Vyacheslav| Passed :heavy_check_mark: | 01.06.2022 |

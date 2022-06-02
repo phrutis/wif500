@@ -315,9 +315,9 @@
 | :yellow_circle:| 303 | Mars42   | in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 304 | Kuw   | in progress :hammer: | 08.05.2022 |
 | :yellow_circle:| 305 | V     | in progress :hammer: | 28.05.2022 |
-| :green_circle: | 306 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 306 | Mars42   | in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 307 | Maikee| in progress :hammer: | 02.06.2022 |
-| :green_circle: | 308 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 308 | Mars42   | in progress :hammer: | 02.06.2022 |
 | :green_circle: | 309 | FREE  | FREE | 00.00.2022 |
 | :no_entry:     | 310 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |
 | :no_entry:     | 311 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |

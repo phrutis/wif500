@@ -755,7 +755,7 @@
 | :green_circle: | 743 | FREE     | FREE | 00.00.2022 |
 | :no_entry:     | 744 | Almera   | Passed :heavy_check_mark: | 26.04.2022 |
 | :green_circle: | 745 | FREE     | FREE | 00.00.2022 |
-| :yellow_circle:| 746 | Supere   | in progress :hammer: | 30.05.2022 |
+| :no_entry:     | 746 | Supere   | Passed :heavy_check_mark: | 03.06.2022 |
 | :green_circle: | 747 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 748 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 749 | FREE     | FREE | 00.00.2022 |
@@ -765,7 +765,7 @@
 | :no_entry:     | 753 | Leonid   | Passed :heavy_check_mark: | 02.06.2022 |
 | :no_entry:     | 754 | Leonid   | Passed :heavy_check_mark: | 02.06.2022 |
 | :green_circle: | 755 | FREE     | FREE | 00.00.2022 |
-| :yellow_circle:| 756 | Supere   | in progress :hammer: | 30.05.2022 |
+| :no_entry:     | 756 | Supere   | Passed :heavy_check_mark: | 03.06.2022 |
 | :green_circle: | 757 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 758 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 759 | FREE     | FREE | 00.00.2022 |
@@ -775,7 +775,7 @@
 | :green_circle: | 763 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 764 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 765 | FREE     | FREE | 00.00.2022 |
-| :yellow_circle:| 766 | Supere   | in progress :hammer: | 30.05.2022 |
+| :no_entry:     | 766 | Supere   | Passed :heavy_check_mark: | 03.06.2022 |
 | :green_circle: | 767 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 768 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 769 | FREE     | FREE | 00.00.2022 |
@@ -785,7 +785,7 @@
 | :green_circle: | 773 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 774 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 775 | FREE     | FREE | 00.00.2022 |
-| :yellow_circle:| 776 | Supere   | in progress :hammer: | 30.05.2022 |
+| :no_entry:     | 776 | Supere   | Passed :heavy_check_mark: | 03.06.2022 |
 | :no_entry:     | 777 | JRodary  | Passed :heavy_check_mark: | 20.04.2022 |
 | :no_entry:     | 778 | JRodary  | Passed :heavy_check_mark: | 27.04.2022 |
 | :green_circle: | 779 | FREE     | FREE |  00.00.2022 |

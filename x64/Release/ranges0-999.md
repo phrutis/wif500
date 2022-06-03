@@ -55,7 +55,7 @@
 | :no_entry:     | 43  | Almera  | Passed :heavy_check_mark: | 23.04.2022 |
 | :no_entry:     | 44  | V       | Passed :heavy_check_mark: | 02.05.2022 |
 | :yellow_circle:| 45  | Mars42  | in progress :hammer: | 29.05.2022 |
-| :yellow_circle:| 46  | Supere  | in progress :hammer: | 30.05.2022 |
+| :no_entry:     | 46  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
 | :no_entry:     | 47  | Ervings | Passed :heavy_check_mark: | 18.05.2022 |
 | :yellow_circle:| 48  | Ervings | in progress :hammer: | 01.06.2022 |
 | :no_entry:     | 49  | PVA     | Passed :heavy_check_mark: | 03.06.2022 |
@@ -65,7 +65,7 @@
 | :yellow_circle:| 53  | Vyacheslav| in progress :hammer: | 31.05.2022 |
 | :yellow_circle:| 54  | Vyacheslav| in progress :hammer: | 01.06.2022 |
 | :no_entry:     | 55  | V       | Passed :heavy_check_mark: | 02.05.2022 |
-| :yellow_circle:| 56  | Supere  | in progress :hammer: | 30.05.2022 |
+| :no_entry:     | 56  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
 | :green_circle: | 57  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 58  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 59  | FREE    | FREE | 00.00.2022 |
@@ -75,7 +75,7 @@
 | :green_circle: | 63  | FREE    | FREE | 00.00.2022 |
 | :no_entry:     | 64  | PVA     | Passed :heavy_check_mark: | 02.06.2022 |
 | :yellow_circle:| 65  | PVA     | in progress :hammer: | 02.06.2022 |
-| :yellow_circle:| 66  | Supere  | in progress :hammer: | 30.05.2022 |
+| :no_entry:     | 66  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
 | :yellow_circle:| 67  | PVA     | in progress :hammer: | 03.06.2022 |
 | :green_circle: | 68  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 69  | FREE    | FREE | 00.00.2022 |
@@ -85,7 +85,7 @@
 | :green_circle: | 73  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 74  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 75  | FREE    | FREE | 00.00.2022 |
-| :yellow_circle:| 76  | Supere  | in progress :hammer: | 30.05.2022 |
+| :no_entry:     | 76  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
 | :no_entry:     | 77  | Werevalis| Passed :heavy_check_mark: | 25.04.2022 |
 | :green_circle: | 78  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 79  | FREE    | FREE | 00.00.2022 |
@@ -315,10 +315,10 @@
 | :yellow_circle:| 303 | Mars42   | in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 304 | Kuw   | in progress :hammer: | 08.05.2022 |
 | :yellow_circle:| 305 | V     | in progress :hammer: | 28.05.2022 |
-| :yellow_circle:| 306 | Mars42   | in progress :hammer: | 02.06.2022 |
+| :yellow_circle:| 306 | Mars42| in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 307 | Maikee| in progress :hammer: | 02.06.2022 |
-| :yellow_circle:| 308 | Mars42   | in progress :hammer: | 02.06.2022 |
-| :green_circle: | 309 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 308 | Mars42| in progress :hammer: | 03.06.2022 |
+| :yellow_circle:| 309 | Mars42| in progress :hammer: | 03.06.2022 |
 | :no_entry:     | 310 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |
 | :no_entry:     | 311 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |
 | :no_entry:     | 312 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |
@@ -334,7 +334,7 @@
 | :green_circle: | 322 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 323 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 324 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 325 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 325 | Supere| in progress :hammer: | 03.06.2022 |
 | :green_circle: | 326 | FREE  | FREE | 00.00.2022 |
 | :yellow_circle:| 327 | Andrzej | in progress :hammer: | 26.05.2022 |
 | :green_circle: | 328 | FREE  | FREE | 00.00.2022 |
@@ -369,8 +369,8 @@
 | :green_circle: | 357 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 358 | FREE  | FREE | 00.00.2022 |
 | :no_entry:     | 359 | Илья 95| Passed :heavy_check_mark: | 25.05.2022 |
-| :yellow_circle:| 360 | Oleg D  | in progress :hammer: | 30.05.2022 |
-| :yellow_circle:| 361 | Oleg D  | in progress :hammer: | 30.05.2022 |
+| :no_entry:     | 360 | Oleg D| Passed :heavy_check_mark: | 03.06.2022 |
+| :no_entry:     | 361 | Oleg D| Passed :heavy_check_mark: | 03.06.2022 |
 | :green_circle: | 362 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 363 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 364 | FREE  | FREE | 00.00.2022 |
@@ -574,7 +574,7 @@
 | :green_circle: | 562 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 563 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 564 | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 565 | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 565 | Supere| in progress :hammer: | 03.06.2022 |
 | :green_circle: | 566 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 567 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 568 | FREE    | FREE | 00.00.2022 |
@@ -674,7 +674,7 @@
 | :green_circle: | 662 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 663 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 664 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 665 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 665 | Supere| in progress :hammer: | 03.06.2022 |
 | :no_entry:     | 666 | KIKI     | Passed :heavy_check_mark: | 26.05.2022 |
 | :green_circle: | 667 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 668 | FREE     | FREE | 00.00.2022 |
@@ -1008,4 +1008,4 @@
 | :green_circle: | 996 | FREE     | FREE | 00.00.2022 |
 | :yellow_circle:| 997 | PVA      | in progress :hammer: | 02.06.2022 |
 | :green_circle: | 998 | FREE     | FREE | 00.00.2022 |
-| :yellow_circle:| 999 | Илья 95   | in progress :hammer: | 30.05.2022 |
+| :no_entry:     | 999 | Илья 95  | Passed :heavy_check_mark: | 03.06.2022 |

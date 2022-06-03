@@ -22,7 +22,7 @@
 | :no_entry:     | 10  | K-Fed    | Passed :heavy_check_mark: | 10.05.2022 |
 | :no_entry:     | 11  | Kuw      | Passed :heavy_check_mark: | 19.05.2022 |
 | :no_entry:     | 12  | Kuw      | Passed :heavy_check_mark: | 27.05.2022 |
-| :yellow_circle:| 13  | Kuw      | in progress :hammer: | 27.05.2022 |
+| :no_entry:     | 13  | Kuw      | Passed :heavy_check_mark: | 03.06.2022 |
 | :no_entry:     | 14  | 047      | Passed :heavy_check_mark: | 27.04.2022 |
 | :no_entry:     | 15  | 047      | Passed :heavy_check_mark: | 27.04.2022 |
 | :no_entry:     | 16  | 047      | Passed :heavy_check_mark: | 28.04.2022 |
@@ -322,7 +322,7 @@
 | :no_entry:     | 310 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |
 | :no_entry:     | 311 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |
 | :no_entry:     | 312 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |
-| :green_circle: | 313 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 313 | Mars42| in progress :hammer: | 03.06.2022 |
 | :green_circle: | 314 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 315 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 316 | FREE  | FREE | 00.00.2022 |

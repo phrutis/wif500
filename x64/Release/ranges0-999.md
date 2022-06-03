@@ -313,7 +313,7 @@
 | :yellow_circle:| 301 | Mars42   | in progress :hammer: | 30.05.2022 |
 | :yellow_circle:| 302 | Mars42   | in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 303 | Mars42   | in progress :hammer: | 02.06.2022 |
-| :yellow_circle:| 304 | Kuw   | in progress :hammer: | 08.05.2022 |
+| :yellow_circle:| 304 | Kuw   | in progress :hammer: | 03.06.2022 |
 | :yellow_circle:| 305 | V     | in progress :hammer: | 28.05.2022 |
 | :yellow_circle:| 306 | Mars42| in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 307 | Maikee| in progress :hammer: | 02.06.2022 |

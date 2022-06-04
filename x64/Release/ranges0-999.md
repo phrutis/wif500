@@ -328,7 +328,7 @@
 | :green_circle: | 316 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 317 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 318 | FREE  | FREE | 00.00.2022 |
-| :yellow_circle:| 319 | XM XX | in progress :hammer: | 20.05.2022 |
+| :green_circle: | 319 | FREE  | FREE | 20.05.2022 |
 | :green_circle: | 320 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 321 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 322 | FREE  | FREE | 00.00.2022 |

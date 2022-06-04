@@ -560,7 +560,7 @@
 | :green_circle: | 548 | FREE    | FREE | 00.00.2022 |
 | :no_entry:     | 549 | D       | Passed :heavy_check_mark: | 31.05.2022 |
 | :yellow_circle:| 550 | D       | in progress :hammer: | 27.05.2022 |
-| :yellow_circle:| 551 | D       | in progress :hammer: | 31.05.2022 |
+| :no_entry:     | 551 | D       | Passed :heavy_check_mark: | 04.06.2022 |
 | :green_circle: | 552 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 553 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 554 | FREE    | FREE | 00.00.2022 |

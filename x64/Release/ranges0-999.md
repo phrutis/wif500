@@ -60,9 +60,9 @@
 | :yellow_circle:| 48  | Ervings | in progress :hammer: | 01.06.2022 |
 | :no_entry:     | 49  | PVA     | Passed :heavy_check_mark: | 03.06.2022 |
 | :yellow_circle:| 50  | Andrii  | in progress :hammer: | 03.06.2022 |
-| :yellow_circle:| 51  | Vyacheslav| in progress :hammer: | 31.05.2022 |
-| :yellow_circle:| 52  | Vyacheslav| in progress :hammer: | 31.05.2022 |
-| :yellow_circle:| 53  | Vyacheslav| in progress :hammer: | 31.05.2022 |
+| :no_entry:     | 51  | Vyacheslav| Passed :heavy_check_mark: | 04.06.2022 |
+| :no_entry:     | 52  | Vyacheslav| Passed :heavy_check_mark: | 04.06.2022 |
+| :no_entry:     | 53  | Vyacheslav| Passed :heavy_check_mark: | 04.06.2022 |
 | :yellow_circle:| 54  | Vyacheslav| in progress :hammer: | 01.06.2022 |
 | :no_entry:     | 55  | V       | Passed :heavy_check_mark: | 02.05.2022 |
 | :no_entry:     | 56  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |

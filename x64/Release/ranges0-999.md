@@ -54,7 +54,7 @@
 | :no_entry:     | 42  | Mars42  | Passed :heavy_check_mark: | 13.05.2022 |
 | :no_entry:     | 43  | Almera  | Passed :heavy_check_mark: | 23.04.2022 |
 | :no_entry:     | 44  | V       | Passed :heavy_check_mark: | 02.05.2022 |
-| :yellow_circle:| 45  | Mars42  | in progress :hammer: | 29.05.2022 |
+| :no_entry:     | 45  | Mars42  | Passed :heavy_check_mark: | 05.06.2022 |
 | :no_entry:     | 46  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
 | :no_entry:     | 47  | Ervings | Passed :heavy_check_mark: | 18.05.2022 |
 | :yellow_circle:| 48  | Ervings | in progress :hammer: | 01.06.2022 |
@@ -323,7 +323,7 @@
 | :no_entry:     | 311 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |
 | :no_entry:     | 312 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |
 | :yellow_circle:| 313 | Mars42| in progress :hammer: | 03.06.2022 |
-| :green_circle: | 314 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 314 | Mars42| in progress :hammer: | 03.06.2022 |
 | :green_circle: | 315 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 316 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 317 | FREE  | FREE | 00.00.2022 |

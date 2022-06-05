@@ -323,7 +323,7 @@
 | :no_entry:     | 311 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |
 | :no_entry:     | 312 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |
 | :yellow_circle:| 313 | Mars42| in progress :hammer: | 03.06.2022 |
-| :yellow_circle:| 314 | Mars42| in progress :hammer: | 03.06.2022 |
+| :yellow_circle:| 314 | Mars42| in progress :hammer: | 05.06.2022 |
 | :green_circle: | 315 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 316 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 317 | FREE  | FREE | 00.00.2022 |

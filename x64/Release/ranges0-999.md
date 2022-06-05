@@ -79,7 +79,7 @@
 | :yellow_circle:| 67  | PVA     | in progress :hammer: | 03.06.2022 |
 | :green_circle: | 68  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 69  | FREE    | FREE | 00.00.2022 |
-| :yellow_circle:| 70  | Chris   | in progress :hammer: | 01.06.2022 |
+| :no_entry:     | 70  | Chris   | Passed :heavy_check_mark: | 05.06.2022 |
 | :green_circle: | 71  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 72  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 73  | FREE    | FREE | 00.00.2022 |

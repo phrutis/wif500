@@ -19,10 +19,10 @@ pie title Total ranges 3364
             "  " : 0
            "   " : 0
           "    " : 0
-  "- Passed 1173" : 1173
+  "- Passed 1174" : 1174
          "     " : 0
   "- In progress 419" : 419
-   "- FREE 1772" : 1772
+   "- FREE 1771" : 1771
    
 ```
 ## How to participate in the challenge:

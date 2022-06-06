@@ -791,7 +791,7 @@
 | :green_circle: | 779 | FREE     | FREE |  00.00.2022 |
 | :green_circle: | 780 | FREE     | FREE |  00.00.2022 |
 | :green_circle: | 781 | FREE     | FREE |  00.00.2022 |
-| :green_circle: | 782 | FREE     | FREE |  00.00.2022 |
+| :yellow_circle:| 782 | Supere   | in progress :hammer: | 06.06.2022 |
 | :green_circle: | 783 | FREE     | FREE |  00.00.2022 |
 | :green_circle: | 784 | FREE     | FREE |  00.00.2022 |
 | :green_circle: | 785 | FREE     | FREE |  00.00.2022 |
@@ -899,7 +899,7 @@
 | :green_circle: | 887 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 888 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 889 | FREE  | FREE | 00.00.2022 |
-| :yellow_circle:| 890 | ola lala | in progress :hammer: | 01.06.2022 |
+| :no_entry:     | 890 | ola lala | Passed :heavy_check_mark: | 06.06.2022 |
 | :green_circle: | 891 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 892 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 893 | FREE  | FREE | 00.00.2022 |

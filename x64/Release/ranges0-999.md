@@ -674,7 +674,7 @@
 | :green_circle: | 662 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 663 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 664 | FREE     | FREE | 00.00.2022 |
-| :yellow_circle:| 665 | Supere| in progress :hammer: | 03.06.2022 |
+| :no_entry:     | 665 | Supere   | Passed :heavy_check_mark: | 06.06.2022 |
 | :no_entry:     | 666 | KIKI     | Passed :heavy_check_mark: | 26.05.2022 |
 | :green_circle: | 667 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 668 | FREE     | FREE | 00.00.2022 |

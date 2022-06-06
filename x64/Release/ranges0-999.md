@@ -638,7 +638,7 @@
 | :no_entry:     | 626 | k bluesky| Passed :heavy_check_mark: | 06.06.2022 |
 | :yellow_circle:| 627 | k bluesky| in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 628 | k bluesky| in progress :hammer: | 02.06.2022 |
-| :yellow_circle:| 620 | k bluesky| in progress :hammer: | 06.06.2022 |
+| :yellow_circle:| 629 | k bluesky| in progress :hammer: | 06.06.2022 |
 | :yellow_circle:| 630 | k bluesky| in progress :hammer: | 06.06.2022 |
 | :yellow_circle:| 631 | k bluesky| in progress :hammer: | 06.06.2022 |
 | :yellow_circle:| 632 | k bluesky| in progress :hammer: | 06.06.2022 |

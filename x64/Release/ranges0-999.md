@@ -334,7 +334,7 @@
 | :green_circle: | 322 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 323 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 324 | FREE  | FREE | 00.00.2022 |
-| :yellow_circle:| 325 | Supere| in progress :hammer: | 03.06.2022 |
+| :no_entry:     | 325 | Supere| Passed :heavy_check_mark: | 06.06.2022 |
 | :green_circle: | 326 | FREE  | FREE | 00.00.2022 |
 | :yellow_circle:| 327 | Andrzej | in progress :hammer: | 26.05.2022 |
 | :green_circle: | 328 | FREE  | FREE | 00.00.2022 |

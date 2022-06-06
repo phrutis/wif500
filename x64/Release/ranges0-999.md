@@ -74,7 +74,7 @@
 | :green_circle: | 62  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 63  | FREE    | FREE | 00.00.2022 |
 | :no_entry:     | 64  | PVA     | Passed :heavy_check_mark: | 02.06.2022 |
-| :yellow_circle:| 65  | PVA     | in progress :hammer: | 02.06.2022 |
+| :no_entry:     | 65  | PVA     | Passed :heavy_check_mark: | 06.06.2022 |
 | :no_entry:     | 66  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
 | :yellow_circle:| 67  | PVA     | in progress :hammer: | 03.06.2022 |
 | :green_circle: | 68  | FREE    | FREE | 00.00.2022 |

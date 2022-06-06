@@ -66,7 +66,7 @@
 | :yellow_circle:| 54  | Vyacheslav| in progress :hammer: | 01.06.2022 |
 | :no_entry:     | 55  | V       | Passed :heavy_check_mark: | 02.05.2022 |
 | :no_entry:     | 56  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
-| :green_circle: | 57  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 57  | V    | in progress :hammer: | 06.06.2022 |
 | :green_circle: | 58  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 59  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 60  | FREE    | FREE | 00.00.2022 |
@@ -314,7 +314,7 @@
 | :yellow_circle:| 302 | Mars42   | in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 303 | Mars42   | in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 304 | Kuw   | in progress :hammer: | 03.06.2022 |
-| :yellow_circle:| 305 | V     | in progress :hammer: | 28.05.2022 |
+| :no_entry:     | 305 | V     | Passed :heavy_check_mark: | 06.06.2022 |
 | :yellow_circle:| 306 | Mars42| in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 307 | Maikee| in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 308 | Mars42| in progress :hammer: | 03.06.2022 |

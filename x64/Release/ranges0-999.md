@@ -632,16 +632,16 @@
 | :yellow_circle:| 620 | Dmitry S | in progress :hammer: | 31.05.2022 |
 | :yellow_circle:| 621 | k bluesky| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 622 | k bluesky| in progress :hammer: | 01.06.2022 |
-| :yellow_circle:| 623 | k bluesky| in progress :hammer: | 02.06.2022 |
-| :yellow_circle:| 624 | k bluesky| in progress :hammer: | 02.06.2022 |
-| :yellow_circle:| 625 | k bluesky| in progress :hammer: | 02.06.2022 |
-| :yellow_circle:| 626 | k bluesky| in progress :hammer: | 02.06.2022 |
+| :no_entry:     | 623 | k bluesky| Passed :heavy_check_mark: | 06.06.2022 |
+| :no_entry:     | 624 | k bluesky| Passed :heavy_check_mark: | 06.06.2022 |
+| :no_entry:     | 625 | k bluesky| Passed :heavy_check_mark: | 06.06.2022 |
+| :no_entry:     | 626 | k bluesky| Passed :heavy_check_mark: | 06.06.2022 |
 | :yellow_circle:| 627 | k bluesky| in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 628 | k bluesky| in progress :hammer: | 02.06.2022 |
-| :green_circle: | 629 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 630 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 631 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 632 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 620 | k bluesky| in progress :hammer: | 06.06.2022 |
+| :yellow_circle:| 630 | k bluesky| in progress :hammer: | 06.06.2022 |
+| :yellow_circle:| 631 | k bluesky| in progress :hammer: | 06.06.2022 |
+| :yellow_circle:| 632 | k bluesky| in progress :hammer: | 06.06.2022 |
 | :green_circle: | 633 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 634 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 635 | FREE     | FREE | 00.00.2022 |

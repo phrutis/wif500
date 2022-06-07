@@ -34,7 +34,7 @@
 | :no_entry:     | 22  | 047      | Passed :heavy_check_mark: | 28.04.2022 |
 | :no_entry:     | 23  | Vyacheslav| Passed :heavy_check_mark: | 31.05.2022 |
 | :no_entry:     | 24  | Andrii   | Passed :heavy_check_mark: | 15.05.2022 |
-| :yellow_circle:| 25  | Илья     | in progress :hammer: | 02.06.2022 |
+| :no_entry:     | 25  | Илья     | Passed :heavy_check_mark: | 07.06.2022 |
 | :no_entry:     | 26  | Vyacheslav| Passed :heavy_check_mark: | 31.05.2022 |
 | :no_entry:     | 27  | Vyacheslav| Passed :heavy_check_mark: | 31.05.2022 |
 | :no_entry:     | 28  | Vyacheslav| Passed :heavy_check_mark: | 01.06.2022 |
@@ -66,8 +66,8 @@
 | :yellow_circle:| 54  | Vyacheslav| in progress :hammer: | 01.06.2022 |
 | :no_entry:     | 55  | V       | Passed :heavy_check_mark: | 02.05.2022 |
 | :no_entry:     | 56  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
-| :yellow_circle:| 57  | V    | in progress :hammer: | 06.06.2022 |
-| :green_circle: | 58  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 57  | V       | in progress :hammer: | 06.06.2022 |
+| :yellow_circle:| 58  | Илья    | in progress :hammer: | 07.06.2022 |
 | :green_circle: | 59  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 60  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 61  | FREE    | FREE | 00.00.2022 |
@@ -336,7 +336,7 @@
 | :green_circle: | 324 | FREE  | FREE | 00.00.2022 |
 | :no_entry:     | 325 | Supere| Passed :heavy_check_mark: | 06.06.2022 |
 | :green_circle: | 326 | FREE  | FREE | 00.00.2022 |
-| :yellow_circle:| 327 | Andrzej | in progress :hammer: | 26.05.2022 |
+| :no_entry:     | 327 | Andrzej | Passed :heavy_check_mark: | 07.06.2022 |
 | :green_circle: | 328 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 329 | FREE  | FREE | 00.00.2022 |
 | :yellow_circle:| 330 | Dmitry S| in progress :hammer: | 31.05.2022 |
@@ -574,7 +574,7 @@
 | :green_circle: | 562 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 563 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 564 | FREE    | FREE | 00.00.2022 |
-| :yellow_circle:| 565 | Supere| in progress :hammer: | 03.06.2022 |
+| :no_entry:     | 565 | Supere| Passed :heavy_check_mark: | 07.06.2022 |
 | :green_circle: | 566 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 567 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 568 | FREE    | FREE | 00.00.2022 |
@@ -627,11 +627,11 @@
 | :no_entry:     | 615 | k bluesky| Passed :heavy_check_mark: | 02.06.2022 |
 | :no_entry:     | 616 | k bluesky| Passed :heavy_check_mark: | 02.06.2022 |
 | :no_entry:     | 617 | k bluesky| Passed :heavy_check_mark: | 01.06.2022 |
-| :yellow_circle:| 618 | k bluesky| in progress :hammer: | 01.06.2022 |
-| :yellow_circle:| 619 | k bluesky| in progress :hammer: | 01.06.2022 |
+| :no_entry:     | 618 | k bluesky| Passed :heavy_check_mark: | 07.06.2022 |
+| :no_entry:     | 619 | k bluesky| Passed :heavy_check_mark: | 07.06.2022 |
 | :yellow_circle:| 620 | Dmitry S | in progress :hammer: | 31.05.2022 |
 | :no_entry:     | 621 | k bluesky| Passed :heavy_check_mark: | 06.06.2022 |
-| :yellow_circle:| 622 | k bluesky| in progress :hammer: | 01.06.2022 |
+| :no_entry:     | 622 | k bluesky| Passed :heavy_check_mark: | 07.06.2022 |
 | :no_entry:     | 623 | k bluesky| Passed :heavy_check_mark: | 06.06.2022 |
 | :no_entry:     | 624 | k bluesky| Passed :heavy_check_mark: | 06.06.2022 |
 | :no_entry:     | 625 | k bluesky| Passed :heavy_check_mark: | 06.06.2022 |
@@ -643,9 +643,9 @@
 | :yellow_circle:| 631 | k bluesky| in progress :hammer: | 06.06.2022 |
 | :yellow_circle:| 632 | k bluesky| in progress :hammer: | 06.06.2022 |
 | :yellow_circle:| 633 | k bluesky| in progress :hammer: | 06.06.2022 |
-| :green_circle: | 634 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 635 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 636 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 634 | k bluesky| in progress :hammer: | 07.06.2022 |
+| :yellow_circle:| 635 | k bluesky| in progress :hammer: | 07.06.2022 |
+| :yellow_circle:| 636 | k bluesky| in progress :hammer: | 07.06.2022 |
 | :green_circle: | 637 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 638 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 639 | FREE     | FREE | 00.00.2022 |

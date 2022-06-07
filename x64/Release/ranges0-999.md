@@ -57,7 +57,7 @@
 | :no_entry:     | 45  | Mars42  | Passed :heavy_check_mark: | 05.06.2022 |
 | :no_entry:     | 46  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
 | :no_entry:     | 47  | Ervings | Passed :heavy_check_mark: | 18.05.2022 |
-| :yellow_circle:| 48  | Ervings | in progress :hammer: | 01.06.2022 |
+| :no_entry:     | 48  | Ervings | Passed :heavy_check_mark: | 07.06.2022 |
 | :no_entry:     | 49  | PVA     | Passed :heavy_check_mark: | 03.06.2022 |
 | :yellow_circle:| 50  | Andrii  | in progress :hammer: | 03.06.2022 |
 | :no_entry:     | 51  | Vyacheslav| Passed :heavy_check_mark: | 04.06.2022 |

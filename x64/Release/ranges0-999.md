@@ -925,7 +925,7 @@
 | :green_circle: | 913 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 914 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 915 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 916 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 916 | Supere   | in progress :hammer: | 08.06.2022 |
 | :green_circle: | 917 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 918 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 919 | FREE     | FREE | 00.00.2022 |

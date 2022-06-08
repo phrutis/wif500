@@ -333,7 +333,7 @@
 | :green_circle: | 321 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 322 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 323 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 324 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 324 | Oleg_R| in progress :hammer: | 08.06.2022 |
 | :no_entry:     | 325 | Supere| Passed :heavy_check_mark: | 06.06.2022 |
 | :green_circle: | 326 | FREE  | FREE | 00.00.2022 |
 | :no_entry:     | 327 | Andrzej| Passed :heavy_check_mark: | 07.06.2022 |

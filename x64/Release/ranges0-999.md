@@ -702,13 +702,13 @@
 | :green_circle: | 690 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 691 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 692 | FREE     | FREE | 00.00.2022 |
-| :yellow_circle:| 693 | Trump88  | in progress :hammer: | 31.05.2022 |
-| :no_entry:     | 694 | Almera   | Passed :heavy_check_mark:  |  27.04.2022  |
-| :no_entry:     | 695 | Almera   | Passed :heavy_check_mark:  |  27.04.2022  |
-| :no_entry:     | 696 | Almera   | Passed :heavy_check_mark:  |  27.04.2022  |
-| :no_entry:     | 697 | Almera   | Passed :heavy_check_mark:  |  27.04.2022  |
-| :no_entry:     | 698 | Almera   | Passed :heavy_check_mark:  |  27.04.2022  |
-| :no_entry:     | 699 | Almera   | Passed :heavy_check_mark:  |  27.04.2022  |
+| :no_entry:     | 693 | Trump88  | Passed :heavy_check_mark: | 08.06.2022 |
+| :no_entry:     | 694 | Almera   | Passed :heavy_check_mark: | 27.04.2022 |
+| :no_entry:     | 695 | Almera   | Passed :heavy_check_mark: | 27.04.2022 |
+| :no_entry:     | 696 | Almera   | Passed :heavy_check_mark: | 27.04.2022 |
+| :no_entry:     | 697 | Almera   | Passed :heavy_check_mark: | 27.04.2022 |
+| :no_entry:     | 698 | Almera   | Passed :heavy_check_mark: | 27.04.2022 |
+| :no_entry:     | 699 | Almera   | Passed :heavy_check_mark: | 27.04.2022 |
 | :green_circle: | 700 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 701 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 702 | FREE     | FREE | 00.00.2022 |

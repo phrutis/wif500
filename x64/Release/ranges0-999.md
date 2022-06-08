@@ -94,7 +94,7 @@
 | :green_circle: | 82  | FREE    | FREE | 00.00.2022 |
 | :no_entry:     | 83  | Almera  | Passed :heavy_check_mark: | 21.04.2022 |
 | :green_circle: | 84  | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 85  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 85  | Oleg D   | in progress :hammer: | 08.06.2022 |
 | :no_entry:     | 86  | Almera   | Passed :heavy_check_mark: | 21.04.2022 |
 | :no_entry:     | 87  | Almera   | Passed :heavy_check_mark: | 21.04.2022 |
 | :no_entry:     | 88  | Almera   | Passed :heavy_check_mark: | 21.04.2022 |
@@ -629,7 +629,7 @@
 | :no_entry:     | 617 | k bluesky| Passed :heavy_check_mark: | 01.06.2022 |
 | :no_entry:     | 618 | k bluesky| Passed :heavy_check_mark: | 07.06.2022 |
 | :no_entry:     | 619 | k bluesky| Passed :heavy_check_mark: | 07.06.2022 |
-| :yellow_circle:| 620 | Dmitry S | in progress :hammer: | 31.05.2022 |
+| :no_entry:     | 620 | Dmitry S | Passed :heavy_check_mark: | 08.06.2022 |
 | :no_entry:     | 621 | k bluesky| Passed :heavy_check_mark: | 06.06.2022 |
 | :no_entry:     | 622 | k bluesky| Passed :heavy_check_mark: | 07.06.2022 |
 | :no_entry:     | 623 | k bluesky| Passed :heavy_check_mark: | 06.06.2022 |

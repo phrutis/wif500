@@ -93,7 +93,7 @@
 | :green_circle: | 81  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 82  | FREE    | FREE | 00.00.2022 |
 | :no_entry:     | 83  | Almera  | Passed :heavy_check_mark: | 21.04.2022 |
-| :green_circle: | 84  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 84  | Coins   | in progress :hammer: | 08.06.2022 |
 | :yellow_circle:| 85  | Oleg D   | in progress :hammer: | 08.06.2022 |
 | :no_entry:     | 86  | Almera   | Passed :heavy_check_mark: | 21.04.2022 |
 | :no_entry:     | 87  | Almera   | Passed :heavy_check_mark: | 21.04.2022 |
@@ -324,7 +324,7 @@
 | :no_entry:     | 312 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |
 | :yellow_circle:| 313 | Mars42| in progress :hammer: | 03.06.2022 |
 | :yellow_circle:| 314 | Mars42| in progress :hammer: | 05.06.2022 |
-| :green_circle: | 315 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 315 | Coins | in progress :hammer: | 08.06.2022 |
 | :green_circle: | 316 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 317 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 318 | FREE  | FREE | 00.00.2022 |

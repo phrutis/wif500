@@ -489,7 +489,7 @@
 | :no_entry:     | 477 | smtK__| Passed :heavy_check_mark: | 01.06.2022 |
 | :no_entry:     | 478 | smtK__| Passed :heavy_check_mark: | 01.06.2022 |
 | :no_entry:     | 479 | smtK__| Passed :heavy_check_mark: | 01.06.2022 |
-| :no_entry:     | 480 | Noname| Passed :heavy_check_mark: | 08.06.2022 |
+| :no_entry:     | 480 | smtK__| Passed :heavy_check_mark: | 01.06.2022 |
 | :yellow_circle:| 481 | smtK__| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 482 | smtK__| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 483 | smtK__| in progress :hammer: | 01.06.2022 |

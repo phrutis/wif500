@@ -934,7 +934,7 @@
 | :green_circle: | 922 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 923 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 924 | FREE     | FREE | 00.00.2022 |
-| :yellow_circle:| 925 | Trump88  | in progress :hammer: | 31.05.2022 |
+| :no_entry:     | 925 | Trump88  | Passed :heavy_check_mark: | 08.06.2022 |
 | :green_circle: | 926 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 927 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 928 | FREE     | FREE | 00.00.2022 |

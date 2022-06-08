@@ -69,7 +69,7 @@
 | :yellow_circle:| 57  | V       | in progress :hammer: | 06.06.2022 |
 | :yellow_circle:| 58  | Илья    | in progress :hammer: | 07.06.2022 |
 | :green_circle: | 59  | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 60  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 60  | Coins   | in progress :hammer: | 08.06.2022 |
 | :green_circle: | 61  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 62  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 63  | FREE    | FREE | 00.00.2022 |

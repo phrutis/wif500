@@ -78,12 +78,12 @@
 | :no_entry:     | 66  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
 | :no_entry:     | 67  | PVA     | Passed :heavy_check_mark: | 06.06.2022 |
 | :yellow_circle:| 68  | V       | in progress :hammer: | 07.06.2022 |
-| :green_circle: | 69  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 69  | Coins   | in progress :hammer: | 09.06.2022 |
 | :no_entry:     | 70  | Chris   | Passed :heavy_check_mark: | 05.06.2022 |
 | :yellow_circle:| 71  | Noname  | in progress :hammer: | 08.06.2022 |
 | :yellow_circle:| 72  | Noname  | in progress :hammer: | 08.06.2022 |
 | :yellow_circle:| 73  | Noname  | in progress :hammer: | 08.06.2022 |
-| :green_circle: | 74  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 74  | Coins   | in progress :hammer: | 09.06.2022 |
 | :green_circle: | 75  | FREE    | FREE | 00.00.2022 |
 | :no_entry:     | 76  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
 | :no_entry:     | 77  | Werevalis| Passed :heavy_check_mark: | 25.04.2022 |

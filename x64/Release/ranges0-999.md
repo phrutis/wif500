@@ -992,7 +992,7 @@
 | :green_circle: | 980 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 981 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 982 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 983 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 983 | Dmitry S | in progress :hammer: | 09.06.2022 |
 | :green_circle: | 984 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 985 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 986 | FREE     | FREE | 00.00.2022 |

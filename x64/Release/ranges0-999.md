@@ -1005,7 +1005,7 @@
 | :green_circle: | 993 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 994 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 995 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 996 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 996 | PVA      | in progress :hammer: | 09.06.2022 |
 | :no_entry:     | 997 | PVA      | Passed :heavy_check_mark: | 05.06.2022 |
-| :yellow_circle:| 998 | PVA      | in progress :hammer: | 05.06.2022 |
+| :no_entry:     | 998 | PVA      | Passed :heavy_check_mark: | 09.06.2022 |
 | :no_entry:     | 999 | Илья 95  | Passed :heavy_check_mark: | 03.06.2022 |

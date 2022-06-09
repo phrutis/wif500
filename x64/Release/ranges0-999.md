@@ -311,7 +311,7 @@
 | :no_entry:     | 299 | Almera   | Passed :heavy_check_mark: | 21.04.2022 |
 | :no_entry:     | 300 | Mars42   | Passed :heavy_check_mark: | 13.05.2022 |
 | :yellow_circle:| 301 | Mars42   | in progress :hammer: | 30.05.2022 |
-| :yellow_circle:| 302 | Mars42   | in progress :hammer: | 02.06.2022 |
+| :no_entry:     | 302 | Mars42   | Passed :heavy_check_mark: | 09.06.2022 |
 | :yellow_circle:| 303 | Mars42   | in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 304 | Kuw   | in progress :hammer: | 03.06.2022 |
 | :no_entry:     | 305 | V     | Passed :heavy_check_mark: | 06.06.2022 |
@@ -325,7 +325,7 @@
 | :yellow_circle:| 313 | Mars42| in progress :hammer: | 03.06.2022 |
 | :yellow_circle:| 314 | Mars42| in progress :hammer: | 05.06.2022 |
 | :yellow_circle:| 315 | Coins | in progress :hammer: | 08.06.2022 |
-| :green_circle: | 316 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 316 | Mars42| in progress :hammer: | 09.06.2022 |
 | :green_circle: | 317 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 318 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 319 | FREE  | FREE | 20.05.2022 |
@@ -354,7 +354,7 @@
 | :green_circle: | 342 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 343 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 344 | FREE  | FREE | 00.00.2022 |
-| :yellow_circle:| 345 | Dmitry S| in progress :hammer: | 30.05.2022 |
+| :no_entry:     | 345 | Dmitry S| Passed :heavy_check_mark: | 09.06.2022 |
 | :green_circle: | 346 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 347 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 348 | FREE  | FREE | 00.00.2022 |
@@ -977,7 +977,7 @@
 | :green_circle: | 965 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 966 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 967 | FREE     | FREE | 00.00.2022 |
-| :yellow_circle:| 968 | Dmitry S| in progress :hammer: | 31.05.2022 |
+| :no_entry:     | 968 | Dmitry S | Passed :heavy_check_mark: | 09.06.2022 |
 | :green_circle: | 969 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 970 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 971 | FREE     | FREE | 00.00.2022 |

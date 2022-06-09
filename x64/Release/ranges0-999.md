@@ -310,7 +310,7 @@
 | :no_entry:     | 298 | Almera   | Passed :heavy_check_mark: | 21.04.2022 |
 | :no_entry:     | 299 | Almera   | Passed :heavy_check_mark: | 21.04.2022 |
 | :no_entry:     | 300 | Mars42   | Passed :heavy_check_mark: | 13.05.2022 |
-| :yellow_circle:| 301 | Mars42   | in progress :hammer: | 30.05.2022 |
+| :no_entry:     | 301 | Mars42   | Passed :heavy_check_mark: | 09.06.2022 |
 | :no_entry:     | 302 | Mars42   | Passed :heavy_check_mark: | 09.06.2022 |
 | :yellow_circle:| 303 | Mars42   | in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 304 | Kuw   | in progress :hammer: | 03.06.2022 |
@@ -326,7 +326,7 @@
 | :yellow_circle:| 314 | Mars42| in progress :hammer: | 05.06.2022 |
 | :yellow_circle:| 315 | Coins | in progress :hammer: | 08.06.2022 |
 | :yellow_circle:| 316 | Mars42| in progress :hammer: | 09.06.2022 |
-| :green_circle: | 317 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 317 | Mars42| in progress :hammer: | 09.06.2022 |
 | :green_circle: | 318 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 319 | FREE  | FREE | 20.05.2022 |
 | :green_circle: | 320 | FREE  | FREE | 00.00.2022 |

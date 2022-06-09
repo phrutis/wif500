@@ -513,7 +513,7 @@
 | :yellow_circle:| 501 | smtK__| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 502 | smtK__| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 503 | smtK__| in progress :hammer: | 01.06.2022 |
-| :yellow_circle:| 504 | Dmitry S| in progress :hammer: | 31.05.2022 |
+| :no_entry:     | 504 | Dmitry S| Passed :heavy_check_mark: | 09.06.2022 |
 | :yellow_circle:| 505 | smtK__| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 506 | smtK__| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 507 | smtK__| in progress :hammer: | 01.06.2022 |

@@ -315,7 +315,7 @@
 | :no_entry:     | 303 | Mars42   | Passed :heavy_check_mark: | 09.06.2022 |
 | :yellow_circle:| 304 | Kuw   | in progress :hammer: | 03.06.2022 |
 | :no_entry:     | 305 | V     | Passed :heavy_check_mark: | 06.06.2022 |
-| :yellow_circle:| 306 | Mars42| in progress :hammer: | 02.06.2022 |
+| :no_entry:     | 306 | Mars42| Passed :heavy_check_mark: | 09.06.2022 |
 | :yellow_circle:| 307 | Maikee| in progress :hammer: | 02.06.2022 |
 | :yellow_circle:| 308 | Mars42| in progress :hammer: | 03.06.2022 |
 | :yellow_circle:| 309 | Mars42| in progress :hammer: | 03.06.2022 |
@@ -328,7 +328,7 @@
 | :yellow_circle:| 316 | Mars42| in progress :hammer: | 09.06.2022 |
 | :yellow_circle:| 317 | Mars42| in progress :hammer: | 09.06.2022 |
 | :yellow_circle:| 318 | Mars42| in progress :hammer: | 09.06.2022 |
-| :green_circle: | 319 | FREE  | FREE | 20.05.2022 |
+| :yellow_circle:| 319 | Mars42| in progress :hammer: | 09.06.2022 |
 | :green_circle: | 320 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 321 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 322 | FREE  | FREE | 00.00.2022 |

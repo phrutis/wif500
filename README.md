@@ -19,9 +19,9 @@ pie title Total ranges 3364
             "  " : 0
            "   " : 0
           "    " : 0
-  "- Passed 1265" : 1265
+  "- Passed 1267" : 1267
          "     " : 0
-  "- In progress 427" : 427
+  "- In progress 425" : 425
    "- FREE 1672" : 1672
    
 ```

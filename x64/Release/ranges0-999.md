@@ -498,7 +498,7 @@
 | :yellow_circle:| 486 | smtK__| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 487 | smtK__| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 488 | smtK__| in progress :hammer: | 01.06.2022 |
-| :yellow_circle:| 488 | smtK__| in progress :hammer: | 01.06.2022 |
+| :yellow_circle:| 489 | smtK__| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 490 | smtK__| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 491 | smtK__| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 492 | smtK__| in progress :hammer: | 01.06.2022 |

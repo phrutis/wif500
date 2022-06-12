@@ -71,7 +71,7 @@
 | :yellow_circle:| 59  | Илья 95 | in progress :hammer: | 08.06.2022 |
 | :yellow_circle:| 60  | Coins   | in progress :hammer: | 08.06.2022 |
 | :yellow_circle:| 61  | Илья    | in progress :hammer: | 12.06.2022 |
-| :green_circle: | 62  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 62  | Kuw     | in progress :hammer: | 12.06.2022 |
 | :green_circle: | 63  | FREE    | FREE | 00.00.2022 |
 | :no_entry:     | 64  | PVA     | Passed :heavy_check_mark: | 02.06.2022 |
 | :no_entry:     | 65  | PVA     | Passed :heavy_check_mark: | 06.06.2022 |

@@ -69,7 +69,7 @@
 | :yellow_circle:| 57  | V       | in progress :hammer: | 06.06.2022 |
 | :no_entry:     | 58  | Илья    | Passed :heavy_check_mark: | 12.06.2022 |
 | :yellow_circle:| 59  | Илья 95 | in progress :hammer: | 08.06.2022 |
-| :yellow_circle:| 60  | Coins   | in progress :hammer: | 08.06.2022 |
+| :no_entry:     | 60  | Coins   | Passed :heavy_check_mark: | 12.06.2022 |
 | :yellow_circle:| 61  | Илья    | in progress :hammer: | 12.06.2022 |
 | :yellow_circle:| 62  | Kuw     | in progress :hammer: | 12.06.2022 |
 | :yellow_circle:| 63  | Kuw     | in progress :hammer: | 12.06.2022 |
@@ -84,7 +84,7 @@
 | :yellow_circle:| 72  | Noname  | in progress :hammer: | 08.06.2022 |
 | :yellow_circle:| 73  | Noname  | in progress :hammer: | 08.06.2022 |
 | :no_entry:     | 74  | Coins   | Passed :heavy_check_mark: | 12.06.2022 |
-| :green_circle: | 75  | FREE    | FREE | 00.00.2022 |
+| :no_entry:     | 75  | Coins   | Passed :heavy_check_mark: | 12.06.2022 |
 | :no_entry:     | 76  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
 | :no_entry:     | 77  | Werevalis| Passed :heavy_check_mark: | 25.04.2022 |
 | :green_circle: | 78  | FREE    | FREE | 00.00.2022 |

@@ -986,7 +986,7 @@
 | :green_circle: | 974 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 975 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 976 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 977 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 977 | vlone    | in progress :hammer: | 12.06.2022 |
 | :yellow_circle:| 978 | vlone    | in progress :hammer: | 07.06.2022 |
 | :green_circle: | 979 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 980 | FREE     | FREE | 00.00.2022 |

@@ -83,7 +83,7 @@
 | :yellow_circle:| 71  | Noname  | in progress :hammer: | 08.06.2022 |
 | :yellow_circle:| 72  | Noname  | in progress :hammer: | 08.06.2022 |
 | :yellow_circle:| 73  | Noname  | in progress :hammer: | 08.06.2022 |
-| :yellow_circle:| 74  | Coins   | in progress :hammer: | 09.06.2022 |
+| :no_entry:     | 74  | Coins   | Passed :heavy_check_mark: | 12.06.2022 |
 | :green_circle: | 75  | FREE    | FREE | 00.00.2022 |
 | :no_entry:     | 76  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
 | :no_entry:     | 77  | Werevalis| Passed :heavy_check_mark: | 25.04.2022 |

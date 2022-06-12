@@ -324,7 +324,7 @@
 | :no_entry:     | 312 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |
 | :no_entry:     | 313 | Mars42| Passed :heavy_check_mark: | 10.06.2022 |
 | :no_entry:     | 314 | Mars42| Passed :heavy_check_mark: | 12.06.2022 |
-| :yellow_circle:| 315 | Coins | in progress :hammer: | 08.06.2022 |
+| :no_entry:     | 315 | Coins | Passed :heavy_check_mark: | 12.06.2022 |
 | :yellow_circle:| 316 | Mars42| in progress :hammer: | 09.06.2022 |
 | :yellow_circle:| 317 | Mars42| in progress :hammer: | 09.06.2022 |
 | :yellow_circle:| 318 | Mars42| in progress :hammer: | 09.06.2022 |

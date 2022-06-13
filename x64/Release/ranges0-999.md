@@ -528,7 +528,7 @@
 | :green_circle: | 516 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 517 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 518 | FREE    | FREE | 00.00.2022 |
-| :yellow_circle:| 519 | Trump88 | in progress :hammer: | 31.05.2022 |
+| :no_entry:     | 519 | Trump88 | Passed :heavy_check_mark: | 13.06.2022 |
 | :green_circle: | 520 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 521 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 522 | FREE    | FREE | 00.00.2022 |

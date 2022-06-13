@@ -371,7 +371,7 @@
 | :no_entry:     | 359 | Илья 95| Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:     | 360 | Oleg D| Passed :heavy_check_mark: | 03.06.2022 |
 | :no_entry:     | 361 | Oleg D| Passed :heavy_check_mark: | 03.06.2022 |
-| :green_circle: | 362 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 362 | HUN   | in progress :hammer: | 13.06.2022 |
 | :green_circle: | 363 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 364 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 365 | FREE  | FREE | 00.00.2022 |

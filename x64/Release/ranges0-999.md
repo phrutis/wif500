@@ -343,12 +343,12 @@
 | :green_circle: | 331 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 332 | FREE  | FREE | 00.00.2022 |
 | :no_entry:     | 333 | PVA   | Passed :heavy_check_mark: | 02.06.2022 |
-| :green_circle: | 334 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 335 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 336 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 337 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 338 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 339 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 334 | Maikee| in progress :hammer: | 13.06.2022 |
+| :yellow_circle:| 335 | Maikee| in progress :hammer: | 13.06.2022 |
+| :yellow_circle:| 336 | Maikee| in progress :hammer: | 13.06.2022 |
+| :yellow_circle:| 337 | Maikee| in progress :hammer: | 13.06.2022 |
+| :yellow_circle:| 338 | Maikee| in progress :hammer: | 13.06.2022 |
+| :yellow_circle:| 339 | Maikee| in progress :hammer: | 13.06.2022 |
 | :green_circle: | 340 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 341 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 342 | FREE  | FREE | 00.00.2022 |

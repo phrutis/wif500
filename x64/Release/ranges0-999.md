@@ -87,7 +87,7 @@
 | :no_entry:     | 75  | Coins   | Passed :heavy_check_mark: | 12.06.2022 |
 | :no_entry:     | 76  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
 | :no_entry:     | 77  | Werevalis| Passed :heavy_check_mark: | 25.04.2022 |
-| :green_circle: | 78  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 78  | Kuw     | in progress :hammer: | 13.06.2022 |
 | :green_circle: | 79  | FREE    | FREE | 00.00.2022 |
 | :no_entry:     | 80  | An      | Passed :heavy_check_mark: | 11.06.2022 |
 | :green_circle: | 81  | FREE    | FREE | 00.00.2022 |
@@ -313,7 +313,7 @@
 | :no_entry:     | 301 | Mars42   | Passed :heavy_check_mark: | 09.06.2022 |
 | :no_entry:     | 302 | Mars42   | Passed :heavy_check_mark: | 09.06.2022 |
 | :no_entry:     | 303 | Mars42   | Passed :heavy_check_mark: | 09.06.2022 |
-| :yellow_circle:| 304 | Kuw   | in progress :hammer: | 03.06.2022 |
+| :no_entry:     | 304 | Kuw   | Passed :heavy_check_mark: | 13.06.2022 |
 | :no_entry:     | 305 | V     | Passed :heavy_check_mark: | 06.06.2022 |
 | :no_entry:     | 306 | Mars42| Passed :heavy_check_mark: | 09.06.2022 |
 | :yellow_circle:| 307 | Maikee| in progress :hammer: | 02.06.2022 |

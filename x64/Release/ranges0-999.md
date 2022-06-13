@@ -997,7 +997,7 @@
 | :green_circle: | 985 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 986 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 987 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 988 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 988 | PVA      | in progress :hammer: | 13.06.2022 |
 | :green_circle: | 989 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 990 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 991 | FREE     | FREE | 00.00.2022 |
@@ -1005,7 +1005,7 @@
 | :green_circle: | 993 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 994 | FREE     | FREE | 00.00.2022 |
 | :yellow_circle:| 995 | mzciry   | in progress :hammer: | 12.06.2022 |
-| :yellow_circle:| 996 | PVA      | in progress :hammer: | 09.06.2022 |
+| :no_entry:     | 996 | PVA      | Passed :heavy_check_mark: | 13.06.2022 |
 | :no_entry:     | 997 | PVA      | Passed :heavy_check_mark: | 05.06.2022 |
 | :no_entry:     | 998 | PVA      | Passed :heavy_check_mark: | 09.06.2022 |
 | :no_entry:     | 999 | Илья 95  | Passed :heavy_check_mark: | 03.06.2022 |

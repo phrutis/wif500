@@ -78,7 +78,7 @@
 | :no_entry:     | 66  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
 | :no_entry:     | 67  | PVA     | Passed :heavy_check_mark: | 06.06.2022 |
 | :yellow_circle:| 68  | V       | in progress :hammer: | 07.06.2022 |
-| :yellow_circle:| 69  | Coins   | in progress :hammer: | 09.06.2022 |
+| :no_entry:     | 69  | Coins   | Passed :heavy_check_mark: | 13.06.2022 |
 | :no_entry:     | 70  | Chris   | Passed :heavy_check_mark: | 05.06.2022 |
 | :yellow_circle:| 71  | Noname  | in progress :hammer: | 08.06.2022 |
 | :yellow_circle:| 72  | Noname  | in progress :hammer: | 08.06.2022 |
@@ -93,7 +93,7 @@
 | :green_circle: | 81  | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 82  | FREE    | FREE | 00.00.2022 |
 | :no_entry:     | 83  | Almera  | Passed :heavy_check_mark: | 21.04.2022 |
-| :yellow_circle:| 84  | Coins   | in progress :hammer: | 08.06.2022 |
+| :no_entry:     | 84  | Coins   | Passed :heavy_check_mark: | 13.06.2022 |
 | :yellow_circle:| 85  | Oleg D   | in progress :hammer: | 08.06.2022 |
 | :no_entry:     | 86  | Almera   | Passed :heavy_check_mark: | 21.04.2022 |
 | :no_entry:     | 87  | Almera   | Passed :heavy_check_mark: | 21.04.2022 |

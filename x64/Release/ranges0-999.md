@@ -914,7 +914,7 @@
 | :green_circle: | 902 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 903 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 904 | FREE     | FREE | 00.00.2022 |
-| :yellow_circle:| 905 | Dmitry S | in progress :hammer: | 10.06.2022 |
+| :no_entry:     | 905 | Dmitry S | Passed :heavy_check_mark: | 13.06.2022 |
 | :green_circle: | 906 | FREE     | FREE | 00.00.2022 |
 | :yellow_circle:| 907 | Dmitry S | in progress :hammer: | 10.06.2022 |
 | :green_circle: | 908 | FREE     | FREE | 00.00.2022 |

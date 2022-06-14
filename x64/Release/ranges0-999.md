@@ -942,7 +942,7 @@
 | :green_circle: | 930 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 931 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 932 | FREE     | FREE | 00.00.2022 |
-| :yellow_circle:| 933 | PVA      | in progress :hammer: | 14.06.2022 |
+| :green_circle: | 933 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 934 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 935 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 936 | FREE     | FREE | 00.00.2022 |
@@ -1002,7 +1002,7 @@
 | :green_circle: | 990 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 991 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 992 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 993 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 993 | PVA      | in progress :hammer: | 14.06.2022 |
 | :green_circle: | 994 | FREE     | FREE | 00.00.2022 |
 | :yellow_circle:| 995 | mzciry   | in progress :hammer: | 12.06.2022 |
 | :no_entry:     | 996 | PVA      | Passed :heavy_check_mark: | 13.06.2022 |

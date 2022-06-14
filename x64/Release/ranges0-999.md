@@ -437,7 +437,7 @@
 | :no_entry:     | 425 | smtK__| Passed :heavy_check_mark: | 24.05.2022 |
 | :no_entry:     | 426 | smtK__| Passed :heavy_check_mark: | 24.05.2022 |
 | :no_entry:     | 427 | smtK__| Passed :heavy_check_mark: | 24.05.2022 |
-| :no_entry:     | 428 | Sam   | Passed | 26.04.2022 |
+| :no_entry:     | 428 | Sam   | Passed :heavy_check_mark: | 26.04.2022 |
 | :no_entry:     | 429 | K-Fed | Passed :heavy_check_mark: | 03.05.2022 |
 | :no_entry:     | 430 | K-Fed | Passed :heavy_check_mark: | 01.05.2022 |
 | :no_entry:     | 431 | K-Fed | Passed :heavy_check_mark: | 01.05.2022 |

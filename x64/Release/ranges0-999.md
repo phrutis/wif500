@@ -335,7 +335,7 @@
 | :yellow_circle:| 323 | Mars42| in progress :hammer: | 12.06.2022 |
 | :yellow_circle:| 324 | Oleg_R| in progress :hammer: | 08.06.2022 |
 | :no_entry:     | 325 | Supere| Passed :heavy_check_mark: | 06.06.2022 |
-| :green_circle: | 326 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 326 | vlone | in progress :hammer: | 14.06.2022 |
 | :no_entry:     | 327 | Andrzej| Passed :heavy_check_mark: | 07.06.2022 |
 | :yellow_circle:| 328 | Andrzej| in progress :hammer: | 07.06.2022 |
 | :green_circle: | 329 | FREE  | FREE | 00.00.2022 |
@@ -987,7 +987,7 @@
 | :green_circle: | 975 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 976 | FREE     | FREE | 00.00.2022 |
 | :yellow_circle:| 977 | vlone    | in progress :hammer: | 12.06.2022 |
-| :yellow_circle:| 978 | vlone    | in progress :hammer: | 07.06.2022 |
+| :no_entry:     | 978 | vlone    | Passed :heavy_check_mark: | 14.06.2022 |
 | :green_circle: | 979 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 980 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 981 | FREE     | FREE | 00.00.2022 |

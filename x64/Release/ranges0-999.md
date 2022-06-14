@@ -68,7 +68,7 @@
 | :no_entry:     | 56  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
 | :yellow_circle:| 57  | V       | in progress :hammer: | 06.06.2022 |
 | :no_entry:     | 58  | Илья    | Passed :heavy_check_mark: | 12.06.2022 |
-| :yellow_circle:| 59  | Илья 95 | in progress :hammer: | 08.06.2022 |
+| :no_entry:     | 59  | Илья 95 | Passed :heavy_check_mark: | 14.06.2022 |
 | :no_entry:     | 60  | Coins   | Passed :heavy_check_mark: | 12.06.2022 |
 | :yellow_circle:| 61  | Илья    | in progress :hammer: | 12.06.2022 |
 | :yellow_circle:| 62  | Kuw     | in progress :hammer: | 12.06.2022 |

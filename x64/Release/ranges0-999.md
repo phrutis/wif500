@@ -980,7 +980,7 @@
 | :no_entry:     | 968 | Dmitry S | Passed :heavy_check_mark: | 09.06.2022 |
 | :green_circle: | 969 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 970 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 971 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 971 | Fouad    | in progress :hammer: | 14.06.2022 |
 | :green_circle: | 972 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 973 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 974 | FREE     | FREE | 00.00.2022 |

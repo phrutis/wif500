@@ -665,7 +665,7 @@
 | :green_circle: | 653 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 654 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 655 | FREE     | FREE | 00.00.2022 |
-| :yellow_circle:| 656 | Supere   | in progress :hammer: | 10.06.2022 |
+| :no_entry:     | 656 | Supere   |Passed :heavy_check_mark: | 14.06.2022 |
 | :green_circle: | 657 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 658 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 659 | FREE     | FREE | 00.00.2022 |

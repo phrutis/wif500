@@ -376,11 +376,11 @@
 | :green_circle: | 364 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 365 | FREE  | FREE | 00.00.2022 |
 | :yellow_circle:| 366 | HUN   | in progress :hammer: | 13.06.2022 |
-| :green_circle: | 367 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 368 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 369 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 370 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 371 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 367 | HUN   | in progress :hammer: | 14.06.2022 |
+| :yellow_circle:| 368 | HUN   | in progress :hammer: | 14.06.2022 |
+| :yellow_circle:| 369 | HUN   | in progress :hammer: | 14.06.2022 |
+| :yellow_circle:| 370 | HUN   | in progress :hammer: | 14.06.2022 |
+| :yellow_circle:| 371 | HUN   | in progress :hammer: | 14.06.2022 |
 | :green_circle: | 372 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 373 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 374 | FREE  | FREE | 00.00.2022 |

@@ -690,7 +690,7 @@
 | :green_circle: | 678 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 679 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 680 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 681 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 681 | Fouad    | in progress :hammer: | 15.06.2022 |
 | :green_circle: | 682 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 683 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 684 | FREE     | FREE | 00.00.2022 |
@@ -750,7 +750,7 @@
 | :green_circle: | 738 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 739 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 740 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 741 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 741 | Fouad    | in progress :hammer: | 15.06.2022 |
 | :green_circle: | 742 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 743 | FREE     | FREE | 00.00.2022 |
 | :no_entry:     | 744 | Almera   | Passed :heavy_check_mark: | 26.04.2022 |

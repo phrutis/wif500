@@ -374,7 +374,7 @@
 | :yellow_circle:| 362 | HUN   | in progress :hammer: | 13.06.2022 |
 | :green_circle: | 363 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 364 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 365 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 365 | HUN   | in progress :hammer: | 15.06.2022 |
 | :yellow_circle:| 366 | HUN   | in progress :hammer: | 13.06.2022 |
 | :yellow_circle:| 367 | HUN   | in progress :hammer: | 14.06.2022 |
 | :yellow_circle:| 368 | HUN   | in progress :hammer: | 14.06.2022 |

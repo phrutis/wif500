@@ -325,7 +325,7 @@
 | :no_entry:     | 313 | Mars42| Passed :heavy_check_mark: | 10.06.2022 |
 | :no_entry:     | 314 | Mars42| Passed :heavy_check_mark: | 12.06.2022 |
 | :no_entry:     | 315 | Coins | Passed :heavy_check_mark: | 12.06.2022 |
-| :yellow_circle:| 316 | Mars42| in progress :hammer: | 09.06.2022 |
+| :no_entry:     | 316 | Mars42| Passed :heavy_check_mark: | 16.06.2022 |
 | :yellow_circle:| 317 | Mars42| in progress :hammer: | 09.06.2022 |
 | :yellow_circle:| 318 | Mars42| in progress :hammer: | 09.06.2022 |
 | :yellow_circle:| 319 | Mars42| in progress :hammer: | 09.06.2022 |
@@ -338,7 +338,7 @@
 | :yellow_circle:| 326 | vlone | in progress :hammer: | 14.06.2022 |
 | :no_entry:     | 327 | Andrzej| Passed :heavy_check_mark: | 07.06.2022 |
 | :yellow_circle:| 328 | Andrzej| in progress :hammer: | 07.06.2022 |
-| :green_circle: | 329 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 329 | Mars42| in progress :hammer: | 16.06.2022 |
 | :no_entry:     | 330 | Dmitry S| Passed :heavy_check_mark: | 07.06.2022 |
 | :green_circle: | 331 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 332 | FREE  | FREE | 00.00.2022 |

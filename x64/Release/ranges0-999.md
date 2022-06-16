@@ -372,8 +372,8 @@
 | :no_entry:     | 360 | Oleg D| Passed :heavy_check_mark: | 03.06.2022 |
 | :no_entry:     | 361 | Oleg D| Passed :heavy_check_mark: | 03.06.2022 |
 | :yellow_circle:| 362 | HUN   | in progress :hammer: | 13.06.2022 |
-| :green_circle: | 363 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 364 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 363 | HUN   | in progress :hammer: | 16.06.2022 |
+| :yellow_circle:| 364 | HUN   | in progress :hammer: | 16.06.2022 |
 | :yellow_circle:| 365 | HUN   | in progress :hammer: | 15.06.2022 |
 | :yellow_circle:| 366 | HUN   | in progress :hammer: | 13.06.2022 |
 | :yellow_circle:| 367 | HUN   | in progress :hammer: | 14.06.2022 |

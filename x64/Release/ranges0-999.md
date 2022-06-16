@@ -90,8 +90,8 @@
 | :yellow_circle:| 78  | Kuw     | in progress :hammer: | 13.06.2022 |
 | :green_circle: | 79  | FREE    | FREE | 00.00.2022 |
 | :no_entry:     | 80  | An      | Passed :heavy_check_mark: | 11.06.2022 |
-| :green_circle: | 81  | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 82  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 81  | HUN     | in progress :hammer: | 16.06.2022 |
+| :yellow_circle:| 82  | HUN     | in progress :hammer: | 16.06.2022 |
 | :no_entry:     | 83  | Almera  | Passed :heavy_check_mark: | 21.04.2022 |
 | :no_entry:     | 84  | Coins   | Passed :heavy_check_mark: | 13.06.2022 |
 | :no_entry:     | 85  | Oleg D   | Passed :heavy_check_mark: | 14.06.2022 |

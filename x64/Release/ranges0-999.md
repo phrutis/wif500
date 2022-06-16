@@ -586,7 +586,7 @@
 | :green_circle: | 574 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 575 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 576 | FREE    | FREE | 00.00.2022 |
-| :yellow_circle:| 577 | Trump88 | in progress :hammer: | 31.05.2022 |
+| :yellow_circle:| 577 | Trump88 | in progress :hammer: | 16.06.2022 |
 | :green_circle: | 578 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 579 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 580 | FREE    | FREE | 00.00.2022 |
@@ -878,7 +878,7 @@
 | :green_circle: | 866 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 867 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 868 | FREE  | FREE | 00.00.2022 |
-| :no_entry:     | 869 | Almera   | Passed :heavy_check_mark: | 26.04.2022 |
+| :no_entry:     | 869 | Almera| Passed :heavy_check_mark: | 26.04.2022 |
 | :green_circle: | 870 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 871 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 872 | FREE  | FREE | 00.00.2022 |

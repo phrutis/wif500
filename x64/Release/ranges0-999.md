@@ -70,7 +70,7 @@
 | :no_entry:     | 58  | Илья    | Passed :heavy_check_mark: | 12.06.2022 |
 | :no_entry:     | 59  | Илья 95 | Passed :heavy_check_mark: | 14.06.2022 |
 | :no_entry:     | 60  | Coins   | Passed :heavy_check_mark: | 12.06.2022 |
-| :yellow_circle:| 61  | Илья    | in progress :hammer: | 12.06.2022 |
+| :no_entry:     | 61  | Илья    | Passed :heavy_check_mark: | 17.06.2022 |
 | :yellow_circle:| 62  | Kuw     | in progress :hammer: | 12.06.2022 |
 | :yellow_circle:| 63  | Kuw     | in progress :hammer: | 12.06.2022 |
 | :no_entry:     | 64  | PVA     | Passed :heavy_check_mark: | 02.06.2022 |
@@ -326,7 +326,7 @@
 | :no_entry:     | 314 | Mars42| Passed :heavy_check_mark: | 12.06.2022 |
 | :no_entry:     | 315 | Coins | Passed :heavy_check_mark: | 12.06.2022 |
 | :no_entry:     | 316 | Mars42| Passed :heavy_check_mark: | 16.06.2022 |
-| :yellow_circle:| 317 | Mars42| in progress :hammer: | 09.06.2022 |
+| :no_entry:     | 317 | Mars42| Passed :heavy_check_mark: | 17.06.2022 |
 | :no_entry:     | 318 | Mars42| Passed :heavy_check_mark: | 16.06.2022 |
 | :yellow_circle:| 319 | Mars42| in progress :hammer: | 09.06.2022 |
 | :yellow_circle:| 320 | Mars42| in progress :hammer: | 10.06.2022 |
@@ -341,7 +341,7 @@
 | :yellow_circle:| 329 | Mars42| in progress :hammer: | 16.06.2022 |
 | :no_entry:     | 330 | Dmitry S| Passed :heavy_check_mark: | 07.06.2022 |
 | :yellow_circle:| 331 | Mars42| in progress :hammer: | 16.06.2022 |
-| :green_circle: | 332 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 332 | Mars42| in progress :hammer: | 17.06.2022 |
 | :no_entry:     | 333 | PVA   | Passed :heavy_check_mark: | 02.06.2022 |
 | :yellow_circle:| 334 | Maikee| in progress :hammer: | 13.06.2022 |
 | :yellow_circle:| 335 | Maikee| in progress :hammer: | 13.06.2022 |
@@ -349,7 +349,7 @@
 | :yellow_circle:| 337 | Maikee| in progress :hammer: | 13.06.2022 |
 | :yellow_circle:| 338 | Maikee| in progress :hammer: | 13.06.2022 |
 | :yellow_circle:| 339 | Maikee| in progress :hammer: | 13.06.2022 |
-| :green_circle: | 340 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 340 | Илья  | in progress :hammer: | 17.06.2022 |
 | :green_circle: | 341 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 342 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 343 | FREE  | FREE | 00.00.2022 |

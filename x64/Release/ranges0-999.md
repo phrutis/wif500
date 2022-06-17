@@ -965,10 +965,10 @@
 | :no_entry:     | 953 | Leonid   | Passed :heavy_check_mark: | 09.06.2022 |
 | :no_entry:     | 954 | Leonid   | Passed :heavy_check_mark: | 13.06.2022 |
 | :no_entry:     | 955 | Leonid   | Passed :heavy_check_mark: | 13.06.2022 |
-| :yellow_circle:| 956 | Leonid   | in progress :hammer: | 13.06.2022 |
-| :yellow_circle:| 957 | Leonid   | in progress :hammer: | 13.06.2022 |
-| :green_circle: | 958 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 959 | FREE     | FREE | 00.00.2022 |
+| :no_entry:     | 956 | Leonid   | Passed :heavy_check_mark: | 17.06.2022 |
+| :no_entry:     | 957 | Leonid   | Passed :heavy_check_mark: | 17.06.2022 |
+| :yellow_circle:| 958 | Leonid   | in progress :hammer: | 17.06.2022 |
+| :yellow_circle:| 959 | Leonid   | in progress :hammer: | 17.06.2022 |
 | :green_circle: | 960 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 961 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 962 | FREE     | FREE | 00.00.2022 |

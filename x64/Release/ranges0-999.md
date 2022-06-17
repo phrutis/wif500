@@ -400,7 +400,7 @@
 | :green_circle: | 388 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 389 | FREE  | FREE | 00.00.2022 |
 | :yellow_circle:| 390 | Fouad | in progress :hammer: | 16.06.2022 |
-| :green_circle: | 391 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 391 | Fouad | in progress :hammer: | 17.06.2022 |
 | :green_circle: | 392 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 393 | FREE  | FREE | 00.00.2022 |
 | :no_entry:     | 394 | Almera| Passed :heavy_check_mark: | 23.04.2022 |

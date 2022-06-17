@@ -88,7 +88,7 @@
 | :no_entry:     | 76  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
 | :no_entry:     | 77  | Werevalis| Passed :heavy_check_mark: | 25.04.2022 |
 | :yellow_circle:| 78  | Kuw     | in progress :hammer: | 13.06.2022 |
-| :green_circle: | 79  | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 79  | Alex J  | in progress :hammer: | 17.06.2022 |
 | :no_entry:     | 80  | An      | Passed :heavy_check_mark: | 11.06.2022 |
 | :yellow_circle:| 81  | HUN     | in progress :hammer: | 16.06.2022 |
 | :yellow_circle:| 82  | HUN     | in progress :hammer: | 16.06.2022 |
@@ -363,11 +363,11 @@
 | :green_circle: | 351 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 352 | FREE  | FREE | 00.00.2022 |
 | :yellow_circle:| 353 | PVA   | in progress :hammer: | 17.06.2022 |
-| :green_circle: | 354 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 355 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 356 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 357 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 358 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 354 | Alex J| in progress :hammer: | 17.06.2022 |
+| :yellow_circle:| 355 | Alex J| in progress :hammer: | 17.06.2022 |
+| :yellow_circle:| 356 | Alex J| in progress :hammer: | 17.06.2022 |
+| :yellow_circle:| 357 | Alex J| in progress :hammer: | 17.06.2022 |
+| :yellow_circle:| 358 | Alex J| in progress :hammer: | 17.06.2022 |
 | :no_entry:     | 359 | Илья 95| Passed :heavy_check_mark: | 25.05.2022 |
 | :no_entry:     | 360 | Oleg D| Passed :heavy_check_mark: | 03.06.2022 |
 | :no_entry:     | 361 | Oleg D| Passed :heavy_check_mark: | 03.06.2022 |

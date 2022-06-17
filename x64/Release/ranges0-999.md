@@ -936,7 +936,7 @@
 | :green_circle: | 924 | FREE     | FREE | 00.00.2022 |
 | :no_entry:     | 925 | Trump88  | Passed :heavy_check_mark: | 08.06.2022 |
 | :green_circle: | 926 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 927 | FREE     | FREE | 00.00.2022 |
+| :no_entry:     | 927 | Fouad    | Passed :heavy_check_mark: | 17.06.2022 |
 | :green_circle: | 928 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 929 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 930 | FREE     | FREE | 00.00.2022 |

@@ -711,7 +711,7 @@
 | :no_entry:     | 699 | Almera   | Passed :heavy_check_mark: | 27.04.2022 |
 | :green_circle: | 700 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 701 | FREE     | FREE | 00.00.2022 |
-| :yellow_circle:| 702 | KIKI     | in progress :hammer: | 10.06.2022 |
+| :no_entry:     | 702 | KIKI     | Passed :heavy_check_mark: | 17.06.2022 |
 | :green_circle: | 703 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 704 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 705 | FREE     | FREE | 00.00.2022 |

@@ -316,7 +316,7 @@
 | :no_entry:     | 304 | Kuw   | Passed :heavy_check_mark: | 13.06.2022 |
 | :no_entry:     | 305 | V     | Passed :heavy_check_mark: | 06.06.2022 |
 | :no_entry:     | 306 | Mars42| Passed :heavy_check_mark: | 09.06.2022 |
-| :yellow_circle:| 307 | Maikee| in progress :hammer: | 02.06.2022 |
+| :no_entry:     | 307 | Maikee| Passed :heavy_check_mark: | 17.06.2022 |
 | :no_entry:     | 308 | Mars42| Passed :heavy_check_mark: | 10.06.2022 |
 | :no_entry:     | 309 | Mars42| Passed :heavy_check_mark: | 10.06.2022 |
 | :no_entry:     | 310 | Oleg D| Passed :heavy_check_mark: | 21.05.2022 |
@@ -343,25 +343,25 @@
 | :yellow_circle:| 331 | Mars42| in progress :hammer: | 16.06.2022 |
 | :yellow_circle:| 332 | Mars42| in progress :hammer: | 17.06.2022 |
 | :no_entry:     | 333 | PVA   | Passed :heavy_check_mark: | 02.06.2022 |
-| :yellow_circle:| 334 | Maikee| in progress :hammer: | 13.06.2022 |
-| :yellow_circle:| 335 | Maikee| in progress :hammer: | 13.06.2022 |
-| :yellow_circle:| 336 | Maikee| in progress :hammer: | 13.06.2022 |
-| :yellow_circle:| 337 | Maikee| in progress :hammer: | 13.06.2022 |
-| :yellow_circle:| 338 | Maikee| in progress :hammer: | 13.06.2022 |
-| :yellow_circle:| 339 | Maikee| in progress :hammer: | 13.06.2022 |
+| :no_entry:     | 334 | Maikee| Passed :heavy_check_mark: | 17.06.2022 |
+| :no_entry:     | 335 | Maikee| Passed :heavy_check_mark: | 17.06.2022 |
+| :no_entry:     | 336 | Maikee| Passed :heavy_check_mark: | 17.06.2022 |
+| :no_entry:     | 337 | Maikee| Passed :heavy_check_mark: | 17.06.2022 |
+| :no_entry:     | 338 | Maikee| Passed :heavy_check_mark: | 17.06.2022 |
+| :no_entry:     | 339 | Maikee| Passed :heavy_check_mark: | 17.06.2022 |
 | :yellow_circle:| 340 | Илья  | in progress :hammer: | 17.06.2022 |
 | :yellow_circle:| 341 | Mars42| in progress :hammer: | 17.06.2022 |
 | :yellow_circle:| 342 | Mars42| in progress :hammer: | 17.06.2022 |
 | :yellow_circle:| 343 | Mars42| in progress :hammer: | 17.06.2022 |
 | :yellow_circle:| 344 | Mars42| in progress :hammer: | 17.06.2022 |
 | :no_entry:     | 345 | Dmitry S| Passed :heavy_check_mark: | 09.06.2022 |
-| :green_circle: | 346 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 347 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 348 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 349 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 350 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 351 | FREE  | FREE | 00.00.2022 |
-| :green_circle: | 352 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 346 | Oleg_R| in progress :hammer: | 17.06.2022 |
+| :yellow_circle:| 347 | Maikee| in progress :hammer: | 17.06.2022 |
+| :yellow_circle:| 348 | Maikee| in progress :hammer: | 17.06.2022 |
+| :yellow_circle:| 349 | Maikee| in progress :hammer: | 17.06.2022 |
+| :yellow_circle:| 350 | Maikee| in progress :hammer: | 17.06.2022 |
+| :yellow_circle:| 351 | Maikee| in progress :hammer: | 17.06.2022 |
+| :yellow_circle:| 352 | Maikee| in progress :hammer: | 17.06.2022 |
 | :yellow_circle:| 353 | PVA   | in progress :hammer: | 17.06.2022 |
 | :yellow_circle:| 354 | Alex J| in progress :hammer: | 17.06.2022 |
 | :yellow_circle:| 355 | Alex J| in progress :hammer: | 17.06.2022 |
@@ -386,7 +386,7 @@
 | :yellow_circle:| 374 | HUN   | in progress :hammer: | 14.06.2022 |
 | :yellow_circle:| 375 | HUN   | in progress :hammer: | 14.06.2022 |
 | :yellow_circle:| 376 | HUN   | in progress :hammer: | 14.06.2022 |
-| :green_circle: | 377 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 377 | Maikee| in progress :hammer: | 17.06.2022 |
 | :green_circle: | 378 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 379 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 380 | FREE  | FREE | 00.00.2022 |

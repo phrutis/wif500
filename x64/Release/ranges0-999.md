@@ -335,7 +335,7 @@
 | :yellow_circle:| 323 | Mars42| in progress :hammer: | 12.06.2022 |
 | :yellow_circle:| 324 | Oleg_R| in progress :hammer: | 08.06.2022 |
 | :no_entry:     | 325 | Supere| Passed :heavy_check_mark: | 06.06.2022 |
-| :yellow_circle:| 326 | vlone | in progress :hammer: | 14.06.2022 |
+| :no_entry:     | 326 | vlone | Passed :100: | 18.06.2022 |
 | :no_entry:     | 327 | Andrzej| Passed :heavy_check_mark: | 07.06.2022 |
 | :yellow_circle:| 328 | Andrzej| in progress :hammer: | 07.06.2022 |
 | :yellow_circle:| 329 | Mars42| in progress :hammer: | 16.06.2022 |

@@ -387,7 +387,7 @@
 | :yellow_circle:| 375 | HUN   | in progress :hammer: | 14.06.2022 |
 | :yellow_circle:| 376 | HUN   | in progress :hammer: | 14.06.2022 |
 | :yellow_circle:| 377 | Maikee| in progress :hammer: | 17.06.2022 |
-| :green_circle: | 378 | FREE  | FREE | 00.00.2022 |
+| :yellow_circle:| 378 | vlone | in progress :hammer: | 18.06.2022 |
 | :green_circle: | 379 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 380 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 381 | FREE  | FREE | 00.00.2022 |

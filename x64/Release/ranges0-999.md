@@ -518,7 +518,7 @@
 | :yellow_circle:| 506 | smtK__| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 507 | smtK__| in progress :hammer: | 01.06.2022 |
 | :yellow_circle:| 508 | smtK__| in progress :hammer: | 01.06.2022 |
-| :green_circle: | 509 | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 509 | V     | in progress :hammer: | 18.06.2022 |
 | :green_circle: | 510 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 511 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 512 | FREE    | FREE | 00.00.2022 |

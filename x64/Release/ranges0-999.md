@@ -909,7 +909,7 @@
 | :no_entry:     | 897 | Almera   | Passed :heavy_check_mark: | 01.05.2022 |
 | :no_entry:     | 898 | Almera   | Passed :heavy_check_mark: | 01.05.2022 |
 | :no_entry:     | 899 | Almera   | Passed :heavy_check_mark: | 01.05.2022 |
-| :green_circle: | 900 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 900 | Aleksyosh| in progress :hammer: | 18.06.2022 |
 | :green_circle: | 901 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 902 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 903 | FREE     | FREE | 00.00.2022 |

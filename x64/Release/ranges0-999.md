@@ -983,7 +983,7 @@
 | :yellow_circle:| 971 | Fouad    | in progress :hammer: | 14.06.2022 |
 | :green_circle: | 972 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 973 | FREE     | FREE | 00.00.2022 |
-| :green_circle: | 974 | FREE     | FREE | 00.00.2022 |
+| :yellow_circle:| 974 | Romario  | in progress :hammer: | 18.06.2022 |
 | :green_circle: | 975 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 976 | FREE     | FREE | 00.00.2022 |
 | :yellow_circle:| 977 | vlone    | in progress :hammer: | 12.06.2022 |

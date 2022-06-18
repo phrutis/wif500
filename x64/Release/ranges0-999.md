@@ -77,7 +77,7 @@
 | :no_entry:     | 65  | PVA     | Passed :heavy_check_mark: | 06.06.2022 |
 | :no_entry:     | 66  | Supere  | Passed :heavy_check_mark: | 03.06.2022 |
 | :no_entry:     | 67  | PVA     | Passed :heavy_check_mark: | 06.06.2022 |
-| :yellow_circle:| 68  | V       | in progress :hammer: | 07.06.2022 |
+| :no_entry:     | 68  | V       | Passed :100: | 18.06.2022 |
 | :no_entry:     | 69  | Coins   | Passed :heavy_check_mark: | 13.06.2022 |
 | :no_entry:     | 70  | Chris   | Passed :heavy_check_mark: | 05.06.2022 |
 | :yellow_circle:| 71  | Noname  | in progress :hammer: | 08.06.2022 |

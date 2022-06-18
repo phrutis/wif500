@@ -690,7 +690,7 @@
 | :green_circle: | 678 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 679 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 680 | FREE     | FREE | 00.00.2022 |
-| :yellow_circle:| 681 | Fouad    | in progress :hammer: | 15.06.2022 |
+| :no_entry:     | 681 | Fouad    | Passed :100: | 18.06.2022 |
 | :green_circle: | 682 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 683 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 684 | FREE     | FREE | 00.00.2022 |

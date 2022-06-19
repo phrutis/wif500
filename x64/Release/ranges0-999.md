@@ -564,7 +564,7 @@
 | :green_circle: | 552 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 553 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 554 | FREE    | FREE | 00.00.2022 |
-| :green_circle: | 555 | FREE    | FREE | 00.00.2022 |
+| :yellow_circle:| 555 | PVA     | in progress :hammer: | 19.06.2022 |
 | :green_circle: | 556 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 557 | FREE    | FREE | 00.00.2022 |
 | :green_circle: | 558 | FREE    | FREE | 00.00.2022 |

@@ -399,8 +399,8 @@
 | :green_circle: | 387 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 388 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 389 | FREE  | FREE | 00.00.2022 |
-| :yellow_circle:| 390 | Fouad | in progress :hammer: | 16.06.2022 |
-| :yellow_circle:| 391 | Fouad | in progress :hammer: | 17.06.2022 |
+| :yellow_circle:| 390 | Sonic | in progress :hammer: | 16.06.2022 |
+| :yellow_circle:| 391 | Sonic | in progress :hammer: | 17.06.2022 |
 | :green_circle: | 392 | FREE  | FREE | 00.00.2022 |
 | :green_circle: | 393 | FREE  | FREE | 00.00.2022 |
 | :no_entry:     | 394 | Almera| Passed :heavy_check_mark: | 23.04.2022 |
@@ -690,7 +690,7 @@
 | :green_circle: | 678 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 679 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 680 | FREE     | FREE | 00.00.2022 |
-| :no_entry:     | 681 | Fouad    | Passed :100: | 18.06.2022 |
+| :no_entry:     | 681 | Sonic    | Passed :100: | 18.06.2022 |
 | :green_circle: | 682 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 683 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 684 | FREE     | FREE | 00.00.2022 |
@@ -750,7 +750,7 @@
 | :green_circle: | 738 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 739 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 740 | FREE     | FREE | 00.00.2022 |
-| :no_entry:     | 741 | Fouad    | Passed :100: | 18.06.2022 |
+| :no_entry:     | 741 | Sonic    | Passed :100: | 18.06.2022 |
 | :green_circle: | 742 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 743 | FREE     | FREE | 00.00.2022 |
 | :no_entry:     | 744 | Almera   | Passed :heavy_check_mark: | 26.04.2022 |
@@ -936,7 +936,7 @@
 | :green_circle: | 924 | FREE     | FREE | 00.00.2022 |
 | :no_entry:     | 925 | Trump88  | Passed :heavy_check_mark: | 08.06.2022 |
 | :green_circle: | 926 | FREE     | FREE | 00.00.2022 |
-| :no_entry:     | 927 | Fouad    | Passed :heavy_check_mark: | 17.06.2022 |
+| :no_entry:     | 927 | Sonic    | Passed :heavy_check_mark: | 17.06.2022 |
 | :green_circle: | 928 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 929 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 930 | FREE     | FREE | 00.00.2022 |
@@ -980,7 +980,7 @@
 | :no_entry:     | 968 | Dmitry S | Passed :heavy_check_mark: | 09.06.2022 |
 | :green_circle: | 969 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 970 | FREE     | FREE | 00.00.2022 |
-| :yellow_circle:| 971 | Fouad    | in progress :hammer: | 14.06.2022 |
+| :yellow_circle:| 971 | Sonic    | in progress :hammer: | 14.06.2022 |
 | :green_circle: | 972 | FREE     | FREE | 00.00.2022 |
 | :green_circle: | 973 | FREE     | FREE | 00.00.2022 |
 | :yellow_circle:| 974 | Romario  | in progress :hammer: | 18.06.2022 |

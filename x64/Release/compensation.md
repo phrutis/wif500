@@ -11,7 +11,7 @@
 | 5 | HUN KING | 18 | 1PKEPqnH9v5axLaE847ZnUPHCZ6FqnPdyH | 27.06.2022 |
 | 6 | k bluesky | 65 | 38XucDk28fTvibXuM4GTfRY9j3TFkyFJkW | 27.06.2022 |
 | 7 | Илья | 11 | bc1q0hylt90z6hnf766jzprezmcza82hp36d8dzexn | 27.06.2022 |
-| 8 |  |  |  | 00.06.2022 |
+| 8 | Oleg D | 11 | 1KeJJActNa245miUFSSY8Cgxi5K3CG5qeC | 27.06.2022 |
 | 9 |  |  |  | 00.06.2022 |
 | 10 |  |  |  | 00.06.2022 |
 | 11 |  |  |  | 00.06.2022 |

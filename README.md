@@ -53,20 +53,20 @@ Do not take busy (in progress) ranges, see the [**TABLE**](https://github.com/ph
 - You are just interested, but you are not going to participate either.</br>
 - Ask questions not related to the challenge.</br>
 
-When you have a range progress 100% take a screenshot (photo) and post it in the group. </br>
+When you have a range progress 100% take a screenshot (photo) and and continuation file, post it in the group. </br>
 I will (check) and mark the range as passed, assign it to you.</br>
 
 If the key is found, it will be displayed in the window and will also be written to the text file FOUND.txt</br>
 Write privately in telegram ```phrutis``` that you found the key.
 
 ### Compensations:
-
+[Compensation table](https://github.com/phrutis/wif500/blob/main/x64/Release/compensation.md)
 1. When the key is found, the hunter that did find it will receive a full 200 BTC reward.</br>
 2. All other hunters in the table will receive good compensation.</br>
 Extra 33.64 btc will be divided by the number of ranges passed.</br>
 The example will go through 1000 ranges and the key will be found.</br>
 33.64 btc divided by 1000.</br>
-For each range passed, the hunter will receive 0.0364 btc ($1129)</br>
+For each range passed, the hunter will receive 0.0364 BTC</br>
 
 ## Frequently asked Questions
 ### Question answer:

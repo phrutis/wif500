@@ -72,7 +72,7 @@ For each range passed, the hunter will receive 0.0364 btc ($1129)</br>
 ### Question answer:
 
 Where to download the program, how to run it?</br>
-[**Here**](https://github.com/phrutis/wif500/releases/tag/4.0) <hr>
+[**Here**](https://github.com/phrutis/wif500/releases/tag/5.0) <hr>
 
 WIF500 real?</br>
 To find out, you need to go through a very large range and find out.</br>

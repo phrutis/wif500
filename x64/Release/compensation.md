@@ -16,8 +16,8 @@
 | 10 | Andrii | 5 | 1BHdUVbaxBNgCUUJ9hAGUK7yPPMZRVeGDU | 27.06.2022 |
 | 11 | Anh C | 1 | 1HcsVeiFGAgdp87h6JuaEVwDYkh5yW7K4E | 27.06.2022 |
 | 12 | Oleg_R | 43 | bc1qew3crce7xd850yy2ckv672y3jmenvdvq0mr5lh | 27.06.2022 |
-| 13 |  |  |  | 00.06.2022 |
-| 14 |  |  |  | 00.06.2022 |
+| 13 | Haymac | 5 | 1HaymacQUxZdfF33iDrWKjf7bGUvAZRTR8 | 27.06.2022 |
+| 14 | DworfD | 94 | 3PRUmmXT4ENNoUrLPcMrpuRvQotkCvDENE | 27.06.2022 |
 | 15 |  |  |  | 00.06.2022 |
 | 16 |  |  |  | 00.06.2022 |
 | 17 |  |  |  | 00.06.2022 |

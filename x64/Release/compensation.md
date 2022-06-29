@@ -18,17 +18,17 @@
 | 12 | Oleg_R | 43 | bc1qew3crce7xd850yy2ckv672y3jmenvdvq0mr5lh | 27.06.2022 |
 | 13 | Haymac | 5 | 1HaymacQUxZdfF33iDrWKjf7bGUvAZRTR8 | 27.06.2022 |
 | 14 | DworfD | 94 | 3PRUmmXT4ENNoUrLPcMrpuRvQotkCvDENE | 27.06.2022 |
-| 15 | il Hayko |  | 1Ss2w8s1nU1J7Q7thSaZPxC5u2K9jWA9x | 27.06.2022 |
-| 16 | Sonic L |  | 1AtUkj3YSAosnRZ5Mn3bjCRCd1RfxLQuDA | 28.06.2022 |
-| 17 | Austin |  | 3LU4DWe3gX8mbTZMwZe2KJTLu2czMd6b25 | 28.06.2022 |
-| 18 | Supere |  | 1BitcoinPYRAJPq7jLD5EJiUVNDcR9E1K1 | 28.06.2022 |
-| 19 | Ki Ki |  | 12Xub13ciSo1Ad8JHU31mnkjaRLZEj9M7W | 28.06.2022 |
-| 20 | FLANC |  | 39KQYEfTqw5bTc1TeNSaPD5h5dAi6CrNdT | 28.06.2022 |
+| 15 | il Hayko | 6 | 1Ss2w8s1nU1J7Q7thSaZPxC5u2K9jWA9x | 27.06.2022 |
+| 16 | Sonic L | 38 | 1AtUkj3YSAosnRZ5Mn3bjCRCd1RfxLQuDA | 28.06.2022 |
+| 17 | Austin | 10 | 3LU4DWe3gX8mbTZMwZe2KJTLu2czMd6b25 | 28.06.2022 |
+| 18 | Supere | 78 | 1BitcoinPYRAJPq7jLD5EJiUVNDcR9E1K1 | 28.06.2022 |
+| 19 | Ki Ki | 5 | 12Xub13ciSo1Ad8JHU31mnkjaRLZEj9M7W | 28.06.2022 |
+| 20 | FLANC | 11 | 39KQYEfTqw5bTc1TeNSaPD5h5dAi6CrNdT | 28.06.2022 |
 | 21 | L N |  | bc1q8gpqml6fsa0s9k7ss7sj5a7s0770ksh92qwry2 | 28.06.2022 |
-| 22 | Teddy H |  | 1CiifPiZi3oTsMYHSqijgQTR5xmJ1or5oX | 28.06.2022 |
-| 23 | Mars42 |  | bc1q9fyjl2qxccd4ndslzryulak8jhkdrnsyy3da0a | 28.06.2022 |
-| 24 | Leonid |  | bc1qkh7v4flgg438xed5pmdtxu2vtqp063jt3jzd2x | 28.06.2022 |
-| 25 | Lebin |  | 13Uta1tPbp54bj6UTWoyg439C43hpGQzam | 28.06.2022 |
+| 22 | Teddy H | 1 | 1CiifPiZi3oTsMYHSqijgQTR5xmJ1or5oX | 28.06.2022 |
+| 23 | Mars42 | 53 | bc1q9fyjl2qxccd4ndslzryulak8jhkdrnsyy3da0a | 28.06.2022 |
+| 24 | Leonid | 39 | bc1qkh7v4flgg438xed5pmdtxu2vtqp063jt3jzd2x | 28.06.2022 |
+| 25 | Lebin | 20 | 13Uta1tPbp54bj6UTWoyg439C43hpGQzam | 28.06.2022 |
 | 26 |  |  |  | 00.06.2022 |
 | 27 |  |  |  | 00.06.2022 |
 | 28 |  |  |  | 00.06.2022 |

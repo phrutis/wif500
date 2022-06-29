@@ -29,7 +29,7 @@
 | 23 | Mars42 | 53 | bc1q9fyjl2qxccd4ndslzryulak8jhkdrnsyy3da0a | 28.06.2022 |
 | 24 | Leonid | 39 | bc1qkh7v4flgg438xed5pmdtxu2vtqp063jt3jzd2x | 28.06.2022 |
 | 25 | Lebin | 20 | 13Uta1tPbp54bj6UTWoyg439C43hpGQzam | 28.06.2022 |
-| 26 |  |  |  | 00.06.2022 |
+| 26 | com bio |  | bc1q8kvwz38ek7z9570rv7s6jczjxuzfzsf79qjpyl | 28.06.2022 |
 | 27 |  |  |  | 00.06.2022 |
 | 28 |  |  |  | 00.06.2022 |
 | 29 |  |  |  | 00.06.2022 |

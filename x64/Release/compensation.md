@@ -28,7 +28,7 @@
 | 22 | Teddy H |  | 1CiifPiZi3oTsMYHSqijgQTR5xmJ1or5oX | 28.06.2022 |
 | 23 | Mars42 |  | bc1q9fyjl2qxccd4ndslzryulak8jhkdrnsyy3da0a | 28.06.2022 |
 | 24 | Leonid |  | bc1qkh7v4flgg438xed5pmdtxu2vtqp063jt3jzd2x | 28.06.2022 |
-| 25 |  |  |  | 00.06.2022 |
+| 25 | Lebin |  | 13Uta1tPbp54bj6UTWoyg439C43hpGQzam | 28.06.2022 |
 | 26 |  |  |  | 00.06.2022 |
 | 27 |  |  |  | 00.06.2022 |
 | 28 |  |  |  | 00.06.2022 |

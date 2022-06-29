@@ -32,8 +32,8 @@
 | 26 | com bio | 95 | bc1q8kvwz38ek7z9570rv7s6jczjxuzfzsf79qjpyl | 28.06.2022 |
 | 27 | Coins | 15 | bc1qsn0ra262z8t9hlme78xw3v9c8jltrylehgsfj0 | 28.06.2022 |
 | 28 | root | 1 | bc1qdc365qa6gchwghql8vmhzha3kjyjxl3uv3yc2t | 28.06.2022 |
-| 29 |  |  |  | 00.06.2022 |
-| 30 |  |  |  | 00.06.2022 |
+| 29 | vlone | 0 | 3FNpBgJ8PbVqFMPS7jsi7TN17D4LmAV7q5 | 28.06.2022 |
+| 30 | Birol | 1 | bc1q98ylzfh4qxncygep8krquqpf506vrfn6jsaw3u | 28.06.2022 |
 | 31 |  |  |  | 00.06.2022 |
 | 32 |  |  |  | 00.06.2022 |
 | 33 |  |  |  | 00.06.2022 |

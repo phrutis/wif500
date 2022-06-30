@@ -39,7 +39,7 @@
 | 33 | Kripto | 17 | bc1qm8h7ftuesx4lnpv4w7fazyfrg9htsn25dd7tzl | 30.06.2022 |
 | 34 | ola lala | 5 | 1P3BBuc58W3f8SmP5dDs8D1E2r4DUbhPNR | 30.06.2022 |
 | 35 | Dmitry S | 18 | bc1qnp3lz5rd9jmc75zqeejx8x5uha2fa7rxvut2js | 30.06.2022 |
-| 36 | Fantom |  | 1UkrainF9b4bsfyGxxkyZ1vP3n3DGrPfx | 30.06.2022 |
+| 36 | Fantom | 15 | 1UkrainF9b4bsfyGxxkyZ1vP3n3DGrPfx | 30.06.2022 |
 | 37 |  |  |  | 00.06.2022 |
 | 38 |  |  |  | 00.06.2022 |
 | 39 |  |  |  | 00.06.2022 |

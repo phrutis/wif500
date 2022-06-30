@@ -35,7 +35,7 @@
 | 29 | vlone | 0 | 3FNpBgJ8PbVqFMPS7jsi7TN17D4LmAV7q5 | 28.06.2022 |
 | 30 | Birol | 1 | bc1q98ylzfh4qxncygep8krquqpf506vrfn6jsaw3u | 28.06.2022 |
 | 31 | cpto_node | 124 | bc1qpuzp2rj3z3zxs8r74kcp2t5gmg7mv3ty2a5qs8 | 29.06.2022 |
-| 32 | Alex J |  | 1DB4RMtfcK4am71FfBrRfF6cdSL8DvALQF | 29.06.2022 |
+| 32 | Alex J | 16 | 1DB4RMtfcK4am71FfBrRfF6cdSL8DvALQF | 29.06.2022 |
 | 33 | Kripto |  | bc1qm8h7ftuesx4lnpv4w7fazyfrg9htsn25dd7tzl | 30.06.2022 |
 | 34 |  |  |  | 00.06.2022 |
 | 35 |  |  |  | 00.06.2022 |

@@ -43,7 +43,7 @@
 | 37 | K-Fed | 110 | bc1qzcngdnlggpxv2qhflvsnlgan34rzfh5j6vuvxl | 30.06.2022 |
 | 38 | Илья 95 | 14 | bc1quqq2zkq022a8ful5d9v6wj4p8hqnq9hp9z0rqv | 01.07.2022 |
 | 39 | V | 18 | bc1qqvt7szdcsfr7pek0c3c86mcsfggdq9xegasumu | 01.07.2022 |
-| 40 |  |  |  | 00.07.2022 |
+| 40 | 047 |  | 3ASWbs8KLxLHgVwke292LJXGRr4tRk81FR | 02.07.2022 |
 | 41 |  |  |  | 00.07.2022 |
 | 42 |  |  |  | 00.07.2022 |
 | 43 |  |  |  | 00.07.2022 |

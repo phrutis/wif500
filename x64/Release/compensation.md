@@ -45,7 +45,7 @@
 | 39 | V | 18 | bc1qqvt7szdcsfr7pek0c3c86mcsfggdq9xegasumu | 01.07.2022 |
 | 40 | 047 | 87 | 3ASWbs8KLxLHgVwke292LJXGRr4tRk81FR | 02.07.2022 |
 | 41 | Crypto G |  | 1F2rLzRqW6jQZZAsRXzuE6nLE6TNoTKdho | 03.07.2022 |
-| 42 |  |  |  | 00.07.2022 |
+| 42 | Vyacheslav |  | 1ChZUBHggYYfcTo5BJVwX5qXzrAQrM6qwP | 03.07.2022 |
 | 43 |  |  |  | 00.07.2022 |
 | 44 |  |  |  | 00.07.2022 |
 | 45 |  |  |  | 00.07.2022 |

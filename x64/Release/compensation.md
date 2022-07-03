@@ -24,7 +24,7 @@
 | 18 | Supere | 78 | 1BitcoinPYRAJPq7jLD5EJiUVNDcR9E1K1 | 28.06.2022 |
 | 19 | Ki Ki | 5 | 12Xub13ciSo1Ad8JHU31mnkjaRLZEj9M7W | 28.06.2022 |
 | 20 | FLANC | 11 | 39KQYEfTqw5bTc1TeNSaPD5h5dAi6CrNdT | 28.06.2022 |
-| 21 | L N | 0 | bc1q8gpqml6fsa0s9k7ss7sj5a7s0770ksh92qwry2 | 28.06.2022 |
+| 21 | L N | 2 | bc1q8gpqml6fsa0s9k7ss7sj5a7s0770ksh92qwry2 | 28.06.2022 |
 | 22 | Teddy H | 1 | 1CiifPiZi3oTsMYHSqijgQTR5xmJ1or5oX | 28.06.2022 |
 | 23 | Mars42 | 53 | bc1q9fyjl2qxccd4ndslzryulak8jhkdrnsyy3da0a | 28.06.2022 |
 | 24 | Leonid | 39 | bc1qkh7v4flgg438xed5pmdtxu2vtqp063jt3jzd2x | 28.06.2022 |

@@ -42,7 +42,7 @@
 | 36 | Fantom | 15 | 1EPnv271sfvPN3NxScosjFcf5mGPVW84HM | 30.06.2022 |
 | 37 | K-Fed | 110 | bc1qzcngdnlggpxv2qhflvsnlgan34rzfh5j6vuvxl | 30.06.2022 |
 | 38 | Илья 95 | 14 | bc1quqq2zkq022a8ful5d9v6wj4p8hqnq9hp9z0rqv | 01.07.2022 |
-| 39 | V | 18 | bc1qqvt7szdcsfr7pek0c3c86mcsfggdq9xegasumu | 01.07.2022 |
+| 39 | V | 18 | bc1qklwsfqtdzs54k2dzrzga223xn9mkq7r4dt9awc | 01.07.2022 |
 | 40 | 047 | 87 | 3ASWbs8KLxLHgVwke292LJXGRr4tRk81FR | 02.07.2022 |
 | 41 | Crypto G |  | 1F2rLzRqW6jQZZAsRXzuE6nLE6TNoTKdho | 03.07.2022 |
 | 42 | Vyacheslav |  | 1ChZUBHggYYfcTo5BJVwX5qXzrAQrM6qwP | 03.07.2022 |

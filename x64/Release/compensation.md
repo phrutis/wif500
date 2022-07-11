@@ -48,7 +48,7 @@
 | 42 | Vyacheslav |  | 1ChZUBHggYYfcTo5BJVwX5qXzrAQrM6qwP | 03.07.2022 |
 | 43 | make kang |  | 31rYy8QhYWqeRhbTFr3d6eLwYdRsCBQCib | 03.07.2022 |
 | 44 | Alexyosh |  | 1LJNRTXagL8tUyznXRKr46hGyJr8NXHrB6 | 03.07.2022 |
-| 45 |  |  |  | 00.07.2022 |
+| 45 | Ervings |  | bc1qje2p2thjg3x3reec0lr0k4p7qmjquadrxdydrw | 11.07.2022 |
 | 46 |  |  |  | 00.07.2022 |
 | 47 |  |  |  | 00.07.2022 |
 | 48 |  |  |  | 00.07.2022 |

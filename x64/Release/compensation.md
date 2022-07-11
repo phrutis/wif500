@@ -44,11 +44,11 @@
 | 38 | Илья 95 | 14 | bc1quqq2zkq022a8ful5d9v6wj4p8hqnq9hp9z0rqv | 01.07.2022 |
 | 39 | V | 18 | bc1qklwsfqtdzs54k2dzrzga223xn9mkq7r4dt9awc | 01.07.2022 |
 | 40 | 047 | 87 | 3ASWbs8KLxLHgVwke292LJXGRr4tRk81FR | 02.07.2022 |
-| 41 | Crypto G |  | 1F2rLzRqW6jQZZAsRXzuE6nLE6TNoTKdho | 03.07.2022 |
-| 42 | Vyacheslav |  | 1ChZUBHggYYfcTo5BJVwX5qXzrAQrM6qwP | 03.07.2022 |
-| 43 | make kang |  | 31rYy8QhYWqeRhbTFr3d6eLwYdRsCBQCib | 03.07.2022 |
-| 44 | Alexyosh |  | 1LJNRTXagL8tUyznXRKr46hGyJr8NXHrB6 | 03.07.2022 |
-| 45 | Ervings |  | bc1qje2p2thjg3x3reec0lr0k4p7qmjquadrxdydrw | 11.07.2022 |
+| 41 | Crypto G | 15 | 1F2rLzRqW6jQZZAsRXzuE6nLE6TNoTKdho | 03.07.2022 |
+| 42 | Vyacheslav | 12 | 1ChZUBHggYYfcTo5BJVwX5qXzrAQrM6qwP | 03.07.2022 |
+| 43 | make kang | 1 | 31rYy8QhYWqeRhbTFr3d6eLwYdRsCBQCib | 03.07.2022 |
+| 44 | Alexyosh | 1 | 1LJNRTXagL8tUyznXRKr46hGyJr8NXHrB6 | 03.07.2022 |
+| 45 | Ervings | 17 | bc1qje2p2thjg3x3reec0lr0k4p7qmjquadrxdydrw | 11.07.2022 |
 | 46 |  |  |  | 00.07.2022 |
 | 47 |  |  |  | 00.07.2022 |
 | 48 |  |  |  | 00.07.2022 |

@@ -51,6 +51,6 @@
 | 45 | Ervings | 17 | bc1qje2p2thjg3x3reec0lr0k4p7qmjquadrxdydrw | 11.07.2022 |
 | 46 | Maikee |  | 3FURKYmip6NxiWoRNuNzyPnEeGZQt5SHGP | 14.07.2022 |
 | 47 | RY |  | bc1qxulw7yf20sf8agsajnpxxg5cuhhfvvw07t85d5 | 15.07.2022 |
-| 48 |  |  |  | 00.07.2022 |
+| 48 | ALMERA |  | bc1qxu27u83lzx0dk03jv7h8ue5vq9qm7674fl0mp6 | 18.07.2022 |
 | 49 |  |  |  | 00.07.2022 |
 | 50 |  |  |  | 00.07.2022 |
